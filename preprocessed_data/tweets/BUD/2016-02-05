@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "$",
+      "bud",
+      "anheuser",
+      "busch",
+      "inbev",
+      "sa",
+      "bud",
+      "shares",
+      "sold",
+      "by",
+      "curian",
+      "capital",
+      "llc"
+    ],
+    "created_at": "Fri Feb 05 06:16:01 +0000 2016",
+    "user_id_str": "4157091076",
+    "followers_count": 369
+  },
+  {
+    "text": [
+      "first",
+      "interstate",
+      "bank",
+      "has",
+      "$369",
+      "000",
+      "position",
+      "in",
+      "anheuser",
+      "busch",
+      "inbev",
+      "sa",
+      "$",
+      "bud",
+      "acn"
+    ],
+    "created_at": "Fri Feb 05 06:18:37 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1336
+  }
+]

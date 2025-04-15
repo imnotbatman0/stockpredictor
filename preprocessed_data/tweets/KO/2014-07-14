@@ -1,0 +1,55 @@
+[
+  {
+    "text": [
+      "stock",
+      "scan",
+      "lt",
+      "nyse",
+      "starts",
+      "trading",
+      "14jul2014",
+      "$",
+      "wfm",
+      "$",
+      "hp",
+      "$",
+      "xrx",
+      "$",
+      "gt",
+      "$",
+      "vfc",
+      "$",
+      "nuan",
+      "$",
+      "paa",
+      "$",
+      "ko",
+      "$",
+      "pru"
+    ],
+    "created_at": "Mon Jul 14 08:27:16 +0000 2014",
+    "user_id_str": "2201402059",
+    "followers_count": 173
+  },
+  {
+    "text": [
+      "coca",
+      "cola",
+      "the",
+      "last",
+      "mile",
+      "how",
+      "coca-cola",
+      "became",
+      "a",
+      "medical",
+      "supplies",
+      "distributor",
+      "$",
+      "ko"
+    ],
+    "created_at": "Mon Jul 14 14:25:02 +0000 2014",
+    "user_id_str": "102325185",
+    "followers_count": 4516
+  }
+]

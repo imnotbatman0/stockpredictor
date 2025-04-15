@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "palo",
+      "capital",
+      "inc",
+      "has",
+      "$1",
+      "123",
+      "000",
+      "position",
+      "in",
+      "mastercard",
+      "inc",
+      "$",
+      "ma"
+    ],
+    "created_at": "Fri Feb 26 18:50:25 +0000 2016",
+    "user_id_str": "565538332",
+    "followers_count": 549
+  },
+  {
+    "text": [
+      "pacwest",
+      "financial",
+      "management",
+      "sells",
+      "70",
+      "shares",
+      "of",
+      "mastercard",
+      "inc",
+      "$",
+      "ma"
+    ],
+    "created_at": "Fri Feb 26 00:20:29 +0000 2016",
+    "user_id_str": "2348716116",
+    "followers_count": 2108
+  }
+]

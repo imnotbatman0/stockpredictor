@@ -1,0 +1,82 @@
+[
+  {
+    "text": [
+      "stock",
+      "update",
+      "the",
+      "procter",
+      "amp",
+      "gamble",
+      "company",
+      "nyse",
+      "pg",
+      "procter",
+      "amp",
+      "gamble",
+      "$",
+      "pg"
+    ],
+    "created_at": "Thu Feb 06 18:33:13 +0000 2014",
+    "user_id_str": "704897486",
+    "followers_count": 985
+  },
+  {
+    "text": [
+      "pennystock",
+      "research",
+      "on",
+      "$",
+      "nksh",
+      "$",
+      "asys",
+      "$",
+      "emo",
+      "$",
+      "pg",
+      "goto"
+    ],
+    "created_at": "Thu Feb 06 08:16:41 +0000 2014",
+    "user_id_str": "380379990",
+    "followers_count": 24295
+  },
+  {
+    "text": [
+      "are",
+      "you",
+      "holding",
+      "$",
+      "pbio",
+      "$",
+      "vly",
+      "$",
+      "idsa",
+      "$",
+      "pg",
+      "try",
+      "this"
+    ],
+    "created_at": "Thu Feb 06 12:45:45 +0000 2014",
+    "user_id_str": "2285475330",
+    "followers_count": 293
+  },
+  {
+    "text": [
+      "dividend",
+      "growth",
+      "gems",
+      "still",
+      "provide",
+      "significant",
+      "opportunity",
+      "$",
+      "msft",
+      "microsoft",
+      "windows",
+      "$",
+      "pg"
+    ],
+    "created_at": "Wed Feb 05 23:54:31 +0000 2014",
+    "user_id_str": "1849605206",
+    "followers_count": 14
+  }
+]

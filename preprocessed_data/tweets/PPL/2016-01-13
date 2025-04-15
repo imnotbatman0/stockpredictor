@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "dow",
+      "dow",
+      "chemical",
+      "co",
+      "dividend",
+      "$",
+      "dow",
+      "$",
+      "ppl",
+      "to",
+      "$",
+      "fnma",
+      "$",
+      "rsp",
+      "dow",
+      "pennystocks",
+      "stocks"
+    ],
+    "created_at": "Wed Jan 13 12:38:14 +0000 2016",
+    "user_id_str": "2181346825",
+    "followers_count": 699
+  },
+  {
+    "text": [
+      "ppl",
+      "corp",
+      "$",
+      "ppl",
+      "shares",
+      "bought",
+      "by",
+      "fulton",
+      "bank"
+    ],
+    "created_at": "Wed Jan 13 06:03:26 +0000 2016",
+    "user_id_str": "2181281054",
+    "followers_count": 576
+  }
+]

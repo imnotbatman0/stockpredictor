@@ -1,0 +1,54 @@
+[
+  {
+    "text": [
+      "$",
+      "so",
+      "to",
+      "belle",
+      "twitter"
+    ],
+    "created_at": "Tue Sep 15 03:14:38 +0000 2015",
+    "user_id_str": "323934601",
+    "followers_count": 2169
+  },
+  {
+    "text": [
+      "$",
+      "so",
+      "to",
+      "anna",
+      "b",
+      "one",
+      "love",
+      "twitter"
+    ],
+    "created_at": "Tue Sep 15 03:24:06 +0000 2015",
+    "user_id_str": "2411814488",
+    "followers_count": 985
+  },
+  {
+    "text": [
+      "$",
+      "so",
+      "to",
+      "peu",
+      "twitter"
+    ],
+    "created_at": "Tue Sep 15 03:32:31 +0000 2015",
+    "user_id_str": "40769584",
+    "followers_count": 42357
+  },
+  {
+    "text": [
+      "$",
+      "so",
+      "to",
+      "flor",
+      "purpura",
+      "twitter"
+    ],
+    "created_at": "Tue Sep 15 10:31:29 +0000 2015",
+    "user_id_str": "560507396",
+    "followers_count": 8808
+  }
+]

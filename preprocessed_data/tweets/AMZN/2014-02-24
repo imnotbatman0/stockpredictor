@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "$",
+      "ebay",
+      "or",
+      "$",
+      "amzn",
+      "would",
+      "make",
+      "more",
+      "sense"
+    ],
+    "created_at": "Mon Feb 24 21:42:13 +0000 2014",
+    "user_id_str": "29737876",
+    "followers_count": 262
+  },
+  {
+    "text": [
+      "should",
+      "you",
+      "buy",
+      "$",
+      "wr",
+      "$",
+      "hrl",
+      "$",
+      "atml",
+      "$",
+      "amzn",
+      "goto"
+    ],
+    "created_at": "Mon Feb 24 07:12:22 +0000 2014",
+    "user_id_str": "2322501389",
+    "followers_count": 169
+  }
+]

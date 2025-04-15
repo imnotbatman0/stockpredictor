@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "airbus",
+      "touts",
+      "400-seat",
+      "a350-8000",
+      "jetliner",
+      "$",
+      "eadsy",
+      "$",
+      "ba"
+    ],
+    "created_at": "Fri Mar 04 03:09:16 +0000 2016",
+    "user_id_str": "2334614718",
+    "followers_count": 17652
+  },
+  {
+    "text": [
+      "boeing",
+      "$",
+      "ba",
+      "invited",
+      "to",
+      "talk",
+      "aircraft",
+      "sales",
+      "with",
+      "iran",
+      "read",
+      "more"
+    ],
+    "created_at": "Fri Mar 04 17:52:34 +0000 2016",
+    "user_id_str": "4830019015",
+    "followers_count": 17
+  }
+]

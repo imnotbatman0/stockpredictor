@@ -1,0 +1,58 @@
+[
+  {
+    "text": [
+      "$",
+      "eurusd",
+      "$",
+      "c",
+      "$",
+      "gs",
+      "$",
+      "appl",
+      "$",
+      "twtr",
+      "$",
+      "fb",
+      "$",
+      "gbpusd",
+      "$",
+      "usdjpy",
+      "$",
+      "uwti",
+      "$",
+      "angi",
+      "$",
+      "eog",
+      "$",
+      "qihu",
+      "$",
+      "pcyc",
+      "$",
+      "yndx",
+      "$",
+      "cytx",
+      "$",
+      "vhc"
+    ],
+    "created_at": "Thu Feb 19 20:00:48 +0000 2015",
+    "user_id_str": "830020351",
+    "followers_count": 1882
+  },
+  {
+    "text": [
+      "nowplaying",
+      "limelight",
+      "feat",
+      "p$",
+      "c",
+      "amp",
+      "big",
+      "kuntry",
+      "t",
+      "i"
+    ],
+    "created_at": "Thu Feb 19 17:42:48 +0000 2015",
+    "user_id_str": "26183381",
+    "followers_count": 626
+  }
+]

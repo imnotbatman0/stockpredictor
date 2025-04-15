@@ -1,0 +1,68 @@
+[
+  {
+    "text": [
+      "thestreet",
+      "lowers",
+      "pfizer",
+      "inc",
+      "$",
+      "pfe",
+      "to",
+      "hold"
+    ],
+    "created_at": "Wed Mar 09 15:16:45 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 5963
+  },
+  {
+    "text": [
+      "dgi",
+      "strategy",
+      "-",
+      "be",
+      "your",
+      "own",
+      "fund",
+      "manager",
+      "$",
+      "ba",
+      "$",
+      "pfe",
+      "$",
+      "pep",
+      "$",
+      "pg",
+      "$",
+      "jnj",
+      "$",
+      "xom",
+      "$",
+      "vz",
+      "$",
+      "hd",
+      "$",
+      "intc",
+      "$",
+      "ko"
+    ],
+    "created_at": "Wed Mar 09 20:12:13 +0000 2016",
+    "user_id_str": "207441033",
+    "followers_count": 240
+  },
+  {
+    "text": [
+      "pfizer",
+      "initiates",
+      "accelerated",
+      "$5b",
+      "share",
+      "buyback",
+      "premarket",
+      "$",
+      "pfe"
+    ],
+    "created_at": "Wed Mar 09 12:01:23 +0000 2016",
+    "user_id_str": "207441033",
+    "followers_count": 239
+  }
+]

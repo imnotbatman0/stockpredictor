@@ -1,0 +1,96 @@
+[
+  {
+    "text": [
+      "abbv",
+      "abbvie",
+      "inc",
+      "ideas",
+      "$",
+      "abbv",
+      "$",
+      "baba",
+      "$",
+      "xlk",
+      "$",
+      "amgn",
+      "abbv",
+      "invest",
+      "nasdaq"
+    ],
+    "created_at": "Mon Oct 05 14:12:46 +0000 2015",
+    "user_id_str": "2801334731",
+    "followers_count": 939
+  },
+  {
+    "text": [
+      "upro",
+      "united",
+      "technologies",
+      "corp",
+      "market",
+      "cap",
+      "$",
+      "upro",
+      "$",
+      "sune",
+      "$",
+      "amgn",
+      "$",
+      "crm",
+      "upro",
+      "invest",
+      "investing"
+    ],
+    "created_at": "Mon Oct 05 13:47:44 +0000 2015",
+    "user_id_str": "386787305",
+    "followers_count": 3198
+  },
+  {
+    "text": [
+      "amgn",
+      "amgen",
+      "inc",
+      "p",
+      "e",
+      "ratio",
+      "$",
+      "amgn",
+      "$",
+      "cldx",
+      "$",
+      "csiq",
+      "$",
+      "fv",
+      "amgn",
+      "stock",
+      "stockmarket"
+    ],
+    "created_at": "Mon Oct 05 12:31:35 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 772
+  },
+  {
+    "text": [
+      "ctle",
+      "nano",
+      "labs",
+      "corp",
+      "eod",
+      "data",
+      "$",
+      "ctle",
+      "$",
+      "amgn",
+      "$",
+      "ng",
+      "$",
+      "gvpix",
+      "ctle",
+      "stock",
+      "share"
+    ],
+    "created_at": "Mon Oct 05 12:34:03 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 583
+  }
+]

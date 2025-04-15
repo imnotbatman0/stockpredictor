@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "apple",
+      "we",
+      "weren",
+      "t",
+      "invited",
+      "but",
+      "here",
+      "s",
+      "what",
+      "other",
+      "people",
+      "expect",
+      "from",
+      "an",
+      "se",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "pcln",
+      "$",
+      "k"
+    ],
+    "created_at": "Fri Mar 18 14:54:46 +0000 2016",
+    "user_id_str": "3207435724",
+    "followers_count": 125
+  },
+  {
+    "text": [
+      "vetr",
+      "inc",
+      "lowers",
+      "priceline",
+      "group",
+      "inc",
+      "$",
+      "pcln",
+      "to",
+      "hold"
+    ],
+    "created_at": "Thu Mar 17 23:29:40 +0000 2016",
+    "user_id_str": "2525892205",
+    "followers_count": 496
+  }
+]

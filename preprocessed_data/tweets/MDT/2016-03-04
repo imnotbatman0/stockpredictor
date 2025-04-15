@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "$",
+      "mdt",
+      "-",
+      "jefferies",
+      "group",
+      "equities",
+      "analysts",
+      "lower",
+      "earnings",
+      "estimates",
+      "for",
+      "medtronic",
+      "plc",
+      "mdt"
+    ],
+    "created_at": "Fri Mar 04 00:56:15 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 5928
+  },
+  {
+    "text": [
+      "jefferies",
+      "group",
+      "analysts",
+      "cut",
+      "earnings",
+      "estimates",
+      "for",
+      "medtronic",
+      "plc",
+      "$",
+      "mdt"
+    ],
+    "created_at": "Fri Mar 04 19:42:09 +0000 2016",
+    "user_id_str": "565538332",
+    "followers_count": 568
+  }
+]

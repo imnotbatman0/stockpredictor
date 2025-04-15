@@ -1,0 +1,36 @@
+[
+  {
+    "text": [
+      "since",
+      "your",
+      "tweet",
+      "was",
+      "sent",
+      "$",
+      "c",
+      "has",
+      "risen",
+      "1",
+      "805",
+      "see",
+      "your",
+      "featured",
+      "tweet",
+      "on",
+      "market",
+      "parse"
+    ],
+    "created_at": "Wed May 13 00:10:10 +0000 2015",
+    "user_id_str": "3182322139",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "f$",
+      "c"
+    ],
+    "created_at": "Wed May 13 03:47:45 +0000 2015",
+    "user_id_str": "2307598322",
+    "followers_count": 64375
+  }
+]

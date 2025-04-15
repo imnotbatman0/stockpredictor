@@ -1,0 +1,63 @@
+[
+  {
+    "text": [
+      "$",
+      "msft",
+      "-",
+      "london",
+      "venture",
+      "funds",
+      "become",
+      "more",
+      "active",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Mon Feb 10 20:04:01 +0000 2014",
+    "user_id_str": "71319651",
+    "followers_count": 1524
+  },
+  {
+    "text": [
+      "microsoft",
+      "this",
+      "small",
+      "clue",
+      "could",
+      "mean",
+      "big",
+      "growth",
+      "$",
+      "aapl",
+      "apple",
+      "$",
+      "msft"
+    ],
+    "created_at": "Mon Feb 10 18:46:28 +0000 2014",
+    "user_id_str": "241589362",
+    "followers_count": 145
+  },
+  {
+    "text": [
+      "$",
+      "msft",
+      "google",
+      "twitter",
+      "facebook",
+      "and",
+      "microsoft",
+      "play",
+      "nice",
+      "in",
+      "the",
+      "internet",
+      "safe"
+    ],
+    "created_at": "Mon Feb 10 17:21:12 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 155
+  }
+]

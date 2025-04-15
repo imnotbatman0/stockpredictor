@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "abbv",
+      "abbvie",
+      "inc",
+      "day",
+      "low",
+      "$",
+      "abbv",
+      "$",
+      "kmi",
+      "$",
+      "gdx",
+      "$",
+      "ge",
+      "abbv",
+      "finance",
+      "nasdaq"
+    ],
+    "created_at": "Wed Jul 29 21:31:03 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1445
+  },
+  {
+    "text": [
+      "active",
+      "stocks",
+      "on",
+      "the",
+      "move",
+      "$",
+      "ebay",
+      "$",
+      "abbv",
+      "$",
+      "met"
+    ],
+    "created_at": "Wed Jul 29 15:33:45 +0000 2015",
+    "user_id_str": "2974809074",
+    "followers_count": 128
+  },
+  {
+    "text": [
+      "caravon",
+      "so",
+      "far",
+      "$",
+      "abbv",
+      "did",
+      "not",
+      "do",
+      "a",
+      "good",
+      "caravon"
+    ],
+    "created_at": "Wed Jul 29 15:54:34 +0000 2015",
+    "user_id_str": "1059290383",
+    "followers_count": 13275
+  }
+]

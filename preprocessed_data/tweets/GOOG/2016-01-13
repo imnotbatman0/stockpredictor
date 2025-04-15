@@ -1,0 +1,78 @@
+[
+  {
+    "text": [
+      "zero",
+      "liabilities",
+      "zero",
+      "assets",
+      "$",
+      "goog",
+      "$",
+      "amzn",
+      "$",
+      "aapl",
+      "$",
+      "jpm",
+      "$",
+      "bac",
+      "$",
+      "gs",
+      "$",
+      "gm",
+      "$",
+      "vz"
+    ],
+    "created_at": "Wed Jan 13 16:32:44 +0000 2016",
+    "user_id_str": "1726541196",
+    "followers_count": 43
+  },
+  {
+    "text": [
+      "$",
+      "goog",
+      "us",
+      "google",
+      "self-driving",
+      "cars",
+      "improve",
+      "but",
+      "still",
+      "need",
+      "human",
+      "help",
+      "google",
+      "inc",
+      "sp500"
+    ],
+    "created_at": "Wed Jan 13 07:33:00 +0000 2016",
+    "user_id_str": "19221345",
+    "followers_count": 2929
+  },
+  {
+    "text": [
+      "zero",
+      "assets",
+      "zero",
+      "liabilities",
+      "$",
+      "goog",
+      "$",
+      "amzn",
+      "$",
+      "aapl",
+      "$",
+      "jpm",
+      "$",
+      "bac",
+      "$",
+      "gs",
+      "$",
+      "gm",
+      "$",
+      "vz"
+    ],
+    "created_at": "Wed Jan 13 20:54:55 +0000 2016",
+    "user_id_str": "1726541196",
+    "followers_count": 43
+  }
+]

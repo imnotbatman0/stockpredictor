@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "$",
+      "amzn",
+      "technical",
+      "analysis",
+      "video",
+      "1",
+      "25",
+      "2016"
+    ],
+    "created_at": "Mon Jan 25 23:46:57 +0000 2016",
+    "user_id_str": "2344531388",
+    "followers_count": 2662
+  },
+  {
+    "text": [
+      "fastmoneyespresso",
+      "final",
+      "trades",
+      "tim",
+      "seymour",
+      "gt",
+      "sell",
+      "$",
+      "sbux",
+      "guy",
+      "adami",
+      "gt",
+      "buy",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Mon Jan 25 23:00:37 +0000 2016",
+    "user_id_str": "1163696714",
+    "followers_count": 169
+  }
+]

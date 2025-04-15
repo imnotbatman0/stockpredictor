@@ -1,0 +1,36 @@
+[
+  {
+    "text": [
+      "$",
+      "wmt",
+      "walmart",
+      "ceo",
+      "promises",
+      "more",
+      "e-commerce",
+      "acquisitions"
+    ],
+    "created_at": "Thu May 29 10:00:42 +0000 2014",
+    "user_id_str": "1710333787",
+    "followers_count": 153
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "wal-mart",
+      "fires",
+      "back",
+      "at",
+      "proxy",
+      "adviser",
+      "over",
+      "pay",
+      "bribery",
+      "criticism"
+    ],
+    "created_at": "Thu May 29 15:37:32 +0000 2014",
+    "user_id_str": "1729061197",
+    "followers_count": 197
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "stockchart",
+      "$",
+      "orbc",
+      "entered",
+      "$7",
+      "79",
+      "looking",
+      "good",
+      "bullish",
+      "$",
+      "lmt",
+      "signed",
+      "new",
+      "agreement",
+      "as",
+      "well",
+      "swingtrader"
+    ],
+    "created_at": "Wed Feb 17 19:54:01 +0000 2016",
+    "user_id_str": "2712936308",
+    "followers_count": 316
+  },
+  {
+    "text": [
+      "lockheed",
+      "martin",
+      "co",
+      "$",
+      "lmt",
+      "stake",
+      "cut",
+      "by",
+      "vicus",
+      "capital"
+    ],
+    "created_at": "Wed Feb 17 04:44:26 +0000 2016",
+    "user_id_str": "2181281054",
+    "followers_count": 620
+  }
+]

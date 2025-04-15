@@ -1,0 +1,93 @@
+[
+  {
+    "text": [
+      "if",
+      "$",
+      "b$44",
+      "if",
+      "iserror",
+      "hlookup",
+      "i$23",
+      "$",
+      "c$12",
+      "g$19",
+      "5",
+      "false",
+      "hlookup",
+      "i$23",
+      "$",
+      "c$12",
+      "g$19",
+      "5",
+      "false"
+    ],
+    "created_at": "Thu Jan 21 07:17:27 +0000 2016",
+    "user_id_str": "1534213430",
+    "followers_count": 385
+  },
+  {
+    "text": [
+      "$",
+      "c",
+      "just",
+      "posted",
+      "a",
+      "new",
+      "conference",
+      "call",
+      "listen",
+      "now"
+    ],
+    "created_at": "Thu Jan 21 15:51:33 +0000 2016",
+    "user_id_str": "4444122373",
+    "followers_count": 1038
+  },
+  {
+    "text": [
+      "the",
+      "big",
+      "banks",
+      "are",
+      "underperforming",
+      "the",
+      "market",
+      "today",
+      "$",
+      "db",
+      "$",
+      "gs",
+      "$",
+      "ms",
+      "$",
+      "bac",
+      "$",
+      "c",
+      "$",
+      "jpm"
+    ],
+    "created_at": "Thu Jan 21 18:30:10 +0000 2016",
+    "user_id_str": "121158213",
+    "followers_count": 70872
+  },
+  {
+    "text": [
+      "citigroup",
+      "inc",
+      "$",
+      "c",
+      "rating",
+      "lowered",
+      "to",
+      "strong",
+      "sell",
+      "at",
+      "zacks",
+      "investment",
+      "research",
+      "acn"
+    ],
+    "created_at": "Thu Jan 21 19:00:57 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1294
+  }
+]

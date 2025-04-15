@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "orcl",
+      "top",
+      "news",
+      "-",
+      "mar",
+      "9th",
+      "2016",
+      "$",
+      "orcl"
+    ],
+    "created_at": "Wed Mar 09 12:38:34 +0000 2016",
+    "user_id_str": "3121098012",
+    "followers_count": 566
+  },
+  {
+    "text": [
+      "$",
+      "orcl",
+      "rand",
+      "wealth",
+      "llc",
+      "has",
+      "$1012000",
+      "stake",
+      "in",
+      "oracle",
+      "co",
+      "orcl"
+    ],
+    "created_at": "Wed Mar 09 03:24:22 +0000 2016",
+    "user_id_str": "2341445778",
+    "followers_count": 831
+  }
+]

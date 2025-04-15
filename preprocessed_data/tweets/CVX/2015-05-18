@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "qp",
+      "c",
+      "$",
+      "c",
+      "news",
+      "actives",
+      "on",
+      "open",
+      "cboe",
+      "$",
+      "aapl",
+      "$",
+      "fb",
+      "$",
+      "c",
+      "$",
+      "csco",
+      "$",
+      "gild",
+      "$",
+      "pbr",
+      "$",
+      "cvx",
+      "$",
+      "tsla",
+      "$",
+      "bac"
+    ],
+    "created_at": "Mon May 18 14:05:14 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 276
+  },
+  {
+    "text": [
+      "chevron",
+      "downgraded",
+      "by",
+      "goldman",
+      "sachs",
+      "$",
+      "cvx"
+    ],
+    "created_at": "Mon May 18 16:45:01 +0000 2015",
+    "user_id_str": "2781050528",
+    "followers_count": 162
+  }
+]

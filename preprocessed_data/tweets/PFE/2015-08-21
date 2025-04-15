@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "active",
+      "stocks",
+      "news",
+      "buzz",
+      "pfizer",
+      "inc",
+      "nyse",
+      "pfe",
+      "opko",
+      "health",
+      "inc",
+      "nyse",
+      "opk",
+      "$",
+      "pfe"
+    ],
+    "created_at": "Fri Aug 21 12:49:24 +0000 2015",
+    "user_id_str": "704897486",
+    "followers_count": 1232
+  },
+  {
+    "text": [
+      "$",
+      "pfe",
+      "-",
+      "pfizer",
+      "announces",
+      "positive",
+      "topline",
+      "results",
+      "of",
+      "two",
+      "phase",
+      "3",
+      "studies",
+      "of",
+      "trumenba",
+      "meningococcal",
+      "group",
+      "b"
+    ],
+    "created_at": "Fri Aug 21 12:01:06 +0000 2015",
+    "user_id_str": "2440753004",
+    "followers_count": 4799
+  }
+]

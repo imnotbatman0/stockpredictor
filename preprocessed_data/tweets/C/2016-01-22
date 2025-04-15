@@ -1,0 +1,34 @@
+[
+  {
+    "text": [
+      "citigroup",
+      "inc",
+      "$",
+      "c",
+      "earns",
+      "a-",
+      "credit",
+      "rating"
+    ],
+    "created_at": "Fri Jan 22 09:43:09 +0000 2016",
+    "user_id_str": "4816109896",
+    "followers_count": 37
+  },
+  {
+    "text": [
+      "its",
+      "a",
+      "movement",
+      "niggas",
+      "know",
+      "how",
+      "im",
+      "rockin",
+      "h$",
+      "c"
+    ],
+    "created_at": "Fri Jan 22 18:56:49 +0000 2016",
+    "user_id_str": "291236077",
+    "followers_count": 2123
+  }
+]

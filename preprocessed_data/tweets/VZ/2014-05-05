@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "$",
+      "vz",
+      "stock",
+      "update",
+      "verizon",
+      "communications",
+      "inc",
+      "nyse",
+      "vz",
+      "verizon",
+      "cfo",
+      "to",
+      "speak"
+    ],
+    "created_at": "Mon May 05 16:17:06 +0000 2014",
+    "user_id_str": "2358944184",
+    "followers_count": 25
+  },
+  {
+    "text": [
+      "$",
+      "vz",
+      "-",
+      "verizon",
+      "cfo",
+      "to",
+      "speak",
+      "at",
+      "jefferies",
+      "conference",
+      "on",
+      "may",
+      "6"
+    ],
+    "created_at": "Mon May 05 12:05:58 +0000 2014",
+    "user_id_str": "1280712284",
+    "followers_count": 85
+  }
+]

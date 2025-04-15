@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "bbl",
+      "gapped",
+      "up",
+      "0",
+      "34",
+      "$",
+      "bbl",
+      "last",
+      "price",
+      "21",
+      "41",
+      "day",
+      "high",
+      "21",
+      "41",
+      "day",
+      "low",
+      "21",
+      "41",
+      "change",
+      "0",
+      "60",
+      "volume",
+      "30",
+      "897",
+      "today",
+      "34",
+      "sto"
+    ],
+    "created_at": "Wed Mar 02 15:06:52 +0000 2016",
+    "user_id_str": "2181346825",
+    "followers_count": 731
+  }
+]

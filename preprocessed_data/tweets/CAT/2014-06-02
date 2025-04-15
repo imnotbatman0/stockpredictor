@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "$",
+      "cat",
+      "short",
+      "setup"
+    ],
+    "created_at": "Mon Jun 02 13:35:31 +0000 2014",
+    "user_id_str": "52126417",
+    "followers_count": 5263
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "-",
+      "caterpillar",
+      "to",
+      "participate",
+      "in",
+      "the",
+      "deutsche",
+      "bank",
+      "2014",
+      "global",
+      "industrial",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Mon Jun 02 13:08:09 +0000 2014",
+    "user_id_str": "404613701",
+    "followers_count": 359
+  }
+]

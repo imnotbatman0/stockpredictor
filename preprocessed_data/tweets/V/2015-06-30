@@ -1,0 +1,57 @@
+[
+  {
+    "text": [
+      "nicohof1",
+      "am",
+      "alerts",
+      "$",
+      "v",
+      "active",
+      "relative",
+      "volume",
+      "10",
+      "15",
+      "1h",
+      "1",
+      "00",
+      "am",
+      "nyse",
+      "$",
+      "dji",
+      "$",
+      "spy"
+    ],
+    "created_at": "Tue Jun 30 05:38:01 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 456
+  },
+  {
+    "text": [
+      "grek",
+      "global",
+      "x",
+      "ftse",
+      "greece",
+      "20",
+      "etf",
+      "shares",
+      "$",
+      "grek",
+      "$",
+      "tqqq",
+      "$",
+      "crm",
+      "$",
+      "v",
+      "grek",
+      "tradeideas",
+      "nasdaqgs",
+      "goldman",
+      "sachs",
+      "group"
+    ],
+    "created_at": "Tue Jun 30 01:41:38 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 720
+  }
+]

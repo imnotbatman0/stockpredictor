@@ -1,0 +1,30 @@
+[
+  {
+    "text": [
+      "$",
+      "ba",
+      "$",
+      "cat",
+      "$",
+      "ibm",
+      "$",
+      "mcd",
+      "$",
+      "mmm",
+      "$",
+      "msft",
+      "$",
+      "pg",
+      "$",
+      "utc",
+      "$",
+      "vz",
+      "-dow",
+      "earnings",
+      "parade"
+    ],
+    "created_at": "Mon Apr 20 13:55:23 +0000 2015",
+    "user_id_str": "21689176",
+    "followers_count": 5073
+  }
+]

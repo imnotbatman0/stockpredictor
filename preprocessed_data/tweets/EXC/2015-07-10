@@ -1,0 +1,62 @@
+[
+  {
+    "text": [
+      "$",
+      "exc",
+      "analyst",
+      "action",
+      "by",
+      "suntrust",
+      "robinson",
+      "humphrey",
+      "on",
+      "exelon"
+    ],
+    "created_at": "Fri Jul 10 20:38:02 +0000 2015",
+    "user_id_str": "2341530906",
+    "followers_count": 51
+  },
+  {
+    "text": [
+      "efa",
+      "ishares",
+      "msci",
+      "eafe",
+      "index",
+      "fund",
+      "change",
+      "$",
+      "efa",
+      "$",
+      "exc",
+      "$",
+      "bbt",
+      "$",
+      "clb",
+      "efa",
+      "stocks",
+      "stocks"
+    ],
+    "created_at": "Fri Jul 10 07:37:15 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 657
+  },
+  {
+    "text": [
+      "$",
+      "exc",
+      "comed",
+      "plans",
+      "to",
+      "launch",
+      "satellite",
+      "sites",
+      "to",
+      "continue",
+      "administrating"
+    ],
+    "created_at": "Fri Jul 10 14:22:04 +0000 2015",
+    "user_id_str": "2342763212",
+    "followers_count": 281
+  }
+]

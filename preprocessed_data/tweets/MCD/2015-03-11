@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "stocks",
+      "to",
+      "watch",
+      "from",
+      "the",
+      "value",
+      "line",
+      "investment",
+      "survey",
+      "$",
+      "mcd",
+      "$",
+      "aa",
+      "$",
+      "gm",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Wed Mar 11 18:14:37 +0000 2015",
+    "user_id_str": "935242836",
+    "followers_count": 9663
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "just",
+      "seems",
+      "like",
+      "p"
+    ],
+    "created_at": "Wed Mar 11 19:11:43 +0000 2015",
+    "user_id_str": "23739529",
+    "followers_count": 646
+  }
+]

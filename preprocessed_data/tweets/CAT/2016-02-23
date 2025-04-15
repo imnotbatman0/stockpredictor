@@ -1,0 +1,85 @@
+[
+  {
+    "text": [
+      "sigma",
+      "planning",
+      "sells",
+      "1",
+      "845",
+      "shares",
+      "of",
+      "caterpillar",
+      "inc",
+      "$",
+      "cat"
+    ],
+    "created_at": "Tue Feb 23 14:23:18 +0000 2016",
+    "user_id_str": "2920258887",
+    "followers_count": 1081
+  },
+  {
+    "text": [
+      "caterpillar",
+      "now",
+      "has",
+      "50",
+      "driverless",
+      "mining",
+      "trucks",
+      "in",
+      "use",
+      "worldwide",
+      "150-ton",
+      "trucks",
+      "carrying",
+      "300-ton",
+      "loads",
+      "at",
+      "40",
+      "mph",
+      "$",
+      "cat"
+    ],
+    "created_at": "Tue Feb 23 15:09:32 +0000 2016",
+    "user_id_str": "90747620",
+    "followers_count": 1991
+  },
+  {
+    "text": [
+      "deere",
+      "reduces",
+      "its",
+      "earnings",
+      "outlook",
+      "$",
+      "cat",
+      "$",
+      "de"
+    ],
+    "created_at": "Tue Feb 23 07:56:04 +0000 2016",
+    "user_id_str": "23059499",
+    "followers_count": 83364
+  },
+  {
+    "text": [
+      "cree",
+      "cree",
+      "inc",
+      "day",
+      "high",
+      "$",
+      "cree",
+      "$",
+      "cat",
+      "$",
+      "vpco",
+      "$",
+      "dia",
+      "stockmarket",
+      "stock"
+    ],
+    "created_at": "Tue Feb 23 13:20:33 +0000 2016",
+    "user_id_str": "1854900966",
+    "followers_count": 374
+  }
+]

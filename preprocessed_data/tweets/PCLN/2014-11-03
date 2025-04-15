@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "accurate",
+      "signal",
+      "based",
+      "service",
+      "with",
+      "entries",
+      "and",
+      "exits",
+      "$",
+      "aapl",
+      "$",
+      "googl",
+      "$",
+      "pcln"
+    ],
+    "created_at": "Mon Nov 03 19:09:25 +0000 2014",
+    "user_id_str": "305518813",
+    "followers_count": 668
+  },
+  {
+    "text": [
+      "$",
+      "tsla",
+      "amp",
+      "$",
+      "pcln",
+      "both",
+      "monsters",
+      "today"
+    ],
+    "created_at": "Mon Nov 03 18:00:06 +0000 2014",
+    "user_id_str": "2264634042",
+    "followers_count": 485
+  }
+]

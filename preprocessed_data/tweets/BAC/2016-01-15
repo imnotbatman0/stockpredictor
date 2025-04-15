@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "carroll",
+      "financial",
+      "associates",
+      "purchases",
+      "$2",
+      "170",
+      "000",
+      "in",
+      "bank",
+      "of",
+      "america",
+      "$",
+      "bac",
+      "shares"
+    ],
+    "created_at": "Fri Jan 15 10:11:43 +0000 2016",
+    "user_id_str": "2525892205",
+    "followers_count": 465
+  },
+  {
+    "text": [
+      "bank",
+      "of",
+      "america",
+      "$",
+      "bac",
+      "shares",
+      "sold",
+      "by",
+      "murphy",
+      "pohlad",
+      "asset",
+      "management"
+    ],
+    "created_at": "Fri Jan 15 07:25:18 +0000 2016",
+    "user_id_str": "565538332",
+    "followers_count": 461
+  }
+]

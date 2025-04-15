@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "$",
+      "mcd",
+      "sentiment",
+      "ratings",
+      "announced",
+      "for",
+      "mcdonald",
+      "s",
+      "corporation",
+      "nyse"
+    ],
+    "created_at": "Wed Feb 03 22:04:14 +0000 2016",
+    "user_id_str": "2881595931",
+    "followers_count": 674
+  },
+  {
+    "text": [
+      "panera",
+      "bread",
+      "and",
+      "mcdonald",
+      "s",
+      "seen",
+      "as",
+      "chipotle",
+      "traffic",
+      "grabbers",
+      "$",
+      "pnra",
+      "$",
+      "mcd",
+      "$",
+      "yum"
+    ],
+    "created_at": "Wed Feb 03 19:39:43 +0000 2016",
+    "user_id_str": "15296897",
+    "followers_count": 20129
+  }
+]

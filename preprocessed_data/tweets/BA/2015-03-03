@@ -1,0 +1,60 @@
+[
+  {
+    "text": [
+      "boeing",
+      "is",
+      "a",
+      "strong",
+      "buy",
+      "value",
+      "momentum",
+      "and",
+      "backlog",
+      "growth",
+      "$",
+      "ba"
+    ],
+    "created_at": "Tue Mar 03 18:45:00 +0000 2015",
+    "user_id_str": "23059499",
+    "followers_count": 70776
+  },
+  {
+    "text": [
+      "clayton",
+      "ba",
+      "154",
+      "68",
+      "boeing",
+      "company",
+      "$",
+      "ba",
+      "added",
+      "to",
+      "my",
+      "watch"
+    ],
+    "created_at": "Tue Mar 03 16:15:39 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 12890
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "-",
+      "boeing",
+      "silk",
+      "way",
+      "west",
+      "announce",
+      "order",
+      "for",
+      "three",
+      "747-8",
+      "freighters"
+    ],
+    "created_at": "Tue Mar 03 17:32:03 +0000 2015",
+    "user_id_str": "2554107798",
+    "followers_count": 149
+  }
+]

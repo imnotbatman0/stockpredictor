@@ -1,0 +1,64 @@
+[
+  {
+    "text": [
+      "should",
+      "you",
+      "buy",
+      "bank",
+      "of",
+      "america",
+      "wells",
+      "fargo",
+      "jpmorgan",
+      "citigroup",
+      "now",
+      "$",
+      "wfc",
+      "$",
+      "bac",
+      "$",
+      "c",
+      "$",
+      "xlf",
+      "$",
+      "jpm"
+    ],
+    "created_at": "Fri Feb 12 17:24:00 +0000 2016",
+    "user_id_str": "76921999",
+    "followers_count": 2113
+  },
+  {
+    "text": [
+      "wellsfargo",
+      "$",
+      "wfc",
+      "pt",
+      "lowered",
+      "to",
+      "$60",
+      "00",
+      "read",
+      "more"
+    ],
+    "created_at": "Fri Feb 12 11:04:27 +0000 2016",
+    "user_id_str": "4811747185",
+    "followers_count": 8
+  },
+  {
+    "text": [
+      "wellsfargo",
+      "$",
+      "wfc",
+      "pt",
+      "lowered",
+      "to",
+      "$60",
+      "00",
+      "read",
+      "more"
+    ],
+    "created_at": "Fri Feb 12 11:04:27 +0000 2016",
+    "user_id_str": "4811951173",
+    "followers_count": 11
+  }
+]

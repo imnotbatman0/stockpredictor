@@ -1,0 +1,63 @@
+[
+  {
+    "text": [
+      "$",
+      "upro",
+      "stock",
+      "price",
+      "updated",
+      "wednesday",
+      "january",
+      "20",
+      "2016",
+      "00",
+      "59",
+      "24",
+      "am",
+      "$",
+      "tqqq",
+      "$",
+      "upro",
+      "$",
+      "cop",
+      "$",
+      "hd"
+    ],
+    "created_at": "Wed Jan 20 06:38:36 +0000 2016",
+    "user_id_str": "1850041968",
+    "followers_count": 1094
+  },
+  {
+    "text": [
+      "pfizer",
+      "an",
+      "income",
+      "play",
+      "in",
+      "the",
+      "drug",
+      "business",
+      "$",
+      "ba",
+      "$",
+      "cab",
+      "$",
+      "eos",
+      "$",
+      "fcx",
+      "$",
+      "nvs",
+      "$",
+      "lb",
+      "$",
+      "jnj",
+      "$",
+      "hd",
+      "$",
+      "pfe"
+    ],
+    "created_at": "Wed Jan 20 13:31:13 +0000 2016",
+    "user_id_str": "225018425",
+    "followers_count": 81
+  }
+]

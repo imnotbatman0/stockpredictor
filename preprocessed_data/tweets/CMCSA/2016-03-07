@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "consumer",
+      "group",
+      "files",
+      "fcc",
+      "complaint",
+      "over",
+      "comcast",
+      "$",
+      "cmcsa",
+      "streaming",
+      "service",
+      "read",
+      "more"
+    ],
+    "created_at": "Mon Mar 07 20:02:23 +0000 2016",
+    "user_id_str": "4844833488",
+    "followers_count": 9
+  },
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "analyst",
+      "action",
+      "by",
+      "barclays",
+      "on",
+      "comcast"
+    ],
+    "created_at": "Mon Mar 07 00:21:02 +0000 2016",
+    "user_id_str": "2341530906",
+    "followers_count": 252
+  }
+]

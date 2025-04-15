@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "msft",
+      "top",
+      "news",
+      "-",
+      "feb",
+      "5th",
+      "2016",
+      "$",
+      "msft"
+    ],
+    "created_at": "Fri Feb 05 13:28:48 +0000 2016",
+    "user_id_str": "3121098012",
+    "followers_count": 572
+  },
+  {
+    "text": [
+      "$",
+      "gpro",
+      "short",
+      "percent",
+      "of",
+      "float",
+      "50",
+      "40",
+      "short",
+      "increase",
+      "decrease",
+      "7",
+      "can",
+      "this",
+      "$",
+      "msft",
+      "deal",
+      "with",
+      "$",
+      "gpro",
+      "panic",
+      "shorts"
+    ],
+    "created_at": "Fri Feb 05 21:20:59 +0000 2016",
+    "user_id_str": "548047409",
+    "followers_count": 118
+  }
+]

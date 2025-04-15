@@ -1,0 +1,74 @@
+[
+  {
+    "text": [
+      "consumers",
+      "really",
+      "pay",
+      "for",
+      "online",
+      "streaming",
+      "$",
+      "nflx",
+      "$",
+      "aapl",
+      "$",
+      "amzn",
+      "$",
+      "googl",
+      "$",
+      "fb",
+      "funny",
+      "itunes",
+      "appletv",
+      "androidtv"
+    ],
+    "created_at": "Tue Jan 19 22:22:01 +0000 2016",
+    "user_id_str": "206457337",
+    "followers_count": 1420
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "break",
+      "out",
+      "5",
+      "minute",
+      "3",
+      "05"
+    ],
+    "created_at": "Tue Jan 19 20:05:05 +0000 2016",
+    "user_id_str": "4743164694",
+    "followers_count": 7
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "bearish",
+      "reversal",
+      "5",
+      "minute",
+      "3",
+      "15"
+    ],
+    "created_at": "Tue Jan 19 20:15:07 +0000 2016",
+    "user_id_str": "4743164694",
+    "followers_count": 7
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "bearish",
+      "reversal",
+      "5",
+      "minute",
+      "4",
+      "00"
+    ],
+    "created_at": "Tue Jan 19 21:00:06 +0000 2016",
+    "user_id_str": "4743164694",
+    "followers_count": 7
+  }
+]

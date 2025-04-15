@@ -1,0 +1,69 @@
+[
+  {
+    "text": [
+      "a",
+      "spreadsheet",
+      "for",
+      "dgi",
+      "investors",
+      "$",
+      "gis",
+      "$",
+      "jnj",
+      "$",
+      "ko",
+      "$",
+      "mcd",
+      "$",
+      "mo",
+      "$",
+      "pep",
+      "$",
+      "pg",
+      "$",
+      "wmt",
+      "$",
+      "xom"
+    ],
+    "created_at": "Fri Jan 15 20:14:54 +0000 2016",
+    "user_id_str": "3810470233",
+    "followers_count": 289
+  },
+  {
+    "text": [
+      "altria",
+      "group",
+      "inc",
+      "$",
+      "mo",
+      "position",
+      "boosted",
+      "by",
+      "grassi",
+      "investment",
+      "management",
+      "acn"
+    ],
+    "created_at": "Fri Jan 15 07:25:31 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1284
+  },
+  {
+    "text": [
+      "altria",
+      "group",
+      "inc",
+      "$",
+      "mo",
+      "position",
+      "boosted",
+      "by",
+      "grassi",
+      "investment",
+      "management"
+    ],
+    "created_at": "Fri Jan 15 07:26:35 +0000 2016",
+    "user_id_str": "2525892205",
+    "followers_count": 464
+  }
+]

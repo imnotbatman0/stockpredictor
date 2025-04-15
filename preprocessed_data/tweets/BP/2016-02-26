@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "having",
+      "10",
+      "different",
+      "news",
+      "tabs",
+      "open",
+      "for",
+      "$",
+      "aapl",
+      "$",
+      "db",
+      "$",
+      "bp",
+      "we",
+      "give",
+      "you",
+      "1"
+    ],
+    "created_at": "Fri Feb 26 07:54:26 +0000 2016",
+    "user_id_str": "2373813025",
+    "followers_count": 812
+  },
+  {
+    "text": [
+      "a",
+      "risky",
+      "move",
+      "for",
+      "bp",
+      "$",
+      "btu",
+      "$",
+      "bp"
+    ],
+    "created_at": "Fri Feb 26 22:51:25 +0000 2016",
+    "user_id_str": "340520691",
+    "followers_count": 7022
+  }
+]

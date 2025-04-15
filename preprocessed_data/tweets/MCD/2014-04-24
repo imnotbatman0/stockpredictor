@@ -1,0 +1,96 @@
+[
+  {
+    "text": [
+      "mcdonald",
+      "s",
+      "says",
+      "ronald",
+      "mcdonald",
+      "will",
+      "join",
+      "twitter",
+      "photo",
+      "mcdonald",
+      "s",
+      "$",
+      "mcd"
+    ],
+    "created_at": "Thu Apr 24 10:11:05 +0000 2014",
+    "user_id_str": "2304503036",
+    "followers_count": 5
+  },
+  {
+    "text": [
+      "mcdonald",
+      "s",
+      "says",
+      "ronald",
+      "mcdonald",
+      "will",
+      "join",
+      "photo",
+      "$",
+      "mcd"
+    ],
+    "created_at": "Thu Apr 24 05:28:03 +0000 2014",
+    "user_id_str": "2282138048",
+    "followers_count": 387
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "selfies",
+      "here",
+      "i",
+      "come",
+      "ronald",
+      "mcdonald",
+      "gets",
+      "cargo",
+      "pants",
+      "twitter"
+    ],
+    "created_at": "Thu Apr 24 00:18:37 +0000 2014",
+    "user_id_str": "1849605206",
+    "followers_count": 140
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "mcdonalds",
+      "canada",
+      "freezes",
+      "use",
+      "of",
+      "foreign",
+      "worker",
+      "plan"
+    ],
+    "created_at": "Thu Apr 24 01:46:04 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 320
+  },
+  {
+    "text": [
+      "are",
+      "you",
+      "hanging",
+      "on",
+      "to",
+      "$",
+      "dish",
+      "$",
+      "mcd",
+      "$",
+      "osk",
+      "$",
+      "do",
+      "goto"
+    ],
+    "created_at": "Thu Apr 24 17:54:50 +0000 2014",
+    "user_id_str": "2459797768",
+    "followers_count": 0
+  }
+]

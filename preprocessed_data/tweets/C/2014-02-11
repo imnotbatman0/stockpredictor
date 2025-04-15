@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "$",
+      "c",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Mon Feb 10 23:44:39 +0000 2014",
+    "user_id_str": "1923947209",
+    "followers_count": 113
+  },
+  {
+    "text": [
+      "top",
+      "ticker",
+      "lookups",
+      "on",
+      "yesty",
+      "$",
+      "aapl",
+      "$",
+      "bac",
+      "$",
+      "fb",
+      "$",
+      "ge",
+      "$",
+      "c",
+      "$",
+      "tsla",
+      "$",
+      "twtr",
+      "$",
+      "bby",
+      "apols",
+      "for",
+      "tardiness"
+    ],
+    "created_at": "Tue Feb 11 17:09:46 +0000 2014",
+    "user_id_str": "339754154",
+    "followers_count": 877
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "$",
+      "cat",
+      "yep",
+      "looks",
+      "like",
+      "a",
+      "sell",
+      "at",
+      "the",
+      "moment"
+    ],
+    "created_at": "Thu Mar 03 15:48:14 +0000 2016",
+    "user_id_str": "701247741901451265",
+    "followers_count": 11
+  },
+  {
+    "text": [
+      "googl",
+      "gopro",
+      "inc",
+      "quotes",
+      "$",
+      "googl",
+      "$",
+      "cat",
+      "$",
+      "gs",
+      "$",
+      "sil",
+      "tradeideas",
+      "tradeideas"
+    ],
+    "created_at": "Thu Mar 03 21:35:09 +0000 2016",
+    "user_id_str": "2181373892",
+    "followers_count": 723
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "$",
+      "bud",
+      "key",
+      "stocks",
+      "of",
+      "the",
+      "day",
+      "anheuser-busch",
+      "inbev",
+      "sa",
+      "nv",
+      "nyse",
+      "bud"
+    ],
+    "created_at": "Thu Mar 17 01:07:18 +0000 2016",
+    "user_id_str": "2344619544",
+    "followers_count": 689
+  },
+  {
+    "text": [
+      "$",
+      "bud",
+      "large",
+      "inflow",
+      "of",
+      "money",
+      "witnessed",
+      "in",
+      "anheuser-busch",
+      "inbev",
+      "sa"
+    ],
+    "created_at": "Thu Mar 17 05:15:13 +0000 2016",
+    "user_id_str": "2342215530",
+    "followers_count": 595
+  }
+]

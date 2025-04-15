@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "google",
+      "c",
+      "patent",
+      "issued",
+      "for",
+      "detecting",
+      "anomalous",
+      "application",
+      "access",
+      "to",
+      "contact",
+      "information",
+      "$",
+      "goog"
+    ],
+    "created_at": "Thu Oct 09 02:10:04 +0000 2014",
+    "user_id_str": "102325185",
+    "followers_count": 4959
+  },
+  {
+    "text": [
+      "google",
+      "c",
+      "patent",
+      "issued",
+      "for",
+      "text",
+      "segmentation",
+      "$",
+      "goog"
+    ],
+    "created_at": "Thu Oct 09 02:50:03 +0000 2014",
+    "user_id_str": "102325185",
+    "followers_count": 4959
+  }
+]

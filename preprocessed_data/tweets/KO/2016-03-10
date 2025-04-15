@@ -1,0 +1,35 @@
+[
+  {
+    "text": [
+      "coke",
+      "s",
+      "stock",
+      "is",
+      "shooting",
+      "up",
+      "to",
+      "record",
+      "levels",
+      "$",
+      "ko"
+    ],
+    "created_at": "Thu Mar 10 20:36:51 +0000 2016",
+    "user_id_str": "789501139",
+    "followers_count": 1399
+  },
+  {
+    "text": [
+      "1",
+      "gram",
+      "soda",
+      "every",
+      "7",
+      "grams",
+      "$",
+      "ko"
+    ],
+    "created_at": "Thu Mar 10 08:18:18 +0000 2016",
+    "user_id_str": "3115153663",
+    "followers_count": 194
+  }
+]
