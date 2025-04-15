@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "news",
+      "buzz",
+      "on",
+      "$",
+      "ko",
+      "$",
+      "antm",
+      "$",
+      "fb"
+    ],
+    "created_at": "Tue Jan 26 05:15:06 +0000 2016",
+    "user_id_str": "18574762",
+    "followers_count": 1232
+  },
+  {
+    "text": [
+      "rt",
+      "terminator662",
+      "pets",
+      "dogs",
+      "petcare",
+      "kid",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "fb",
+      "$",
+      "baba",
+      "$",
+      "twtr"
+    ],
+    "created_at": "Tue Jan 26 06:28:36 +0000 2016",
+    "user_id_str": "3317903384",
+    "followers_count": 1036
+  }
+]

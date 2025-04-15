@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "cnc",
+      "centene",
+      "corp",
+      "shares",
+      "$",
+      "cnc",
+      "$",
+      "pm",
+      "$",
+      "rf",
+      "$",
+      "tsla",
+      "cnc",
+      "tradeideas",
+      "nasdaq"
+    ],
+    "created_at": "Sun Jul 12 13:34:16 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4299
+  },
+  {
+    "text": [
+      "mtb",
+      "m",
+      "amp",
+      "t",
+      "bank",
+      "corp",
+      "investor",
+      "opinions",
+      "$",
+      "mtb",
+      "$",
+      "jblu",
+      "$",
+      "pm",
+      "$",
+      "tso",
+      "mtb",
+      "stockmarket",
+      "nasdaq"
+    ],
+    "created_at": "Sun Jul 12 16:42:07 +0000 2015",
+    "user_id_str": "386787305",
+    "followers_count": 3073
+  }
+]

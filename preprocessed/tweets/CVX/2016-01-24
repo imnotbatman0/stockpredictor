@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "partnerre",
+      "asset",
+      "management",
+      "sells",
+      "21",
+      "445",
+      "shares",
+      "of",
+      "chevron",
+      "co",
+      "$",
+      "cvx",
+      "acn"
+    ],
+    "created_at": "Sun Jan 24 08:39:28 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1295
+  },
+  {
+    "text": [
+      "dilbert",
+      "does",
+      "some",
+      "of",
+      "the",
+      "best",
+      "stock",
+      "market",
+      "cartoons",
+      "on",
+      "earnings",
+      "season",
+      "$",
+      "cvx",
+      "$",
+      "hal",
+      "$",
+      "spy"
+    ],
+    "created_at": "Sun Jan 24 20:06:32 +0000 2016",
+    "user_id_str": "2378628340",
+    "followers_count": 119
+  }
+]

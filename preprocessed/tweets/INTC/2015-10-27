@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "apple",
+      "watch",
+      "putting",
+      "a",
+      "dent",
+      "in",
+      "the",
+      "swiss",
+      "watch",
+      "industry",
+      "$",
+      "goog",
+      "$",
+      "intc",
+      "$",
+      "googl",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Tue Oct 27 22:43:50 +0000 2015",
+    "user_id_str": "237251225",
+    "followers_count": 12
+  },
+  {
+    "text": [
+      "insider",
+      "selling",
+      "intel",
+      "vp",
+      "sells",
+      "1",
+      "506",
+      "shares",
+      "of",
+      "stock",
+      "$",
+      "intc",
+      "acn"
+    ],
+    "created_at": "Tue Oct 27 12:45:45 +0000 2015",
+    "user_id_str": "52210566",
+    "followers_count": 1078
+  }
+]

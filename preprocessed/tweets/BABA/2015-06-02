@@ -1,0 +1,121 @@
+[
+  {
+    "text": [
+      "xli",
+      "industrials",
+      "select",
+      "sector",
+      "spdr",
+      "change",
+      "$",
+      "xli",
+      "$",
+      "baba",
+      "$",
+      "ea",
+      "$",
+      "ung",
+      "xli",
+      "nasdaq",
+      "stocks"
+    ],
+    "created_at": "Tue Jun 02 01:50:03 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13071
+  },
+  {
+    "text": [
+      "your",
+      "tweet",
+      "about",
+      "$",
+      "baba",
+      "had",
+      "a",
+      "sentiment",
+      "of",
+      "-1",
+      "and",
+      "was",
+      "featured",
+      "on",
+      "market",
+      "parse"
+    ],
+    "created_at": "Mon Jun 01 23:00:15 +0000 2015",
+    "user_id_str": "3182322139",
+    "followers_count": 19
+  },
+  {
+    "text": [
+      "baba",
+      "bank",
+      "of",
+      "america",
+      "corp",
+      "financials",
+      "$",
+      "baba",
+      "$",
+      "tsla",
+      "$",
+      "yge",
+      "$",
+      "expe",
+      "baba",
+      "finance",
+      "pennystocks"
+    ],
+    "created_at": "Tue Jun 02 04:32:36 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 644
+  },
+  {
+    "text": [
+      "gmcr",
+      "keurig",
+      "green",
+      "mountain",
+      "inc",
+      "ask",
+      "size",
+      "$",
+      "gmcr",
+      "$",
+      "eem",
+      "$",
+      "eem",
+      "$",
+      "baba",
+      "gmcr",
+      "pennystocks",
+      "tradeideas"
+    ],
+    "created_at": "Mon Jun 01 22:38:05 +0000 2015",
+    "user_id_str": "2233924628",
+    "followers_count": 370
+  },
+  {
+    "text": [
+      "cinda",
+      "alibaba",
+      "agree",
+      "to",
+      "auction",
+      "off",
+      "bad",
+      "debt",
+      "via",
+      "taobao",
+      "what",
+      "could",
+      "go",
+      "wrong",
+      "$",
+      "baba"
+    ],
+    "created_at": "Tue Jun 02 09:59:00 +0000 2015",
+    "user_id_str": "1526285174",
+    "followers_count": 981
+  }
+]

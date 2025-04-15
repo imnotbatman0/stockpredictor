@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "dumont",
+      "amp",
+      "blake",
+      "investment",
+      "advisors",
+      "llc",
+      "has",
+      "$1",
+      "312",
+      "000",
+      "position",
+      "in",
+      "intel",
+      "co",
+      "$",
+      "intc"
+    ],
+    "created_at": "Wed Mar 16 22:18:14 +0000 2016",
+    "user_id_str": "2920258887",
+    "followers_count": 1111
+  },
+  {
+    "text": [
+      "intel",
+      "co",
+      "$",
+      "intc",
+      "shares",
+      "sold",
+      "by",
+      "russell",
+      "frank",
+      "co",
+      "acn"
+    ],
+    "created_at": "Wed Mar 16 22:30:19 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1450
+  }
+]

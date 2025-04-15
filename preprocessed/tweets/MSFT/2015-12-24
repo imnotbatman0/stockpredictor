@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "benefits",
+      "of",
+      "apple",
+      "enterprise",
+      "deals",
+      "flow",
+      "one",
+      "way",
+      "$",
+      "ibm",
+      "$",
+      "msft",
+      "$",
+      "aapl",
+      "$",
+      "csco"
+    ],
+    "created_at": "Thu Dec 24 17:30:06 +0000 2015",
+    "user_id_str": "2174057946",
+    "followers_count": 191
+  },
+  {
+    "text": [
+      "it",
+      "firms",
+      "are",
+      "working",
+      "hard",
+      "to",
+      "expand",
+      "cloud",
+      "computing",
+      "capacity",
+      "$",
+      "aapl",
+      "$",
+      "ge",
+      "$",
+      "msft",
+      "$",
+      "spy"
+    ],
+    "created_at": "Thu Dec 24 19:14:01 +0000 2015",
+    "user_id_str": "2387600588",
+    "followers_count": 333
+  }
+]

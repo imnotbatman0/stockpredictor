@@ -1,0 +1,56 @@
+[
+  {
+    "text": [
+      "qid",
+      "proshares",
+      "ultra",
+      "qqq",
+      "fund",
+      "current",
+      "price",
+      "$",
+      "qid",
+      "$",
+      "ma",
+      "$",
+      "uup",
+      "$",
+      "mux",
+      "invest",
+      "tradeideas"
+    ],
+    "created_at": "Wed Feb 10 16:08:10 +0000 2016",
+    "user_id_str": "268844094",
+    "followers_count": 2538
+  },
+  {
+    "text": [
+      "worst",
+      "sentiment",
+      "for",
+      "sp1500",
+      "stocks",
+      "at",
+      "midday",
+      "$",
+      "gnw",
+      "$",
+      "hcp",
+      "$",
+      "jcp",
+      "$",
+      "ma",
+      "$",
+      "crm",
+      "2016",
+      "02",
+      "10",
+      "sentiment",
+      "stock",
+      "alexandria"
+    ],
+    "created_at": "Wed Feb 10 18:00:06 +0000 2016",
+    "user_id_str": "322711605",
+    "followers_count": 42
+  }
+]

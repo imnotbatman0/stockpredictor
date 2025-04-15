@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "celg",
+      "celgene",
+      "corp",
+      "summary",
+      "$",
+      "celg",
+      "$",
+      "ibm",
+      "$",
+      "gild",
+      "$",
+      "bac",
+      "celg",
+      "stockmarket",
+      "invest"
+    ],
+    "created_at": "Mon Jan 04 23:35:03 +0000 2016",
+    "user_id_str": "2181314366",
+    "followers_count": 864
+  },
+  {
+    "text": [
+      "$",
+      "slx",
+      "percent",
+      "change",
+      "updated",
+      "tuesday",
+      "january",
+      "5",
+      "2016",
+      "00",
+      "11",
+      "36",
+      "am",
+      "$",
+      "vgt",
+      "$",
+      "ewz",
+      "$",
+      "celg",
+      "$",
+      "mdbx"
+    ],
+    "created_at": "Tue Jan 05 05:48:09 +0000 2016",
+    "user_id_str": "2197054086",
+    "followers_count": 909
+  },
+  {
+    "text": [
+      "playing",
+      "along",
+      "with",
+      "this",
+      "years",
+      "cnbc",
+      "halftimeportfolio",
+      "holdings",
+      "$",
+      "bbry",
+      "$",
+      "bmrn",
+      "$",
+      "spwr",
+      "$",
+      "celg",
+      "$",
+      "symc"
+    ],
+    "created_at": "Tue Jan 05 02:09:22 +0000 2016",
+    "user_id_str": "3370769265",
+    "followers_count": 4
+  }
+]

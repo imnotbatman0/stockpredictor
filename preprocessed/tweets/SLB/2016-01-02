@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "amzn",
+      "inc",
+      "company",
+      "info",
+      "$",
+      "amzn",
+      "$",
+      "cat",
+      "$",
+      "hele",
+      "$",
+      "slb",
+      "amzn",
+      "pennystocks",
+      "stocks"
+    ],
+    "created_at": "Sat Jan 02 20:33:34 +0000 2016",
+    "user_id_str": "2196900553",
+    "followers_count": 699
+  },
+  {
+    "text": [
+      "schlumberger",
+      "limited",
+      "$",
+      "slb",
+      "assigned",
+      "a",
+      "credit",
+      "rating"
+    ],
+    "created_at": "Sat Jan 02 09:02:34 +0000 2016",
+    "user_id_str": "2181281054",
+    "followers_count": 573
+  }
+]

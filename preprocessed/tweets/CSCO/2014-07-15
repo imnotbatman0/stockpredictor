@@ -1,0 +1,66 @@
+[
+  {
+    "text": [
+      "get",
+      "research",
+      "on",
+      "$",
+      "im",
+      "$",
+      "csco",
+      "$",
+      "etfc",
+      "$",
+      "pcln",
+      "investing"
+    ],
+    "created_at": "Tue Jul 15 07:30:42 +0000 2014",
+    "user_id_str": "2537404948",
+    "followers_count": 11
+  },
+  {
+    "text": [
+      "$",
+      "csco",
+      "options",
+      "check-up",
+      "netflix",
+      "inc",
+      "wal-mart",
+      "stores",
+      "inc",
+      "and",
+      "cisco",
+      "systems",
+      "inc",
+      "options",
+      "check-up",
+      "netf"
+    ],
+    "created_at": "Tue Jul 15 13:03:38 +0000 2014",
+    "user_id_str": "255879714",
+    "followers_count": 2397
+  },
+  {
+    "text": [
+      "stocks",
+      "you",
+      "might",
+      "want",
+      "to",
+      "buy",
+      "$",
+      "bah",
+      "$",
+      "csco",
+      "$",
+      "slg",
+      "$",
+      "fb",
+      "click"
+    ],
+    "created_at": "Tue Jul 15 09:11:15 +0000 2014",
+    "user_id_str": "2461952191",
+    "followers_count": 3
+  }
+]

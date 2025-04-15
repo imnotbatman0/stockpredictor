@@ -1,0 +1,63 @@
+[
+  {
+    "text": [
+      "reuters",
+      "charter",
+      "in",
+      "talks",
+      "to",
+      "acquire",
+      "3m",
+      "subscribers",
+      "from",
+      "comcast",
+      "$",
+      "chtr",
+      "$",
+      "cmcsa",
+      "$",
+      "twc"
+    ],
+    "created_at": "Sun Apr 20 16:13:57 +0000 2014",
+    "user_id_str": "2180164206",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "echoes",
+      "of",
+      "betamax",
+      "as",
+      "supreme",
+      "court",
+      "hears",
+      "aereo",
+      "tv",
+      "case"
+    ],
+    "created_at": "Sun Apr 20 17:11:38 +0000 2014",
+    "user_id_str": "2342531144",
+    "followers_count": 22
+  },
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "fall",
+      "river",
+      "industrial",
+      "park",
+      "association",
+      "chips",
+      "in",
+      "for",
+      "high-speed",
+      "internet"
+    ],
+    "created_at": "Sun Apr 20 00:13:05 +0000 2014",
+    "user_id_str": "1704143060",
+    "followers_count": 167
+  }
+]

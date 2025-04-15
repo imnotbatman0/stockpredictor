@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "$",
+      "spy",
+      "$",
+      "flow",
+      "divergence",
+      "$",
+      "pep",
+      "consumer",
+      "goods",
+      "uptick",
+      "downtick",
+      "2",
+      "36",
+      "price",
+      "change",
+      "-0",
+      "02",
+      "$",
+      "flow",
+      "38",
+      "37",
+      "m"
+    ],
+    "created_at": "Fri Feb 19 16:48:59 +0000 2016",
+    "user_id_str": "4218453101",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "pep",
+      "top",
+      "news",
+      "-",
+      "feb",
+      "19th",
+      "2016",
+      "$",
+      "pep"
+    ],
+    "created_at": "Fri Feb 19 15:54:32 +0000 2016",
+    "user_id_str": "3121098012",
+    "followers_count": 579
+  }
+]

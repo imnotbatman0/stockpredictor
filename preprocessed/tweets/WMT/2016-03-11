@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "$",
+      "wmt",
+      "large",
+      "outflow",
+      "of",
+      "money",
+      "witnessed",
+      "in",
+      "wal-mart",
+      "stores"
+    ],
+    "created_at": "Fri Mar 11 05:11:14 +0000 2016",
+    "user_id_str": "2342215530",
+    "followers_count": 588
+  },
+  {
+    "text": [
+      "igd",
+      "takes",
+      "a",
+      "look",
+      "at",
+      "how",
+      "wal-mart",
+      "is",
+      "reinventing",
+      "food",
+      "area",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Fri Mar 11 14:30:37 +0000 2016",
+    "user_id_str": "34755196",
+    "followers_count": 5696
+  }
+]

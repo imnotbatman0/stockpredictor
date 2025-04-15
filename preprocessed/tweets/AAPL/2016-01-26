@@ -1,0 +1,117 @@
+[
+  {
+    "text": [
+      "these",
+      "assets",
+      "are",
+      "seeing",
+      "a",
+      "jump",
+      "in",
+      "tweets",
+      "$",
+      "aapl",
+      "$",
+      "audusd",
+      "$",
+      "db",
+      "$",
+      "hban"
+    ],
+    "created_at": "Tue Jan 26 01:19:05 +0000 2016",
+    "user_id_str": "3170121190",
+    "followers_count": 805
+  },
+  {
+    "text": [
+      "pet",
+      "pets",
+      "petstagram",
+      "dog",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "qqq",
+      "$",
+      "baba",
+      "$",
+      "twtr",
+      "kid"
+    ],
+    "created_at": "Tue Jan 26 06:19:19 +0000 2016",
+    "user_id_str": "4422358152",
+    "followers_count": 161
+  },
+  {
+    "text": [
+      "rt",
+      "terminator662",
+      "pets",
+      "dogs",
+      "petcare",
+      "kid",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "fb",
+      "$",
+      "baba",
+      "$",
+      "twtr"
+    ],
+    "created_at": "Tue Jan 26 06:28:36 +0000 2016",
+    "user_id_str": "3317903384",
+    "followers_count": 1036
+  },
+  {
+    "text": [
+      "apple",
+      "$",
+      "aapl",
+      "carplay",
+      "and",
+      "android",
+      "auto",
+      "to",
+      "drive",
+      "connectedcar",
+      "market",
+      "to",
+      "$600m",
+      "by",
+      "2020",
+      "-",
+      "investorideas"
+    ],
+    "created_at": "Tue Jan 26 00:12:25 +0000 2016",
+    "user_id_str": "266485817",
+    "followers_count": 2284
+  },
+  {
+    "text": [
+      "apple",
+      "trades",
+      "at",
+      "a",
+      "ridiculously",
+      "cheap",
+      "valuation",
+      "here",
+      "s",
+      "why",
+      "$",
+      "aapl",
+      "deserves",
+      "more",
+      "respect",
+      "via"
+    ],
+    "created_at": "Tue Jan 26 05:47:01 +0000 2016",
+    "user_id_str": "3237465343",
+    "followers_count": 38
+  }
+]

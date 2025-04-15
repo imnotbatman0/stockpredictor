@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "do",
+      "you",
+      "know",
+      "everything",
+      "while",
+      "trading",
+      "in",
+      "$",
+      "djia",
+      "$",
+      "cat",
+      "$",
+      "xom",
+      "$",
+      "gs"
+    ],
+    "created_at": "Sun Jan 24 04:40:48 +0000 2016",
+    "user_id_str": "3170121190",
+    "followers_count": 808
+  },
+  {
+    "text": [
+      "exxon",
+      "mobil",
+      "co",
+      "$",
+      "xom",
+      "short",
+      "interest",
+      "down",
+      "7",
+      "5",
+      "in",
+      "december"
+    ],
+    "created_at": "Sun Jan 24 06:56:31 +0000 2016",
+    "user_id_str": "2743641378",
+    "followers_count": 759
+  }
+]

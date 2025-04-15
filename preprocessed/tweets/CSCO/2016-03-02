@@ -1,0 +1,67 @@
+[
+  {
+    "text": [
+      "united",
+      "bank",
+      "va",
+      "sells",
+      "157",
+      "shares",
+      "of",
+      "cisco",
+      "systems",
+      "inc",
+      "$",
+      "csco",
+      "read",
+      "more"
+    ],
+    "created_at": "Wed Mar 02 17:58:37 +0000 2016",
+    "user_id_str": "4830606468",
+    "followers_count": 5
+  },
+  {
+    "text": [
+      "united",
+      "bank",
+      "inc",
+      "sells",
+      "5",
+      "646",
+      "shares",
+      "of",
+      "cisco",
+      "systems",
+      "inc",
+      "$",
+      "csco",
+      "read",
+      "more"
+    ],
+    "created_at": "Wed Mar 02 17:59:14 +0000 2016",
+    "user_id_str": "4830596772",
+    "followers_count": 5
+  },
+  {
+    "text": [
+      "united",
+      "bank",
+      "inc",
+      "sells",
+      "5",
+      "646",
+      "shares",
+      "of",
+      "cisco",
+      "systems",
+      "inc",
+      "$",
+      "csco",
+      "read",
+      "more"
+    ],
+    "created_at": "Wed Mar 02 17:59:14 +0000 2016",
+    "user_id_str": "4830606468",
+    "followers_count": 5
+  }
+]

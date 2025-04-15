@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "ea",
+      "electronic",
+      "arts",
+      "inc",
+      "eod",
+      "data",
+      "$",
+      "ea",
+      "$",
+      "hca",
+      "$",
+      "sh",
+      "$",
+      "v",
+      "ea",
+      "invest",
+      "invest"
+    ],
+    "created_at": "Fri Jun 26 07:35:05 +0000 2015",
+    "user_id_str": "2285996066",
+    "followers_count": 751
+  },
+  {
+    "text": [
+      "xlv",
+      "health",
+      "care",
+      "select",
+      "sector",
+      "spdr",
+      "eod",
+      "data",
+      "$",
+      "xlv",
+      "$",
+      "v",
+      "$",
+      "goog",
+      "$",
+      "dwti",
+      "xlv",
+      "share",
+      "nasdaq"
+    ],
+    "created_at": "Fri Jun 26 05:50:03 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 544
+  },
+  {
+    "text": [
+      "gld",
+      "spdr",
+      "gold",
+      "trust",
+      "shares",
+      "eod",
+      "data",
+      "$",
+      "gld",
+      "$",
+      "v",
+      "$",
+      "mmm",
+      "$",
+      "rsx",
+      "gld",
+      "share",
+      "pennystocks"
+    ],
+    "created_at": "Fri Jun 26 01:54:20 +0000 2015",
+    "user_id_str": "3279101111",
+    "followers_count": 2
+  }
+]

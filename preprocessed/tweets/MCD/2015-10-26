@@ -1,0 +1,65 @@
+[
+  {
+    "text": [
+      "$",
+      "mcd",
+      "-",
+      "is",
+      "now",
+      "the",
+      "right",
+      "time",
+      "to",
+      "buy",
+      "mcdonald",
+      "s",
+      "corporation"
+    ],
+    "created_at": "Mon Oct 26 22:31:08 +0000 2015",
+    "user_id_str": "2523375564",
+    "followers_count": 689
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "news",
+      "mcdonald",
+      "s",
+      "to",
+      "allow",
+      "proxy",
+      "access",
+      "for",
+      "major",
+      "investors",
+      "$",
+      "mcd",
+      "analyze"
+    ],
+    "created_at": "Mon Oct 26 21:53:37 +0000 2015",
+    "user_id_str": "3810470233",
+    "followers_count": 110
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "$",
+      "msft",
+      "the",
+      "case",
+      "for",
+      "selling",
+      "mcdonald",
+      "s",
+      "corporation",
+      "mcd",
+      "and",
+      "microsoft"
+    ],
+    "created_at": "Mon Oct 26 15:15:09 +0000 2015",
+    "user_id_str": "2344619544",
+    "followers_count": 465
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "gg",
+      "goldcorp",
+      "inc",
+      "prev",
+      "close",
+      "$",
+      "gg",
+      "$",
+      "ar",
+      "to",
+      "$",
+      "cat",
+      "$",
+      "swn",
+      "gg",
+      "finance",
+      "nasdaq"
+    ],
+    "created_at": "Sat Jan 02 05:40:02 +0000 2016",
+    "user_id_str": "1850041968",
+    "followers_count": 1040
+  },
+  {
+    "text": [
+      "amzn",
+      "inc",
+      "company",
+      "info",
+      "$",
+      "amzn",
+      "$",
+      "cat",
+      "$",
+      "hele",
+      "$",
+      "slb",
+      "amzn",
+      "pennystocks",
+      "stocks"
+    ],
+    "created_at": "Sat Jan 02 20:33:34 +0000 2016",
+    "user_id_str": "2196900553",
+    "followers_count": 699
+  }
+]

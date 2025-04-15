@@ -1,0 +1,72 @@
+[
+  {
+    "text": [
+      "tsla",
+      "tesla",
+      "motors",
+      "inc",
+      "investor",
+      "opinions",
+      "$",
+      "tsla",
+      "$",
+      "slv",
+      "$",
+      "csco",
+      "$",
+      "eem",
+      "tsla",
+      "tradeideas",
+      "share"
+    ],
+    "created_at": "Sun Jul 12 07:46:25 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1423
+  },
+  {
+    "text": [
+      "de",
+      "deere",
+      "amp",
+      "co",
+      "dividend",
+      "$",
+      "de",
+      "$",
+      "csco",
+      "$",
+      "iyr",
+      "$",
+      "aria",
+      "de",
+      "nasdaq",
+      "stock"
+    ],
+    "created_at": "Sun Jul 12 07:34:35 +0000 2015",
+    "user_id_str": "2181326676",
+    "followers_count": 562
+  },
+  {
+    "text": [
+      "mu",
+      "micron",
+      "technology",
+      "inc",
+      "yield",
+      "$",
+      "mu",
+      "$",
+      "csco",
+      "$",
+      "itb",
+      "$",
+      "cers",
+      "mu",
+      "share",
+      "finance"
+    ],
+    "created_at": "Sat Jul 11 22:44:03 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1424
+  }
+]

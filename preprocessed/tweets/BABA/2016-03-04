@@ -1,0 +1,65 @@
+[
+  {
+    "text": [
+      "$",
+      "baba",
+      "c",
+      "mon",
+      "now",
+      "tank",
+      "time"
+    ],
+    "created_at": "Fri Mar 04 15:06:44 +0000 2016",
+    "user_id_str": "23665498",
+    "followers_count": 231
+  },
+  {
+    "text": [
+      "tdam",
+      "usa",
+      "inc",
+      "buys",
+      "shares",
+      "of",
+      "24",
+      "238",
+      "alibaba",
+      "group",
+      "holding",
+      "ltd",
+      "$",
+      "baba"
+    ],
+    "created_at": "Fri Mar 04 09:38:42 +0000 2016",
+    "user_id_str": "2181281054",
+    "followers_count": 629
+  },
+  {
+    "text": [
+      "notable",
+      "opening",
+      "imbalances",
+      "$",
+      "bac",
+      "462k",
+      "$",
+      "c",
+      "132k",
+      "$",
+      "jcp",
+      "122k",
+      "$",
+      "cvx",
+      "-54k",
+      "$",
+      "pep",
+      "-46k",
+      "$",
+      "baba",
+      "-73k"
+    ],
+    "created_at": "Fri Mar 04 14:22:18 +0000 2016",
+    "user_id_str": "338330795",
+    "followers_count": 73968
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": [
+      "awesome",
+      "stock",
+      "research",
+      "on",
+      "$",
+      "vz",
+      "$",
+      "cah",
+      "$",
+      "pnw",
+      "$",
+      "aapl",
+      "view",
+      "now"
+    ],
+    "created_at": "Tue Dec 02 04:24:39 +0000 2014",
+    "user_id_str": "2749761228",
+    "followers_count": 199
+  },
+  {
+    "text": [
+      "dennyt",
+      "pcln",
+      "key",
+      "statistics",
+      "$",
+      "pcln",
+      "$",
+      "vz",
+      "$",
+      "mcd",
+      "$",
+      "xlu",
+      "$",
+      "ashr",
+      "buy"
+    ],
+    "created_at": "Tue Dec 02 16:04:26 +0000 2014",
+    "user_id_str": "2579477766",
+    "followers_count": 12780
+  },
+  {
+    "text": [
+      "looking",
+      "for",
+      "research",
+      "on",
+      "$",
+      "cmcsa",
+      "$",
+      "vz",
+      "$",
+      "kos",
+      "$",
+      "ibm",
+      "financialnews"
+    ],
+    "created_at": "Tue Dec 02 00:40:52 +0000 2014",
+    "user_id_str": "2723763660",
+    "followers_count": 78
+  }
+]

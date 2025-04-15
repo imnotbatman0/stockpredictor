@@ -1,0 +1,75 @@
+[
+  {
+    "text": [
+      "oracle",
+      "s",
+      "$",
+      "orcl",
+      "equal",
+      "weight",
+      "rating",
+      "reaffirmed",
+      "at",
+      "morgan",
+      "stanley"
+    ],
+    "created_at": "Tue Mar 29 10:05:39 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 6048
+  },
+  {
+    "text": [
+      "gamble",
+      "jones",
+      "investment",
+      "counsel",
+      "reduces",
+      "stake",
+      "in",
+      "oracle",
+      "co",
+      "$",
+      "orcl"
+    ],
+    "created_at": "Tue Mar 29 20:24:57 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 6054
+  },
+  {
+    "text": [
+      "gamble",
+      "jones",
+      "investment",
+      "counsel",
+      "reduces",
+      "stake",
+      "in",
+      "oracle",
+      "co",
+      "$",
+      "orcl"
+    ],
+    "created_at": "Tue Mar 29 20:24:57 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 6054
+  },
+  {
+    "text": [
+      "oracle",
+      "seeking",
+      "$12",
+      "3bn",
+      "in",
+      "lawsuit",
+      "against",
+      "google",
+      "read",
+      "more",
+      "$",
+      "orcl"
+    ],
+    "created_at": "Tue Mar 29 07:02:05 +0000 2016",
+    "user_id_str": "4825963711",
+    "followers_count": 27
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "text": [
+      "alibaba",
+      "stock",
+      "is",
+      "expected",
+      "to",
+      "begin",
+      "trading",
+      "on",
+      "the",
+      "new",
+      "york",
+      "stock",
+      "exchange",
+      "in",
+      "less",
+      "than",
+      "a",
+      "fortnight",
+      "$",
+      "baba",
+      "$",
+      "amzn",
+      "$",
+      "yhoo"
+    ],
+    "created_at": "Wed Sep 03 04:30:06 +0000 2014",
+    "user_id_str": "1310354202",
+    "followers_count": 14423
+  },
+  {
+    "text": [
+      "your",
+      "fave",
+      "cio",
+      "tweeter",
+      "tells",
+      "$",
+      "baba",
+      "ipo",
+      "windfall",
+      "not",
+      "priced-in",
+      "to",
+      "$",
+      "yhoo"
+    ],
+    "created_at": "Tue Sep 02 22:53:28 +0000 2014",
+    "user_id_str": "112441291",
+    "followers_count": 18991
+  }
+]

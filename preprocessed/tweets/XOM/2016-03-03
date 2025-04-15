@@ -1,0 +1,87 @@
+[
+  {
+    "text": [
+      "hsbc",
+      "analysts",
+      "give",
+      "exxonmobil",
+      "co",
+      "$",
+      "xom",
+      "a",
+      "$82",
+      "50",
+      "price",
+      "target",
+      "read",
+      "more"
+    ],
+    "created_at": "Thu Mar 03 22:25:13 +0000 2016",
+    "user_id_str": "4831487449",
+    "followers_count": 6
+  },
+  {
+    "text": [
+      "hsbc",
+      "analysts",
+      "give",
+      "exxonmobil",
+      "co",
+      "$",
+      "xom",
+      "a",
+      "$82",
+      "50",
+      "price",
+      "target",
+      "read",
+      "more"
+    ],
+    "created_at": "Thu Mar 03 22:25:50 +0000 2016",
+    "user_id_str": "4831487449",
+    "followers_count": 6
+  },
+  {
+    "text": [
+      "xom",
+      "exxon",
+      "mobil",
+      "corp",
+      "last",
+      "price",
+      "$",
+      "xom",
+      "$",
+      "aapl",
+      "$",
+      "hzd",
+      "to",
+      "$",
+      "ziv",
+      "finance",
+      "stocks"
+    ],
+    "created_at": "Thu Mar 03 12:32:23 +0000 2016",
+    "user_id_str": "2801334731",
+    "followers_count": 1071
+  },
+  {
+    "text": [
+      "$",
+      "xom",
+      "exxon",
+      "not",
+      "the",
+      "best",
+      "way",
+      "to",
+      "survive",
+      "the",
+      "oil",
+      "apocalypse"
+    ],
+    "created_at": "Thu Mar 03 15:19:16 +0000 2016",
+    "user_id_str": "2342215530",
+    "followers_count": 582
+  }
+]

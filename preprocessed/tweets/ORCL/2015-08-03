@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "our",
+      "stock",
+      "alerts",
+      "gained",
+      "over",
+      "550",
+      "in",
+      "5",
+      "weeks",
+      "see",
+      "our",
+      "massive",
+      "new",
+      "pick",
+      "coming",
+      "tomorrow",
+      "$",
+      "msft",
+      "$",
+      "orcl",
+      "$",
+      "vod"
+    ],
+    "created_at": "Mon Aug 03 21:14:52 +0000 2015",
+    "user_id_str": "3315798743",
+    "followers_count": 13053
+  },
+  {
+    "text": [
+      "$",
+      "orcl"
+    ],
+    "created_at": "Mon Aug 03 11:06:23 +0000 2015",
+    "user_id_str": "416647547",
+    "followers_count": 814
+  }
+]

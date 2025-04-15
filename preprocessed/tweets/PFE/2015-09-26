@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "brwc",
+      "boreal",
+      "water",
+      "collection",
+      "inc",
+      "company",
+      "info",
+      "$",
+      "brwc",
+      "$",
+      "pfe",
+      "$",
+      "tza",
+      "$",
+      "abbv",
+      "brwc",
+      "finance",
+      "stocks"
+    ],
+    "created_at": "Sat Sep 26 01:35:04 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 834
+  },
+  {
+    "text": [
+      "nbix",
+      "neurocrine",
+      "biosciences",
+      "inc",
+      "chart",
+      "$",
+      "nbix",
+      "$",
+      "dd",
+      "$",
+      "pfe",
+      "$",
+      "cybr",
+      "nbix",
+      "stocks",
+      "stockmarket"
+    ],
+    "created_at": "Sat Sep 26 11:40:47 +0000 2015",
+    "user_id_str": "3436444905",
+    "followers_count": 6
+  }
+]

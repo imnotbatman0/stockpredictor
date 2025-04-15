@@ -1,0 +1,30 @@
+[
+  {
+    "text": [
+      "$",
+      "csiq",
+      "$",
+      "baba",
+      "analyst",
+      "recommendations",
+      "canadian",
+      "solar",
+      "inc",
+      "nasdaq",
+      "csiq"
+    ],
+    "created_at": "Fri Mar 11 14:02:15 +0000 2016",
+    "user_id_str": "2344619544",
+    "followers_count": 682
+  },
+  {
+    "text": [
+      "$",
+      "baba",
+      "chart"
+    ],
+    "created_at": "Fri Mar 11 21:15:46 +0000 2016",
+    "user_id_str": "53215424",
+    "followers_count": 16004
+  }
+]

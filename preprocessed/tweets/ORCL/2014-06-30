@@ -1,0 +1,108 @@
+[
+  {
+    "text": [
+      "some",
+      "stocks",
+      "to",
+      "watch",
+      "$",
+      "orcl",
+      "$",
+      "celg",
+      "$",
+      "grpn",
+      "$",
+      "bwp",
+      "nasdaq"
+    ],
+    "created_at": "Mon Jun 30 09:01:53 +0000 2014",
+    "user_id_str": "2492351984",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "sick",
+      "and",
+      "tired",
+      "of",
+      "losing",
+      "money",
+      "on",
+      "$",
+      "bms",
+      "$",
+      "orcl",
+      "$",
+      "psx",
+      "$",
+      "ir",
+      "financialnews"
+    ],
+    "created_at": "Mon Jun 30 03:00:44 +0000 2014",
+    "user_id_str": "2479506450",
+    "followers_count": 1
+  },
+  {
+    "text": [
+      "$",
+      "bbry",
+      "change",
+      "also",
+      "see",
+      "$",
+      "ppje",
+      "$",
+      "orcl",
+      "$",
+      "kfx",
+      "$",
+      "bmin"
+    ],
+    "created_at": "Mon Jun 30 15:49:43 +0000 2014",
+    "user_id_str": "2196900553",
+    "followers_count": 147
+  },
+  {
+    "text": [
+      "$",
+      "orcl",
+      "why",
+      "oracle",
+      "is",
+      "a",
+      "solid",
+      "buy",
+      "o"
+    ],
+    "created_at": "Mon Jun 30 20:02:00 +0000 2014",
+    "user_id_str": "2489175294",
+    "followers_count": 1
+  },
+  {
+    "text": [
+      "subscribers",
+      "saw",
+      "our",
+      "penny",
+      "stock",
+      "picks",
+      "gain",
+      "over",
+      "4",
+      "000",
+      "this",
+      "year",
+      "subscribe",
+      "today",
+      "$",
+      "orcl",
+      "$",
+      "yhoo",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Mon Jun 30 00:11:11 +0000 2014",
+    "user_id_str": "2447967798",
+    "followers_count": 16554
+  }
+]

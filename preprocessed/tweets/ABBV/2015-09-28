@@ -1,0 +1,46 @@
+[
+  {
+    "text": [
+      "brk",
+      "b",
+      "berkshire",
+      "hathaway",
+      "inc",
+      "bid",
+      "size",
+      "$",
+      "brk",
+      "b",
+      "$",
+      "abbv",
+      "$",
+      "xpo",
+      "$",
+      "vcr",
+      "brk",
+      "b",
+      "nasdaq",
+      "stockmarket"
+    ],
+    "created_at": "Sun Sep 27 22:35:15 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 995
+  },
+  {
+    "text": [
+      "abbvie",
+      "earns",
+      "outperform",
+      "rating",
+      "from",
+      "cowen",
+      "and",
+      "company",
+      "$",
+      "abbv"
+    ],
+    "created_at": "Mon Sep 28 15:42:12 +0000 2015",
+    "user_id_str": "1979190776",
+    "followers_count": 724
+  }
+]

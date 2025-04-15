@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "mrk",
+      "merck",
+      "amp",
+      "co",
+      "inc",
+      "ask",
+      "size",
+      "$",
+      "mrk",
+      "$",
+      "hca",
+      "$",
+      "vz",
+      "$",
+      "admd",
+      "mrk",
+      "tradeideas",
+      "nasdaq"
+    ],
+    "created_at": "Sat May 23 14:42:34 +0000 2015",
+    "user_id_str": "2181403417",
+    "followers_count": 338
+  },
+  {
+    "text": [
+      "merck",
+      "msd",
+      "re",
+      "oit",
+      "de",
+      "la",
+      "part",
+      "du",
+      "chmp",
+      "un",
+      "avis",
+      "favorable",
+      "concernant",
+      "le",
+      "pemb",
+      "$",
+      "mrk"
+    ],
+    "created_at": "Sat May 23 01:12:03 +0000 2015",
+    "user_id_str": "1953776653",
+    "followers_count": 490
+  }
+]

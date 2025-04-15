@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "tna",
+      "tesla",
+      "motors",
+      "inc",
+      "chart",
+      "$",
+      "tna",
+      "$",
+      "ewz",
+      "$",
+      "intc",
+      "$",
+      "labu",
+      "share",
+      "share"
+    ],
+    "created_at": "Thu Mar 03 05:21:33 +0000 2016",
+    "user_id_str": "1854900966",
+    "followers_count": 380
+  },
+  {
+    "text": [
+      "intel",
+      "co",
+      "$",
+      "intc",
+      "pt",
+      "lowered",
+      "to",
+      "$38",
+      "00"
+    ],
+    "created_at": "Thu Mar 03 22:06:22 +0000 2016",
+    "user_id_str": "2348716116",
+    "followers_count": 2093
+  }
+]

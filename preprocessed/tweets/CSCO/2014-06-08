@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "$",
+      "csco",
+      "awesome",
+      "stock",
+      "research",
+      "$",
+      "ppg",
+      "$",
+      "dhr",
+      "$",
+      "df",
+      "visit"
+    ],
+    "created_at": "Sun Jun 08 11:57:40 +0000 2014",
+    "user_id_str": "2540790335",
+    "followers_count": 5
+  },
+  {
+    "text": [
+      "insider",
+      "trading",
+      "alerts",
+      "on",
+      "$",
+      "tfx",
+      "$",
+      "pvh",
+      "$",
+      "csco",
+      "$",
+      "pcln",
+      "newsletter"
+    ],
+    "created_at": "Sun Jun 08 11:15:41 +0000 2014",
+    "user_id_str": "2486821130",
+    "followers_count": 8
+  }
+]

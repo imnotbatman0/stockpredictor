@@ -1,0 +1,55 @@
+[
+  {
+    "text": [
+      "rt",
+      "rt",
+      "tvc",
+      "education",
+      "january",
+      "24",
+      "2016",
+      "the",
+      "week",
+      "ahead",
+      "$",
+      "aapl",
+      "$",
+      "msft",
+      "$",
+      "fb",
+      "$",
+      "amzn",
+      "$",
+      "cat",
+      "$",
+      "hal",
+      "$",
+      "ll"
+    ],
+    "created_at": "Sun Jan 24 22:38:12 +0000 2016",
+    "user_id_str": "3331182800",
+    "followers_count": 1748
+  },
+  {
+    "text": [
+      "do",
+      "you",
+      "know",
+      "everything",
+      "while",
+      "trading",
+      "in",
+      "$",
+      "djia",
+      "$",
+      "cat",
+      "$",
+      "xom",
+      "$",
+      "gs"
+    ],
+    "created_at": "Sun Jan 24 04:40:48 +0000 2016",
+    "user_id_str": "3170121190",
+    "followers_count": 808
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "$",
+      "v",
+      "$$",
+      "visa",
+      "mastercard",
+      "say",
+      "new",
+      "rus"
+    ],
+    "created_at": "Mon Apr 28 20:21:25 +0000 2014",
+    "user_id_str": "2471467654",
+    "followers_count": 18
+  },
+  {
+    "text": [
+      "visa",
+      "rating",
+      "reiterated",
+      "by",
+      "zacks",
+      "$",
+      "v"
+    ],
+    "created_at": "Mon Apr 28 14:52:28 +0000 2014",
+    "user_id_str": "565538332",
+    "followers_count": 392
+  },
+  {
+    "text": [
+      "great",
+      "stock",
+      "newsletter",
+      "on",
+      "$",
+      "gmcr",
+      "$",
+      "v",
+      "$",
+      "trn",
+      "$",
+      "gain",
+      "click"
+    ],
+    "created_at": "Mon Apr 28 03:50:59 +0000 2014",
+    "user_id_str": "2470176993",
+    "followers_count": 10
+  }
+]

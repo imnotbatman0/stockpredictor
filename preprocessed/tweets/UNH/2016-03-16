@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "unitedhealth",
+      "group",
+      "inc",
+      "$",
+      "unh",
+      "director",
+      "gail",
+      "r",
+      "wilensky",
+      "sells",
+      "5",
+      "420",
+      "shares"
+    ],
+    "created_at": "Wed Mar 16 16:04:57 +0000 2016",
+    "user_id_str": "2348716116",
+    "followers_count": 2130
+  },
+  {
+    "text": [
+      "3",
+      "healthcare",
+      "dividends",
+      "with",
+      "200",
+      "upside",
+      "$",
+      "cvs",
+      "$",
+      "unh",
+      "$",
+      "vtr"
+    ],
+    "created_at": "Tue Mar 15 23:55:07 +0000 2016",
+    "user_id_str": "2497045194",
+    "followers_count": 808
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "text": [
+      "disney",
+      "cruise",
+      "line",
+      "adds",
+      "star",
+      "wars",
+      "day",
+      "at",
+      "sea",
+      "on",
+      "disney",
+      "fantasy",
+      "in",
+      "2016",
+      "$",
+      "dis"
+    ],
+    "created_at": "Wed Feb 11 15:27:59 +0000 2015",
+    "user_id_str": "1297565892",
+    "followers_count": 806
+  },
+  {
+    "text": [
+      "$",
+      "dis",
+      "news",
+      "report",
+      "sony",
+      "talking",
+      "with",
+      "disney",
+      "about",
+      "playstation",
+      "vue",
+      "inclusion",
+      "board",
+      "view"
+    ],
+    "created_at": "Wed Feb 11 01:58:23 +0000 2015",
+    "user_id_str": "1924310023",
+    "followers_count": 197
+  }
+]

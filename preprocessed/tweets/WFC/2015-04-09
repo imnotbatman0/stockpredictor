@@ -1,0 +1,65 @@
+[
+  {
+    "text": [
+      "$",
+      "wfc",
+      "stock",
+      "message",
+      "board",
+      "updated",
+      "thursday",
+      "april",
+      "9",
+      "2015",
+      "02",
+      "11",
+      "41",
+      "am",
+      "$",
+      "sfun",
+      "$",
+      "myl",
+      "$",
+      "cat",
+      "$",
+      "cybr"
+    ],
+    "created_at": "Thu Apr 09 06:50:36 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 462
+  },
+  {
+    "text": [
+      "$",
+      "wfc",
+      "wellsfargo",
+      "wells",
+      "fargo",
+      "banking",
+      "bigdata"
+    ],
+    "created_at": "Thu Apr 09 13:13:15 +0000 2015",
+    "user_id_str": "1245579715",
+    "followers_count": 792
+  },
+  {
+    "text": [
+      "ge",
+      "pr",
+      "s",
+      "de",
+      "vendre",
+      "tout",
+      "ou",
+      "partie",
+      "de",
+      "son",
+      "immobilier-source",
+      "$",
+      "wfc"
+    ],
+    "created_at": "Thu Apr 09 18:14:03 +0000 2015",
+    "user_id_str": "1953776653",
+    "followers_count": 411
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "text": [
+      "xom",
+      "exxon",
+      "mobil",
+      "corp",
+      "p",
+      "e",
+      "ratio",
+      "$",
+      "xom",
+      "$",
+      "baba",
+      "$",
+      "swks",
+      "$",
+      "iwm",
+      "xom",
+      "stocks",
+      "nasdaq"
+    ],
+    "created_at": "Sat May 30 19:51:06 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13052
+  },
+  {
+    "text": [
+      "eem",
+      "ishares",
+      "msci",
+      "emerging",
+      "markets",
+      "ideas",
+      "$",
+      "eem",
+      "$",
+      "fb",
+      "$",
+      "esm15",
+      "$",
+      "baba",
+      "eem",
+      "share",
+      "invest"
+    ],
+    "created_at": "Sat May 30 07:38:04 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 601
+  },
+  {
+    "text": [
+      "cien",
+      "ciena",
+      "corp",
+      "p",
+      "e",
+      "ratio",
+      "$",
+      "cien",
+      "$",
+      "pwrd",
+      "$",
+      "rusl",
+      "$",
+      "baba",
+      "cien",
+      "stock",
+      "stock"
+    ],
+    "created_at": "Sat May 30 13:34:15 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 635
+  },
+  {
+    "text": [
+      "odfl",
+      "old",
+      "dominion",
+      "freight",
+      "line",
+      "inc",
+      "dividend",
+      "$",
+      "odfl",
+      "$",
+      "baba",
+      "$",
+      "fxa",
+      "$",
+      "intc",
+      "odfl",
+      "stocks",
+      "pennystocks"
+    ],
+    "created_at": "Sat May 30 07:44:09 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 424
+  }
+]

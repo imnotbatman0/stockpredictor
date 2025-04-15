@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "$",
+      "orcl",
+      "-",
+      "why",
+      "intel",
+      "corporation",
+      "and",
+      "oracle",
+      "corporation",
+      "teamed",
+      "up",
+      "against",
+      "ibm"
+    ],
+    "created_at": "Sun Nov 01 19:31:14 +0000 2015",
+    "user_id_str": "502837856",
+    "followers_count": 8
+  },
+  {
+    "text": [
+      "oracle",
+      "stock",
+      "rating",
+      "reaffirmed",
+      "by",
+      "piper",
+      "jaffray",
+      "$",
+      "orcl"
+    ],
+    "created_at": "Sun Nov 01 19:14:22 +0000 2015",
+    "user_id_str": "61661638",
+    "followers_count": 5521
+  }
+]

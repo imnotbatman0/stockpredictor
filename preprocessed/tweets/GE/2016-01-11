@@ -1,0 +1,66 @@
+[
+  {
+    "text": [
+      "general",
+      "electric",
+      "company",
+      "$",
+      "ge",
+      "position",
+      "lowered",
+      "by",
+      "chicago",
+      "trust",
+      "company"
+    ],
+    "created_at": "Mon Jan 11 06:27:37 +0000 2016",
+    "user_id_str": "565538332",
+    "followers_count": 450
+  },
+  {
+    "text": [
+      "that",
+      "$",
+      "ge",
+      "flash",
+      "dash",
+      "was",
+      "all",
+      "at",
+      "nyse",
+      "blue",
+      "dots"
+    ],
+    "created_at": "Mon Jan 11 16:27:20 +0000 2016",
+    "user_id_str": "374775473",
+    "followers_count": 2055
+  },
+  {
+    "text": [
+      "2015",
+      "jbem",
+      "trading",
+      "review",
+      "$",
+      "gdxs",
+      "$",
+      "gdxx",
+      "$",
+      "ge",
+      "$",
+      "geb",
+      "$",
+      "gef",
+      "$",
+      "gef",
+      "b",
+      "$",
+      "geh",
+      "$",
+      "gek"
+    ],
+    "created_at": "Mon Jan 11 19:45:43 +0000 2016",
+    "user_id_str": "3518191635",
+    "followers_count": 99
+  }
+]

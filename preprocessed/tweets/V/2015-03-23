@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "subscribed",
+      "to",
+      "$",
+      "v",
+      "to",
+      "add",
+      "another",
+      "tweet",
+      "$",
+      "symbol",
+      "to",
+      "unsubscribe",
+      "unsubscribe",
+      "$",
+      "symbol"
+    ],
+    "created_at": "Mon Mar 23 11:45:11 +0000 2015",
+    "user_id_str": "3017654325",
+    "followers_count": 381
+  },
+  {
+    "text": [
+      "gainers",
+      "$",
+      "gpt",
+      "304",
+      "07",
+      "$",
+      "v",
+      "300",
+      "37",
+      "$",
+      "imgn",
+      "18",
+      "55",
+      "losers",
+      "$",
+      "cemp-8",
+      "00",
+      "$",
+      "ksu-7",
+      "93",
+      "$",
+      "aspx-7",
+      "56",
+      "stock",
+      "movers",
+      "report"
+    ],
+    "created_at": "Mon Mar 23 18:00:03 +0000 2015",
+    "user_id_str": "1553291664",
+    "followers_count": 743
+  },
+  {
+    "text": [
+      "$",
+      "ma",
+      "$",
+      "v",
+      "$",
+      "adp",
+      "$",
+      "fis",
+      "$",
+      "fisv",
+      "revenue",
+      "trend",
+      "comparison"
+    ],
+    "created_at": "Mon Mar 23 07:27:14 +0000 2015",
+    "user_id_str": "2796938558",
+    "followers_count": 365
+  }
+]

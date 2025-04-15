@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "$",
+      "wmt",
+      "wal-mart",
+      "stores",
+      "inc",
+      "nyse",
+      "wmt",
+      "comes",
+      "in",
+      "list",
+      "of",
+      "value",
+      "stocks"
+    ],
+    "created_at": "Tue Mar 01 20:21:05 +0000 2016",
+    "user_id_str": "2341445778",
+    "followers_count": 822
+  },
+  {
+    "text": [
+      "$",
+      "cvs",
+      "short",
+      "squeeze",
+      "in",
+      "cvs",
+      "health",
+      "strongly",
+      "placed",
+      "to",
+      "tap",
+      "growth",
+      "opportunities",
+      "via",
+      "$",
+      "wba",
+      "$",
+      "tgt",
+      "$",
+      "wmt",
+      "$",
+      "gs"
+    ],
+    "created_at": "Tue Mar 01 18:34:10 +0000 2016",
+    "user_id_str": "408677509",
+    "followers_count": 118
+  }
+]

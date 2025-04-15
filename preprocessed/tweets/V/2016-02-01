@@ -1,0 +1,58 @@
+[
+  {
+    "text": [
+      "track",
+      "trending",
+      "assets",
+      "in",
+      "1",
+      "watchlist",
+      "ftse100",
+      "$",
+      "gbpaud",
+      "$",
+      "twtr",
+      "$",
+      "usdjpy",
+      "$",
+      "v"
+    ],
+    "created_at": "Mon Feb 01 01:14:12 +0000 2016",
+    "user_id_str": "2631067478",
+    "followers_count": 591
+  },
+  {
+    "text": [
+      "lt",
+      "took",
+      "a",
+      "big",
+      "leap",
+      "of",
+      "faith",
+      "and",
+      "bought",
+      "pennystocking",
+      "silver",
+      "and",
+      "it",
+      "was",
+      "definitely",
+      "worth",
+      "it",
+      "$",
+      "xbi",
+      "$",
+      "tasr",
+      "$",
+      "ges",
+      "$",
+      "v",
+      "$",
+      "ohrp"
+    ],
+    "created_at": "Mon Feb 01 15:10:41 +0000 2016",
+    "user_id_str": "3283613642",
+    "followers_count": 17
+  }
+]

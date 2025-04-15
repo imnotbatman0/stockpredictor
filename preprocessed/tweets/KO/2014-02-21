@@ -1,0 +1,78 @@
+[
+  {
+    "text": [
+      "coca",
+      "cola",
+      "-",
+      "its",
+      "the",
+      "real",
+      "thing",
+      "$",
+      "ko"
+    ],
+    "created_at": "Fri Feb 21 18:54:28 +0000 2014",
+    "user_id_str": "2254754924",
+    "followers_count": 20
+  },
+  {
+    "text": [
+      "donald",
+      "f",
+      "mchenry",
+      "jacob",
+      "wallenberg",
+      "to",
+      "retire",
+      "from",
+      "the",
+      "coca-cola",
+      "company",
+      "$",
+      "ko"
+    ],
+    "created_at": "Thu Feb 20 22:52:05 +0000 2014",
+    "user_id_str": "704897486",
+    "followers_count": 1003
+  },
+  {
+    "text": [
+      "$",
+      "ko",
+      "coca-cola",
+      "has",
+      "expanded",
+      "globally",
+      "by",
+      "placing",
+      "16",
+      "000",
+      "freestyle",
+      "fountain",
+      "machines"
+    ],
+    "created_at": "Fri Feb 21 17:51:32 +0000 2014",
+    "user_id_str": "1944293977",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "the",
+      "coca-cola",
+      "company",
+      "announces",
+      "letters",
+      "of",
+      "intent",
+      "with",
+      "two",
+      "new",
+      "bottling",
+      "$",
+      "ko"
+    ],
+    "created_at": "Fri Feb 21 17:06:55 +0000 2014",
+    "user_id_str": "704897486",
+    "followers_count": 1002
+  }
+]

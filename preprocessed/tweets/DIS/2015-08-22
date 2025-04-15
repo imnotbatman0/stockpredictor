@@ -1,0 +1,28 @@
+[
+  {
+    "text": [
+      "disney",
+      "trade",
+      "setup",
+      "$",
+      "dis"
+    ],
+    "created_at": "Sat Aug 22 11:23:51 +0000 2015",
+    "user_id_str": "2461556142",
+    "followers_count": 2304
+  },
+  {
+    "text": [
+      "to",
+      "all",
+      "the",
+      "$",
+      "dis",
+      "bears",
+      "via"
+    ],
+    "created_at": "Sat Aug 22 19:31:50 +0000 2015",
+    "user_id_str": "2440168793",
+    "followers_count": 31
+  }
+]

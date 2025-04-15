@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "follow",
+      "nasdaq",
+      "100",
+      "traders",
+      "amp",
+      "track",
+      "their",
+      "tweets",
+      "under",
+      "one",
+      "watchlist",
+      "$",
+      "amgn",
+      "$",
+      "qcom"
+    ],
+    "created_at": "Wed Feb 24 01:35:11 +0000 2016",
+    "user_id_str": "2373813025",
+    "followers_count": 812
+  },
+  {
+    "text": [
+      "trending",
+      "biotech",
+      "topics",
+      "include",
+      "$",
+      "gtxi",
+      "$",
+      "amgn",
+      "fragments",
+      "stocks",
+      "invest",
+      "see",
+      "more"
+    ],
+    "created_at": "Wed Feb 24 19:32:26 +0000 2016",
+    "user_id_str": "2479150057",
+    "followers_count": 869
+  }
+]

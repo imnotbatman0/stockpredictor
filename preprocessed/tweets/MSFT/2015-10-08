@@ -1,0 +1,83 @@
+[
+  {
+    "text": [
+      "$",
+      "msft",
+      "top",
+      "growth",
+      "pick",
+      "microsoft",
+      "corporation",
+      "nasdaq",
+      "msft"
+    ],
+    "created_at": "Thu Oct 08 18:26:03 +0000 2015",
+    "user_id_str": "2342215530",
+    "followers_count": 413
+  },
+  {
+    "text": [
+      "chrome",
+      "is",
+      "windows",
+      "10",
+      "user",
+      "browser",
+      "of",
+      "choice",
+      "$",
+      "goog",
+      "$",
+      "msft"
+    ],
+    "created_at": "Thu Oct 08 18:57:20 +0000 2015",
+    "user_id_str": "151823689",
+    "followers_count": 334
+  },
+  {
+    "text": [
+      "qualcomm",
+      "microsoft",
+      "remains",
+      "loyal",
+      "to",
+      "snapdragon",
+      "processors",
+      "$",
+      "qcom",
+      "$",
+      "aapl",
+      "$",
+      "googl",
+      "$",
+      "msft",
+      "$",
+      "ssnlf"
+    ],
+    "created_at": "Thu Oct 08 04:23:52 +0000 2015",
+    "user_id_str": "185850034",
+    "followers_count": 52
+  },
+  {
+    "text": [
+      "microsoft",
+      "corporation",
+      "nasdaq",
+      "msft",
+      "and",
+      "apple",
+      "aapl",
+      "moves",
+      "raise",
+      "bar",
+      "for",
+      "google",
+      "goog",
+      "$",
+      "msft"
+    ],
+    "created_at": "Thu Oct 08 16:42:02 +0000 2015",
+    "user_id_str": "3054010251",
+    "followers_count": 44
+  }
+]

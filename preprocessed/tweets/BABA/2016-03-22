@@ -1,0 +1,80 @@
+[
+  {
+    "text": [
+      "$",
+      "pfe",
+      "relies",
+      "on",
+      "$",
+      "baba",
+      "to",
+      "drive",
+      "sales",
+      "in",
+      "china"
+    ],
+    "created_at": "Tue Mar 22 17:38:36 +0000 2016",
+    "user_id_str": "133306120",
+    "followers_count": 5182
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "one",
+      "store",
+      "$",
+      "uber",
+      "owns",
+      "no",
+      "cars",
+      "$",
+      "fb",
+      "creates",
+      "no",
+      "content",
+      "$",
+      "baba",
+      "no",
+      "inventory",
+      "$",
+      "airbnb",
+      "no",
+      "real",
+      "estate",
+      "central",
+      "banks",
+      "no",
+      "gold"
+    ],
+    "created_at": "Tue Mar 22 12:33:46 +0000 2016",
+    "user_id_str": "332169091",
+    "followers_count": 47
+  },
+  {
+    "text": [
+      "alibaba",
+      "likely",
+      "to",
+      "surpass",
+      "walmart",
+      "as",
+      "world",
+      "s",
+      "top",
+      "retailer",
+      "$",
+      "baba",
+      "trading",
+      "volume",
+      "exceeded",
+      "3",
+      "trillion",
+      "yuan",
+      "e-commerce"
+    ],
+    "created_at": "Tue Mar 22 15:47:04 +0000 2016",
+    "user_id_str": "190876092",
+    "followers_count": 522
+  }
+]

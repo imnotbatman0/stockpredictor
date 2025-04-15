@@ -1,0 +1,69 @@
+[
+  {
+    "text": [
+      "cat",
+      "caterpillar",
+      "inc",
+      "eod",
+      "data",
+      "$",
+      "cat",
+      "$",
+      "vlo",
+      "$",
+      "ua",
+      "$",
+      "tecs",
+      "cat",
+      "invest",
+      "pennystocks"
+    ],
+    "created_at": "Tue Jul 21 03:33:09 +0000 2015",
+    "user_id_str": "1833020461",
+    "followers_count": 887
+  },
+  {
+    "text": [
+      "cat",
+      "caterpillar",
+      "inc",
+      "change",
+      "$",
+      "cat",
+      "$",
+      "xlk",
+      "$",
+      "tsla",
+      "$",
+      "sdrl",
+      "cat",
+      "stocks",
+      "stocks"
+    ],
+    "created_at": "Tue Jul 21 04:33:04 +0000 2015",
+    "user_id_str": "2181403417",
+    "followers_count": 400
+  },
+  {
+    "text": [
+      "exel",
+      "exelixis",
+      "inc",
+      "dividend",
+      "$",
+      "exel",
+      "$",
+      "w",
+      "$",
+      "cat",
+      "$",
+      "fb",
+      "exel",
+      "stock",
+      "stock"
+    ],
+    "created_at": "Tue Jul 21 04:35:05 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 681
+  }
+]

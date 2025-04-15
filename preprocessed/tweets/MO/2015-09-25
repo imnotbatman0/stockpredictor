@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "nflx",
+      "nike",
+      "inc",
+      "eod",
+      "data",
+      "$",
+      "nflx",
+      "$",
+      "mo",
+      "$",
+      "eem",
+      "$",
+      "slv",
+      "nflx",
+      "tradeideas",
+      "nasdaq"
+    ],
+    "created_at": "Fri Sep 25 15:41:35 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13168
+  },
+  {
+    "text": [
+      "jnj",
+      "johnson",
+      "amp",
+      "johnson",
+      "prev",
+      "close",
+      "$",
+      "jnj",
+      "$",
+      "mo",
+      "$",
+      "tsla",
+      "$",
+      "clf",
+      "jnj",
+      "pennystocks",
+      "nasdaq"
+    ],
+    "created_at": "Fri Sep 25 01:53:34 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 586
+  }
+]

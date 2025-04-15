@@ -1,0 +1,70 @@
+[
+  {
+    "text": [
+      "$",
+      "vz",
+      "some",
+      "stocks",
+      "to",
+      "watch",
+      "$",
+      "nbl",
+      "$",
+      "duk",
+      "$",
+      "usd",
+      "overvalued"
+    ],
+    "created_at": "Wed Jul 16 17:57:19 +0000 2014",
+    "user_id_str": "2465900504",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "$",
+      "duk",
+      "best",
+      "pennystock",
+      "research",
+      "$",
+      "aa",
+      "$",
+      "rax",
+      "$",
+      "epzm",
+      "give",
+      "it",
+      "a",
+      "try"
+    ],
+    "created_at": "Tue Jul 15 23:34:51 +0000 2014",
+    "user_id_str": "2493645145",
+    "followers_count": 9
+  },
+  {
+    "text": [
+      "$",
+      "duk",
+      "stocks",
+      "you",
+      "might",
+      "want",
+      "to",
+      "sell",
+      "$",
+      "arg",
+      "$",
+      "rax",
+      "$",
+      "goog",
+      "try",
+      "this",
+      "rate",
+      "limit",
+      "exceeded"
+    ],
+    "created_at": "Wed Jul 16 00:12:50 +0000 2014",
+    "user_id_str": "2473375303",
+    "followers_count": 518
+  }
+]

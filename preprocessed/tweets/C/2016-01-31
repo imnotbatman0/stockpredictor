@@ -1,0 +1,30 @@
+[
+  {
+    "text": [
+      "citigroup",
+      "inc",
+      "$",
+      "c",
+      "is",
+      "at",
+      "bancorp",
+      "s",
+      "9th",
+      "largest",
+      "position"
+    ],
+    "created_at": "Sun Jan 31 09:11:28 +0000 2016",
+    "user_id_str": "2348716116",
+    "followers_count": 2078
+  },
+  {
+    "text": [
+      "dershanecilermebdefarkyaratacak",
+      "$",
+      "c"
+    ],
+    "created_at": "Sun Jan 31 21:26:18 +0000 2016",
+    "user_id_str": "4383733720",
+    "followers_count": 75
+  }
+]

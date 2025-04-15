@@ -1,0 +1,59 @@
+[
+  {
+    "text": [
+      "$",
+      "csco",
+      "insider",
+      "selling",
+      "charles",
+      "robbins",
+      "sells",
+      "81000",
+      "shares",
+      "of",
+      "cisco"
+    ],
+    "created_at": "Wed Sep 16 01:19:03 +0000 2015",
+    "user_id_str": "2341445778",
+    "followers_count": 576
+  },
+  {
+    "text": [
+      "cisco",
+      "earnings",
+      "preview",
+      "will",
+      "john",
+      "chambers",
+      "departure",
+      "make",
+      "a",
+      "difference",
+      "$",
+      "csco"
+    ],
+    "created_at": "Tue Sep 15 22:00:04 +0000 2015",
+    "user_id_str": "2174057946",
+    "followers_count": 167
+  },
+  {
+    "text": [
+      "$",
+      "csco",
+      "bhatt",
+      "prat",
+      "sold",
+      "a",
+      "net",
+      "$380",
+      "709",
+      "in",
+      "cisco",
+      "systems",
+      "inc"
+    ],
+    "created_at": "Tue Sep 15 22:03:03 +0000 2015",
+    "user_id_str": "2564014766",
+    "followers_count": 307
+  }
+]

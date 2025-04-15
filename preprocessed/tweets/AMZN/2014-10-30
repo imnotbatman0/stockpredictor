@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "$",
+      "amzn",
+      "stock",
+      "quote",
+      "9",
+      "47am",
+      "294",
+      "15",
+      "0",
+      "03",
+      "0",
+      "01"
+    ],
+    "created_at": "Thu Oct 30 14:02:11 +0000 2014",
+    "user_id_str": "249924827",
+    "followers_count": 352
+  },
+  {
+    "text": [
+      "commented",
+      "on",
+      "stocktwits",
+      "all",
+      "out",
+      "the",
+      "$",
+      "amzn",
+      "short",
+      "4"
+    ],
+    "created_at": "Thu Oct 30 14:27:14 +0000 2014",
+    "user_id_str": "15711884",
+    "followers_count": 96
+  },
+  {
+    "text": [
+      "starbucks",
+      "amazon",
+      "and",
+      "google",
+      "accused",
+      "of",
+      "being",
+      "immoral",
+      "$",
+      "sbux",
+      "$",
+      "goog",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Thu Oct 30 13:48:25 +0000 2014",
+    "user_id_str": "142742259",
+    "followers_count": 4326
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "double",
+      "11",
+      "race",
+      "heats",
+      "up",
+      "with",
+      "amazon",
+      "offering",
+      "companies"
+    ],
+    "created_at": "Thu Oct 30 10:38:19 +0000 2014",
+    "user_id_str": "55561590",
+    "followers_count": 9107
+  }
+]

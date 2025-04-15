@@ -1,0 +1,118 @@
+[
+  {
+    "text": [
+      "amrn",
+      "amarin",
+      "corp",
+      "plc",
+      "ads",
+      "exchange",
+      "$",
+      "amrn",
+      "$",
+      "csco",
+      "$",
+      "life",
+      "$",
+      "rdsh",
+      "amrn",
+      "stocks",
+      "share"
+    ],
+    "created_at": "Sat Jul 11 07:32:35 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 747
+  },
+  {
+    "text": [
+      "csod",
+      "cornerstone",
+      "ondemand",
+      "inc",
+      "current",
+      "price",
+      "$",
+      "csod",
+      "$",
+      "celg",
+      "$",
+      "csco",
+      "$",
+      "avxl",
+      "csod",
+      "finance",
+      "financecvc",
+      "cablevision"
+    ],
+    "created_at": "Sat Jul 11 01:37:05 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 542
+  },
+  {
+    "text": [
+      "csco",
+      "cisco",
+      "systems",
+      "inc",
+      "news",
+      "$",
+      "csco",
+      "$",
+      "ea",
+      "$",
+      "yinn",
+      "$",
+      "amzn",
+      "csco",
+      "tradeideas",
+      "tradeideascsod",
+      "cornerstone",
+      "ondemand"
+    ],
+    "created_at": "Sat Jul 11 01:40:05 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4299
+  },
+  {
+    "text": [
+      "$",
+      "csco",
+      "us",
+      "tech",
+      "q2",
+      "earnings",
+      "hit",
+      "by",
+      "cloud",
+      "disruption",
+      "pcs",
+      "dollar",
+      "cisco",
+      "systems",
+      "inc",
+      "nasdaq"
+    ],
+    "created_at": "Sat Jul 11 14:29:16 +0000 2015",
+    "user_id_str": "2649921242",
+    "followers_count": 1033
+  },
+  {
+    "text": [
+      "cisco",
+      "spending",
+      "$635m",
+      "to",
+      "buy",
+      "dns",
+      "security",
+      "software",
+      "services",
+      "firm",
+      "$",
+      "csco"
+    ],
+    "created_at": "Fri Jul 10 23:33:19 +0000 2015",
+    "user_id_str": "2172265652",
+    "followers_count": 116
+  }
+]

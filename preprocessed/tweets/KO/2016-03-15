@@ -1,0 +1,33 @@
+[
+  {
+    "text": [
+      "coca-cola",
+      "$",
+      "ko",
+      "stake",
+      "decreased",
+      "by",
+      "shelton",
+      "capital",
+      "management"
+    ],
+    "created_at": "Tue Mar 15 19:57:07 +0000 2016",
+    "user_id_str": "565538332",
+    "followers_count": 592
+  },
+  {
+    "text": [
+      "$",
+      "ko",
+      "short",
+      "target",
+      "45",
+      "85",
+      "on",
+      "breakout"
+    ],
+    "created_at": "Tue Mar 15 15:26:42 +0000 2016",
+    "user_id_str": "3225468232",
+    "followers_count": 280
+  }
+]

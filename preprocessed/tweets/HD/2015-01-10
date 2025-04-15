@@ -1,0 +1,79 @@
+[
+  {
+    "text": [
+      "$",
+      "hd",
+      "stock",
+      "forum",
+      "updated",
+      "saturday",
+      "january",
+      "10",
+      "2015",
+      "11",
+      "11",
+      "19",
+      "am",
+      "$",
+      "fnma",
+      "$",
+      "gold",
+      "$",
+      "aapl",
+      "$",
+      "twtr"
+    ],
+    "created_at": "Sat Jan 10 16:55:18 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 340
+  },
+  {
+    "text": [
+      "$",
+      "tvix",
+      "short",
+      "sales",
+      "updated",
+      "thursday",
+      "january",
+      "1",
+      "2015",
+      "4",
+      "59",
+      "22",
+      "pm",
+      "$",
+      "myec",
+      "$",
+      "vxx",
+      "$",
+      "hd",
+      "$",
+      "gpro"
+    ],
+    "created_at": "Sat Jan 10 04:41:26 +0000 2015",
+    "user_id_str": "578383794",
+    "followers_count": 619
+  },
+  {
+    "text": [
+      "top",
+      "tweets",
+      "concerning",
+      "$",
+      "hd",
+      "home",
+      "depot",
+      "inc",
+      "symbol",
+      "hd",
+      "on",
+      "01",
+      "10",
+      "2015"
+    ],
+    "created_at": "Sat Jan 10 04:41:29 +0000 2015",
+    "user_id_str": "2165508127",
+    "followers_count": 214
+  }
+]

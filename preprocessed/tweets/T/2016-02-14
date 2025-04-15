@@ -1,0 +1,55 @@
+[
+  {
+    "text": [
+      "$",
+      "t",
+      "stock",
+      "price",
+      "updated",
+      "sunday",
+      "february",
+      "14",
+      "2016",
+      "10",
+      "59",
+      "22",
+      "am",
+      "$",
+      "nvs",
+      "$",
+      "pg",
+      "$",
+      "baa",
+      "$",
+      "ftr"
+    ],
+    "created_at": "Sun Feb 14 16:14:11 +0000 2016",
+    "user_id_str": "1833020461",
+    "followers_count": 1274
+  },
+  {
+    "text": [
+      "$",
+      "y",
+      "muj",
+      "k",
+      "bho",
+      "k",
+      "a",
+      "k",
+      "$",
+      "hakhs",
+      "aj",
+      "$",
+      "h",
+      "b",
+      "ay",
+      "d",
+      "$",
+      "t"
+    ],
+    "created_at": "Sun Feb 14 22:43:55 +0000 2016",
+    "user_id_str": "2714429083",
+    "followers_count": 2
+  }
+]

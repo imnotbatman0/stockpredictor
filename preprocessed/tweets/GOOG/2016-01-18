@@ -1,0 +1,96 @@
+[
+  {
+    "text": [
+      "girl",
+      "girlsbelike",
+      "girlboss",
+      "$",
+      "twtr",
+      "$",
+      "fb",
+      "$",
+      "goog",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Mon Jan 18 15:31:24 +0000 2016",
+    "user_id_str": "4586690114",
+    "followers_count": 54
+  },
+  {
+    "text": [
+      "sjb",
+      "proshares",
+      "short",
+      "high",
+      "yield",
+      "bid",
+      "size",
+      "$",
+      "sjb",
+      "$",
+      "v",
+      "$",
+      "goog",
+      "$",
+      "ewz",
+      "sjb",
+      "invest",
+      "stock"
+    ],
+    "created_at": "Mon Jan 18 10:45:34 +0000 2016",
+    "user_id_str": "2285996066",
+    "followers_count": 922
+  },
+  {
+    "text": [
+      "alerted",
+      "$",
+      "qqq",
+      "1100",
+      "see",
+      "track",
+      "record",
+      "$",
+      "aapl",
+      "$",
+      "bsi",
+      "$",
+      "goog",
+      "$",
+      "msft",
+      "$",
+      "xom",
+      "$",
+      "brk",
+      "$",
+      "ge"
+    ],
+    "created_at": "Mon Jan 18 05:08:35 +0000 2016",
+    "user_id_str": "2802272246",
+    "followers_count": 12154
+  },
+  {
+    "text": [
+      "interesting",
+      "apple",
+      "google",
+      "smarthome",
+      "visibly",
+      "absent",
+      "at",
+      "ces",
+      "-",
+      "brillo",
+      "weave",
+      "homekit",
+      "$",
+      "goog",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Mon Jan 18 07:51:31 +0000 2016",
+    "user_id_str": "3609465375",
+    "followers_count": 188
+  }
+]

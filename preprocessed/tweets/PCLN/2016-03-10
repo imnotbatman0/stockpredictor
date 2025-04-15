@@ -1,0 +1,69 @@
+[
+  {
+    "text": [
+      "stc",
+      "$",
+      "pcln",
+      "1310",
+      "weeklys",
+      "$2"
+    ],
+    "created_at": "Thu Mar 10 14:41:02 +0000 2016",
+    "user_id_str": "1004925650",
+    "followers_count": 69
+  },
+  {
+    "text": [
+      "stocks",
+      "with",
+      "implied",
+      "volatility",
+      "below",
+      "iv",
+      "index",
+      "mean",
+      "cisco",
+      "$",
+      "csco",
+      "20",
+      "cisco",
+      "priceline",
+      "$",
+      "pcln",
+      "27",
+      "according",
+      "to",
+      "ivolatility"
+    ],
+    "created_at": "Thu Mar 10 10:23:12 +0000 2016",
+    "user_id_str": "34255540",
+    "followers_count": 2688
+  },
+  {
+    "text": [
+      "these",
+      "4",
+      "crappy",
+      "stocks",
+      "could",
+      "give",
+      "you",
+      "the",
+      "biggest",
+      "payday",
+      "in",
+      "2016",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "pcln",
+      "$",
+      "k"
+    ],
+    "created_at": "Thu Mar 10 12:24:42 +0000 2016",
+    "user_id_str": "2825810342",
+    "followers_count": 610
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "text": [
+      "amgn",
+      "amgen",
+      "inc",
+      "shares",
+      "$",
+      "amgn",
+      "$",
+      "fb",
+      "$",
+      "ko",
+      "$",
+      "unh",
+      "amgn",
+      "stocks",
+      "investing"
+    ],
+    "created_at": "Wed Jul 22 10:32:03 +0000 2015",
+    "user_id_str": "2181403417",
+    "followers_count": 409
+  },
+  {
+    "text": [
+      "amgn",
+      "top",
+      "news",
+      "-",
+      "jul",
+      "22nd",
+      "2015",
+      "$",
+      "amgn"
+    ],
+    "created_at": "Wed Jul 22 10:39:31 +0000 2015",
+    "user_id_str": "3121098012",
+    "followers_count": 446
+  },
+  {
+    "text": [
+      "icymi",
+      "s",
+      "first-in-class",
+      "cholesterol-lowering",
+      "therapy",
+      "repatha",
+      "approved",
+      "in",
+      "eu",
+      "$",
+      "amgn",
+      "pharma"
+    ],
+    "created_at": "Wed Jul 22 09:44:51 +0000 2015",
+    "user_id_str": "146496334",
+    "followers_count": 202
+  }
+]

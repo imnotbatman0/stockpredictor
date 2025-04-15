@@ -1,0 +1,100 @@
+[
+  {
+    "text": [
+      "$",
+      "ddd",
+      "short",
+      "sales",
+      "updated",
+      "saturday",
+      "february",
+      "20",
+      "2016",
+      "09",
+      "59",
+      "24",
+      "am",
+      "$",
+      "xhb",
+      "$",
+      "amzn",
+      "$",
+      "pcln",
+      "$",
+      "slw"
+    ],
+    "created_at": "Sat Feb 20 15:31:09 +0000 2016",
+    "user_id_str": "2197054086",
+    "followers_count": 969
+  },
+  {
+    "text": [
+      "$",
+      "pg",
+      "investor",
+      "opinions",
+      "updated",
+      "friday",
+      "february",
+      "19",
+      "2016",
+      "8",
+      "59",
+      "26",
+      "pm",
+      "$",
+      "pcln",
+      "$",
+      "fxi",
+      "$",
+      "dust",
+      "$",
+      "fbp"
+    ],
+    "created_at": "Sat Feb 20 02:36:09 +0000 2016",
+    "user_id_str": "1833020461",
+    "followers_count": 1279
+  },
+  {
+    "text": [
+      "pcln",
+      "inc",
+      "open",
+      "$",
+      "pcln",
+      "$",
+      "erx",
+      "$",
+      "ibm",
+      "$",
+      "cef",
+      "a",
+      "to",
+      "tradeideas",
+      "investing"
+    ],
+    "created_at": "Sat Feb 20 19:08:03 +0000 2016",
+    "user_id_str": "1833020461",
+    "followers_count": 1280
+  },
+  {
+    "text": [
+      "priceline",
+      "group",
+      "inc",
+      "$",
+      "pcln",
+      "given",
+      "buy",
+      "rating",
+      "at",
+      "jefferies",
+      "group",
+      "read",
+      "more"
+    ],
+    "created_at": "Sat Feb 20 11:30:21 +0000 2016",
+    "user_id_str": "4832119890",
+    "followers_count": 14
+  }
+]

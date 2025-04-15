@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "traders",
+      "buy",
+      "wal-mart",
+      "stores",
+      "inc",
+      "$",
+      "wmt",
+      "on",
+      "weakness"
+    ],
+    "created_at": "Sat Mar 19 21:57:18 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 6015
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "us",
+      "osha",
+      "seeks",
+      "$120k",
+      "fine",
+      "for",
+      "wal-mart",
+      "health",
+      "safety",
+      "violations",
+      "wal-mart",
+      "stores",
+      "inc",
+      "sp500"
+    ],
+    "created_at": "Fri Mar 18 23:27:09 +0000 2016",
+    "user_id_str": "2643714854",
+    "followers_count": 3362
+  },
+  {
+    "text": [
+      "parthenon",
+      "llc",
+      "has",
+      "$6",
+      "021",
+      "000",
+      "stake",
+      "in",
+      "wal-mart",
+      "stores",
+      "inc",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Sat Mar 19 00:58:24 +0000 2016",
+    "user_id_str": "565538332",
+    "followers_count": 596
+  }
+]

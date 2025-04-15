@@ -1,0 +1,53 @@
+[
+  {
+    "text": [
+      "dag",
+      "db",
+      "agriculture",
+      "double",
+      "long",
+      "etn",
+      "financials",
+      "$",
+      "dag",
+      "$",
+      "oil",
+      "$",
+      "exc",
+      "$",
+      "srna",
+      "dag",
+      "stockmarket",
+      "stocksdal",
+      "delta",
+      "air",
+      "lines"
+    ],
+    "created_at": "Sun Aug 30 01:38:12 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1461
+  },
+  {
+    "text": [
+      "jnj",
+      "johnson",
+      "amp",
+      "johnson",
+      "volume",
+      "$",
+      "jnj",
+      "$",
+      "sh",
+      "$",
+      "exc",
+      "$",
+      "gasl",
+      "jnj",
+      "investing",
+      "nasdaq"
+    ],
+    "created_at": "Sat Aug 29 22:41:16 +0000 2015",
+    "user_id_str": "386787305",
+    "followers_count": 3120
+  }
+]

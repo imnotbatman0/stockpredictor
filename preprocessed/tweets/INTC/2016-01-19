@@ -1,0 +1,79 @@
+[
+  {
+    "text": [
+      "tradingview",
+      "$",
+      "intc",
+      "-",
+      "price",
+      "at",
+      "a",
+      "multiple-year",
+      "support",
+      "$29",
+      "50",
+      "-"
+    ],
+    "created_at": "Tue Jan 19 07:41:37 +0000 2016",
+    "user_id_str": "3906540143",
+    "followers_count": 528
+  },
+  {
+    "text": [
+      "intel",
+      "co",
+      "$",
+      "intc",
+      "stock",
+      "rating",
+      "reaffirmed",
+      "by",
+      "deutsche",
+      "bank"
+    ],
+    "created_at": "Tue Jan 19 20:09:54 +0000 2016",
+    "user_id_str": "2348716116",
+    "followers_count": 2049
+  },
+  {
+    "text": [
+      "intel",
+      "corp",
+      "$",
+      "intc",
+      "stock",
+      "intel",
+      "downside",
+      "after",
+      "earnings",
+      "report",
+      "intc",
+      "intel"
+    ],
+    "created_at": "Tue Jan 19 14:07:58 +0000 2016",
+    "user_id_str": "627765164",
+    "followers_count": 7707
+  },
+  {
+    "text": [
+      "intel",
+      "co",
+      "$",
+      "intc",
+      "expected",
+      "to",
+      "earn",
+      "q2",
+      "2016",
+      "earnings",
+      "of",
+      "$0",
+      "50",
+      "per",
+      "share"
+    ],
+    "created_at": "Tue Jan 19 16:37:31 +0000 2016",
+    "user_id_str": "2181281054",
+    "followers_count": 591
+  }
+]

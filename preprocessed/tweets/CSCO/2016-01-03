@@ -1,0 +1,80 @@
+[
+  {
+    "text": [
+      "kmi",
+      "kinder",
+      "morgan",
+      "inc",
+      "last",
+      "price",
+      "$",
+      "kmi",
+      "$",
+      "mpc",
+      "$",
+      "csco",
+      "$",
+      "vxx",
+      "kmi",
+      "pennystocks",
+      "nasdaq"
+    ],
+    "created_at": "Sun Jan 03 07:42:40 +0000 2016",
+    "user_id_str": "2197054086",
+    "followers_count": 907
+  },
+  {
+    "text": [
+      "ntap",
+      "feye",
+      "splk",
+      "others",
+      "make",
+      "fbr",
+      "amp",
+      "39",
+      "s",
+      "2016",
+      "tech",
+      "m",
+      "amp",
+      "amp",
+      "a",
+      "idea",
+      "list",
+      "$",
+      "csco",
+      "$",
+      "ntap",
+      "$",
+      "feye",
+      "$",
+      "ibm"
+    ],
+    "created_at": "Sun Jan 03 16:40:46 +0000 2016",
+    "user_id_str": "1900231268",
+    "followers_count": 276
+  },
+  {
+    "text": [
+      "$",
+      "csco",
+      "funding",
+      "$",
+      "llbo",
+      "s",
+      "cyrcadia",
+      "nasdaq",
+      "marketnews",
+      "cisco",
+      "nike",
+      "flextronics",
+      "underarmour",
+      "donaldtrump",
+      "starwars"
+    ],
+    "created_at": "Sun Jan 03 20:35:53 +0000 2016",
+    "user_id_str": "505073867",
+    "followers_count": 1873
+  }
+]

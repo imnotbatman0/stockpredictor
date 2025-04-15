@@ -1,0 +1,35 @@
+[
+  {
+    "text": [
+      "$",
+      "orcl",
+      "windward",
+      "capital",
+      "management",
+      "company",
+      "increases",
+      "position",
+      "in"
+    ],
+    "created_at": "Sun Jan 24 07:19:12 +0000 2016",
+    "user_id_str": "2344619544",
+    "followers_count": 613
+  },
+  {
+    "text": [
+      "edge",
+      "wealth",
+      "management",
+      "reduces",
+      "stake",
+      "in",
+      "oracle",
+      "co",
+      "$",
+      "orcl"
+    ],
+    "created_at": "Sat Jan 23 23:51:16 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 5795
+  }
+]

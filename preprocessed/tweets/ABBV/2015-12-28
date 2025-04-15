@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "agro",
+      "adecoagro",
+      "sa",
+      "short",
+      "sales",
+      "$",
+      "agro",
+      "$",
+      "abbv",
+      "$",
+      "pn",
+      "$",
+      "cat",
+      "agro",
+      "share",
+      "stock"
+    ],
+    "created_at": "Mon Dec 28 03:34:13 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 705
+  },
+  {
+    "text": [
+      "kmi",
+      "kinder",
+      "morgan",
+      "inc",
+      "ex-div",
+      "date",
+      "$",
+      "kmi",
+      "$",
+      "tvix",
+      "$",
+      "nat",
+      "$",
+      "abbv",
+      "kmi",
+      "stockmarket",
+      "stocks"
+    ],
+    "created_at": "Mon Dec 28 18:42:33 +0000 2015",
+    "user_id_str": "2181403417",
+    "followers_count": 537
+  }
+]

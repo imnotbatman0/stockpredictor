@@ -1,0 +1,100 @@
+[
+  {
+    "text": [
+      "stock",
+      "in",
+      "focus",
+      "-",
+      "alibaba",
+      "group",
+      "holding",
+      "ltd",
+      "$",
+      "baba"
+    ],
+    "created_at": "Tue Nov 03 09:08:21 +0000 2015",
+    "user_id_str": "3233306852",
+    "followers_count": 143
+  },
+  {
+    "text": [
+      "notable",
+      "opening",
+      "imbalances",
+      "$",
+      "bac",
+      "-280k",
+      "$",
+      "baba",
+      "-82k",
+      "$",
+      "twtr",
+      "-55k",
+      "$",
+      "pfe",
+      "-43k",
+      "$",
+      "ge",
+      "-205k",
+      "$",
+      "jwn",
+      "74k",
+      "$",
+      "kors",
+      "79k",
+      "$",
+      "v",
+      "53k",
+      "$",
+      "hpq",
+      "-64k"
+    ],
+    "created_at": "Tue Nov 03 14:19:24 +0000 2015",
+    "user_id_str": "274464365",
+    "followers_count": 141
+  },
+  {
+    "text": [
+      "$",
+      "baba",
+      "$",
+      "bidu",
+      "top",
+      "and",
+      "flop",
+      "etfs",
+      "of",
+      "october"
+    ],
+    "created_at": "Tue Nov 03 07:43:02 +0000 2015",
+    "user_id_str": "2344619544",
+    "followers_count": 483
+  },
+  {
+    "text": [
+      "the",
+      "generation",
+      "portfolio",
+      "reinvesting",
+      "$",
+      "abr",
+      "$",
+      "baba",
+      "$",
+      "cys",
+      "$",
+      "dis",
+      "$",
+      "kmi",
+      "$",
+      "ko",
+      "$",
+      "pfe",
+      "$",
+      "pg"
+    ],
+    "created_at": "Tue Nov 03 16:29:51 +0000 2015",
+    "user_id_str": "3214456469",
+    "followers_count": 247
+  }
+]

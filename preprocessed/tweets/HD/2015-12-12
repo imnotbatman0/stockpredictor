@@ -1,0 +1,59 @@
+[
+  {
+    "text": [
+      "$",
+      "hd",
+      "state"
+    ],
+    "created_at": "Sat Dec 12 00:37:53 +0000 2015",
+    "user_id_str": "3759237796",
+    "followers_count": 100
+  },
+  {
+    "text": [
+      "hd",
+      "home",
+      "depot",
+      "inc",
+      "last",
+      "price",
+      "$",
+      "hd",
+      "$",
+      "xlp",
+      "$",
+      "aapl",
+      "$",
+      "cm",
+      "hd",
+      "stocks",
+      "nasdaq"
+    ],
+    "created_at": "Sat Dec 12 07:44:03 +0000 2015",
+    "user_id_str": "1833020461",
+    "followers_count": 1170
+  },
+  {
+    "text": [
+      "ctrp",
+      "intl",
+      "ltd",
+      "company",
+      "info",
+      "$",
+      "ctrp",
+      "$",
+      "hd",
+      "$",
+      "ugaz",
+      "$",
+      "a",
+      "ctrp",
+      "share",
+      "stockmarket"
+    ],
+    "created_at": "Sat Dec 12 19:37:33 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 838
+  }
+]

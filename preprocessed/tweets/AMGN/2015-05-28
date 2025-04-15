@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "mo",
+      "altria",
+      "group",
+      "inc",
+      "quotes",
+      "$",
+      "mo",
+      "$",
+      "fv",
+      "$",
+      "amgn",
+      "$",
+      "clb",
+      "mo",
+      "nasdaq",
+      "tradeideas"
+    ],
+    "created_at": "Thu May 28 16:42:10 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4207
+  },
+  {
+    "text": [
+      "jpmorgan",
+      "chase",
+      "amp",
+      "co",
+      "reaffirms",
+      "neutral",
+      "rating",
+      "for",
+      "amgen",
+      "$",
+      "amgn"
+    ],
+    "created_at": "Thu May 28 13:50:44 +0000 2015",
+    "user_id_str": "2743641378",
+    "followers_count": 473
+  }
+]

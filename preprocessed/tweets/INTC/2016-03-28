@@ -1,0 +1,131 @@
+[
+  {
+    "text": [
+      "dow",
+      "stocks",
+      "$",
+      "intc",
+      "intel",
+      "daily",
+      "-0",
+      "38",
+      "weekly",
+      "-0",
+      "31",
+      "ytd",
+      "-6",
+      "65",
+      "trend",
+      "42",
+      "100"
+    ],
+    "created_at": "Mon Mar 28 07:22:22 +0000 2016",
+    "user_id_str": "2455761204",
+    "followers_count": 48
+  },
+  {
+    "text": [
+      "intel",
+      "s",
+      "andrew",
+      "grove",
+      "10",
+      "top",
+      "pieces",
+      "of",
+      "managerial",
+      "wisdom",
+      "read",
+      "more",
+      "$",
+      "intc"
+    ],
+    "created_at": "Mon Mar 28 07:47:40 +0000 2016",
+    "user_id_str": "4830653904",
+    "followers_count": 36
+  },
+  {
+    "text": [
+      "intel",
+      "s",
+      "andrew",
+      "grove",
+      "10",
+      "top",
+      "pieces",
+      "of",
+      "managerial",
+      "wisdom",
+      "read",
+      "more",
+      "$",
+      "intc"
+    ],
+    "created_at": "Mon Mar 28 07:47:40 +0000 2016",
+    "user_id_str": "4830708541",
+    "followers_count": 29
+  },
+  {
+    "text": [
+      "intel",
+      "s",
+      "andrew",
+      "grove",
+      "10",
+      "top",
+      "pieces",
+      "of",
+      "managerial",
+      "wisdom",
+      "read",
+      "more",
+      "$",
+      "intc"
+    ],
+    "created_at": "Mon Mar 28 07:46:26 +0000 2016",
+    "user_id_str": "4830708541",
+    "followers_count": 29
+  },
+  {
+    "text": [
+      "intel",
+      "s",
+      "andrew",
+      "grove",
+      "10",
+      "top",
+      "pieces",
+      "of",
+      "managerial",
+      "wisdom",
+      "read",
+      "more",
+      "$",
+      "intc"
+    ],
+    "created_at": "Mon Mar 28 07:47:03 +0000 2016",
+    "user_id_str": "4830708541",
+    "followers_count": 29
+  },
+  {
+    "text": [
+      "intel",
+      "s",
+      "andrew",
+      "grove",
+      "10",
+      "top",
+      "pieces",
+      "of",
+      "managerial",
+      "wisdom",
+      "read",
+      "more",
+      "$",
+      "intc"
+    ],
+    "created_at": "Mon Mar 28 07:47:03 +0000 2016",
+    "user_id_str": "4830653904",
+    "followers_count": 36
+  }
+]

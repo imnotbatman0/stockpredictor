@@ -1,0 +1,79 @@
+[
+  {
+    "text": [
+      "dow",
+      "stocks",
+      "$",
+      "dis",
+      "walt",
+      "disney",
+      "daily",
+      "-0",
+      "35",
+      "weekly",
+      "5",
+      "38",
+      "ytd",
+      "-9",
+      "43",
+      "trend",
+      "49",
+      "100"
+    ],
+    "created_at": "Fri Feb 19 08:18:59 +0000 2016",
+    "user_id_str": "2455761204",
+    "followers_count": 49
+  },
+  {
+    "text": [
+      "elenaofavalor",
+      "to",
+      "premiere",
+      "8",
+      "1",
+      "16",
+      "1st",
+      "look",
+      "at",
+      "full",
+      "line",
+      "of",
+      "dolls",
+      "toys",
+      "and",
+      "costumes",
+      "$",
+      "dis",
+      "elenaongma"
+    ],
+    "created_at": "Fri Feb 19 13:18:03 +0000 2016",
+    "user_id_str": "3877201197",
+    "followers_count": 19
+  },
+  {
+    "text": [
+      "world",
+      "s",
+      "most",
+      "admired",
+      "companies",
+      "2016",
+      "via",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "amzn",
+      "$",
+      "brk",
+      "$",
+      "dis",
+      "$",
+      "sbux"
+    ],
+    "created_at": "Fri Feb 19 23:04:10 +0000 2016",
+    "user_id_str": "584415483",
+    "followers_count": 2673
+  }
+]

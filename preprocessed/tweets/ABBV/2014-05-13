@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "sp500",
+      "stocks",
+      "$",
+      "abbv",
+      "abbvie",
+      "daily",
+      "0",
+      "21",
+      "weekly",
+      "1",
+      "97",
+      "ytd",
+      "0",
+      "85",
+      "trend",
+      "60",
+      "100"
+    ],
+    "created_at": "Tue May 13 03:30:52 +0000 2014",
+    "user_id_str": "2461008031",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "by",
+      "then",
+      "$",
+      "abbv",
+      "will",
+      "pay",
+      "heavy",
+      "price",
+      "for",
+      "$",
+      "enta",
+      "$70-$80",
+      "per",
+      "share",
+      "buy",
+      "out"
+    ],
+    "created_at": "Tue May 13 00:25:38 +0000 2014",
+    "user_id_str": "1370906497",
+    "followers_count": 273
+  }
+]

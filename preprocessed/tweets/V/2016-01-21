@@ -1,0 +1,46 @@
+[
+  {
+    "text": [
+      "$",
+      "v",
+      "sai",
+      "iphone",
+      "manufacturer",
+      "foxconn",
+      "wants",
+      "to",
+      "buy",
+      "the",
+      "company",
+      "that",
+      "makes",
+      "the",
+      "iphone",
+      "s",
+      "screen"
+    ],
+    "created_at": "Thu Jan 21 13:43:42 +0000 2016",
+    "user_id_str": "4758506988",
+    "followers_count": 233
+  },
+  {
+    "text": [
+      "$",
+      "v",
+      "sai",
+      "here",
+      "s",
+      "what",
+      "facebook",
+      "s",
+      "new",
+      "sports",
+      "section",
+      "looks",
+      "like"
+    ],
+    "created_at": "Thu Jan 21 13:43:53 +0000 2016",
+    "user_id_str": "4198314254",
+    "followers_count": 136
+  }
+]

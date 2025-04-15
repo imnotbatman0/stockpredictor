@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "$",
+      "dnb",
+      "are",
+      "you",
+      "bullish",
+      "on",
+      "these",
+      "stocks",
+      "$",
+      "cat",
+      "$",
+      "pdco",
+      "$",
+      "ign",
+      "financial"
+    ],
+    "created_at": "Mon Apr 21 02:46:51 +0000 2014",
+    "user_id_str": "2473731081",
+    "followers_count": 28
+  },
+  {
+    "text": [
+      "more",
+      "than",
+      "100",
+      "companies",
+      "report",
+      "earnings",
+      "next",
+      "week",
+      "including",
+      "$",
+      "aapl",
+      "$",
+      "fb",
+      "$",
+      "cat",
+      "and",
+      "$",
+      "msft",
+      "--",
+      "gt"
+    ],
+    "created_at": "Mon Apr 21 00:20:52 +0000 2014",
+    "user_id_str": "551442569",
+    "followers_count": 100
+  }
+]

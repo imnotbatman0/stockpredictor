@@ -1,0 +1,45 @@
+[
+  {
+    "text": [
+      "horrell",
+      "capital",
+      "management",
+      "inc",
+      "increases",
+      "position",
+      "in",
+      "verizon",
+      "communications",
+      "inc",
+      "$",
+      "vz"
+    ],
+    "created_at": "Thu Mar 10 22:45:40 +0000 2016",
+    "user_id_str": "2181281054",
+    "followers_count": 631
+  },
+  {
+    "text": [
+      "candriam",
+      "luxembourg",
+      "s",
+      "c",
+      "a",
+      "has",
+      "$35",
+      "117",
+      "000",
+      "position",
+      "in",
+      "verizon",
+      "communications",
+      "inc",
+      "$",
+      "vz",
+      "acn"
+    ],
+    "created_at": "Thu Mar 10 03:09:04 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1432
+  }
+]

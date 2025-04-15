@@ -1,0 +1,64 @@
+[
+  {
+    "text": [
+      "akorn",
+      "stock",
+      "is",
+      "breaking",
+      "out",
+      "in",
+      "buy",
+      "range",
+      "ibdnews",
+      "via",
+      "$",
+      "akrx",
+      "$",
+      "pfe",
+      "$",
+      "hsp",
+      "agriculture"
+    ],
+    "created_at": "Sun Feb 08 17:18:43 +0000 2015",
+    "user_id_str": "544768671",
+    "followers_count": 110
+  },
+  {
+    "text": [
+      "which",
+      "biotech",
+      "stock",
+      "should",
+      "pfizer",
+      "inc",
+      "buy",
+      "$",
+      "pfe"
+    ],
+    "created_at": "Sun Feb 08 15:34:41 +0000 2015",
+    "user_id_str": "704897486",
+    "followers_count": 1200
+  },
+  {
+    "text": [
+      "$",
+      "pfe",
+      "us",
+      "pfizer",
+      "not",
+      "done",
+      "with",
+      "deals",
+      "even",
+      "after",
+      "hospira",
+      "purchase",
+      "pfizer",
+      "inc",
+      "sp500"
+    ],
+    "created_at": "Sun Feb 08 15:38:29 +0000 2015",
+    "user_id_str": "2868811629",
+    "followers_count": 1533
+  }
+]

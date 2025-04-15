@@ -1,0 +1,78 @@
+[
+  {
+    "text": [
+      "wmt",
+      "wal-mart",
+      "stores",
+      "inc",
+      "bid",
+      "$",
+      "wmt",
+      "$",
+      "twtr",
+      "$",
+      "finl",
+      "$",
+      "fc",
+      "wmt",
+      "invest",
+      "investingxbi",
+      "spdr",
+      "s",
+      "amp",
+      "p",
+      "biotech",
+      "index",
+      "etf"
+    ],
+    "created_at": "Sat Jan 02 18:52:12 +0000 2016",
+    "user_id_str": "2579477766",
+    "followers_count": 13380
+  },
+  {
+    "text": [
+      "googl",
+      "alphabet",
+      "inc",
+      "current",
+      "price",
+      "$",
+      "googl",
+      "$",
+      "lei",
+      "$",
+      "tlt",
+      "$",
+      "wmt",
+      "googl",
+      "stockmarket",
+      "investing"
+    ],
+    "created_at": "Sat Jan 02 02:41:08 +0000 2016",
+    "user_id_str": "2204135624",
+    "followers_count": 4275
+  },
+  {
+    "text": [
+      "tickers",
+      "trending",
+      "on",
+      "twtr",
+      "in",
+      "last",
+      "1",
+      "hour",
+      "$",
+      "amzn",
+      "$",
+      "fb",
+      "$",
+      "nflx",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Sat Jan 02 19:49:17 +0000 2016",
+    "user_id_str": "3170121190",
+    "followers_count": 756
+  }
+]

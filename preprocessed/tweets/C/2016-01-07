@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "c",
+      "top",
+      "news",
+      "-",
+      "jan",
+      "7th",
+      "2016",
+      "$",
+      "c"
+    ],
+    "created_at": "Thu Jan 07 14:52:26 +0000 2016",
+    "user_id_str": "3121098012",
+    "followers_count": 562
+  },
+  {
+    "text": [
+      "earnings",
+      "week",
+      "of",
+      "1",
+      "11",
+      "1",
+      "15",
+      "$",
+      "aa",
+      "$",
+      "jpm",
+      "$",
+      "intc",
+      "$",
+      "c",
+      "$",
+      "usb",
+      "$",
+      "wfc",
+      "reporting",
+      "next",
+      "week"
+    ],
+    "created_at": "Thu Jan 07 15:54:39 +0000 2016",
+    "user_id_str": "1884427945",
+    "followers_count": 63
+  }
+]

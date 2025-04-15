@@ -1,0 +1,83 @@
+[
+  {
+    "text": [
+      "$",
+      "aapl",
+      "stock",
+      "content",
+      "charts",
+      "analysis",
+      "amp",
+      "more",
+      "-",
+      "free",
+      "-"
+    ],
+    "created_at": "Sun Oct 05 05:44:05 +0000 2014",
+    "user_id_str": "229226539",
+    "followers_count": 626
+  },
+  {
+    "text": [
+      "$",
+      "aapl",
+      "sf",
+      "flagship",
+      "store",
+      "gt",
+      "lines",
+      "still",
+      "long",
+      "for",
+      "iphone",
+      "6",
+      "amp",
+      "6",
+      "plus",
+      "new",
+      "phone",
+      "sales",
+      "what",
+      "bendgate",
+      "demand",
+      "killer"
+    ],
+    "created_at": "Sat Oct 04 23:01:42 +0000 2014",
+    "user_id_str": "2233854301",
+    "followers_count": 117
+  },
+  {
+    "text": [
+      "samsung",
+      "galaxy",
+      "note",
+      "4",
+      "delivers",
+      "poor",
+      "graphics",
+      "performance",
+      "vs",
+      "apple",
+      "iphone",
+      "6",
+      "plus",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Sat Oct 04 22:18:28 +0000 2014",
+    "user_id_str": "275387521",
+    "followers_count": 4895
+  },
+  {
+    "text": [
+      "steve",
+      "jobs",
+      "1955-2011",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Sun Oct 05 15:03:09 +0000 2014",
+    "user_id_str": "16995129",
+    "followers_count": 1515
+  }
+]

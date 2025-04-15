@@ -1,0 +1,60 @@
+[
+  {
+    "text": [
+      "fxe",
+      "currency",
+      "shares",
+      "swiss",
+      "franc",
+      "trust",
+      "quotes",
+      "$",
+      "fxe",
+      "$",
+      "aapl",
+      "$",
+      "indl",
+      "$",
+      "intc",
+      "nasdaq",
+      "tradeideas"
+    ],
+    "created_at": "Sun Feb 28 00:35:05 +0000 2016",
+    "user_id_str": "2204135624",
+    "followers_count": 4224
+  },
+  {
+    "text": [
+      "lt",
+      "lt",
+      "--",
+      "this",
+      "guy",
+      "has",
+      "some",
+      "great",
+      "free",
+      "info",
+      "on",
+      "some",
+      "hot",
+      "stocks",
+      "and",
+      "he",
+      "has",
+      "a",
+      "stellar",
+      "track",
+      "record",
+      "$",
+      "intc",
+      "$",
+      "ohrp",
+      "$",
+      "altr"
+    ],
+    "created_at": "Sat Feb 27 23:59:35 +0000 2016",
+    "user_id_str": "3255185778",
+    "followers_count": 76
+  }
+]

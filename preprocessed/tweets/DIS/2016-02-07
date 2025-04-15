@@ -1,0 +1,29 @@
+[
+  {
+    "text": [
+      "77",
+      "$",
+      "dis",
+      "espn"
+    ],
+    "created_at": "Sun Feb 07 22:03:16 +0000 2016",
+    "user_id_str": "3318307435",
+    "followers_count": 14
+  },
+  {
+    "text": [
+      "you",
+      "cant",
+      "be",
+      "doing",
+      "this",
+      "from",
+      "$",
+      "dis",
+      "land"
+    ],
+    "created_at": "Sun Feb 07 00:49:10 +0000 2016",
+    "user_id_str": "612135517",
+    "followers_count": 700
+  }
+]

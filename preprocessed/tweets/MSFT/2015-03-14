@@ -1,0 +1,69 @@
+[
+  {
+    "text": [
+      "nokia",
+      "s",
+      "here",
+      "app",
+      "back",
+      "on",
+      "apple",
+      "app",
+      "store",
+      "-",
+      "$",
+      "msft",
+      "mobile"
+    ],
+    "created_at": "Sat Mar 14 00:48:19 +0000 2015",
+    "user_id_str": "14146896",
+    "followers_count": 29
+  },
+  {
+    "text": [
+      "track",
+      "curated",
+      "news",
+      "and",
+      "tweets",
+      "for",
+      "multiple",
+      "tickers-",
+      "us",
+      "tech",
+      "giants",
+      "$",
+      "msft",
+      "$",
+      "twtr",
+      "$",
+      "aapl",
+      "$",
+      "fb",
+      "$",
+      "googl"
+    ],
+    "created_at": "Sat Mar 14 08:15:19 +0000 2015",
+    "user_id_str": "2373813025",
+    "followers_count": 655
+  },
+  {
+    "text": [
+      "what",
+      "do",
+      "you",
+      "think",
+      "about",
+      "budgettwit",
+      "$",
+      "qcom",
+      "$",
+      "msft",
+      "$",
+      "intc"
+    ],
+    "created_at": "Sat Mar 14 22:21:45 +0000 2015",
+    "user_id_str": "2810017692",
+    "followers_count": 20
+  }
+]

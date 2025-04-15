@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "$",
+      "ma",
+      "long",
+      "set",
+      "up",
+      "to",
+      "watch"
+    ],
+    "created_at": "Tue Mar 18 20:18:29 +0000 2014",
+    "user_id_str": "1490980105",
+    "followers_count": 441
+  },
+  {
+    "text": [
+      "$",
+      "ma",
+      "finally",
+      "a",
+      "close",
+      "above",
+      "50ma",
+      "added",
+      "to",
+      "position"
+    ],
+    "created_at": "Tue Mar 18 20:30:15 +0000 2014",
+    "user_id_str": "1367765233",
+    "followers_count": 26
+  },
+  {
+    "text": [
+      "first",
+      "close",
+      "above",
+      "the",
+      "50-day",
+      "since",
+      "end",
+      "of",
+      "jan",
+      "$",
+      "ma"
+    ],
+    "created_at": "Tue Mar 18 21:03:46 +0000 2014",
+    "user_id_str": "375980238",
+    "followers_count": 5632
+  }
+]

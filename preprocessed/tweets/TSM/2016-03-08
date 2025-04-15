@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "lila",
+      "52wk",
+      "high",
+      "see",
+      "here",
+      "---",
+      "gt",
+      "$",
+      "lila",
+      "$",
+      "tsm",
+      "$",
+      "sm",
+      "stockmarket"
+    ],
+    "created_at": "Mon Mar 07 23:28:05 +0000 2016",
+    "user_id_str": "4922682454",
+    "followers_count": 14
+  },
+  {
+    "text": [
+      "block",
+      "trade",
+      "$",
+      "tsm",
+      "541",
+      "500",
+      "shares",
+      "$24",
+      "50",
+      "10",
+      "21",
+      "52"
+    ],
+    "created_at": "Tue Mar 08 15:21:52 +0000 2016",
+    "user_id_str": "581221150",
+    "followers_count": 4332
+  }
+]

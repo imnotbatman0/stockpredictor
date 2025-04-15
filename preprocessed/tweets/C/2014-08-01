@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "citigroup",
+      "sec",
+      "closes",
+      "probe",
+      "into",
+      "mortgage",
+      "bonds",
+      "$",
+      "c"
+    ],
+    "created_at": "Fri Aug 01 17:05:20 +0000 2014",
+    "user_id_str": "146153973",
+    "followers_count": 1165
+  },
+  {
+    "text": [
+      "citigroup",
+      "finance",
+      "committee",
+      "approves",
+      "nominees",
+      "for",
+      "ustr",
+      "treasury",
+      "hhs",
+      "tax",
+      "court",
+      "$",
+      "c"
+    ],
+    "created_at": "Fri Aug 01 18:55:02 +0000 2014",
+    "user_id_str": "102325185",
+    "followers_count": 4625
+  },
+  {
+    "text": [
+      "$",
+      "c",
+      "citigroup",
+      "inc",
+      "files",
+      "form",
+      "10-q",
+      "quarterly",
+      "reports",
+      "sec",
+      "filing"
+    ],
+    "created_at": "Fri Aug 01 11:59:03 +0000 2014",
+    "user_id_str": "946453249",
+    "followers_count": 403
+  },
+  {
+    "text": [
+      "$",
+      "c",
+      "-",
+      "behold",
+      "the",
+      "17",
+      "000",
+      "overdraft",
+      "charge",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Fri Aug 01 03:49:29 +0000 2014",
+    "user_id_str": "71319651",
+    "followers_count": 1750
+  }
+]

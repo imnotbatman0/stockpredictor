@@ -1,0 +1,52 @@
+[
+  {
+    "text": [
+      "$",
+      "xli",
+      "stock",
+      "message",
+      "board",
+      "updated",
+      "saturday",
+      "february",
+      "6",
+      "2016",
+      "10",
+      "59",
+      "22",
+      "am",
+      "$",
+      "lsg",
+      "$",
+      "iyt",
+      "$",
+      "goog",
+      "$",
+      "dgp"
+    ],
+    "created_at": "Sat Feb 06 16:43:09 +0000 2016",
+    "user_id_str": "19221345",
+    "followers_count": 2923
+  },
+  {
+    "text": [
+      "looks",
+      "like",
+      "consumer",
+      "grade",
+      "selfdrivingcar",
+      "still",
+      "some",
+      "years",
+      "away",
+      "-",
+      "iot",
+      "autonomousvehicles",
+      "$",
+      "goog"
+    ],
+    "created_at": "Sat Feb 06 00:11:02 +0000 2016",
+    "user_id_str": "385249901",
+    "followers_count": 39
+  }
+]

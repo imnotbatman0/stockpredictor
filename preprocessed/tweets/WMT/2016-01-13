@@ -1,0 +1,75 @@
+[
+  {
+    "text": [
+      "$",
+      "wmt",
+      "news",
+      "updated",
+      "tuesday",
+      "january",
+      "12",
+      "2016",
+      "6",
+      "07",
+      "21",
+      "pm",
+      "$",
+      "efa",
+      "$",
+      "eem",
+      "$",
+      "abc",
+      "$",
+      "bid"
+    ],
+    "created_at": "Tue Jan 12 23:20:04 +0000 2016",
+    "user_id_str": "1850041968",
+    "followers_count": 1066
+  },
+  {
+    "text": [
+      "nflx",
+      "netflix",
+      "inc",
+      "quotes",
+      "$",
+      "nflx",
+      "$",
+      "wmt",
+      "$",
+      "fcx",
+      "$",
+      "pdi",
+      "nflx",
+      "pennystocks",
+      "stock"
+    ],
+    "created_at": "Wed Jan 13 11:44:23 +0000 2016",
+    "user_id_str": "2181326676",
+    "followers_count": 793
+  },
+  {
+    "text": [
+      "abbv",
+      "abbvie",
+      "inc",
+      "short",
+      "sales",
+      "$",
+      "abbv",
+      "$",
+      "xiu",
+      "to",
+      "$",
+      "amba",
+      "$",
+      "wmt",
+      "abbv",
+      "stockmarket",
+      "share"
+    ],
+    "created_at": "Wed Jan 13 21:33:05 +0000 2016",
+    "user_id_str": "2579477766",
+    "followers_count": 13406
+  }
+]

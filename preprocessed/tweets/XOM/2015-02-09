@@ -1,0 +1,90 @@
+[
+  {
+    "text": [
+      "$",
+      "acor",
+      "company",
+      "info",
+      "updated",
+      "monday",
+      "february",
+      "9",
+      "2015",
+      "10",
+      "07",
+      "13",
+      "am",
+      "$",
+      "hpq",
+      "$",
+      "uup",
+      "$",
+      "eog",
+      "$",
+      "xom"
+    ],
+    "created_at": "Mon Feb 09 15:20:15 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 423
+  },
+  {
+    "text": [
+      "$",
+      "sltd",
+      "stock",
+      "message",
+      "board",
+      "updated",
+      "monday",
+      "february",
+      "9",
+      "2015",
+      "00",
+      "11",
+      "10",
+      "am",
+      "$",
+      "pg",
+      "$",
+      "xiv",
+      "$",
+      "xom",
+      "$",
+      "eog"
+    ],
+    "created_at": "Mon Feb 09 06:10:06 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 388
+  },
+  {
+    "text": [
+      "exxon",
+      "mobil",
+      "sees",
+      "large",
+      "increase",
+      "in",
+      "short",
+      "interest",
+      "$",
+      "xom"
+    ],
+    "created_at": "Mon Feb 09 06:55:36 +0000 2015",
+    "user_id_str": "1979190776",
+    "followers_count": 522
+  },
+  {
+    "text": [
+      "argus",
+      "downgrades",
+      "exxonmobil",
+      "$",
+      "xom",
+      "to",
+      "hold"
+    ],
+    "created_at": "Mon Feb 09 13:24:36 +0000 2015",
+    "user_id_str": "818081647",
+    "followers_count": 2009
+  }
+]

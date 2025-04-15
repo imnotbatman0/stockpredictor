@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "volume",
+      "alert",
+      "-",
+      "pep",
+      "103",
+      "10",
+      "pepsico",
+      "inc",
+      "$",
+      "pep",
+      "hit",
+      "a",
+      "high",
+      "today",
+      "of",
+      "103",
+      "19",
+      "closing",
+      "the",
+      "day",
+      "10",
+      "30",
+      "at",
+      "103",
+      "10",
+      "0",
+      "41",
+      "0"
+    ],
+    "created_at": "Thu Mar 31 15:40:54 +0000 2016",
+    "user_id_str": "2181373892",
+    "followers_count": 715
+  }
+]

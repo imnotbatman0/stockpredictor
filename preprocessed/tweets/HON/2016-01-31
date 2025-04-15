@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "asset",
+      "advisors",
+      "corp",
+      "purchases",
+      "147",
+      "shares",
+      "of",
+      "honeywell",
+      "international",
+      "inc",
+      "$",
+      "hon"
+    ],
+    "created_at": "Sun Jan 31 10:21:38 +0000 2016",
+    "user_id_str": "1979190776",
+    "followers_count": 882
+  },
+  {
+    "text": [
+      "honeywell",
+      "international",
+      "inc",
+      "$",
+      "hon",
+      "stake",
+      "cut",
+      "by",
+      "armstrong",
+      "shaw",
+      "associates",
+      "inc",
+      "ct"
+    ],
+    "created_at": "Sun Jan 31 09:51:29 +0000 2016",
+    "user_id_str": "1979190776",
+    "followers_count": 882
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "$",
+      "csco",
+      "chambers",
+      "exec",
+      "chairman",
+      "live",
+      "on",
+      "cnbc"
+    ],
+    "created_at": "Thu Mar 31 15:38:45 +0000 2016",
+    "user_id_str": "3299357675",
+    "followers_count": 197
+  },
+  {
+    "text": [
+      "drone",
+      "company",
+      "airware",
+      "raises",
+      "$30",
+      "million",
+      "and",
+      "adds",
+      "cisco",
+      "s",
+      "john",
+      "chambers",
+      "to",
+      "its",
+      "board",
+      "$",
+      "csco"
+    ],
+    "created_at": "Thu Mar 31 19:01:58 +0000 2016",
+    "user_id_str": "2909918785",
+    "followers_count": 277
+  }
+]

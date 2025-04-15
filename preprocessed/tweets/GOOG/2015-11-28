@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "tickers",
+      "trending",
+      "on",
+      "twtr",
+      "in",
+      "last",
+      "1",
+      "hour",
+      "$",
+      "aapl",
+      "$",
+      "dow",
+      "$",
+      "eurusd",
+      "$",
+      "goog",
+      "$",
+      "spx"
+    ],
+    "created_at": "Sat Nov 28 21:39:57 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 627
+  },
+  {
+    "text": [
+      "apple",
+      "s",
+      "dominance",
+      "in",
+      "3",
+      "charts",
+      "-",
+      "$",
+      "aapl",
+      "$",
+      "msft",
+      "$",
+      "goog"
+    ],
+    "created_at": "Sat Nov 28 16:34:09 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 622
+  }
+]

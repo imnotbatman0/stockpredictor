@@ -1,0 +1,45 @@
+[
+  {
+    "text": [
+      "$",
+      "jpm",
+      "-",
+      "why",
+      "rio",
+      "tinto",
+      "rio",
+      "stock",
+      "is",
+      "up",
+      "this",
+      "afternoon",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Mon May 12 18:19:26 +0000 2014",
+    "user_id_str": "71319651",
+    "followers_count": 1650
+  },
+  {
+    "text": [
+      "$",
+      "mcp",
+      "received",
+      "a",
+      "downgrade",
+      "from",
+      "neutral",
+      "to",
+      "underweight",
+      "by",
+      "$",
+      "jpm"
+    ],
+    "created_at": "Mon May 12 16:10:25 +0000 2014",
+    "user_id_str": "2269432002",
+    "followers_count": 62
+  }
+]

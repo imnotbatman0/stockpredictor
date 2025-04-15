@@ -1,0 +1,99 @@
+[
+  {
+    "text": [
+      "fxy",
+      "currency",
+      "shares",
+      "japanese",
+      "yen",
+      "trust",
+      "p",
+      "e",
+      "ratio",
+      "$",
+      "fxy",
+      "$",
+      "rig",
+      "$",
+      "v",
+      "$",
+      "goog",
+      "fxy",
+      "stockmarket",
+      "investing"
+    ],
+    "created_at": "Sat Aug 01 10:42:16 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 946
+  },
+  {
+    "text": [
+      "tsla",
+      "tesla",
+      "motors",
+      "inc",
+      "filings",
+      "$",
+      "tsla",
+      "$",
+      "mdy",
+      "$",
+      "spxu",
+      "$",
+      "v",
+      "tsla",
+      "nasdaq",
+      "tradeideas"
+    ],
+    "created_at": "Sat Aug 01 18:47:14 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 675
+  },
+  {
+    "text": [
+      "gmcr",
+      "keurig",
+      "green",
+      "mountain",
+      "inc",
+      "day",
+      "low",
+      "$",
+      "gmcr",
+      "$",
+      "v",
+      "$",
+      "xlp",
+      "$",
+      "aria",
+      "gmcr",
+      "nasdaq",
+      "finance"
+    ],
+    "created_at": "Sat Aug 01 16:40:07 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13212
+  },
+  {
+    "text": [
+      "righ",
+      "rightsmile",
+      "inc",
+      "shares",
+      "$",
+      "righ",
+      "$",
+      "nugt",
+      "$",
+      "v",
+      "$",
+      "dba",
+      "righ",
+      "pennystocks",
+      "investing"
+    ],
+    "created_at": "Sat Aug 01 15:45:07 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4327
+  }
+]

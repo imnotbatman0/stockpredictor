@@ -1,0 +1,58 @@
+[
+  {
+    "text": [
+      "axiom",
+      "initiates",
+      "buy",
+      "on",
+      "inc",
+      "sees",
+      "15",
+      "upside",
+      "for",
+      "the",
+      "stock",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Mon Mar 09 17:33:45 +0000 2015",
+    "user_id_str": "704897486",
+    "followers_count": 1206
+  },
+  {
+    "text": [
+      "how",
+      "long",
+      "before",
+      "$",
+      "amzn",
+      "fire",
+      "tv",
+      "drops",
+      "to",
+      "$59"
+    ],
+    "created_at": "Mon Mar 09 17:17:04 +0000 2015",
+    "user_id_str": "21793923",
+    "followers_count": 3086
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "stock",
+      "quote",
+      "12",
+      "46pm",
+      "376",
+      "82",
+      "-3",
+      "27",
+      "-0",
+      "86"
+    ],
+    "created_at": "Mon Mar 09 17:01:46 +0000 2015",
+    "user_id_str": "249924827",
+    "followers_count": 355
+  }
+]

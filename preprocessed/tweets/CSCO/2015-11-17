@@ -1,0 +1,57 @@
+[
+  {
+    "text": [
+      "csco",
+      "cisco",
+      "systems",
+      "inc",
+      "tick",
+      "$",
+      "csco",
+      "$",
+      "tvix",
+      "$",
+      "xlk",
+      "$",
+      "ung",
+      "csco",
+      "stocks",
+      "finance"
+    ],
+    "created_at": "Tue Nov 17 00:35:03 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 1023
+  },
+  {
+    "text": [
+      "arista",
+      "aims",
+      "to",
+      "take",
+      "cisco",
+      "juniper",
+      "router",
+      "share",
+      "with",
+      "broadcom",
+      "s",
+      "help",
+      "-",
+      "tech",
+      "trader",
+      "daily",
+      "-",
+      "$",
+      "anet",
+      "$",
+      "csco",
+      "$",
+      "jnpr",
+      "$",
+      "brcm"
+    ],
+    "created_at": "Tue Nov 17 19:16:05 +0000 2015",
+    "user_id_str": "216798259",
+    "followers_count": 7420
+  }
+]

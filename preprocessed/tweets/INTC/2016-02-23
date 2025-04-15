@@ -1,0 +1,79 @@
+[
+  {
+    "text": [
+      "intel",
+      "corporation",
+      "-",
+      "profit",
+      "from",
+      "a",
+      "beleaguered",
+      "intel",
+      "stock",
+      "$",
+      "intc",
+      "read",
+      "more"
+    ],
+    "created_at": "Tue Feb 23 16:39:51 +0000 2016",
+    "user_id_str": "4830708541",
+    "followers_count": 9
+  },
+  {
+    "text": [
+      "trading",
+      "strategies",
+      "partners",
+      "$",
+      "aapl",
+      "$",
+      "nflx",
+      "$",
+      "qqq",
+      "$",
+      "spy",
+      "$",
+      "djia",
+      "$",
+      "vz",
+      "$",
+      "gs",
+      "$",
+      "intc",
+      "$",
+      "aa",
+      "$",
+      "intc",
+      "$",
+      "nflx",
+      "$",
+      "gs",
+      "$",
+      "jpm",
+      "$",
+      "t",
+      "$",
+      "mmm",
+      "$",
+      "amgn"
+    ],
+    "created_at": "Tue Feb 23 02:32:31 +0000 2016",
+    "user_id_str": "1297336626",
+    "followers_count": 3470
+  },
+  {
+    "text": [
+      "how",
+      "is",
+      "approaching",
+      "wearabletech",
+      "digitalhealth",
+      "iot",
+      "$",
+      "intc"
+    ],
+    "created_at": "Tue Feb 23 03:00:58 +0000 2016",
+    "user_id_str": "46046512",
+    "followers_count": 31656
+  }
+]

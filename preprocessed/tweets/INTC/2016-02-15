@@ -1,0 +1,63 @@
+[
+  {
+    "text": [
+      "ati",
+      "allegheny",
+      "technologies",
+      "ask",
+      "size",
+      "$",
+      "ati",
+      "$",
+      "intc",
+      "$",
+      "true",
+      "$",
+      "etn",
+      "pennystocks",
+      "investing"
+    ],
+    "created_at": "Mon Feb 15 08:08:06 +0000 2016",
+    "user_id_str": "1854900966",
+    "followers_count": 380
+  },
+  {
+    "text": [
+      "vti",
+      "verizon",
+      "communications",
+      "ex-div",
+      "date",
+      "$",
+      "vti",
+      "$",
+      "cpb",
+      "$",
+      "ddvax",
+      "$",
+      "intc",
+      "tradeideas",
+      "stocks"
+    ],
+    "created_at": "Mon Feb 15 15:32:44 +0000 2016",
+    "user_id_str": "386787305",
+    "followers_count": 3477
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "stocks",
+      "favored",
+      "by",
+      "analysts",
+      "intel",
+      "corporation",
+      "nasdaq",
+      "intc"
+    ],
+    "created_at": "Mon Feb 15 14:19:15 +0000 2016",
+    "user_id_str": "2342763212",
+    "followers_count": 528
+  }
+]

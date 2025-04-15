@@ -1,0 +1,80 @@
+[
+  {
+    "text": [
+      "barron",
+      "11",
+      "stocks",
+      "favored",
+      "by",
+      "top",
+      "advisors",
+      "$",
+      "brkb",
+      "$",
+      "ba",
+      "$",
+      "cvx",
+      "$",
+      "gild",
+      "$",
+      "lyb",
+      "$",
+      "pfe",
+      "$",
+      "pm",
+      "$",
+      "slb",
+      "$",
+      "tgt",
+      "$"
+    ],
+    "created_at": "Sat Dec 26 16:44:15 +0000 2015",
+    "user_id_str": "3004080359",
+    "followers_count": 782
+  },
+  {
+    "text": [
+      "pfe",
+      "pfizer",
+      "inc",
+      "last",
+      "trade",
+      "$",
+      "pfe",
+      "$",
+      "uup",
+      "$",
+      "dia",
+      "$",
+      "safm",
+      "pfe",
+      "stock",
+      "investing"
+    ],
+    "created_at": "Sat Dec 26 05:46:10 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 697
+  },
+  {
+    "text": [
+      "pfe",
+      "pfizer",
+      "inc",
+      "summary",
+      "$",
+      "pfe",
+      "$",
+      "nem",
+      "$",
+      "glw",
+      "$",
+      "ugaz",
+      "pfe",
+      "investing",
+      "pennystocks"
+    ],
+    "created_at": "Sat Dec 26 13:43:34 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4257
+  }
+]

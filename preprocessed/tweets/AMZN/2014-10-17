@@ -1,0 +1,100 @@
+[
+  {
+    "text": [
+      "amazon",
+      "will",
+      "launch",
+      "its",
+      "grocery",
+      "delivery",
+      "business",
+      "in",
+      "brooklyn",
+      "new",
+      "york",
+      "on",
+      "friday",
+      "via",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Fri Oct 17 03:02:40 +0000 2014",
+    "user_id_str": "218503228",
+    "followers_count": 2171
+  },
+  {
+    "text": [
+      "amazon",
+      "fresh",
+      "for",
+      "new",
+      "york",
+      "city",
+      "kicks",
+      "off",
+      "today",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Fri Oct 17 11:26:05 +0000 2014",
+    "user_id_str": "235648313",
+    "followers_count": 602
+  },
+  {
+    "text": [
+      "$",
+      "aapl",
+      "$",
+      "amzn",
+      "get",
+      "how",
+      "u",
+      "will",
+      "trade",
+      "the",
+      "upcoming",
+      "earning",
+      "where",
+      "a",
+      "free",
+      "money",
+      "is",
+      "printed",
+      "every",
+      "day"
+    ],
+    "created_at": "Fri Oct 17 13:01:41 +0000 2014",
+    "user_id_str": "77037048",
+    "followers_count": 919
+  },
+  {
+    "text": [
+      "amazon",
+      "s",
+      "same-day",
+      "grocery",
+      "delivery",
+      "makes",
+      "east",
+      "coast",
+      "debut",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Fri Oct 17 15:54:52 +0000 2014",
+    "user_id_str": "51675687",
+    "followers_count": 271
+  },
+  {
+    "text": [
+      "clayton",
+      "$",
+      "amzn",
+      "307",
+      "4"
+    ],
+    "created_at": "Fri Oct 17 14:43:48 +0000 2014",
+    "user_id_str": "2579477766",
+    "followers_count": 12738
+  }
+]

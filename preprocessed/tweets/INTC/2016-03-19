@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "intel",
+      "vp",
+      "william",
+      "holt",
+      "sells",
+      "$248",
+      "198",
+      "00",
+      "in",
+      "$",
+      "intc"
+    ],
+    "created_at": "Sat Mar 19 02:50:27 +0000 2016",
+    "user_id_str": "68559732",
+    "followers_count": 4507
+  },
+  {
+    "text": [
+      "traders",
+      "sell",
+      "shares",
+      "of",
+      "intel",
+      "co",
+      "$",
+      "intc",
+      "on",
+      "strength",
+      "$",
+      "intc"
+    ],
+    "created_at": "Sat Mar 19 02:56:29 +0000 2016",
+    "user_id_str": "1979190776",
+    "followers_count": 961
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "text": [
+      "macnealy",
+      "hoover",
+      "investment",
+      "management",
+      "has",
+      "$1",
+      "013",
+      "000",
+      "position",
+      "in",
+      "united",
+      "parcel",
+      "service",
+      "inc",
+      "$",
+      "ups"
+    ],
+    "created_at": "Thu Feb 25 02:02:16 +0000 2016",
+    "user_id_str": "2920258887",
+    "followers_count": 1089
+  },
+  {
+    "text": [
+      "marcus",
+      "capital",
+      "invests",
+      "$1",
+      "949",
+      "000",
+      "in",
+      "united",
+      "parcel",
+      "service",
+      "inc",
+      "$",
+      "ups"
+    ],
+    "created_at": "Thu Feb 25 02:02:21 +0000 2016",
+    "user_id_str": "2743641378",
+    "followers_count": 795
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "text": [
+      "$",
+      "ba",
+      "can",
+      "boeing",
+      "deliver",
+      "six",
+      "new",
+      "planes",
+      "in",
+      "six",
+      "years"
+    ],
+    "created_at": "Sun May 04 04:12:10 +0000 2014",
+    "user_id_str": "1728756842",
+    "followers_count": 214
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "etihad",
+      "says",
+      "is",
+      "buying",
+      "stakes",
+      "in",
+      "euro"
+    ],
+    "created_at": "Sun May 04 19:11:38 +0000 2014",
+    "user_id_str": "2443592036",
+    "followers_count": 11
+  },
+  {
+    "text": [
+      "boeing",
+      "nw",
+      "s",
+      "fickle",
+      "partner",
+      "via",
+      "$",
+      "ba"
+    ],
+    "created_at": "Sun May 04 20:13:46 +0000 2014",
+    "user_id_str": "20411005",
+    "followers_count": 1120
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "can",
+      "boeing",
+      "deliver",
+      "six",
+      "new",
+      "planes",
+      "in",
+      "six",
+      "years"
+    ],
+    "created_at": "Sat May 03 23:12:33 +0000 2014",
+    "user_id_str": "2342531144",
+    "followers_count": 39
+  }
+]

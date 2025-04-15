@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "nugt",
+      "s",
+      "amp",
+      "p",
+      "100",
+      "index",
+      "fund",
+      "-",
+      "ishares",
+      "52wk",
+      "high",
+      "$",
+      "nugt",
+      "$",
+      "amgn",
+      "$",
+      "cab",
+      "$",
+      "adxs",
+      "nugt",
+      "nasdaq",
+      "invest"
+    ],
+    "created_at": "Sun Jan 17 11:45:32 +0000 2016",
+    "user_id_str": "2233924628",
+    "followers_count": 603
+  },
+  {
+    "text": [
+      "amgen",
+      "inc",
+      "$",
+      "amgn",
+      "shares",
+      "sold",
+      "by",
+      "daiwa",
+      "sb",
+      "investments"
+    ],
+    "created_at": "Sun Jan 17 05:57:37 +0000 2016",
+    "user_id_str": "2743641378",
+    "followers_count": 741
+  }
+]

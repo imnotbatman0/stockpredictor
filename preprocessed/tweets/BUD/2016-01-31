@@ -1,0 +1,53 @@
+[
+  {
+    "text": [
+      "anheuser",
+      "busch",
+      "inbev",
+      "sa",
+      "$",
+      "bud",
+      "shares",
+      "bought",
+      "by",
+      "advisory",
+      "services"
+    ],
+    "created_at": "Sun Jan 31 10:20:00 +0000 2016",
+    "user_id_str": "4157091076",
+    "followers_count": 375
+  },
+  {
+    "text": [
+      "$",
+      "bud",
+      "what",
+      "is",
+      "the",
+      "buzz",
+      "surrounding",
+      "anheuser-busch",
+      "inbev",
+      "sa",
+      "nyse"
+    ],
+    "created_at": "Sun Jan 31 19:29:02 +0000 2016",
+    "user_id_str": "2344619544",
+    "followers_count": 620
+  },
+  {
+    "text": [
+      "$",
+      "bud",
+      "anheuser",
+      "busch",
+      "inbev",
+      "sa",
+      "get",
+      "ne"
+    ],
+    "created_at": "Sun Jan 31 09:19:50 +0000 2016",
+    "user_id_str": "4157091076",
+    "followers_count": 374
+  }
+]

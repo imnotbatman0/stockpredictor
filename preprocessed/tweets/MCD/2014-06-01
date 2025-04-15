@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "$",
+      "mcd",
+      "is",
+      "this",
+      "the",
+      "1",
+      "burger",
+      "restaurant",
+      "you",
+      "should",
+      "own"
+    ],
+    "created_at": "Sun Jun 01 16:01:37 +0000 2014",
+    "user_id_str": "1728756842",
+    "followers_count": 277
+  },
+  {
+    "text": [
+      "are",
+      "you",
+      "looking",
+      "for",
+      "winners",
+      "like",
+      "$",
+      "sgen",
+      "$",
+      "mcd",
+      "$",
+      "aet",
+      "$",
+      "pcln",
+      "equity"
+    ],
+    "created_at": "Sun Jun 01 03:43:55 +0000 2014",
+    "user_id_str": "2488224338",
+    "followers_count": 11
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "text": [
+      "upcoming",
+      "earnings",
+      "$",
+      "gpro",
+      "$",
+      "amgn",
+      "$",
+      "ma",
+      "$",
+      "nxpi",
+      "$",
+      "yelp",
+      "$",
+      "bwld",
+      "$",
+      "orly",
+      "$",
+      "nok",
+      "$",
+      "cop",
+      "$",
+      "aet",
+      "$",
+      "alxn",
+      "$",
+      "crus",
+      "$",
+      "shw"
+    ],
+    "created_at": "Wed Oct 28 21:05:46 +0000 2015",
+    "user_id_str": "70745859",
+    "followers_count": 36
+  },
+  {
+    "text": [
+      "pabebe",
+      "tong",
+      "$",
+      "ma"
+    ],
+    "created_at": "Wed Oct 28 06:50:58 +0000 2015",
+    "user_id_str": "64290994",
+    "followers_count": 1046
+  },
+  {
+    "text": [
+      "mastercard",
+      "cibc",
+      "and",
+      "new",
+      "york",
+      "life",
+      "join",
+      "dcg",
+      "funding",
+      "round",
+      "$",
+      "ma",
+      "via"
+    ],
+    "created_at": "Tue Oct 27 23:26:02 +0000 2015",
+    "user_id_str": "396144417",
+    "followers_count": 4226
+  }
+]

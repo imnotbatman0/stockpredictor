@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "largest",
+      "food",
+      "and",
+      "staples",
+      "retailing",
+      "earnings",
+      "1",
+      "$",
+      "wmt",
+      "2",
+      "$",
+      "cvs",
+      "3",
+      "$",
+      "rad",
+      "chart"
+    ],
+    "created_at": "Mon May 04 06:25:16 +0000 2015",
+    "user_id_str": "2796938558",
+    "followers_count": 1580
+  },
+  {
+    "text": [
+      "apple",
+      "gm",
+      "big",
+      "winners",
+      "in",
+      "china",
+      "tesla",
+      "wal-mart",
+      "hit",
+      "bumps",
+      "$",
+      "gm",
+      "$",
+      "wmt",
+      "$",
+      "tsla"
+    ],
+    "created_at": "Mon May 04 13:40:01 +0000 2015",
+    "user_id_str": "3207435724",
+    "followers_count": 22
+  }
+]

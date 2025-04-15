@@ -1,0 +1,78 @@
+[
+  {
+    "text": [
+      "$",
+      "dust",
+      "stock",
+      "price",
+      "updated",
+      "tuesday",
+      "february",
+      "16",
+      "2016",
+      "01",
+      "59",
+      "23",
+      "am",
+      "$",
+      "six",
+      "$",
+      "ge",
+      "$",
+      "xlb",
+      "$",
+      "abx"
+    ],
+    "created_at": "Tue Feb 16 07:09:36 +0000 2016",
+    "user_id_str": "2197054086",
+    "followers_count": 968
+  },
+  {
+    "text": [
+      "$",
+      "cmg",
+      "financials",
+      "updated",
+      "tuesday",
+      "february",
+      "16",
+      "2016",
+      "12",
+      "59",
+      "21",
+      "pm",
+      "$",
+      "v",
+      "$",
+      "ge",
+      "$",
+      "upro",
+      "$",
+      "lpla"
+    ],
+    "created_at": "Tue Feb 16 18:50:09 +0000 2016",
+    "user_id_str": "1833020461",
+    "followers_count": 1278
+  },
+  {
+    "text": [
+      "hey",
+      "do",
+      "you",
+      "know",
+      "everything",
+      "while",
+      "trading",
+      "sp500",
+      "$",
+      "goog",
+      "$",
+      "jnj",
+      "$",
+      "ge"
+    ],
+    "created_at": "Tue Feb 16 15:26:16 +0000 2016",
+    "user_id_str": "3170121190",
+    "followers_count": 822
+  }
+]

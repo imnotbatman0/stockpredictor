@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "it",
+      "hardware",
+      "and",
+      "cloud",
+      "computing",
+      "have",
+      "an",
+      "inverse",
+      "relationship",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "pcln",
+      "$",
+      "k"
+    ],
+    "created_at": "Fri Dec 25 13:41:39 +0000 2015",
+    "user_id_str": "2825810342",
+    "followers_count": 565
+  },
+  {
+    "text": [
+      "amzn",
+      "inc",
+      "message",
+      "board",
+      "posts",
+      "$",
+      "amzn",
+      "$",
+      "biib",
+      "$",
+      "pcln",
+      "$",
+      "nwsa",
+      "amzn",
+      "pennystocks",
+      "pennystocks"
+    ],
+    "created_at": "Fri Dec 25 13:35:24 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4256
+  }
+]

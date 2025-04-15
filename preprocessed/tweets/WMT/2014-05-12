@@ -1,0 +1,33 @@
+[
+  {
+    "text": [
+      "wal-mart",
+      "stores",
+      "inc",
+      "dividend",
+      "stock",
+      "analysis",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Mon May 12 11:05:24 +0000 2014",
+    "user_id_str": "833230172",
+    "followers_count": 102
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "video",
+      "sozzi",
+      "walmart",
+      "s",
+      "buried",
+      "treasure",
+      "discovered"
+    ],
+    "created_at": "Mon May 12 18:55:14 +0000 2014",
+    "user_id_str": "1710333787",
+    "followers_count": 147
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "text": [
+      "paas",
+      "palo",
+      "alto",
+      "networks",
+      "inc",
+      "exchange",
+      "$",
+      "paas",
+      "$",
+      "ge",
+      "$",
+      "sbgl",
+      "$",
+      "ge",
+      "stockmarket",
+      "finance"
+    ],
+    "created_at": "Thu Mar 03 22:58:02 +0000 2016",
+    "user_id_str": "2204135624",
+    "followers_count": 4219
+  },
+  {
+    "text": [
+      "ge",
+      "goldcorp",
+      "inc",
+      "p",
+      "e",
+      "ratio",
+      "$",
+      "ge",
+      "$",
+      "mcd",
+      "$",
+      "wfc",
+      "$",
+      "fcx",
+      "finance",
+      "finance"
+    ],
+    "created_at": "Thu Mar 03 04:35:08 +0000 2016",
+    "user_id_str": "2197054086",
+    "followers_count": 980
+  },
+  {
+    "text": [
+      "$",
+      "ge",
+      "$",
+      "dhr",
+      "what",
+      "s",
+      "thermo",
+      "fisher",
+      "planning"
+    ],
+    "created_at": "Thu Mar 03 19:57:59 +0000 2016",
+    "user_id_str": "2341281566",
+    "followers_count": 658
+  }
+]

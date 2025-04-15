@@ -1,0 +1,95 @@
+[
+  {
+    "text": [
+      "chicago",
+      "trust",
+      "company",
+      "boosts",
+      "stake",
+      "in",
+      "intel",
+      "co",
+      "$",
+      "intc"
+    ],
+    "created_at": "Sat Jan 16 21:59:26 +0000 2016",
+    "user_id_str": "2348716116",
+    "followers_count": 2049
+  },
+  {
+    "text": [
+      "amx",
+      "america",
+      "movil",
+      "s",
+      "a",
+      "de",
+      "cv",
+      "e",
+      "p",
+      "s",
+      "$",
+      "amx",
+      "$",
+      "intc",
+      "$",
+      "abbv",
+      "$",
+      "csco",
+      "amx",
+      "stockmarket",
+      "finance"
+    ],
+    "created_at": "Sat Jan 16 09:33:33 +0000 2016",
+    "user_id_str": "2196900553",
+    "followers_count": 727
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "-",
+      "sell",
+      "signal",
+      "at",
+      "32",
+      "74",
+      "on",
+      "jan",
+      "14",
+      "16",
+      "by",
+      "trading",
+      "signals",
+      "robot",
+      "stock",
+      "trading",
+      "trade",
+      "investing"
+    ],
+    "created_at": "Sat Jan 16 00:00:22 +0000 2016",
+    "user_id_str": "2915763990",
+    "followers_count": 225
+  },
+  {
+    "text": [
+      "topeka",
+      "capital",
+      "markets",
+      "cuts",
+      "intel",
+      "co",
+      "$",
+      "intc",
+      "price",
+      "target",
+      "to",
+      "$36",
+      "00",
+      "acn"
+    ],
+    "created_at": "Sat Jan 16 16:55:42 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1292
+  }
+]

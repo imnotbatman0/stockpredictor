@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "pypl",
+      "reynolds",
+      "american",
+      "inc",
+      "volume",
+      "$",
+      "pypl",
+      "$",
+      "ha",
+      "$",
+      "fdx",
+      "$",
+      "goog",
+      "pypl",
+      "finance",
+      "tradeideas"
+    ],
+    "created_at": "Thu Oct 15 22:45:06 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 882
+  },
+  {
+    "text": [
+      "insider",
+      "selling",
+      "google",
+      "director",
+      "l",
+      "john",
+      "doerr",
+      "sells",
+      "5",
+      "056",
+      "shares",
+      "of",
+      "stock",
+      "$",
+      "goog"
+    ],
+    "created_at": "Fri Oct 16 15:14:23 +0000 2015",
+    "user_id_str": "2743641378",
+    "followers_count": 623
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "text": [
+      "$",
+      "fb",
+      "is",
+      "facebook",
+      "inc",
+      "nasdaq",
+      "fb",
+      "becoming",
+      "an",
+      "african-asian",
+      "company"
+    ],
+    "created_at": "Wed Jan 01 20:22:33 +0000 2014",
+    "user_id_str": "1849605206",
+    "followers_count": 10
+  },
+  {
+    "text": [
+      "$",
+      "fb",
+      "google",
+      "s",
+      "biggest",
+      "threat",
+      "in",
+      "2014",
+      "facebook",
+      "and",
+      "twitter"
+    ],
+    "created_at": "Wed Jan 01 20:25:04 +0000 2014",
+    "user_id_str": "1728756842",
+    "followers_count": 195
+  },
+  {
+    "text": [
+      "warning",
+      "bells",
+      "are",
+      "sounding",
+      "ever",
+      "louder",
+      "for",
+      "facebook",
+      "s",
+      "long-term",
+      "future",
+      "$",
+      "twtr",
+      "$",
+      "fb"
+    ],
+    "created_at": "Wed Jan 01 09:47:20 +0000 2014",
+    "user_id_str": "23059499",
+    "followers_count": 48081
+  }
+]

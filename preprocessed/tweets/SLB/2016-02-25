@@ -1,0 +1,59 @@
+[
+  {
+    "text": [
+      "slb",
+      "sanchez",
+      "energy",
+      "corp",
+      "open",
+      "$",
+      "slb",
+      "$",
+      "data",
+      "$",
+      "xlv",
+      "$",
+      "goog",
+      "share",
+      "pennystocks"
+    ],
+    "created_at": "Thu Feb 25 18:14:10 +0000 2016",
+    "user_id_str": "2181346825",
+    "followers_count": 733
+  },
+  {
+    "text": [
+      "lathrop",
+      "investment",
+      "management",
+      "corp",
+      "raises",
+      "stake",
+      "in",
+      "schlumberger",
+      "limited",
+      "$",
+      "slb",
+      "acn"
+    ],
+    "created_at": "Thu Feb 25 20:12:20 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1386
+  },
+  {
+    "text": [
+      "schlumberger",
+      "limited",
+      "$",
+      "slb",
+      "shares",
+      "bought",
+      "by",
+      "cullinan",
+      "associates"
+    ],
+    "created_at": "Thu Feb 25 04:49:22 +0000 2016",
+    "user_id_str": "2348716116",
+    "followers_count": 2104
+  }
+]

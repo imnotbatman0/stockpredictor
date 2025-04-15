@@ -1,0 +1,53 @@
+[
+  {
+    "text": [
+      "$",
+      "efa",
+      "short",
+      "sales",
+      "updated",
+      "tuesday",
+      "february",
+      "9",
+      "2016",
+      "10",
+      "59",
+      "24",
+      "am",
+      "$",
+      "db",
+      "$",
+      "wmt",
+      "$",
+      "dbc",
+      "$",
+      "xbi"
+    ],
+    "created_at": "Tue Feb 09 16:32:12 +0000 2016",
+    "user_id_str": "1850041968",
+    "followers_count": 1103
+  },
+  {
+    "text": [
+      "negative",
+      "network",
+      "effect",
+      "sq",
+      "foot",
+      "shrinkage",
+      "triggers",
+      "more",
+      "sq",
+      "foot",
+      "shrinkage",
+      "exponentially",
+      "$",
+      "wmt",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Tue Feb 09 16:39:39 +0000 2016",
+    "user_id_str": "54879118",
+    "followers_count": 10946
+  }
+]

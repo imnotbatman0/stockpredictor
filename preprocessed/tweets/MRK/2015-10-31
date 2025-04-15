@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "merck",
+      "is",
+      "trading",
+      "at",
+      "a",
+      "discount",
+      "of",
+      "24",
+      "0",
+      "$",
+      "mrk",
+      "-"
+    ],
+    "created_at": "Sat Oct 31 20:04:09 +0000 2015",
+    "user_id_str": "3068966814",
+    "followers_count": 164
+  },
+  {
+    "text": [
+      "rt",
+      "crayton",
+      "h",
+      "oh",
+      "hey",
+      "no",
+      "biggie",
+      "just",
+      "an",
+      "interview",
+      "with",
+      "merck",
+      "s",
+      "ceo",
+      "about",
+      "$150",
+      "000",
+      "drug",
+      "prices",
+      "by",
+      "cynthialkoons",
+      "$",
+      "mrk"
+    ],
+    "created_at": "Sat Oct 31 02:34:16 +0000 2015",
+    "user_id_str": "3463252157",
+    "followers_count": 700
+  }
+]

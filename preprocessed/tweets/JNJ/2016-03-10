@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "jnj",
+      "top",
+      "news",
+      "-",
+      "mar",
+      "10th",
+      "2016",
+      "$",
+      "jnj"
+    ],
+    "created_at": "Thu Mar 10 13:38:21 +0000 2016",
+    "user_id_str": "3121098012",
+    "followers_count": 565
+  },
+  {
+    "text": [
+      "jnj",
+      "spdr",
+      "barclays",
+      "high",
+      "yield",
+      "bond",
+      "etf",
+      "tick",
+      "$",
+      "jnj",
+      "$",
+      "intc",
+      "$",
+      "cvx",
+      "$",
+      "intc",
+      "stocks",
+      "investing"
+    ],
+    "created_at": "Thu Mar 10 03:21:32 +0000 2016",
+    "user_id_str": "3902068032",
+    "followers_count": 1180
+  }
+]

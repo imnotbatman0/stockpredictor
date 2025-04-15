@@ -1,0 +1,73 @@
+[
+  {
+    "text": [
+      "ibm",
+      "international",
+      "business",
+      "machines",
+      "filings",
+      "$",
+      "ibm",
+      "$",
+      "hvu",
+      "to",
+      "$",
+      "aapl",
+      "$",
+      "cvx",
+      "ibm",
+      "invest",
+      "invest"
+    ],
+    "created_at": "Fri Jul 03 19:39:11 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 488
+  },
+  {
+    "text": [
+      "lvs",
+      "mobileye",
+      "nv",
+      "summary",
+      "$",
+      "lvs",
+      "$",
+      "cvx",
+      "$",
+      "lun",
+      "to",
+      "$",
+      "dba",
+      "lvs",
+      "pennystocks",
+      "stockmarket"
+    ],
+    "created_at": "Fri Jul 03 01:41:07 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 515
+  },
+  {
+    "text": [
+      "brcm",
+      "broadcom",
+      "corp",
+      "short",
+      "sales",
+      "$",
+      "brcm",
+      "$",
+      "gdxj",
+      "$",
+      "cvx",
+      "$",
+      "vls",
+      "l",
+      "brcm",
+      "nasdaq",
+      "nasdaq"
+    ],
+    "created_at": "Fri Jul 03 12:34:04 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 539
+  }
+]

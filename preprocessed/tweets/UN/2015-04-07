@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "hello",
+      "from",
+      "john",
+      "$",
+      "ddd",
+      "$",
+      "tsm",
+      "$",
+      "lyb",
+      "$",
+      "un",
+      "financialnews",
+      "take",
+      "a",
+      "look",
+      "at"
+    ],
+    "created_at": "Tue Apr 07 18:31:14 +0000 2015",
+    "user_id_str": "3088825001",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "$",
+      "un",
+      "$",
+      "csco",
+      "socialfa",
+      "data",
+      "nse",
+      "debt",
+      "i",
+      "am",
+      "emily",
+      "new",
+      "researcher",
+      "please",
+      "review",
+      "my",
+      "work",
+      "under"
+    ],
+    "created_at": "Tue Apr 07 18:39:42 +0000 2015",
+    "user_id_str": "3089097716",
+    "followers_count": 0
+  }
+]

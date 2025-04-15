@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "$",
+      "aes",
+      "$",
+      "ppl",
+      "analyst",
+      "price",
+      "target",
+      "review",
+      "on",
+      "utilities",
+      "stocks",
+      "aes",
+      "corp",
+      "nyse"
+    ],
+    "created_at": "Thu Feb 04 11:56:26 +0000 2016",
+    "user_id_str": "3419950815",
+    "followers_count": 610
+  },
+  {
+    "text": [
+      "ppl",
+      "corp",
+      "$",
+      "ppl",
+      "issues",
+      "quarterly",
+      "earnings",
+      "results",
+      "misses",
+      "estimates",
+      "by",
+      "$0",
+      "01",
+      "eps"
+    ],
+    "created_at": "Thu Feb 04 14:58:32 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 5829
+  }
+]

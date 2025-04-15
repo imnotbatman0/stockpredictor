@@ -1,0 +1,55 @@
+[
+  {
+    "text": [
+      "chicago",
+      "trust",
+      "company",
+      "sells",
+      "3",
+      "624",
+      "shares",
+      "of",
+      "verizon",
+      "communications",
+      "inc",
+      "$",
+      "vz"
+    ],
+    "created_at": "Tue Jan 12 08:44:04 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 5771
+  },
+  {
+    "text": [
+      "volume",
+      "alert",
+      "-",
+      "vz",
+      "44",
+      "79",
+      "verizon",
+      "communications",
+      "inc",
+      "$",
+      "vz",
+      "hit",
+      "a",
+      "high",
+      "today",
+      "of",
+      "45",
+      "25",
+      "closing",
+      "the",
+      "day",
+      "10",
+      "30",
+      "at",
+      "44",
+      "7"
+    ],
+    "created_at": "Tue Jan 12 16:00:50 +0000 2016",
+    "user_id_str": "2181373892",
+    "followers_count": 696
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "gg",
+      "goldcorp",
+      "inc",
+      "dividend",
+      "$",
+      "gg",
+      "$",
+      "jnj",
+      "$",
+      "qtmm",
+      "$",
+      "xly",
+      "stockmarket",
+      "stockmarket"
+    ],
+    "created_at": "Sat Feb 20 01:38:42 +0000 2016",
+    "user_id_str": "565059874",
+    "followers_count": 1085
+  },
+  {
+    "text": [
+      "first",
+      "american",
+      "bank",
+      "buys",
+      "1",
+      "241",
+      "shares",
+      "of",
+      "johnsonjohnson",
+      "$",
+      "jnj",
+      "read",
+      "more"
+    ],
+    "created_at": "Sat Feb 20 18:04:30 +0000 2016",
+    "user_id_str": "4817173033",
+    "followers_count": 17
+  }
+]

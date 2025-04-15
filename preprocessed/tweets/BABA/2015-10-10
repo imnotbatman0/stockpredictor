@@ -1,0 +1,58 @@
+[
+  {
+    "text": [
+      "$",
+      "tsla",
+      "company",
+      "info",
+      "updated",
+      "saturday",
+      "october",
+      "10",
+      "2015",
+      "4",
+      "07",
+      "03",
+      "pm",
+      "$",
+      "baba",
+      "$",
+      "pacb",
+      "$",
+      "ko",
+      "$",
+      "nat"
+    ],
+    "created_at": "Sat Oct 10 21:00:02 +0000 2015",
+    "user_id_str": "2801334731",
+    "followers_count": 921
+  },
+  {
+    "text": [
+      "$",
+      "iyt",
+      "percent",
+      "change",
+      "updated",
+      "saturday",
+      "october",
+      "10",
+      "2015",
+      "09",
+      "07",
+      "01",
+      "am",
+      "$",
+      "ewg",
+      "$",
+      "baba",
+      "$",
+      "tecl",
+      "$",
+      "pfe"
+    ],
+    "created_at": "Sat Oct 10 14:14:42 +0000 2015",
+    "user_id_str": "2801334731",
+    "followers_count": 923
+  }
+]

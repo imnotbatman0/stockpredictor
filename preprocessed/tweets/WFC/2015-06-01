@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "today",
+      "s",
+      "hot",
+      "whisper",
+      "$",
+      "xlf",
+      "$",
+      "wfc",
+      "$",
+      "sfun",
+      "$",
+      "rad"
+    ],
+    "created_at": "Mon Jun 01 13:28:39 +0000 2015",
+    "user_id_str": "123125462",
+    "followers_count": 313
+  },
+  {
+    "text": [
+      "amzn",
+      "inc",
+      "company",
+      "info",
+      "$",
+      "amzn",
+      "$",
+      "nhc",
+      "to",
+      "$",
+      "bib",
+      "$",
+      "wfc",
+      "amzn",
+      "nasdaq",
+      "stockmarket"
+    ],
+    "created_at": "Mon Jun 01 16:32:05 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 642
+  }
+]

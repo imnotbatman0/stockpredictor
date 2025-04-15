@@ -1,0 +1,67 @@
+[
+  {
+    "text": [
+      "hollencrest",
+      "securities",
+      "boosts",
+      "position",
+      "in",
+      "pfizer",
+      "inc",
+      "$",
+      "pfe"
+    ],
+    "created_at": "Wed Jan 13 23:58:48 +0000 2016",
+    "user_id_str": "177915812",
+    "followers_count": 165
+  },
+  {
+    "text": [
+      "pfizer",
+      "buys",
+      "chinese",
+      "nutritional",
+      "supplement",
+      "line",
+      "$",
+      "pfe"
+    ],
+    "created_at": "Thu Jan 14 14:45:12 +0000 2016",
+    "user_id_str": "612435510",
+    "followers_count": 443
+  },
+  {
+    "text": [
+      "thursday",
+      "s",
+      "top",
+      "analyst",
+      "upgrades",
+      "amp",
+      "downgrades",
+      "part",
+      "3",
+      "$",
+      "knd",
+      "$",
+      "pfe",
+      "$",
+      "rtec",
+      "$",
+      "save",
+      "$",
+      "trgp",
+      "$",
+      "ngls",
+      "$",
+      "tot",
+      "$",
+      "mtn",
+      "$",
+      "va"
+    ],
+    "created_at": "Thu Jan 14 14:02:48 +0000 2016",
+    "user_id_str": "17622474",
+    "followers_count": 196631
+  }
+]

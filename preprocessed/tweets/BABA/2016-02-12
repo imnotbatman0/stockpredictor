@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "members",
+      "alerted",
+      "to",
+      "10-1800",
+      "potential",
+      "subscribe",
+      "$",
+      "$",
+      "pfe",
+      "$",
+      "bud",
+      "$",
+      "vz",
+      "$",
+      "ko",
+      "$",
+      "baba",
+      "$",
+      "v"
+    ],
+    "created_at": "Fri Feb 12 18:12:24 +0000 2016",
+    "user_id_str": "2802272246",
+    "followers_count": 12209
+  },
+  {
+    "text": [
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "fb",
+      "$",
+      "qqq",
+      "$",
+      "baba",
+      "$",
+      "spy",
+      "$",
+      "twtr"
+    ],
+    "created_at": "Fri Feb 12 18:47:40 +0000 2016",
+    "user_id_str": "4422358152",
+    "followers_count": 182
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "text": [
+      "$",
+      "blta",
+      "stock",
+      "message",
+      "board",
+      "updated",
+      "wednesday",
+      "december",
+      "23",
+      "2015",
+      "06",
+      "11",
+      "21",
+      "am",
+      "$",
+      "efa",
+      "$",
+      "lmt",
+      "$",
+      "xly",
+      "$",
+      "tvix"
+    ],
+    "created_at": "Wed Dec 23 12:03:12 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 902
+  },
+  {
+    "text": [
+      "$",
+      "ibm",
+      "stock",
+      "forum",
+      "updated",
+      "wednesday",
+      "december",
+      "23",
+      "2015",
+      "01",
+      "07",
+      "25",
+      "am",
+      "$",
+      "gs",
+      "$",
+      "lmt",
+      "$",
+      "enb",
+      "$",
+      "tbt"
+    ],
+    "created_at": "Wed Dec 23 06:13:14 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 1019
+  }
+]

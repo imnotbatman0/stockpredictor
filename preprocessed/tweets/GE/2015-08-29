@@ -1,0 +1,52 @@
+[
+  {
+    "text": [
+      "xlp",
+      "consumer",
+      "staples",
+      "select",
+      "sector",
+      "spdr",
+      "change",
+      "$",
+      "xlp",
+      "$",
+      "ge",
+      "$",
+      "ihsi",
+      "$",
+      "ggg",
+      "xlp",
+      "stocks",
+      "tradeideas"
+    ],
+    "created_at": "Sat Aug 29 10:49:09 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 723
+  },
+  {
+    "text": [
+      "baba",
+      "alibaba",
+      "group",
+      "holding",
+      "ltd",
+      "stock",
+      "forum",
+      "$",
+      "baba",
+      "$",
+      "rsx",
+      "$",
+      "ge",
+      "$",
+      "bobe",
+      "baba",
+      "share",
+      "stock"
+    ],
+    "created_at": "Sat Aug 29 13:32:35 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4360
+  }
+]

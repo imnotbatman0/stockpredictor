@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "$",
+      "baba",
+      "57",
+      "59",
+      "before",
+      "it",
+      "comes",
+      "back"
+    ],
+    "created_at": "Mon Feb 08 17:25:29 +0000 2016",
+    "user_id_str": "26962866",
+    "followers_count": 58
+  },
+  {
+    "text": [
+      "$",
+      "yelp",
+      "planning",
+      "major",
+      "uptick",
+      "brand",
+      "awareness",
+      "ad",
+      "spending",
+      "2016",
+      "given",
+      "effectiveness",
+      "15",
+      "$",
+      "goog",
+      "$",
+      "pcln",
+      "$",
+      "yhoo",
+      "$",
+      "amzn",
+      "$",
+      "baba"
+    ],
+    "created_at": "Mon Feb 08 21:44:46 +0000 2016",
+    "user_id_str": "2428916787",
+    "followers_count": 187
+  }
+]

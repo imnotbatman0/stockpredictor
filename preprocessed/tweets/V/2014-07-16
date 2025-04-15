@@ -1,0 +1,113 @@
+[
+  {
+    "text": [
+      "sms",
+      "ham",
+      "2",
+      "9",
+      "7",
+      "7",
+      "$",
+      "v$"
+    ],
+    "created_at": "Wed Jul 16 03:40:26 +0000 2014",
+    "user_id_str": "2584129549",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "$",
+      "v",
+      "stocks",
+      "you",
+      "might",
+      "want",
+      "to",
+      "sell",
+      "$",
+      "oxy",
+      "$",
+      "itc",
+      "$",
+      "feye",
+      "equity",
+      "rate",
+      "limit",
+      "exceeded"
+    ],
+    "created_at": "Wed Jul 16 02:12:34 +0000 2014",
+    "user_id_str": "2535209847",
+    "followers_count": 10
+  },
+  {
+    "text": [
+      "$",
+      "sbny",
+      "best",
+      "pennystock",
+      "research",
+      "$",
+      "flr",
+      "$",
+      "v",
+      "$",
+      "ibm",
+      "investing",
+      "rate",
+      "limit",
+      "exceeded"
+    ],
+    "created_at": "Wed Jul 16 12:02:16 +0000 2014",
+    "user_id_str": "2447547871",
+    "followers_count": 597
+  },
+  {
+    "text": [
+      "$",
+      "spr",
+      "do",
+      "you",
+      "think",
+      "you",
+      "should",
+      "hold",
+      "$",
+      "hcp",
+      "$",
+      "v",
+      "$",
+      "nuan",
+      "equity",
+      "rate",
+      "limit",
+      "exceeded"
+    ],
+    "created_at": "Wed Jul 16 10:16:33 +0000 2014",
+    "user_id_str": "2475001788",
+    "followers_count": 13
+  },
+  {
+    "text": [
+      "dennyt",
+      "pph",
+      "basic",
+      "chart",
+      "$",
+      "pph",
+      "$",
+      "mux",
+      "$",
+      "fxe",
+      "$",
+      "v",
+      "$",
+      "tza",
+      "buy",
+      "or",
+      "dennyt"
+    ],
+    "created_at": "Wed Jul 16 05:05:01 +0000 2014",
+    "user_id_str": "1286058860",
+    "followers_count": 1693
+  }
+]

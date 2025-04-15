@@ -1,0 +1,60 @@
+[
+  {
+    "text": [
+      "stocks",
+      "you",
+      "might",
+      "want",
+      "to",
+      "sell",
+      "$",
+      "bll",
+      "$",
+      "mdt",
+      "$",
+      "rhi",
+      "$",
+      "aapl",
+      "financialnews"
+    ],
+    "created_at": "Tue May 20 20:22:52 +0000 2014",
+    "user_id_str": "2492905831",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "$",
+      "mdt",
+      "medtronic",
+      "to",
+      "pay",
+      "edwards",
+      "to",
+      "settle",
+      "heart",
+      "valve",
+      "lawsuit"
+    ],
+    "created_at": "Tue May 20 14:10:06 +0000 2014",
+    "user_id_str": "1827495824",
+    "followers_count": 71
+  },
+  {
+    "text": [
+      "$",
+      "mdt",
+      "medtronic",
+      "reports",
+      "q4",
+      "eps",
+      "$1",
+      "12",
+      "consensus",
+      "$1",
+      "12"
+    ],
+    "created_at": "Tue May 20 15:04:13 +0000 2014",
+    "user_id_str": "1728602022",
+    "followers_count": 229
+  }
+]

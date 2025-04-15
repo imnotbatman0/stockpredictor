@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "rt",
+      "pep",
+      "pepsico",
+      "inc",
+      "tick",
+      "$",
+      "pep",
+      "$",
+      "amzn",
+      "$",
+      "atvi",
+      "$",
+      "drn",
+      "pep",
+      "finance",
+      "stocks"
+    ],
+    "created_at": "Sun Nov 22 07:47:55 +0000 2015",
+    "user_id_str": "3331182800",
+    "followers_count": 942
+  },
+  {
+    "text": [
+      "$",
+      "pep",
+      "pepsico",
+      "raises",
+      "quarterly",
+      "dividend",
+      "by",
+      "7",
+      "3"
+    ],
+    "created_at": "Sun Nov 22 18:59:49 +0000 2015",
+    "user_id_str": "18574762",
+    "followers_count": 890
+  }
+]

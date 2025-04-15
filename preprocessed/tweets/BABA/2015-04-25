@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "since",
+      "your",
+      "tweet",
+      "was",
+      "sent",
+      "$",
+      "baba",
+      "has",
+      "risen",
+      "3",
+      "157",
+      "see",
+      "your",
+      "featured",
+      "tweet",
+      "on",
+      "market",
+      "parse"
+    ],
+    "created_at": "Sat Apr 25 08:31:11 +0000 2015",
+    "user_id_str": "3005559517",
+    "followers_count": 1225
+  },
+  {
+    "text": [
+      "most",
+      "popular",
+      "marketplaces",
+      "to",
+      "buy",
+      "stuff",
+      "online",
+      "$",
+      "baba",
+      "$",
+      "amzn",
+      "$",
+      "ebay",
+      "$",
+      "grpn"
+    ],
+    "created_at": "Sat Apr 25 00:32:31 +0000 2015",
+    "user_id_str": "3080891958",
+    "followers_count": 4
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "text": [
+      "label",
+      "and",
+      "list",
+      "price",
+      "comparison",
+      "between",
+      "gilead",
+      "and",
+      "merck",
+      "$",
+      "gild",
+      "$",
+      "mrk"
+    ],
+    "created_at": "Sat Jan 30 22:21:36 +0000 2016",
+    "user_id_str": "3426014292",
+    "followers_count": 2813
+  },
+  {
+    "text": [
+      "our",
+      "penny",
+      "stock",
+      "picks",
+      "have",
+      "nearly",
+      "tripled",
+      "in",
+      "value",
+      "in",
+      "2",
+      "weeks",
+      "get",
+      "early",
+      "access",
+      "to",
+      "future",
+      "alerts",
+      "stocks",
+      "$",
+      "mrk",
+      "$",
+      "lgnd"
+    ],
+    "created_at": "Sat Jan 30 04:49:31 +0000 2016",
+    "user_id_str": "3091880403",
+    "followers_count": 15135
+  },
+  {
+    "text": [
+      "$",
+      "mrk",
+      "clinical",
+      "studies",
+      "supporting",
+      "efficacy",
+      "of",
+      "zepatier",
+      "elbasvir",
+      "and",
+      "grazoprevir"
+    ],
+    "created_at": "Sat Jan 30 04:52:43 +0000 2016",
+    "user_id_str": "1330741110",
+    "followers_count": 1858
+  }
+]

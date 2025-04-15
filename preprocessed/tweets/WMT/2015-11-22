@@ -1,0 +1,85 @@
+[
+  {
+    "text": [
+      "rt",
+      "seekingalpha",
+      "wal-mart",
+      "or",
+      "dollar",
+      "general",
+      "comparing",
+      "2",
+      "solid",
+      "retailers",
+      "$",
+      "wmt",
+      "$",
+      "dg"
+    ],
+    "created_at": "Sun Nov 22 06:22:17 +0000 2015",
+    "user_id_str": "9555372",
+    "followers_count": 7700
+  },
+  {
+    "text": [
+      "what",
+      "to",
+      "watch",
+      "in",
+      "the",
+      "stock",
+      "market",
+      "this",
+      "week",
+      "$",
+      "gme",
+      "$",
+      "dis",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Sun Nov 22 21:38:57 +0000 2015",
+    "user_id_str": "166950482",
+    "followers_count": 221
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "wal-mart",
+      "stores",
+      "receives",
+      "$64",
+      "89",
+      "average",
+      "target",
+      "price",
+      "from"
+    ],
+    "created_at": "Sun Nov 22 08:05:02 +0000 2015",
+    "user_id_str": "2341445778",
+    "followers_count": 682
+  },
+  {
+    "text": [
+      "googl",
+      "alphabet",
+      "inc",
+      "news",
+      "$",
+      "googl",
+      "$",
+      "gbt",
+      "$",
+      "wmt",
+      "$",
+      "aa",
+      "googl",
+      "finance",
+      "stock"
+    ],
+    "created_at": "Sun Nov 22 22:41:04 +0000 2015",
+    "user_id_str": "1833020461",
+    "followers_count": 1128
+  }
+]

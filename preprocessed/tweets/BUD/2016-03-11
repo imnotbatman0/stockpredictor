@@ -1,0 +1,59 @@
+[
+  {
+    "text": [
+      "anheuser",
+      "busch",
+      "inbev",
+      "sa",
+      "$",
+      "bud",
+      "stake",
+      "increased",
+      "by",
+      "ci",
+      "global",
+      "investments",
+      "inc"
+    ],
+    "created_at": "Fri Mar 11 11:14:23 +0000 2016",
+    "user_id_str": "2181281054",
+    "followers_count": 633
+  },
+  {
+    "text": [
+      "today",
+      "stock",
+      "targets",
+      "$",
+      "bud",
+      "$121",
+      "$",
+      "vrx",
+      "$68",
+      "2",
+      "$",
+      "swhc",
+      "$28",
+      "9",
+      "$",
+      "twtr",
+      "$17",
+      "8",
+      "$",
+      "aapl",
+      "$103",
+      "43",
+      "$",
+      "dis",
+      "$99",
+      "2",
+      "$",
+      "fb",
+      "$107",
+      "9"
+    ],
+    "created_at": "Fri Mar 11 13:28:13 +0000 2016",
+    "user_id_str": "311064164",
+    "followers_count": 558
+  }
+]

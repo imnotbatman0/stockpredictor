@@ -1,0 +1,62 @@
+[
+  {
+    "text": [
+      "bp",
+      "$",
+      "bp",
+      "plc",
+      "bp",
+      "shares",
+      "bought",
+      "by",
+      "fisher",
+      "asset",
+      "management",
+      "read",
+      "more"
+    ],
+    "created_at": "Tue Feb 16 09:10:00 +0000 2016",
+    "user_id_str": "4831133713",
+    "followers_count": 4
+  },
+  {
+    "text": [
+      "ewa",
+      "australia",
+      "ishares",
+      "company",
+      "info",
+      "$",
+      "ewa",
+      "$",
+      "rds",
+      "a",
+      "$",
+      "bp",
+      "$",
+      "aldr",
+      "tradeideas",
+      "finance"
+    ],
+    "created_at": "Tue Feb 16 07:26:12 +0000 2016",
+    "user_id_str": "268844094",
+    "followers_count": 2544
+  },
+  {
+    "text": [
+      "bp",
+      "plc",
+      "$",
+      "bp",
+      "shares",
+      "gap",
+      "down",
+      "to",
+      "$27",
+      "64"
+    ],
+    "created_at": "Tue Feb 16 02:16:32 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 5882
+  }
+]

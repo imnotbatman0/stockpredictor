@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "$",
+      "v",
+      "sai",
+      "facebook",
+      "reports",
+      "q4",
+      "revenue",
+      "$5",
+      "84",
+      "billion",
+      "$5",
+      "37",
+      "billion",
+      "expected"
+    ],
+    "created_at": "Wed Jan 27 21:09:43 +0000 2016",
+    "user_id_str": "4758506988",
+    "followers_count": 315
+  },
+  {
+    "text": [
+      "$",
+      "v",
+      "sai",
+      "apple",
+      "is",
+      "building",
+      "a",
+      "massive",
+      "r",
+      "amp",
+      "d",
+      "complex",
+      "in",
+      "san",
+      "jose"
+    ],
+    "created_at": "Wed Jan 27 16:34:47 +0000 2016",
+    "user_id_str": "4758506988",
+    "followers_count": 318
+  },
+  {
+    "text": [
+      "v",
+      "top",
+      "news",
+      "-",
+      "jan",
+      "27th",
+      "2016",
+      "$",
+      "v"
+    ],
+    "created_at": "Wed Jan 27 15:42:29 +0000 2016",
+    "user_id_str": "3121098012",
+    "followers_count": 571
+  }
+]

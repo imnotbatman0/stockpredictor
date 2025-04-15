@@ -1,0 +1,66 @@
+[
+  {
+    "text": [
+      "microsoft",
+      "co",
+      "$",
+      "msft",
+      "shares",
+      "bought",
+      "by",
+      "capstone",
+      "asset",
+      "management",
+      "company"
+    ],
+    "created_at": "Sun Jan 17 08:12:26 +0000 2016",
+    "user_id_str": "2181281054",
+    "followers_count": 591
+  },
+  {
+    "text": [
+      "report",
+      "says",
+      "microsoft",
+      "lumia",
+      "650",
+      "will",
+      "be",
+      "made",
+      "official",
+      "early",
+      "next",
+      "month",
+      "-",
+      "microsoft",
+      "$",
+      "msft"
+    ],
+    "created_at": "Sun Jan 17 14:29:12 +0000 2016",
+    "user_id_str": "28918980",
+    "followers_count": 271124
+  },
+  {
+    "text": [
+      "microsoft",
+      "hololens",
+      "can",
+      "talk",
+      "to",
+      "just",
+      "about",
+      "any",
+      "device",
+      "$",
+      "msft",
+      "augmentedreality",
+      "gear",
+      "headset",
+      "holographic",
+      "hololens"
+    ],
+    "created_at": "Sun Jan 17 15:00:58 +0000 2016",
+    "user_id_str": "323092381",
+    "followers_count": 149
+  }
+]

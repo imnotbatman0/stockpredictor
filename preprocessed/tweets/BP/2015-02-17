@@ -1,0 +1,45 @@
+[
+  {
+    "text": [
+      "exxon",
+      "please",
+      "lord",
+      "don",
+      "t",
+      "buy",
+      "bp",
+      "$",
+      "bp",
+      "$",
+      "xom"
+    ],
+    "created_at": "Tue Feb 17 12:15:53 +0000 2015",
+    "user_id_str": "23059499",
+    "followers_count": 69924
+  },
+  {
+    "text": [
+      "bp",
+      "forecasts",
+      "a",
+      "37",
+      "increase",
+      "in",
+      "global",
+      "energy",
+      "demand",
+      "from",
+      "2015",
+      "to",
+      "2035",
+      "oil",
+      "gas",
+      "coal",
+      "$",
+      "bp"
+    ],
+    "created_at": "Tue Feb 17 17:13:33 +0000 2015",
+    "user_id_str": "2835615338",
+    "followers_count": 171
+  }
+]

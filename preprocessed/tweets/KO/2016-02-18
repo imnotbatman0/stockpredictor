@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "dow",
+      "stocks",
+      "$",
+      "ko",
+      "coca-cola",
+      "daily",
+      "0",
+      "30",
+      "weekly",
+      "2",
+      "21",
+      "ytd",
+      "1",
+      "23",
+      "trend",
+      "100",
+      "100"
+    ],
+    "created_at": "Thu Feb 18 08:15:55 +0000 2016",
+    "user_id_str": "2455761204",
+    "followers_count": 49
+  },
+  {
+    "text": [
+      "coca-cola",
+      "raises",
+      "dividend",
+      "again",
+      "$",
+      "ko"
+    ],
+    "created_at": "Thu Feb 18 16:10:51 +0000 2016",
+    "user_id_str": "49186311",
+    "followers_count": 197
+  }
+]

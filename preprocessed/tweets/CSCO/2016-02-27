@@ -1,0 +1,86 @@
+[
+  {
+    "text": [
+      "wendell",
+      "david",
+      "associates",
+      "acquires",
+      "641",
+      "shares",
+      "of",
+      "cisco",
+      "systems",
+      "inc",
+      "$",
+      "csco",
+      "read",
+      "more"
+    ],
+    "created_at": "Sat Feb 27 03:29:39 +0000 2016",
+    "user_id_str": "4830596772",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "wendell",
+      "david",
+      "associates",
+      "acquires",
+      "641",
+      "shares",
+      "of",
+      "cisco",
+      "systems",
+      "inc",
+      "$",
+      "csco",
+      "read",
+      "more"
+    ],
+    "created_at": "Sat Feb 27 03:29:39 +0000 2016",
+    "user_id_str": "4830606468",
+    "followers_count": 4
+  },
+  {
+    "text": [
+      "c",
+      "citigroup",
+      "inc",
+      "shares",
+      "$",
+      "c",
+      "$",
+      "gg",
+      "$",
+      "csco",
+      "$",
+      "c",
+      "invest",
+      "share"
+    ],
+    "created_at": "Sat Feb 27 14:11:07 +0000 2016",
+    "user_id_str": "2181403417",
+    "followers_count": 604
+  },
+  {
+    "text": [
+      "synergy",
+      "cisco",
+      "had",
+      "56",
+      "of",
+      "switch",
+      "router",
+      "market",
+      "in",
+      "2015",
+      "$",
+      "csco",
+      "$",
+      "eric"
+    ],
+    "created_at": "Sat Feb 27 16:36:42 +0000 2016",
+    "user_id_str": "348642818",
+    "followers_count": 735
+  }
+]

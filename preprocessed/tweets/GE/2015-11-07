@@ -1,0 +1,54 @@
+[
+  {
+    "text": [
+      "today",
+      "s",
+      "action",
+      "leaders",
+      "$",
+      "fb",
+      "$",
+      "bac",
+      "$",
+      "aapl",
+      "$",
+      "ge",
+      "$",
+      "vrx",
+      "$",
+      "baba"
+    ],
+    "created_at": "Sat Nov 07 03:17:07 +0000 2015",
+    "user_id_str": "14902429",
+    "followers_count": 1271
+  },
+  {
+    "text": [
+      "this",
+      "virtual",
+      "reality",
+      "thing",
+      "that",
+      "came",
+      "with",
+      "the",
+      "this",
+      "morning",
+      "is",
+      "amazing",
+      "try",
+      "it",
+      "if",
+      "u",
+      "got",
+      "one",
+      "$",
+      "googl",
+      "$",
+      "ge"
+    ],
+    "created_at": "Sat Nov 07 16:30:18 +0000 2015",
+    "user_id_str": "239156164",
+    "followers_count": 66
+  }
+]

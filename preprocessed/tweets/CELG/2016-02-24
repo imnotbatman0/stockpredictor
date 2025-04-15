@@ -1,0 +1,60 @@
+[
+  {
+    "text": [
+      "celg",
+      "top",
+      "news",
+      "-",
+      "feb",
+      "24th",
+      "2016",
+      "$",
+      "celg"
+    ],
+    "created_at": "Wed Feb 24 15:54:41 +0000 2016",
+    "user_id_str": "3121098012",
+    "followers_count": 575
+  },
+  {
+    "text": [
+      "celgene",
+      "co",
+      "$",
+      "celg",
+      "shares",
+      "bought",
+      "by",
+      "first",
+      "western",
+      "capital",
+      "management",
+      "co",
+      "acn"
+    ],
+    "created_at": "Wed Feb 24 16:51:35 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1358
+  },
+  {
+    "text": [
+      "investors",
+      "buy",
+      "shares",
+      "of",
+      "celgene",
+      "co",
+      "$",
+      "celg",
+      "on",
+      "weakness",
+      "on",
+      "analyst",
+      "downgrade",
+      "read",
+      "more"
+    ],
+    "created_at": "Wed Feb 24 04:30:39 +0000 2016",
+    "user_id_str": "4853120260",
+    "followers_count": 25
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "text": [
+      "leahanne",
+      "volume",
+      "alert",
+      "-",
+      "intc",
+      "33",
+      "57",
+      "intel",
+      "corp",
+      "$",
+      "intc",
+      "hit",
+      "a"
+    ],
+    "created_at": "Tue Oct 20 16:40:10 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13202
+  },
+  {
+    "text": [
+      "micron",
+      "technology",
+      "$",
+      "mu",
+      "downside",
+      "exacerbated",
+      "by",
+      "intel",
+      "$",
+      "intc",
+      "move",
+      "in",
+      "non-volatile",
+      "memory",
+      "via"
+    ],
+    "created_at": "Tue Oct 20 18:04:58 +0000 2015",
+    "user_id_str": "3372441113",
+    "followers_count": 1086
+  },
+  {
+    "text": [
+      "micron",
+      "technology",
+      "$",
+      "mu",
+      "may",
+      "use",
+      "supply",
+      "from",
+      "intel",
+      "s",
+      "$",
+      "intc",
+      "china",
+      "plant",
+      "-",
+      "bloomberg",
+      "$$"
+    ],
+    "created_at": "Tue Oct 20 19:31:23 +0000 2015",
+    "user_id_str": "471121755",
+    "followers_count": 596
+  }
+]

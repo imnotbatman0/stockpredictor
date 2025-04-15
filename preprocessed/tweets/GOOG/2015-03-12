@@ -1,0 +1,64 @@
+[
+  {
+    "text": [
+      "$",
+      "goog",
+      "google",
+      "inc",
+      "goog",
+      "s",
+      "nearline",
+      "promises",
+      "to",
+      "change",
+      "the",
+      "cold"
+    ],
+    "created_at": "Thu Mar 12 13:00:04 +0000 2015",
+    "user_id_str": "2341445778",
+    "followers_count": 246
+  },
+  {
+    "text": [
+      "learn",
+      "stock",
+      "technical",
+      "analysis",
+      "and",
+      "charting",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "jrjc",
+      "$",
+      "live",
+      "$",
+      "intc",
+      "$",
+      "twtr"
+    ],
+    "created_at": "Thu Mar 12 16:57:09 +0000 2015",
+    "user_id_str": "69627447",
+    "followers_count": 25
+  },
+  {
+    "text": [
+      "$",
+      "goog",
+      "$",
+      "googl",
+      "youtube",
+      "owns",
+      "video",
+      "space",
+      "bart",
+      "baker",
+      "cnbc"
+    ],
+    "created_at": "Thu Mar 12 01:38:03 +0000 2015",
+    "user_id_str": "2341281566",
+    "followers_count": 202
+  }
+]

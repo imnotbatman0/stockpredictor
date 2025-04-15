@@ -1,0 +1,60 @@
+[
+  {
+    "text": [
+      "$",
+      "baba",
+      "your",
+      "tweet",
+      "has",
+      "been",
+      "featured",
+      "on",
+      "the",
+      "newest",
+      "market",
+      "analytics",
+      "app",
+      "market",
+      "parse",
+      "for",
+      "iphone"
+    ],
+    "created_at": "Sat Feb 14 17:00:20 +0000 2015",
+    "user_id_str": "3005559517",
+    "followers_count": 19
+  },
+  {
+    "text": [
+      "stocks",
+      "trending",
+      "now",
+      "$",
+      "xiv",
+      "$",
+      "xiv",
+      "$",
+      "lvs",
+      "$",
+      "csco",
+      "$",
+      "gbgm",
+      "$",
+      "qtmm",
+      "$",
+      "baba",
+      "$",
+      "biib",
+      "$",
+      "bldp",
+      "$",
+      "trv",
+      "$",
+      "car",
+      "$",
+      "fcx"
+    ],
+    "created_at": "Sat Feb 14 17:28:17 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4080
+  }
+]

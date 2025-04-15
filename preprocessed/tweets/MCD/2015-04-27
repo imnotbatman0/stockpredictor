@@ -1,0 +1,32 @@
+[
+  {
+    "text": [
+      "$",
+      "mcd",
+      "no",
+      "love",
+      "lost",
+      "-",
+      "the",
+      "future",
+      "of",
+      "mcdonald",
+      "s"
+    ],
+    "created_at": "Mon Apr 27 17:55:32 +0000 2015",
+    "user_id_str": "3017654325",
+    "followers_count": 846
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "down",
+      "2",
+      "45"
+    ],
+    "created_at": "Mon Apr 27 19:54:49 +0000 2015",
+    "user_id_str": "2792041422",
+    "followers_count": 557
+  }
+]

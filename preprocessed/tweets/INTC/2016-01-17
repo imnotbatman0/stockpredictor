@@ -1,0 +1,78 @@
+[
+  {
+    "text": [
+      "intc",
+      "intel",
+      "corp",
+      "ask",
+      "size",
+      "$",
+      "intc",
+      "$",
+      "mu",
+      "$",
+      "ery",
+      "$",
+      "t",
+      "intc",
+      "stockmarket",
+      "nasdaq"
+    ],
+    "created_at": "Sun Jan 17 20:42:05 +0000 2016",
+    "user_id_str": "2204135624",
+    "followers_count": 4247
+  },
+  {
+    "text": [
+      "schw",
+      "bid",
+      "click",
+      "here",
+      "--",
+      "gt",
+      "$",
+      "schw",
+      "$",
+      "fxb",
+      "$",
+      "intc",
+      "$",
+      "bud",
+      "schw",
+      "share",
+      "stocks"
+    ],
+    "created_at": "Sun Jan 17 06:49:44 +0000 2016",
+    "user_id_str": "2197078218",
+    "followers_count": 732
+  },
+  {
+    "text": [
+      "rt",
+      "seekingalpha",
+      "houston",
+      "we",
+      "have",
+      "a",
+      "supply",
+      "problem",
+      "$",
+      "blk",
+      "$",
+      "gm",
+      "$",
+      "intc",
+      "$",
+      "nflx",
+      "$",
+      "stx",
+      "$",
+      "vz",
+      "$",
+      "wsm"
+    ],
+    "created_at": "Sun Jan 17 19:37:15 +0000 2016",
+    "user_id_str": "42858599",
+    "followers_count": 982
+  }
+]

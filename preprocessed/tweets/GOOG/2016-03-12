@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "google",
+      "$",
+      "goog",
+      "s",
+      "self-driving",
+      "car",
+      "director",
+      "chris",
+      "urmson",
+      "discusses",
+      "bus",
+      "accident",
+      "read",
+      "more"
+    ],
+    "created_at": "Sat Mar 12 04:09:09 +0000 2016",
+    "user_id_str": "4824999733",
+    "followers_count": 27
+  },
+  {
+    "text": [
+      "why",
+      "2016",
+      "is",
+      "the",
+      "year",
+      "the",
+      "internet",
+      "of",
+      "things",
+      "goes",
+      "mainstream",
+      "via",
+      "motley",
+      "fool",
+      "iot",
+      "$",
+      "ibm",
+      "$",
+      "goog"
+    ],
+    "created_at": "Sat Mar 12 02:40:08 +0000 2016",
+    "user_id_str": "3131442760",
+    "followers_count": 928
+  }
+]

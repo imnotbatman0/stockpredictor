@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "wal-mart",
+      "stores",
+      "sets",
+      "new",
+      "1-year",
+      "low",
+      "at",
+      "$58",
+      "26",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Sun Oct 25 03:40:02 +0000 2015",
+    "user_id_str": "61661638",
+    "followers_count": 5511
+  },
+  {
+    "text": [
+      "exel",
+      "exelixis",
+      "inc",
+      "ask",
+      "size",
+      "$",
+      "exel",
+      "$",
+      "edz",
+      "$",
+      "wmt",
+      "$",
+      "skx",
+      "exel",
+      "stocks",
+      "stockmarket"
+    ],
+    "created_at": "Sun Oct 25 04:37:34 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 1002
+  }
+]

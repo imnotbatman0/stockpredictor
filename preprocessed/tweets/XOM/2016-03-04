@@ -1,0 +1,102 @@
+[
+  {
+    "text": [
+      "exxon",
+      "mobil",
+      "co",
+      "$",
+      "xom",
+      "price",
+      "target",
+      "increased",
+      "to",
+      "$85",
+      "00",
+      "by",
+      "analysts",
+      "at",
+      "jefferies",
+      "group"
+    ],
+    "created_at": "Fri Mar 04 06:38:39 +0000 2016",
+    "user_id_str": "2348716116",
+    "followers_count": 2092
+  },
+  {
+    "text": [
+      "oil",
+      "amp",
+      "gas",
+      "having",
+      "one",
+      "of",
+      "best",
+      "days",
+      "in",
+      "recent",
+      "memory",
+      "$",
+      "bp",
+      "$",
+      "cop",
+      "$",
+      "cpe",
+      "$",
+      "cvx",
+      "$",
+      "xom",
+      "$",
+      "sdrl",
+      "$",
+      "pbr",
+      "$",
+      "line"
+    ],
+    "created_at": "Fri Mar 04 19:23:35 +0000 2016",
+    "user_id_str": "2602714231",
+    "followers_count": 226
+  },
+  {
+    "text": [
+      "exxon",
+      "joins",
+      "u",
+      "s",
+      "crude",
+      "oil",
+      "export",
+      "race",
+      "with",
+      "shipment",
+      "to",
+      "italy",
+      "with",
+      "shale",
+      "$",
+      "xom"
+    ],
+    "created_at": "Fri Mar 04 12:54:17 +0000 2016",
+    "user_id_str": "1668922820",
+    "followers_count": 114
+  },
+  {
+    "text": [
+      "quantres",
+      "asset",
+      "management",
+      "acquires",
+      "shares",
+      "of",
+      "18",
+      "600",
+      "exxon",
+      "mobil",
+      "co",
+      "$",
+      "xom"
+    ],
+    "created_at": "Fri Mar 04 04:39:22 +0000 2016",
+    "user_id_str": "1979190776",
+    "followers_count": 919
+  }
+]

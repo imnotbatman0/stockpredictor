@@ -1,0 +1,101 @@
+[
+  {
+    "text": [
+      "your",
+      "tweet",
+      "about",
+      "$",
+      "goog",
+      "had",
+      "a",
+      "sentiment",
+      "of",
+      "1",
+      "and",
+      "was",
+      "featured",
+      "on",
+      "market",
+      "parse"
+    ],
+    "created_at": "Wed Jun 03 20:30:17 +0000 2015",
+    "user_id_str": "3182322139",
+    "followers_count": 24
+  },
+  {
+    "text": [
+      "our",
+      "stock",
+      "alerts",
+      "gained",
+      "over",
+      "1300",
+      "in",
+      "less",
+      "than",
+      "3",
+      "months",
+      "see",
+      "our",
+      "new",
+      "picks",
+      "$",
+      "dpm",
+      "$",
+      "frak",
+      "$",
+      "goog"
+    ],
+    "created_at": "Wed Jun 03 16:37:02 +0000 2015",
+    "user_id_str": "2447901655",
+    "followers_count": 14989
+  },
+  {
+    "text": [
+      "it",
+      "s",
+      "time",
+      "to",
+      "get",
+      "into",
+      "this",
+      "stock",
+      "$",
+      "goog",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Wed Jun 03 20:19:59 +0000 2015",
+    "user_id_str": "2575415694",
+    "followers_count": 14
+  },
+  {
+    "text": [
+      "our",
+      "penny",
+      "stock",
+      "pick",
+      "on",
+      "$",
+      "thcz",
+      "is",
+      "up",
+      "570",
+      "77",
+      "for",
+      "platinum",
+      "members",
+      "big",
+      "update",
+      "$",
+      "ibm",
+      "$",
+      "goog",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Wed Jun 03 17:20:45 +0000 2015",
+    "user_id_str": "2447967798",
+    "followers_count": 15379
+  }
+]

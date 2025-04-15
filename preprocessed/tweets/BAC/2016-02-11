@@ -1,0 +1,89 @@
+[
+  {
+    "text": [
+      "that",
+      "is",
+      "worrisome",
+      "$",
+      "bac"
+    ],
+    "created_at": "Thu Feb 11 22:01:56 +0000 2016",
+    "user_id_str": "20752208",
+    "followers_count": 27
+  },
+  {
+    "text": [
+      "popular",
+      "stock",
+      "update",
+      "$",
+      "fb",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "bac",
+      "$",
+      "c",
+      "$",
+      "f",
+      "$",
+      "t",
+      "$",
+      "bp",
+      "$",
+      "ge"
+    ],
+    "created_at": "Thu Feb 11 18:32:32 +0000 2016",
+    "user_id_str": "4345564350",
+    "followers_count": 1589
+  },
+  {
+    "text": [
+      "locking",
+      "in",
+      "$",
+      "bac",
+      "trade",
+      "for",
+      "a",
+      "gain",
+      "of",
+      "2",
+      "57",
+      "-",
+      "via"
+    ],
+    "created_at": "Thu Feb 11 14:52:41 +0000 2016",
+    "user_id_str": "395641830",
+    "followers_count": 325
+  },
+  {
+    "text": [
+      "$",
+      "bac",
+      "bank",
+      "of",
+      "america",
+      "corp",
+      "citigroup",
+      "goldman",
+      "sachs",
+      "group",
+      "tumble",
+      "to",
+      "52",
+      "week",
+      "low",
+      "bank",
+      "of",
+      "america",
+      "corp",
+      "ci"
+    ],
+    "created_at": "Thu Feb 11 20:12:43 +0000 2016",
+    "user_id_str": "255879714",
+    "followers_count": 2787
+  }
+]

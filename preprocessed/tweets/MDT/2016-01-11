@@ -1,0 +1,33 @@
+[
+  {
+    "text": [
+      "shares",
+      "of",
+      "medtronic",
+      "halted",
+      "for",
+      "news",
+      "pending",
+      "$",
+      "mdt"
+    ],
+    "created_at": "Mon Jan 11 17:25:31 +0000 2016",
+    "user_id_str": "37907210",
+    "followers_count": 220
+  },
+  {
+    "text": [
+      "medtronic",
+      "files",
+      "8k",
+      "-",
+      "regulation",
+      "fd",
+      "$",
+      "mdt"
+    ],
+    "created_at": "Mon Jan 11 17:53:04 +0000 2016",
+    "user_id_str": "102325185",
+    "followers_count": 6726
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "text": [
+      "mcdonalds",
+      "ceo",
+      "checking",
+      "out",
+      "vr",
+      "$",
+      "mcd"
+    ],
+    "created_at": "Fri Mar 11 18:26:02 +0000 2016",
+    "user_id_str": "114782468",
+    "followers_count": 114601
+  },
+  {
+    "text": [
+      "mcdonalds",
+      "$",
+      "mcd",
+      "trial",
+      "gives",
+      "peek",
+      "at",
+      "chain",
+      "s",
+      "inner",
+      "workings",
+      "read",
+      "more"
+    ],
+    "created_at": "Fri Mar 11 15:07:14 +0000 2016",
+    "user_id_str": "4801718472",
+    "followers_count": 19
+  }
+]

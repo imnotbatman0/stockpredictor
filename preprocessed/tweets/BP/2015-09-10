@@ -1,0 +1,36 @@
+[
+  {
+    "text": [
+      "zak",
+      "mir",
+      "$",
+      "bats",
+      "buy",
+      "$",
+      "bp",
+      "outperform",
+      "$",
+      "hsba",
+      "neutral"
+    ],
+    "created_at": "Thu Sep 10 09:03:54 +0000 2015",
+    "user_id_str": "2325073788",
+    "followers_count": 2251
+  },
+  {
+    "text": [
+      "bp",
+      "bernstein",
+      "rel",
+      "ve",
+      "son",
+      "opinion",
+      "surperformance",
+      "$",
+      "bp"
+    ],
+    "created_at": "Thu Sep 10 15:12:05 +0000 2015",
+    "user_id_str": "1953776653",
+    "followers_count": 612
+  }
+]

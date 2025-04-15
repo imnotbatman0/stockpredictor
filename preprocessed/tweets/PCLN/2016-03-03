@@ -1,0 +1,59 @@
+[
+  {
+    "text": [
+      "dupont",
+      "capital",
+      "management",
+      "corp",
+      "purchases",
+      "shares",
+      "of",
+      "900",
+      "priceline",
+      "group",
+      "inc",
+      "$",
+      "pcln",
+      "acn"
+    ],
+    "created_at": "Thu Mar 03 16:44:00 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1405
+  },
+  {
+    "text": [
+      "thwarted",
+      "by",
+      "the",
+      "iphone",
+      "hackers",
+      "turn",
+      "to",
+      "other",
+      "products",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "pcln",
+      "$",
+      "k"
+    ],
+    "created_at": "Thu Mar 03 11:27:09 +0000 2016",
+    "user_id_str": "2825810342",
+    "followers_count": 608
+  },
+  {
+    "text": [
+      "long",
+      "$",
+      "pcln",
+      "1290",
+      "puts"
+    ],
+    "created_at": "Thu Mar 03 14:49:46 +0000 2016",
+    "user_id_str": "1004925650",
+    "followers_count": 68
+  }
+]

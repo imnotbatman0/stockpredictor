@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "get",
+      "news",
+      "views",
+      "amp",
+      "analysis",
+      "for",
+      "various",
+      "assets",
+      "under",
+      "one",
+      "watchlist",
+      "$",
+      "btc",
+      "$",
+      "baba",
+      "$",
+      "yelp"
+    ],
+    "created_at": "Sat Feb 13 23:39:37 +0000 2016",
+    "user_id_str": "2373813025",
+    "followers_count": 818
+  },
+  {
+    "text": [
+      "intersting",
+      "article",
+      "about",
+      "a",
+      "new",
+      "stock",
+      "pick",
+      "site",
+      "related",
+      "$",
+      "baba",
+      "$",
+      "lnkd",
+      "$",
+      "fb",
+      "$",
+      "hlf"
+    ],
+    "created_at": "Sun Feb 14 19:00:46 +0000 2016",
+    "user_id_str": "2758657530",
+    "followers_count": 311
+  }
+]

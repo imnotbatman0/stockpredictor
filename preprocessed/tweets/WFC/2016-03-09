@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "news",
+      "corp",
+      "nws",
+      "stake",
+      "decreased",
+      "by",
+      "wellsfargo",
+      "$",
+      "wfc",
+      "amp",
+      "company",
+      "mn",
+      "read",
+      "more"
+    ],
+    "created_at": "Wed Mar 09 07:52:02 +0000 2016",
+    "user_id_str": "4811951173",
+    "followers_count": 22
+  },
+  {
+    "text": [
+      "the",
+      "bank",
+      "regulation",
+      "end-game",
+      "too",
+      "much",
+      "banking",
+      "$",
+      "bac",
+      "$",
+      "blk",
+      "$",
+      "c",
+      "$",
+      "gs",
+      "$",
+      "jpm",
+      "$",
+      "ms",
+      "$",
+      "wfc"
+    ],
+    "created_at": "Wed Mar 09 18:56:22 +0000 2016",
+    "user_id_str": "2999680401",
+    "followers_count": 1376
+  }
+]

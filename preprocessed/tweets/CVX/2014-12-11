@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "review",
+      "super",
+      "alerts",
+      "on",
+      "stock",
+      "picking",
+      "service",
+      "$",
+      "arex",
+      "$",
+      "agio",
+      "$",
+      "cvx",
+      "$",
+      "fcau",
+      "$",
+      "pki",
+      "$",
+      "ual"
+    ],
+    "created_at": "Thu Dec 11 09:14:05 +0000 2014",
+    "user_id_str": "2185372855",
+    "followers_count": 58
+  },
+  {
+    "text": [
+      "$",
+      "xom",
+      "$",
+      "cvx",
+      "exxonmobil",
+      "the",
+      "safest",
+      "way",
+      "to",
+      "play",
+      "the",
+      "oil",
+      "rebound"
+    ],
+    "created_at": "Thu Dec 11 19:38:03 +0000 2014",
+    "user_id_str": "2881595931",
+    "followers_count": 20
+  }
+]

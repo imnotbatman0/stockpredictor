@@ -1,0 +1,102 @@
+[
+  {
+    "text": [
+      "$",
+      "amzn",
+      "$",
+      "nflx",
+      "$",
+      "spy",
+      "$",
+      "baba",
+      "$",
+      "qqq",
+      "$",
+      "goog",
+      "$",
+      "fb",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Sun Mar 06 21:00:49 +0000 2016",
+    "user_id_str": "4586690114",
+    "followers_count": 131
+  },
+  {
+    "text": [
+      "try",
+      "the",
+      "discovery",
+      "engine",
+      "amp",
+      "social",
+      "network",
+      "for",
+      "investors",
+      "free",
+      "$",
+      "amzn",
+      "$",
+      "nflx",
+      "$",
+      "goog",
+      "stocks"
+    ],
+    "created_at": "Sun Mar 06 15:35:51 +0000 2016",
+    "user_id_str": "3816763393",
+    "followers_count": 185
+  },
+  {
+    "text": [
+      "our",
+      "stock",
+      "alert",
+      "on",
+      "$",
+      "pfsd",
+      "is",
+      "up",
+      "266",
+      "66",
+      "in",
+      "less",
+      "than",
+      "3",
+      "weeks",
+      "subscribe",
+      "for",
+      "new",
+      "picks",
+      "$",
+      "erbb",
+      "$",
+      "bbda",
+      "$",
+      "goog"
+    ],
+    "created_at": "Sun Mar 06 01:37:24 +0000 2016",
+    "user_id_str": "3243387344",
+    "followers_count": 12548
+  },
+  {
+    "text": [
+      "this",
+      "week",
+      "in",
+      "patents",
+      "google",
+      "$",
+      "goog",
+      "pop-up",
+      "books",
+      "and",
+      "flexible",
+      "phones",
+      "read",
+      "more"
+    ],
+    "created_at": "Sun Mar 06 17:18:43 +0000 2016",
+    "user_id_str": "4824999733",
+    "followers_count": 27
+  }
+]

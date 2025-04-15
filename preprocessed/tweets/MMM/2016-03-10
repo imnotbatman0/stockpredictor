@@ -1,0 +1,82 @@
+[
+  {
+    "text": [
+      "3m",
+      "co",
+      "$",
+      "mmm",
+      "shares",
+      "sold",
+      "by",
+      "tiaa",
+      "cref",
+      "trust",
+      "co",
+      "fsb",
+      "mo"
+    ],
+    "created_at": "Thu Mar 10 02:39:54 +0000 2016",
+    "user_id_str": "565538332",
+    "followers_count": 577
+  },
+  {
+    "text": [
+      "$",
+      "mmm",
+      "large",
+      "cap",
+      "key",
+      "stocks",
+      "of",
+      "the",
+      "day",
+      "3m",
+      "company",
+      "nyse",
+      "mmm"
+    ],
+    "created_at": "Thu Mar 10 02:07:18 +0000 2016",
+    "user_id_str": "2342215530",
+    "followers_count": 590
+  },
+  {
+    "text": [
+      "3m",
+      "co",
+      "$",
+      "mmm",
+      "position",
+      "held",
+      "by",
+      "glenview",
+      "state",
+      "bank",
+      "trust",
+      "dept",
+      "acn"
+    ],
+    "created_at": "Thu Mar 10 22:13:44 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1433
+  },
+  {
+    "text": [
+      "real-time",
+      "feed",
+      "of",
+      "company",
+      "contracts",
+      "original",
+      "agreements",
+      "and",
+      "executive",
+      "updates",
+      "from",
+      "$",
+      "mmm"
+    ],
+    "created_at": "Thu Mar 10 16:17:01 +0000 2016",
+    "user_id_str": "2273664823",
+    "followers_count": 687
+  }
+]

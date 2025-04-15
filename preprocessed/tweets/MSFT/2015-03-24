@@ -1,0 +1,66 @@
+[
+  {
+    "text": [
+      "apple",
+      "inc",
+      "nasdaq",
+      "aapl",
+      "siri",
+      "and",
+      "microsoft",
+      "corporation",
+      "nasdaq",
+      "msft",
+      "cortana",
+      "to",
+      "be",
+      "hit",
+      "by",
+      "-",
+      "tickerlens",
+      "$",
+      "msft"
+    ],
+    "created_at": "Tue Mar 24 16:33:05 +0000 2015",
+    "user_id_str": "3044159284",
+    "followers_count": 575
+  },
+  {
+    "text": [
+      "$",
+      "sne",
+      "$",
+      "msft",
+      "playstation",
+      "vue",
+      "vs",
+      "sling",
+      "tv",
+      "a",
+      "breakdown"
+    ],
+    "created_at": "Tue Mar 24 00:15:05 +0000 2015",
+    "user_id_str": "2344619544",
+    "followers_count": 120
+  },
+  {
+    "text": [
+      "s",
+      "amp",
+      "p",
+      "500",
+      "index",
+      "futures",
+      "under",
+      "selling",
+      "pressure",
+      "$",
+      "msft",
+      "$",
+      "spy"
+    ],
+    "created_at": "Tue Mar 24 17:56:56 +0000 2015",
+    "user_id_str": "44060322",
+    "followers_count": 41463
+  }
+]

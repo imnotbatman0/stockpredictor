@@ -1,0 +1,94 @@
+[
+  {
+    "text": [
+      "popular",
+      "stock",
+      "update",
+      "$",
+      "fb",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "bac",
+      "$",
+      "c",
+      "$",
+      "f",
+      "$",
+      "t",
+      "$",
+      "bp",
+      "$",
+      "ge"
+    ],
+    "created_at": "Thu Feb 11 18:32:32 +0000 2016",
+    "user_id_str": "4345564350",
+    "followers_count": 1589
+  },
+  {
+    "text": [
+      "i",
+      "guess",
+      "it",
+      "s",
+      "a",
+      "good",
+      "thing",
+      "citigroup",
+      "split",
+      "it",
+      "s",
+      "stock",
+      "back",
+      "when",
+      "$",
+      "c"
+    ],
+    "created_at": "Thu Feb 11 20:44:39 +0000 2016",
+    "user_id_str": "39549428",
+    "followers_count": 10819
+  },
+  {
+    "text": [
+      "eidelman",
+      "virant",
+      "capital",
+      "purchases",
+      "411",
+      "shares",
+      "of",
+      "citigroup",
+      "inc",
+      "$",
+      "c",
+      "acn"
+    ],
+    "created_at": "Thu Feb 11 10:06:49 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1356
+  },
+  {
+    "text": [
+      "mo",
+      "metro",
+      "inc",
+      "last",
+      "trade",
+      "$",
+      "mo",
+      "$",
+      "baba",
+      "$",
+      "c",
+      "$",
+      "cmi",
+      "share",
+      "tradeideas"
+    ],
+    "created_at": "Thu Feb 11 04:59:48 +0000 2016",
+    "user_id_str": "2181346825",
+    "followers_count": 712
+  }
+]

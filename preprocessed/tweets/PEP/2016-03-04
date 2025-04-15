@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "old",
+      "second",
+      "national",
+      "bank",
+      "of",
+      "aurora",
+      "decreases",
+      "stake",
+      "in",
+      "pepsico",
+      "inc",
+      "$",
+      "pep"
+    ],
+    "created_at": "Fri Mar 04 02:08:38 +0000 2016",
+    "user_id_str": "2181281054",
+    "followers_count": 631
+  },
+  {
+    "text": [
+      "notable",
+      "opening",
+      "imbalances",
+      "$",
+      "bac",
+      "462k",
+      "$",
+      "c",
+      "132k",
+      "$",
+      "jcp",
+      "122k",
+      "$",
+      "cvx",
+      "-54k",
+      "$",
+      "pep",
+      "-46k",
+      "$",
+      "baba",
+      "-73k"
+    ],
+    "created_at": "Fri Mar 04 14:22:18 +0000 2016",
+    "user_id_str": "338330795",
+    "followers_count": 73968
+  }
+]

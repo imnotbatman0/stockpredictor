@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "abbvie",
+      "inc",
+      "$",
+      "abbv",
+      "shares",
+      "bought",
+      "by",
+      "bridges",
+      "investment",
+      "management"
+    ],
+    "created_at": "Fri Feb 26 04:03:44 +0000 2016",
+    "user_id_str": "2920258887",
+    "followers_count": 1090
+  },
+  {
+    "text": [
+      "sh",
+      "shake",
+      "shack",
+      "inc",
+      "e",
+      "p",
+      "s",
+      "$",
+      "sh",
+      "$",
+      "abbv",
+      "$",
+      "gpro",
+      "$",
+      "v",
+      "tradeideas",
+      "stockmarket"
+    ],
+    "created_at": "Fri Feb 26 01:11:11 +0000 2016",
+    "user_id_str": "1850041968",
+    "followers_count": 1113
+  }
+]

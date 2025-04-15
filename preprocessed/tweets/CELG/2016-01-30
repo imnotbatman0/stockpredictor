@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "$",
+      "jo",
+      "last",
+      "price",
+      "updated",
+      "friday",
+      "january",
+      "29",
+      "2016",
+      "8",
+      "59",
+      "21",
+      "pm",
+      "$",
+      "ccl",
+      "$",
+      "tsla",
+      "$",
+      "celg",
+      "$",
+      "mux"
+    ],
+    "created_at": "Sat Jan 30 03:00:10 +0000 2016",
+    "user_id_str": "2197054086",
+    "followers_count": 949
+  },
+  {
+    "text": [
+      "$",
+      "mck",
+      "$",
+      "morn",
+      "$",
+      "celg",
+      "ipo",
+      "market",
+      "comes",
+      "to",
+      "a",
+      "standstill"
+    ],
+    "created_at": "Sat Jan 30 18:27:02 +0000 2016",
+    "user_id_str": "2881595931",
+    "followers_count": 671
+  }
+]

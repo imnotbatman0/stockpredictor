@@ -1,0 +1,92 @@
+[
+  {
+    "text": [
+      "c",
+      "citigroup",
+      "inc",
+      "shares",
+      "$",
+      "c",
+      "$",
+      "gg",
+      "$",
+      "csco",
+      "$",
+      "c",
+      "invest",
+      "share"
+    ],
+    "created_at": "Sat Feb 27 14:11:07 +0000 2016",
+    "user_id_str": "2181403417",
+    "followers_count": 604
+  },
+  {
+    "text": [
+      "acadian",
+      "asset",
+      "management",
+      "reduces",
+      "stake",
+      "in",
+      "citigroup",
+      "inc",
+      "$",
+      "c"
+    ],
+    "created_at": "Sat Feb 27 10:06:17 +0000 2016",
+    "user_id_str": "2348716116",
+    "followers_count": 2101
+  },
+  {
+    "text": [
+      "chrw",
+      "c",
+      "h",
+      "robinson",
+      "worldwide",
+      "inc",
+      "current",
+      "price",
+      "$",
+      "chrw",
+      "$",
+      "c",
+      "$",
+      "cod",
+      "l",
+      "$",
+      "bhp",
+      "finance",
+      "stock"
+    ],
+    "created_at": "Sat Feb 27 10:15:08 +0000 2016",
+    "user_id_str": "2285996066",
+    "followers_count": 926
+  },
+  {
+    "text": [
+      "iei",
+      "ishares",
+      "barclays",
+      "3-7",
+      "year",
+      "treasury",
+      "bond",
+      "52wk",
+      "low",
+      "$",
+      "iei",
+      "$",
+      "hyg",
+      "$",
+      "fnv",
+      "$",
+      "c",
+      "finance",
+      "finance"
+    ],
+    "created_at": "Sat Feb 27 22:38:06 +0000 2016",
+    "user_id_str": "2197054086",
+    "followers_count": 973
+  }
+]

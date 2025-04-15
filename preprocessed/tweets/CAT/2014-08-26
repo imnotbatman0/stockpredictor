@@ -1,0 +1,58 @@
+[
+  {
+    "text": [
+      "jake13",
+      "$",
+      "cat",
+      "opinion",
+      "today",
+      "click",
+      "here",
+      "to",
+      "find",
+      "out",
+      "if",
+      "$",
+      "cat"
+    ],
+    "created_at": "Tue Aug 26 16:39:10 +0000 2014",
+    "user_id_str": "376367767",
+    "followers_count": 1383
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "can",
+      "these",
+      "stocks",
+      "catch",
+      "you",
+      "eye",
+      "caterpillar",
+      "inc",
+      "nyse",
+      "cat",
+      "spansion",
+      "inc"
+    ],
+    "created_at": "Tue Aug 26 20:10:03 +0000 2014",
+    "user_id_str": "2343828378",
+    "followers_count": 18
+  },
+  {
+    "text": [
+      "update",
+      "caterpillar",
+      "introduces",
+      "rental-oriented",
+      "telehandlers",
+      "cat",
+      "$",
+      "cat"
+    ],
+    "created_at": "Mon Aug 25 22:23:52 +0000 2014",
+    "user_id_str": "704897486",
+    "followers_count": 1071
+  }
+]

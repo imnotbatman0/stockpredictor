@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "stocks",
+      "you",
+      "might",
+      "want",
+      "to",
+      "sell",
+      "$",
+      "ge",
+      "$",
+      "amgn",
+      "$",
+      "kex",
+      "$",
+      "trla",
+      "wallstreet"
+    ],
+    "created_at": "Sat May 31 19:07:43 +0000 2014",
+    "user_id_str": "2486347813",
+    "followers_count": 1
+  },
+  {
+    "text": [
+      "get",
+      "pennystock",
+      "research",
+      "on",
+      "$",
+      "oi",
+      "$",
+      "var",
+      "$",
+      "amgn",
+      "$",
+      "bwp",
+      "stock"
+    ],
+    "created_at": "Sat May 31 12:52:39 +0000 2014",
+    "user_id_str": "2545067253",
+    "followers_count": 13
+  }
+]

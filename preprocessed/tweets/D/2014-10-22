@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "$",
+      "btc",
+      "u$",
+      "d",
+      "382",
+      "11",
+      "bid",
+      "383",
+      "03",
+      "ask",
+      "384",
+      "96",
+      "avg",
+      "386",
+      "96"
+    ],
+    "created_at": "Wed Oct 22 12:05:03 +0000 2014",
+    "user_id_str": "1445020002",
+    "followers_count": 106
+  },
+  {
+    "text": [
+      "bidadari-bidadari",
+      "kecil",
+      "gbite",
+      "juga",
+      "buat",
+      "mamahnya",
+      "bidadari",
+      "-",
+      "$",
+      "d"
+    ],
+    "created_at": "Wed Oct 22 13:43:17 +0000 2014",
+    "user_id_str": "2870954268",
+    "followers_count": 2
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "text": [
+      "cloud",
+      "investing",
+      "buy",
+      "the",
+      "space",
+      "not",
+      "one",
+      "company",
+      "$",
+      "amzn",
+      "$",
+      "baba",
+      "$",
+      "csc",
+      "$",
+      "ctl",
+      "$",
+      "goog",
+      "$",
+      "ibm",
+      "$",
+      "rax",
+      "$",
+      "yhoo",
+      "$",
+      "msft"
+    ],
+    "created_at": "Sat Feb 27 14:00:29 +0000 2016",
+    "user_id_str": "2999752275",
+    "followers_count": 1395
+  },
+  {
+    "text": [
+      "apple",
+      "explains",
+      "govtos",
+      "in",
+      "new",
+      "court",
+      "filing",
+      "$",
+      "aapl",
+      "$",
+      "fb",
+      "$",
+      "goog",
+      "$",
+      "msft",
+      "iphone",
+      "privacy",
+      "encryption",
+      "via"
+    ],
+    "created_at": "Sat Feb 27 21:38:52 +0000 2016",
+    "user_id_str": "76921999",
+    "followers_count": 2156
+  },
+  {
+    "text": [
+      "microsoft",
+      "to",
+      "begin",
+      "hiring",
+      "people",
+      "with",
+      "neurodiverse",
+      "conditions",
+      "-",
+      "neowin",
+      "microsoft",
+      "$",
+      "msft"
+    ],
+    "created_at": "Sat Feb 27 07:08:24 +0000 2016",
+    "user_id_str": "329502982",
+    "followers_count": 2446
+  }
+]

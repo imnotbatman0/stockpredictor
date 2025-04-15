@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "sftw",
+      "trader",
+      "short-term",
+      "recommendation",
+      "$",
+      "v",
+      "visa",
+      "inc"
+    ],
+    "created_at": "Wed Mar 02 15:24:04 +0000 2016",
+    "user_id_str": "3165913356",
+    "followers_count": 16
+  },
+  {
+    "text": [
+      "is",
+      "$",
+      "v",
+      "a",
+      "good",
+      "stock",
+      "to",
+      "buy",
+      "$",
+      "cvx",
+      "$",
+      "hd",
+      "$",
+      "intc",
+      "$",
+      "c"
+    ],
+    "created_at": "Wed Mar 02 20:14:05 +0000 2016",
+    "user_id_str": "3307116874",
+    "followers_count": 251
+  }
+]

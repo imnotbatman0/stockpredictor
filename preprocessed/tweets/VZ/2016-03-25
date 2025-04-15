@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "$",
+      "nflx",
+      "$",
+      "t",
+      "$",
+      "vz"
+    ],
+    "created_at": "Fri Mar 25 05:08:17 +0000 2016",
+    "user_id_str": "4204876905",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "clayton",
+      "vz",
+      "53",
+      "56",
+      "verizon",
+      "communications",
+      "inc",
+      "$",
+      "vz",
+      "added",
+      "to"
+    ],
+    "created_at": "Fri Mar 25 16:21:07 +0000 2016",
+    "user_id_str": "2579477766",
+    "followers_count": 13462
+  },
+  {
+    "text": [
+      "netflix",
+      "limiting",
+      "video",
+      "quality",
+      "on",
+      "at",
+      "amp",
+      "t",
+      "verizon",
+      "other",
+      "networks",
+      "$",
+      "t",
+      "$",
+      "vz",
+      "$",
+      "nflx",
+      "$",
+      "tmus",
+      "$",
+      "s"
+    ],
+    "created_at": "Thu Mar 24 23:58:31 +0000 2016",
+    "user_id_str": "252138452",
+    "followers_count": 182
+  }
+]

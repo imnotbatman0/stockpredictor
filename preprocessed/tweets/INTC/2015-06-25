@@ -1,0 +1,62 @@
+[
+  {
+    "text": [
+      "crm",
+      "inc",
+      "tick",
+      "$",
+      "crm",
+      "$",
+      "rxl",
+      "$",
+      "tngo",
+      "$",
+      "intc",
+      "crm",
+      "nasdaq",
+      "stocks"
+    ],
+    "created_at": "Thu Jun 25 10:34:36 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 658
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "over",
+      "32",
+      "50ish",
+      "starts",
+      "going",
+      "ham"
+    ],
+    "created_at": "Thu Jun 25 15:59:29 +0000 2015",
+    "user_id_str": "215851158",
+    "followers_count": 168
+  },
+  {
+    "text": [
+      "is",
+      "cisco",
+      "a",
+      "good",
+      "long-term",
+      "investment",
+      "opportunity",
+      "$",
+      "aapl",
+      "$",
+      "alu",
+      "$",
+      "hpq",
+      "$",
+      "intc",
+      "$",
+      "csco"
+    ],
+    "created_at": "Thu Jun 25 21:00:07 +0000 2015",
+    "user_id_str": "2174057946",
+    "followers_count": 164
+  }
+]

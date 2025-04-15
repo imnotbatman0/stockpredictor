@@ -1,0 +1,58 @@
+[
+  {
+    "text": [
+      "weekly",
+      "nasdaq100",
+      "stocks",
+      "trend",
+      "$",
+      "mar",
+      "$",
+      "chtr",
+      "$",
+      "pcar",
+      "$",
+      "disca",
+      "$",
+      "adi",
+      "$",
+      "payx",
+      "$",
+      "fisv",
+      "$",
+      "adp",
+      "$",
+      "fast",
+      "$",
+      "cmcsa",
+      "$",
+      "spls",
+      "$",
+      "vip",
+      "$",
+      "chrw"
+    ],
+    "created_at": "Fri Mar 18 10:02:00 +0000 2016",
+    "user_id_str": "567452784",
+    "followers_count": 838
+  },
+  {
+    "text": [
+      "rhumbline",
+      "advisers",
+      "has",
+      "$199",
+      "911",
+      "000",
+      "stake",
+      "in",
+      "comcast",
+      "co",
+      "$",
+      "cmcsa"
+    ],
+    "created_at": "Fri Mar 18 22:25:32 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 6012
+  }
+]

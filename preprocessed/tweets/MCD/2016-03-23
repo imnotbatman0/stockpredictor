@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "ttmi",
+      "bid",
+      "size",
+      "see",
+      "here",
+      "---",
+      "gt",
+      "$",
+      "ttmi",
+      "$",
+      "mcd",
+      "$",
+      "pnra",
+      "pennystocks"
+    ],
+    "created_at": "Wed Mar 23 14:02:34 +0000 2016",
+    "user_id_str": "4885683408",
+    "followers_count": 16
+  },
+  {
+    "text": [
+      "mar",
+      "23",
+      "wednesday",
+      "$",
+      "mcd",
+      "closed",
+      "$124",
+      "19"
+    ],
+    "created_at": "Wed Mar 23 21:04:11 +0000 2016",
+    "user_id_str": "123125462",
+    "followers_count": 648
+  }
+]

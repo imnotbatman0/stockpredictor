@@ -1,0 +1,67 @@
+[
+  {
+    "text": [
+      "ibm",
+      "international",
+      "business",
+      "machines",
+      "quotes",
+      "$",
+      "ibm",
+      "$",
+      "alk",
+      "$",
+      "hd",
+      "$",
+      "adtn",
+      "ibm",
+      "invest",
+      "tradeideas"
+    ],
+    "created_at": "Sun Jan 17 14:42:35 +0000 2016",
+    "user_id_str": "2579477766",
+    "followers_count": 13404
+  },
+  {
+    "text": [
+      "fisher",
+      "asset",
+      "management",
+      "boosts",
+      "position",
+      "in",
+      "home",
+      "depot",
+      "inc",
+      "$",
+      "hd"
+    ],
+    "created_at": "Sun Jan 17 11:37:50 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 5769
+  },
+  {
+    "text": [
+      "fdn",
+      "freehold",
+      "royalties",
+      "ltd",
+      "chart",
+      "$",
+      "fdn",
+      "$",
+      "xiu",
+      "to",
+      "$",
+      "hd",
+      "$",
+      "vnr",
+      "fdn",
+      "nasdaq",
+      "pennystocks"
+    ],
+    "created_at": "Sun Jan 17 01:41:04 +0000 2016",
+    "user_id_str": "2197078218",
+    "followers_count": 734
+  }
+]

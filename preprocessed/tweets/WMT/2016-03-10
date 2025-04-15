@@ -1,0 +1,46 @@
+[
+  {
+    "text": [
+      "tocqueville",
+      "asset",
+      "management",
+      "l",
+      "p",
+      "has",
+      "$26",
+      "211",
+      "000",
+      "position",
+      "in",
+      "wal-mart",
+      "stores",
+      "inc",
+      "$",
+      "wmt",
+      "acn"
+    ],
+    "created_at": "Thu Mar 10 20:00:18 +0000 2016",
+    "user_id_str": "52210566",
+    "followers_count": 1433
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "wal-mart",
+      "stores",
+      "inc",
+      "nyse",
+      "wmt",
+      "closes",
+      "-0",
+      "01",
+      "for",
+      "the",
+      "session"
+    ],
+    "created_at": "Thu Mar 10 02:56:20 +0000 2016",
+    "user_id_str": "2341281566",
+    "followers_count": 669
+  }
+]

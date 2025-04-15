@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "aal",
+      "american",
+      "airlines",
+      "group",
+      "inc",
+      "day",
+      "high",
+      "$",
+      "aal",
+      "$",
+      "orcl",
+      "$",
+      "ptct",
+      "$",
+      "auy",
+      "aal",
+      "stocks",
+      "nasdaq"
+    ],
+    "created_at": "Thu Dec 17 15:32:44 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 848
+  },
+  {
+    "text": [
+      "out",
+      "neutral",
+      "oracle",
+      "$",
+      "orcl",
+      "bought",
+      "back",
+      "in",
+      "31",
+      "days",
+      "for",
+      "a",
+      "50",
+      "profit"
+    ],
+    "created_at": "Thu Dec 17 14:49:31 +0000 2015",
+    "user_id_str": "233247104",
+    "followers_count": 207
+  }
+]

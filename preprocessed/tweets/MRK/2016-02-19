@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "volume",
+      "alert",
+      "-",
+      "mrk",
+      "50",
+      "03",
+      "merck",
+      "amp",
+      "company",
+      "$",
+      "mrk",
+      "hit",
+      "a",
+      "high",
+      "today",
+      "of",
+      "50",
+      "40",
+      "closing",
+      "the",
+      "day",
+      "10",
+      "30",
+      "at",
+      "50",
+      "03",
+      "-0",
+      "29",
+      "-"
+    ],
+    "created_at": "Fri Feb 19 16:14:20 +0000 2016",
+    "user_id_str": "2181373892",
+    "followers_count": 717
+  }
+]

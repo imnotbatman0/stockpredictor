@@ -1,0 +1,45 @@
+[
+  {
+    "text": [
+      "$",
+      "yhoo",
+      "$",
+      "baba",
+      "why",
+      "did",
+      "yahoo",
+      "stock",
+      "price",
+      "climb",
+      "by",
+      "20",
+      "in",
+      "last",
+      "one",
+      "month"
+    ],
+    "created_at": "Wed Mar 09 18:30:04 +0000 2016",
+    "user_id_str": "960834355",
+    "followers_count": 314
+  },
+  {
+    "text": [
+      "amazon",
+      "what",
+      "s",
+      "in",
+      "your",
+      "wallet",
+      "$",
+      "aapl",
+      "apple",
+      "$",
+      "baba",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Wed Mar 09 00:28:33 +0000 2016",
+    "user_id_str": "23059499",
+    "followers_count": 83728
+  }
+]

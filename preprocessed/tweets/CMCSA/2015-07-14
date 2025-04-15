@@ -1,0 +1,82 @@
+[
+  {
+    "text": [
+      "$",
+      "aapl",
+      "$",
+      "dis",
+      "$",
+      "cmcsa",
+      "$",
+      "cbs",
+      "apple",
+      "poised",
+      "for",
+      "over-the-top",
+      "tv",
+      "deal",
+      "with",
+      "networks",
+      "report",
+      "says"
+    ],
+    "created_at": "Tue Jul 14 13:27:02 +0000 2015",
+    "user_id_str": "2881595931",
+    "followers_count": 383
+  },
+  {
+    "text": [
+      "nasdaq100",
+      "stocks",
+      "trend",
+      "$",
+      "grmn",
+      "$",
+      "alxn",
+      "$",
+      "googl",
+      "$",
+      "amzn",
+      "$",
+      "fb",
+      "$",
+      "trip",
+      "$",
+      "sbux",
+      "$",
+      "atvi",
+      "$",
+      "regn",
+      "$",
+      "ebay",
+      "$",
+      "fisv",
+      "$",
+      "cmcsa",
+      "$",
+      "nflx",
+      "$",
+      "orly"
+    ],
+    "created_at": "Mon Jul 13 23:07:24 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 493
+  },
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "comcast",
+      "lowered",
+      "to",
+      "hold",
+      "at",
+      "vetr",
+      "inc",
+      "cmcsa"
+    ],
+    "created_at": "Tue Jul 14 04:25:03 +0000 2015",
+    "user_id_str": "2344619544",
+    "followers_count": 327
+  }
+]

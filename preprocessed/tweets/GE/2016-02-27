@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "brookstone",
+      "capital",
+      "management",
+      "increases",
+      "stake",
+      "in",
+      "general",
+      "electric",
+      "company",
+      "$",
+      "ge"
+    ],
+    "created_at": "Sat Feb 27 10:17:16 +0000 2016",
+    "user_id_str": "565538332",
+    "followers_count": 548
+  },
+  {
+    "text": [
+      "general",
+      "electric",
+      "company",
+      "$",
+      "ge",
+      "shares",
+      "bought",
+      "by",
+      "koshinski",
+      "asset",
+      "management"
+    ],
+    "created_at": "Fri Feb 26 23:45:19 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 5910
+  }
+]

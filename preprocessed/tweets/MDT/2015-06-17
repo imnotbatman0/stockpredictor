@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "adm",
+      "archer",
+      "daniels",
+      "midland",
+      "co",
+      "change",
+      "$",
+      "adm",
+      "$",
+      "nat",
+      "$",
+      "mdt",
+      "$",
+      "swks",
+      "adm",
+      "stockmarket",
+      "investing"
+    ],
+    "created_at": "Wed Jun 17 10:31:36 +0000 2015",
+    "user_id_str": "2181326676",
+    "followers_count": 542
+  },
+  {
+    "text": [
+      "mdt",
+      "medtronic",
+      "inc",
+      "news",
+      "$",
+      "mdt",
+      "$",
+      "csco",
+      "$",
+      "hl",
+      "$",
+      "mhr",
+      "mdt",
+      "investing",
+      "share"
+    ],
+    "created_at": "Wed Jun 17 10:43:48 +0000 2015",
+    "user_id_str": "1833020461",
+    "followers_count": 835
+  }
+]

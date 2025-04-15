@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "news",
+      "$",
+      "hjoe",
+      "stocks",
+      "$",
+      "db",
+      "$",
+      "spy",
+      "$",
+      "goog",
+      "$",
+      "msez",
+      "$",
+      "vdrm",
+      "$",
+      "aapl",
+      "$",
+      "bnp",
+      "$",
+      "gld",
+      "$",
+      "jnj",
+      "$",
+      "ntek",
+      "$",
+      "eurusd",
+      "$",
+      "tpac"
+    ],
+    "created_at": "Wed Mar 16 14:41:32 +0000 2016",
+    "user_id_str": "1398685674",
+    "followers_count": 1252
+  }
+]

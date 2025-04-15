@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "aapl",
+      "apple",
+      "inc",
+      "dividend",
+      "$",
+      "aapl",
+      "$",
+      "ups",
+      "$",
+      "tqqq",
+      "$",
+      "f",
+      "aapl",
+      "investing",
+      "stocks"
+    ],
+    "created_at": "Sun Jan 03 17:33:09 +0000 2016",
+    "user_id_str": "386787305",
+    "followers_count": 3392
+  },
+  {
+    "text": [
+      "rt",
+      "myec",
+      "myecheck",
+      "inc",
+      "52wk",
+      "low",
+      "$",
+      "myec",
+      "$",
+      "hd",
+      "$",
+      "psmt",
+      "$",
+      "ups",
+      "myec",
+      "tradeideas",
+      "stocks"
+    ],
+    "created_at": "Sun Jan 03 17:44:37 +0000 2016",
+    "user_id_str": "3331182800",
+    "followers_count": 1521
+  }
+]

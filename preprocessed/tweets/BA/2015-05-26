@@ -1,0 +1,60 @@
+[
+  {
+    "text": [
+      "$",
+      "noc",
+      "$",
+      "utx",
+      "$",
+      "lmt",
+      "$",
+      "ba",
+      "$",
+      "lmt",
+      "$",
+      "txt",
+      "m",
+      "amp",
+      "a"
+    ],
+    "created_at": "Tue May 26 18:50:20 +0000 2015",
+    "user_id_str": "369834695",
+    "followers_count": 72
+  },
+  {
+    "text": [
+      "trader",
+      "s",
+      "watch",
+      "list",
+      "$",
+      "ko",
+      "$",
+      "mro",
+      "$",
+      "ba",
+      "$",
+      "tgt"
+    ],
+    "created_at": "Tue May 26 16:31:01 +0000 2015",
+    "user_id_str": "2974809074",
+    "followers_count": 66
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "boeing",
+      "co",
+      "supports",
+      "export-import",
+      "bank",
+      "for",
+      "congressional",
+      "approval"
+    ],
+    "created_at": "Tue May 26 13:33:47 +0000 2015",
+    "user_id_str": "1694393618",
+    "followers_count": 100
+  }
+]

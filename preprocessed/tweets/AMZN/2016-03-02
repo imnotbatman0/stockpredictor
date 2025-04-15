@@ -1,0 +1,103 @@
+[
+  {
+    "text": [
+      "inc",
+      "$",
+      "amzn",
+      "given",
+      "buy",
+      "rating",
+      "at",
+      "cowen",
+      "and",
+      "company",
+      "via"
+    ],
+    "created_at": "Wed Mar 02 13:17:19 +0000 2016",
+    "user_id_str": "430738001",
+    "followers_count": 1037
+  },
+  {
+    "text": [
+      "impact",
+      "of",
+      "tech",
+      "warren",
+      "e",
+      "buffet",
+      "vs",
+      "the",
+      "web",
+      "$",
+      "aapl",
+      "$",
+      "msft",
+      "$",
+      "amzn",
+      "$",
+      "goog",
+      "$",
+      "fb",
+      "in",
+      "terms",
+      "of",
+      "time",
+      "to",
+      "build",
+      "a",
+      "$300b",
+      "co"
+    ],
+    "created_at": "Wed Mar 02 17:27:54 +0000 2016",
+    "user_id_str": "5879952",
+    "followers_count": 8369
+  },
+  {
+    "text": [
+      "still",
+      "my",
+      "fav",
+      "company",
+      "$",
+      "amzn",
+      "-",
+      "good",
+      "times",
+      "today",
+      "$$$",
+      "price",
+      "was",
+      "at"
+    ],
+    "created_at": "Wed Mar 02 01:30:07 +0000 2016",
+    "user_id_str": "2818012008",
+    "followers_count": 478
+  },
+  {
+    "text": [
+      "from",
+      "vertical",
+      "integration",
+      "to",
+      "circular",
+      "integration",
+      "retail",
+      "-",
+      "gt",
+      "media",
+      "production",
+      "-",
+      "gt",
+      "ads",
+      "-",
+      "gt",
+      "retail",
+      "products",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Wed Mar 02 02:36:25 +0000 2016",
+    "user_id_str": "3227786766",
+    "followers_count": 962
+  }
+]

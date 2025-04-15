@@ -1,0 +1,64 @@
+[
+  {
+    "text": [
+      "altr",
+      "altera",
+      "corp",
+      "chart",
+      "$",
+      "altr",
+      "$",
+      "baba",
+      "$",
+      "col",
+      "$",
+      "goog",
+      "altr",
+      "stocks",
+      "stocks"
+    ],
+    "created_at": "Sat Aug 01 10:33:04 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 519
+  },
+  {
+    "text": [
+      "bosocial",
+      "cpxx",
+      "celator",
+      "pharmaceuticals",
+      "inc",
+      "prev",
+      "close",
+      "$",
+      "cpxx",
+      "$",
+      "aapl",
+      "$",
+      "baba",
+      "$",
+      "all",
+      "cpxx",
+      "fin"
+    ],
+    "created_at": "Sat Aug 01 10:56:45 +0000 2015",
+    "user_id_str": "2862599829",
+    "followers_count": 919
+  },
+  {
+    "text": [
+      "$",
+      "baba",
+      "only",
+      "3days",
+      "to",
+      "cover",
+      "shortly",
+      "be",
+      "warned"
+    ],
+    "created_at": "Sat Aug 01 12:33:50 +0000 2015",
+    "user_id_str": "3398460377",
+    "followers_count": 4
+  }
+]

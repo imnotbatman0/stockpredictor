@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "bud",
+      "anheuser-busch",
+      "inbev",
+      "adr",
+      "tick",
+      "$",
+      "bud",
+      "$",
+      "vrsn",
+      "$",
+      "t",
+      "$",
+      "tsla",
+      "bud",
+      "nas"
+    ],
+    "created_at": "Wed Jan 20 04:36:49 +0000 2016",
+    "user_id_str": "4157091076",
+    "followers_count": 312
+  },
+  {
+    "text": [
+      "10000",
+      "$",
+      "bud",
+      "feb",
+      "145",
+      "calls",
+      "went",
+      "up",
+      "in",
+      "1",
+      "block",
+      "on",
+      "the",
+      "arca",
+      "marked",
+      "price",
+      "variation"
+    ],
+    "created_at": "Wed Jan 20 21:57:27 +0000 2016",
+    "user_id_str": "7455352",
+    "followers_count": 9912
+  }
+]

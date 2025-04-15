@@ -1,0 +1,81 @@
+[
+  {
+    "text": [
+      "what",
+      "goldman",
+      "sachs",
+      "thinks",
+      "about",
+      "the",
+      "pfizer",
+      "astrazeneca",
+      "breakup",
+      "$",
+      "pfe",
+      "$",
+      "azn"
+    ],
+    "created_at": "Tue May 27 23:40:23 +0000 2014",
+    "user_id_str": "2492719251",
+    "followers_count": 702
+  },
+  {
+    "text": [
+      "the",
+      "biggest",
+      "loser",
+      "of",
+      "2014",
+      "s",
+      "mega",
+      "merger",
+      "mess",
+      "$",
+      "pfe",
+      "biotech",
+      "stocks"
+    ],
+    "created_at": "Wed May 28 13:05:57 +0000 2014",
+    "user_id_str": "94345657",
+    "followers_count": 1100
+  },
+  {
+    "text": [
+      "$",
+      "apa",
+      "buying",
+      "or",
+      "selling",
+      "$",
+      "pfe",
+      "$",
+      "hrc",
+      "$",
+      "blox",
+      "i",
+      "suggest"
+    ],
+    "created_at": "Wed May 28 08:06:52 +0000 2014",
+    "user_id_str": "2496224502",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "$",
+      "pfe",
+      "video",
+      "what",
+      "goldman",
+      "sachs",
+      "thinks",
+      "about",
+      "the",
+      "pfizer",
+      "astrazeneca",
+      "breakup"
+    ],
+    "created_at": "Wed May 28 06:01:11 +0000 2014",
+    "user_id_str": "1849605206",
+    "followers_count": 176
+  }
+]

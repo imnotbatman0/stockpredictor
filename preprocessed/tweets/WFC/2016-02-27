@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "wells",
+      "fargo",
+      "$",
+      "wfc",
+      "given",
+      "a",
+      "credit",
+      "rating",
+      "by",
+      "morningstar"
+    ],
+    "created_at": "Sat Feb 27 08:34:41 +0000 2016",
+    "user_id_str": "2743641378",
+    "followers_count": 795
+  },
+  {
+    "text": [
+      "rai",
+      "reynolds",
+      "american",
+      "inc",
+      "bid",
+      "size",
+      "$",
+      "rai",
+      "$",
+      "wfc",
+      "$",
+      "fnma",
+      "$",
+      "orig",
+      "share",
+      "pennystocks"
+    ],
+    "created_at": "Sat Feb 27 09:05:34 +0000 2016",
+    "user_id_str": "2181373892",
+    "followers_count": 722
+  }
+]

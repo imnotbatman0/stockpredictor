@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "active",
+      "options",
+      "cboe",
+      "$",
+      "aapl",
+      "$",
+      "tsla",
+      "$",
+      "twtr",
+      "$",
+      "ypf",
+      "$",
+      "amzn",
+      "$",
+      "x",
+      "$",
+      "pbr",
+      "$",
+      "mrk",
+      "$",
+      "jblu",
+      "$",
+      "abx"
+    ],
+    "created_at": "Wed Apr 29 00:33:53 +0000 2015",
+    "user_id_str": "2989009567",
+    "followers_count": 26
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "-",
+      "upgraded",
+      "by",
+      "vetr",
+      "inc",
+      "to",
+      "sell",
+      "amzn"
+    ],
+    "created_at": "Wed Apr 29 04:16:24 +0000 2015",
+    "user_id_str": "1452408337",
+    "followers_count": 43522
+  }
+]

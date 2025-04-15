@@ -1,0 +1,74 @@
+[
+  {
+    "text": [
+      "aa",
+      "alcoa",
+      "inc",
+      "ex-div",
+      "date",
+      "$",
+      "aa",
+      "$",
+      "celg",
+      "$",
+      "axp",
+      "$",
+      "vrx",
+      "aa",
+      "finance",
+      "invest"
+    ],
+    "created_at": "Mon Sep 28 22:31:15 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 569
+  },
+  {
+    "text": [
+      "celg",
+      "celgene",
+      "corp",
+      "quotes",
+      "$",
+      "celg",
+      "$",
+      "enb",
+      "to",
+      "$",
+      "amgn",
+      "$",
+      "cvc",
+      "celg",
+      "pennystocks",
+      "stockmarket"
+    ],
+    "created_at": "Mon Sep 28 22:34:32 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1502
+  },
+  {
+    "text": [
+      "jpm",
+      "j",
+      "p",
+      "morgan",
+      "chase",
+      "amp",
+      "co",
+      "filings",
+      "$",
+      "jpm",
+      "$",
+      "celg",
+      "$",
+      "xlu",
+      "$",
+      "wmih",
+      "jpm",
+      "nasdaq",
+      "tradeideas"
+    ],
+    "created_at": "Tue Sep 29 21:41:36 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 605
+  }
+]

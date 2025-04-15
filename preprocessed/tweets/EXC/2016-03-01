@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "dc",
+      "mayor",
+      "says",
+      "she",
+      "can",
+      "no",
+      "longer",
+      "support",
+      "exelon",
+      "$",
+      "exc",
+      "-pepco",
+      "deal",
+      "read",
+      "more"
+    ],
+    "created_at": "Tue Mar 01 21:09:10 +0000 2016",
+    "user_id_str": "4831370592",
+    "followers_count": 11
+  },
+  {
+    "text": [
+      "d",
+      "c",
+      "mayor",
+      "rejects",
+      "pepco-exelon",
+      "plan",
+      "merger",
+      "looks",
+      "dead",
+      "$",
+      "pom",
+      "$",
+      "exc"
+    ],
+    "created_at": "Tue Mar 01 19:42:11 +0000 2016",
+    "user_id_str": "201706499",
+    "followers_count": 991
+  }
+]

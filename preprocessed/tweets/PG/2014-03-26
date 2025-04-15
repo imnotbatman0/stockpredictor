@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "$",
+      "pg",
+      "the",
+      "latest",
+      "from",
+      "keycorp",
+      "nyse",
+      "key",
+      "drug",
+      "company",
+      "geron",
+      "corporation"
+    ],
+    "created_at": "Wed Mar 26 15:08:05 +0000 2014",
+    "user_id_str": "1704097122",
+    "followers_count": 126
+  },
+  {
+    "text": [
+      "$",
+      "pg",
+      "pragmatic",
+      "prints",
+      "oxide",
+      "transistor",
+      "kitchen",
+      "timer",
+      "and",
+      "it",
+      "s",
+      "flexible"
+    ],
+    "created_at": "Wed Mar 26 10:55:35 +0000 2014",
+    "user_id_str": "1704097122",
+    "followers_count": 127
+  }
+]

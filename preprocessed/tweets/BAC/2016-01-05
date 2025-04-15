@@ -1,0 +1,45 @@
+[
+  {
+    "text": [
+      "celg",
+      "celgene",
+      "corp",
+      "summary",
+      "$",
+      "celg",
+      "$",
+      "ibm",
+      "$",
+      "gild",
+      "$",
+      "bac",
+      "celg",
+      "stockmarket",
+      "invest"
+    ],
+    "created_at": "Mon Jan 04 23:35:03 +0000 2016",
+    "user_id_str": "2181314366",
+    "followers_count": 864
+  },
+  {
+    "text": [
+      "massive",
+      "and",
+      "growing",
+      "list",
+      "of",
+      "$",
+      "jnj",
+      "lawsuits",
+      "please",
+      "shut",
+      "down",
+      "jnj",
+      "$",
+      "bac"
+    ],
+    "created_at": "Tue Jan 05 01:15:47 +0000 2016",
+    "user_id_str": "529121515",
+    "followers_count": 1309
+  }
+]

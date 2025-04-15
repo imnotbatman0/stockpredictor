@@ -1,0 +1,81 @@
+[
+  {
+    "text": [
+      "1of3",
+      "madmoneyespresso",
+      "12",
+      "20",
+      "15",
+      "$",
+      "googl$",
+      "fb$",
+      "expe$",
+      "ge$",
+      "hd",
+      "$",
+      "nke$",
+      "kr$",
+      "mcd$",
+      "dri$",
+      "nflx",
+      "$",
+      "dis$",
+      "crm$",
+      "atvi$",
+      "ea$",
+      "ttwo",
+      "$",
+      "yhoo$",
+      "twtr$",
+      "yelp$"
+    ],
+    "created_at": "Tue Dec 22 06:38:07 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 612
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "us",
+      "mcdonald",
+      "s",
+      "exploring",
+      "sale",
+      "of",
+      "stake",
+      "in",
+      "japanese",
+      "arm",
+      "mcdonald",
+      "s",
+      "corp",
+      "sp500"
+    ],
+    "created_at": "Tue Dec 22 07:09:01 +0000 2015",
+    "user_id_str": "2643714854",
+    "followers_count": 3286
+  },
+  {
+    "text": [
+      "fcx",
+      "freeport-mcmoran",
+      "inc",
+      "news",
+      "$",
+      "fcx",
+      "$",
+      "mcd",
+      "$",
+      "dwti",
+      "$",
+      "wmih",
+      "fcx",
+      "stock",
+      "tradeideas"
+    ],
+    "created_at": "Tue Dec 22 14:38:12 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 704
+  }
+]

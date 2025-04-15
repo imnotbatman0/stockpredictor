@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "intl",
+      "intl",
+      "fcstone",
+      "inc",
+      "day",
+      "high",
+      "$",
+      "intl",
+      "$",
+      "agg",
+      "$",
+      "juno",
+      "$",
+      "jpm",
+      "intl",
+      "stocks",
+      "investing"
+    ],
+    "created_at": "Sun Jan 17 03:42:33 +0000 2016",
+    "user_id_str": "2181357950",
+    "followers_count": 1694
+  },
+  {
+    "text": [
+      "vti",
+      "vanguard",
+      "long-term",
+      "treasury",
+      "fund",
+      "current",
+      "price",
+      "$",
+      "vti",
+      "$",
+      "upro",
+      "$",
+      "bk",
+      "$",
+      "jpm",
+      "vti",
+      "stock",
+      "share"
+    ],
+    "created_at": "Sun Jan 17 15:49:33 +0000 2016",
+    "user_id_str": "2181314366",
+    "followers_count": 873
+  }
+]

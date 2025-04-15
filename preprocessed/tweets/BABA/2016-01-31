@@ -1,0 +1,67 @@
+[
+  {
+    "text": [
+      "$",
+      "baba",
+      "$",
+      "jd",
+      "alibaba",
+      "is",
+      "a",
+      "good",
+      "long",
+      "term",
+      "bet",
+      "post",
+      "the",
+      "latest",
+      "quarterly",
+      "update",
+      "alibaba"
+    ],
+    "created_at": "Sun Jan 31 11:56:07 +0000 2016",
+    "user_id_str": "960834355",
+    "followers_count": 308
+  },
+  {
+    "text": [
+      "new",
+      "ideas",
+      "ploutuscharts",
+      "trade",
+      "ideas",
+      "levels",
+      "for",
+      "the",
+      "week",
+      "ahead",
+      "$",
+      "cybr",
+      "$",
+      "baba",
+      "$",
+      "bac",
+      "$",
+      "wynn"
+    ],
+    "created_at": "Sun Jan 31 11:21:52 +0000 2016",
+    "user_id_str": "4766095259",
+    "followers_count": 37
+  },
+  {
+    "text": [
+      "$",
+      "baba",
+      "stock",
+      "well",
+      "suited",
+      "for",
+      "long",
+      "term",
+      "investors"
+    ],
+    "created_at": "Sun Jan 31 14:00:07 +0000 2016",
+    "user_id_str": "960834355",
+    "followers_count": 308
+  }
+]

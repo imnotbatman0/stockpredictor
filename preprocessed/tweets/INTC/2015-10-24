@@ -1,0 +1,57 @@
+[
+  {
+    "text": [
+      "lt",
+      "lt",
+      "--",
+      "this",
+      "guy",
+      "has",
+      "some",
+      "great",
+      "free",
+      "info",
+      "on",
+      "some",
+      "hot",
+      "stocks",
+      "and",
+      "he",
+      "has",
+      "a",
+      "stellar",
+      "track",
+      "record",
+      "$",
+      "intc",
+      "$",
+      "ohrp",
+      "$",
+      "altr"
+    ],
+    "created_at": "Sat Oct 24 08:43:47 +0000 2015",
+    "user_id_str": "3255185778",
+    "followers_count": 5
+  },
+  {
+    "text": [
+      "mediasentiment",
+      "$",
+      "intc",
+      "received",
+      "a",
+      "new",
+      "alert",
+      "find",
+      "out",
+      "why",
+      "at",
+      "stocks",
+      "daytrading",
+      "trading"
+    ],
+    "created_at": "Sat Oct 24 05:21:19 +0000 2015",
+    "user_id_str": "3341108853",
+    "followers_count": 1553
+  }
+]

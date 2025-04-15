@@ -1,0 +1,54 @@
+[
+  {
+    "text": [
+      "$",
+      "cat",
+      "recent",
+      "news",
+      "updated",
+      "monday",
+      "january",
+      "18",
+      "2016",
+      "02",
+      "59",
+      "24",
+      "am",
+      "$",
+      "ewg",
+      "$",
+      "tsla",
+      "$",
+      "vnq",
+      "$",
+      "vgt"
+    ],
+    "created_at": "Mon Jan 18 08:55:05 +0000 2016",
+    "user_id_str": "2197054086",
+    "followers_count": 939
+  },
+  {
+    "text": [
+      "cat",
+      "canada",
+      "carbon",
+      "inc",
+      "ask",
+      "$",
+      "cat",
+      "$",
+      "fcu",
+      "to",
+      "$",
+      "vrsn",
+      "$",
+      "wmt",
+      "cat",
+      "investing",
+      "stockmarket"
+    ],
+    "created_at": "Mon Jan 18 17:35:14 +0000 2016",
+    "user_id_str": "2579477766",
+    "followers_count": 13413
+  }
+]

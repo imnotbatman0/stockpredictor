@@ -1,0 +1,59 @@
+[
+  {
+    "text": [
+      "heritage",
+      "investors",
+      "management",
+      "purchases",
+      "3",
+      "051",
+      "shares",
+      "of",
+      "wal-mart",
+      "stores",
+      "inc",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Sat Feb 27 02:00:18 +0000 2016",
+    "user_id_str": "1979190776",
+    "followers_count": 915
+  },
+  {
+    "text": [
+      "wal-mart",
+      "stores",
+      "inc",
+      "$",
+      "wmt",
+      "receives",
+      "$66",
+      "25",
+      "average",
+      "target",
+      "price",
+      "from",
+      "analysts"
+    ],
+    "created_at": "Sat Feb 27 07:34:37 +0000 2016",
+    "user_id_str": "2743641378",
+    "followers_count": 794
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "wal-mart",
+      "stores",
+      "inc",
+      "get",
+      "news",
+      "amp",
+      "ratings",
+      "daily"
+    ],
+    "created_at": "Sat Feb 27 11:04:17 +0000 2016",
+    "user_id_str": "2881595931",
+    "followers_count": 701
+  }
+]

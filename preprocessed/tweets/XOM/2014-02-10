@@ -1,0 +1,75 @@
+[
+  {
+    "text": [
+      "$",
+      "xom",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Mon Feb 10 17:55:05 +0000 2014",
+    "user_id_str": "1923902360",
+    "followers_count": 95
+  },
+  {
+    "text": [
+      "google",
+      "is",
+      "now",
+      "worth",
+      "more",
+      "than",
+      "exxon",
+      "mobil",
+      "but",
+      "apple",
+      "is",
+      "still",
+      "worth",
+      "the",
+      "most",
+      "$",
+      "goog",
+      "$",
+      "xom",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Mon Feb 10 11:59:07 +0000 2014",
+    "user_id_str": "16184358",
+    "followers_count": 658697
+  },
+  {
+    "text": [
+      "google",
+      "is",
+      "now",
+      "worth",
+      "more",
+      "than",
+      "exxon",
+      "mobil",
+      "but",
+      "apple",
+      "is",
+      "still",
+      "worth",
+      "the",
+      "most",
+      "$",
+      "goog",
+      "$",
+      "xom",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Mon Feb 10 12:04:55 +0000 2014",
+    "user_id_str": "26814090",
+    "followers_count": 10449
+  }
+]

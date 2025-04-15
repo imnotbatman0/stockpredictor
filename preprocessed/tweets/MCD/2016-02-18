@@ -1,0 +1,109 @@
+[
+  {
+    "text": [
+      "$",
+      "djia",
+      "$",
+      "compq",
+      "$",
+      "spx",
+      "$",
+      "spy",
+      "$",
+      "aapl",
+      "$",
+      "dis",
+      "$",
+      "mcd"
+    ],
+    "created_at": "Thu Feb 18 05:37:56 +0000 2016",
+    "user_id_str": "243618345",
+    "followers_count": 1861
+  },
+  {
+    "text": [
+      "dug",
+      "proshares",
+      "ultrashort",
+      "oil",
+      "amp",
+      "gas",
+      "change",
+      "$",
+      "dug",
+      "$",
+      "baba",
+      "$",
+      "ibb",
+      "$",
+      "mcd",
+      "invest",
+      "stock"
+    ],
+    "created_at": "Thu Feb 18 04:21:04 +0000 2016",
+    "user_id_str": "2197078218",
+    "followers_count": 735
+  },
+  {
+    "text": [
+      "rt",
+      "cnbc",
+      "yum",
+      "mcdonald",
+      "s",
+      "tests",
+      "new",
+      "breakfast",
+      "item",
+      "$",
+      "mcd"
+    ],
+    "created_at": "Thu Feb 18 15:00:53 +0000 2016",
+    "user_id_str": "57343654",
+    "followers_count": 973
+  },
+  {
+    "text": [
+      "here",
+      "s",
+      "where",
+      "you",
+      "can",
+      "get",
+      "a",
+      "beer",
+      "with",
+      "your",
+      "mcdonalds",
+      "$",
+      "mcd",
+      "read",
+      "more"
+    ],
+    "created_at": "Thu Feb 18 01:50:24 +0000 2016",
+    "user_id_str": "4801718472",
+    "followers_count": 7
+  },
+  {
+    "text": [
+      "mcd",
+      "mcdonalds",
+      "corp",
+      "chart",
+      "$",
+      "mcd",
+      "$",
+      "bns",
+      "to",
+      "$",
+      "kmi",
+      "$",
+      "spls",
+      "tradeideas",
+      "invest"
+    ],
+    "created_at": "Thu Feb 18 01:51:03 +0000 2016",
+    "user_id_str": "268844094",
+    "followers_count": 2544
+  }
+]

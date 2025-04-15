@@ -1,0 +1,91 @@
+[
+  {
+    "text": [
+      "$",
+      "vpco",
+      "closed",
+      "up",
+      "122",
+      "22",
+      "yesterday",
+      "big",
+      "news",
+      "$",
+      "unh",
+      "$",
+      "hum",
+      "$",
+      "ci"
+    ],
+    "created_at": "Sat Feb 20 08:52:09 +0000 2016",
+    "user_id_str": "3315798743",
+    "followers_count": 12576
+  },
+  {
+    "text": [
+      "unitedhealth",
+      "group",
+      "inc",
+      "$",
+      "unh",
+      "is",
+      "raub",
+      "brock",
+      "capital",
+      "management",
+      "s",
+      "4th",
+      "largest",
+      "position"
+    ],
+    "created_at": "Sat Feb 20 14:51:14 +0000 2016",
+    "user_id_str": "1979190776",
+    "followers_count": 906
+  },
+  {
+    "text": [
+      "uss",
+      "investment",
+      "management",
+      "has",
+      "$114",
+      "239",
+      "000",
+      "position",
+      "in",
+      "unitedhealth",
+      "group",
+      "inc",
+      "$",
+      "unh"
+    ],
+    "created_at": "Sat Feb 20 14:55:12 +0000 2016",
+    "user_id_str": "2181281054",
+    "followers_count": 619
+  },
+  {
+    "text": [
+      "goog",
+      "alphabet",
+      "inc",
+      "-",
+      "class",
+      "c",
+      "last",
+      "price",
+      "$",
+      "goog",
+      "$",
+      "chk",
+      "$",
+      "unh",
+      "$",
+      "erx",
+      "stocks",
+      "invest"
+    ],
+    "created_at": "Sat Feb 20 00:38:03 +0000 2016",
+    "user_id_str": "1833020461",
+    "followers_count": 1278
+  }
+]

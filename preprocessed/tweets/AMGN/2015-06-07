@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "amgn",
+      "amgen",
+      "inc",
+      "market",
+      "cap",
+      "$",
+      "amgn",
+      "$",
+      "ovas",
+      "$",
+      "xle",
+      "$",
+      "date",
+      "amgn",
+      "finance",
+      "nasdaq"
+    ],
+    "created_at": "Sun Jun 07 19:32:35 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4218
+  },
+  {
+    "text": [
+      "cldx",
+      "celldex",
+      "therapeutics",
+      "inc",
+      "e",
+      "p",
+      "s",
+      "$",
+      "cldx",
+      "$",
+      "pmcb",
+      "$",
+      "amgn",
+      "$",
+      "twtr",
+      "cldx",
+      "stocks",
+      "nasdaq"
+    ],
+    "created_at": "Sun Jun 07 19:40:03 +0000 2015",
+    "user_id_str": "386787305",
+    "followers_count": 2969
+  }
+]

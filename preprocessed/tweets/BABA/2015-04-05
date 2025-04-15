@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "something",
+      "crazy",
+      "4",
+      "my",
+      "followers",
+      "who",
+      "trade",
+      "$",
+      "spy",
+      "$",
+      "iwm",
+      "$",
+      "tsla",
+      "$",
+      "fb",
+      "$",
+      "aapl",
+      "$",
+      "pcln",
+      "$",
+      "twtr",
+      "$",
+      "baba",
+      "$",
+      "yhoo",
+      "$",
+      "gpro",
+      "$",
+      "tlt",
+      "$",
+      "gld",
+      "$",
+      "gdx"
+    ],
+    "created_at": "Sun Apr 05 20:33:27 +0000 2015",
+    "user_id_str": "2818012008",
+    "followers_count": 207
+  },
+  {
+    "text": [
+      "$",
+      "baba",
+      "your",
+      "tweet",
+      "has",
+      "been",
+      "featured",
+      "on",
+      "market",
+      "parse",
+      "for",
+      "iphone"
+    ],
+    "created_at": "Sun Apr 05 18:55:18 +0000 2015",
+    "user_id_str": "3005559517",
+    "followers_count": 1022
+  }
+]
