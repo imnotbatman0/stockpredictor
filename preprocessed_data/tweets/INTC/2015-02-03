@@ -1,0 +1,57 @@
+[
+  {
+    "text": [
+      "true",
+      "balls",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "intc",
+      "$",
+      "mtw",
+      "$",
+      "cat",
+      "$",
+      "x",
+      "$",
+      "c",
+      "$",
+      "csco",
+      "$",
+      "t",
+      "$",
+      "se",
+      "$",
+      "wu",
+      "$",
+      "mu",
+      "$",
+      "wba"
+    ],
+    "created_at": "Tue Feb 03 04:36:08 +0000 2015",
+    "user_id_str": "19220698",
+    "followers_count": 1415
+  },
+  {
+    "text": [
+      "we",
+      "re",
+      "all",
+      "till",
+      "laughin",
+      "our",
+      "asses",
+      "off",
+      "this",
+      "broke",
+      "fool",
+      "$",
+      "intc"
+    ],
+    "created_at": "Mon Feb 02 23:16:22 +0000 2015",
+    "user_id_str": "3008488436",
+    "followers_count": 0
+  }
+]

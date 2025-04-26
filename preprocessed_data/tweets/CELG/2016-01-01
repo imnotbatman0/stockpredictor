@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "rt",
+      "eem",
+      "ishares",
+      "msci",
+      "emerging",
+      "markets",
+      "financials",
+      "$",
+      "eem",
+      "$",
+      "fdn",
+      "$",
+      "nflx",
+      "$",
+      "celg",
+      "eem",
+      "pennystocks"
+    ],
+    "created_at": "Fri Jan 01 03:43:25 +0000 2016",
+    "user_id_str": "3331182800",
+    "followers_count": 1478
+  },
+  {
+    "text": [
+      "celgene",
+      "co",
+      "$",
+      "celg",
+      "upgraded",
+      "at",
+      "vetr",
+      "inc"
+    ],
+    "created_at": "Fri Jan 01 11:42:44 +0000 2016",
+    "user_id_str": "61661638",
+    "followers_count": 5738
+  }
+]

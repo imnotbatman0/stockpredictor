@@ -1,0 +1,85 @@
+[
+  {
+    "text": [
+      "closing",
+      "bell",
+      "reports",
+      "chesapeake",
+      "energy",
+      "corporation",
+      "chk",
+      "microsoft",
+      "corporation",
+      "msft",
+      "$",
+      "msft"
+    ],
+    "created_at": "Wed Dec 30 22:01:30 +0000 2015",
+    "user_id_str": "3054010251",
+    "followers_count": 62
+  },
+  {
+    "text": [
+      "$",
+      "aapl",
+      "$",
+      "msft",
+      "$",
+      "ebay",
+      "$",
+      "c",
+      "$",
+      "pfe",
+      "five",
+      "undervalued",
+      "stocks",
+      "billionaire",
+      "investors",
+      "like"
+    ],
+    "created_at": "Wed Dec 30 17:56:31 +0000 2015",
+    "user_id_str": "932806561",
+    "followers_count": 962
+  },
+  {
+    "text": [
+      "hammered",
+      "$",
+      "msft",
+      "jan17",
+      "$45s",
+      "in",
+      "early",
+      "dec",
+      "love",
+      "to",
+      "see",
+      "info",
+      "like",
+      "this"
+    ],
+    "created_at": "Tue Dec 29 23:54:00 +0000 2015",
+    "user_id_str": "2413494870",
+    "followers_count": 752
+  },
+  {
+    "text": [
+      "tech",
+      "trends",
+      "to",
+      "rule",
+      "2016",
+      "virtualreality",
+      "oculus",
+      "$",
+      "fb",
+      "xboxone",
+      "$",
+      "msft",
+      "says"
+    ],
+    "created_at": "Wed Dec 30 02:15:20 +0000 2015",
+    "user_id_str": "52500519",
+    "followers_count": 4075
+  }
+]

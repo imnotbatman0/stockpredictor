@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "$",
+      "coke",
+      "$",
+      "ko",
+      "3",
+      "beverage",
+      "stocks",
+      "to",
+      "watch",
+      "in",
+      "uncertain",
+      "market"
+    ],
+    "created_at": "Mon Sep 21 22:01:08 +0000 2015",
+    "user_id_str": "2341445778",
+    "followers_count": 591
+  },
+  {
+    "text": [
+      "nomura",
+      "reiterates",
+      "buy",
+      "rating",
+      "for",
+      "the",
+      "coca-cola",
+      "$",
+      "ko"
+    ],
+    "created_at": "Tue Sep 22 18:13:28 +0000 2015",
+    "user_id_str": "1979190776",
+    "followers_count": 720
+  }
+]

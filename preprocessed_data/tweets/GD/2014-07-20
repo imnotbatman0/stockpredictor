@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "buying",
+      "or",
+      "selling",
+      "$",
+      "gd",
+      "$",
+      "ocn",
+      "$",
+      "glng",
+      "$",
+      "do",
+      "investing"
+    ],
+    "created_at": "Sun Jul 20 15:00:35 +0000 2014",
+    "user_id_str": "2652049345",
+    "followers_count": 6
+  },
+  {
+    "text": [
+      "$",
+      "mchp",
+      "get",
+      "research",
+      "on",
+      "$",
+      "gd",
+      "$",
+      "v",
+      "$",
+      "arna",
+      "equity"
+    ],
+    "created_at": "Sun Jul 20 01:00:08 +0000 2014",
+    "user_id_str": "2714885698",
+    "followers_count": 8
+  }
+]

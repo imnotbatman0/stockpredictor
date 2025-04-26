@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "jake13",
+      "$",
+      "csco",
+      "buy",
+      "or",
+      "sell",
+      "click",
+      "here",
+      "to",
+      "find",
+      "out",
+      "if"
+    ],
+    "created_at": "Fri Sep 05 14:55:48 +0000 2014",
+    "user_id_str": "386787305",
+    "followers_count": 2250
+  },
+  {
+    "text": [
+      "$",
+      "csco",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Fri Sep 05 19:03:02 +0000 2014",
+    "user_id_str": "1924312855",
+    "followers_count": 140
+  }
+]

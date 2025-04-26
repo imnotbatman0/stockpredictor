@@ -1,0 +1,73 @@
+[
+  {
+    "text": [
+      "cat",
+      "caterpillar",
+      "inc",
+      "52wk",
+      "low",
+      "$",
+      "cat",
+      "$",
+      "vz",
+      "$",
+      "cat",
+      "$",
+      "feye",
+      "cat",
+      "pennystocks",
+      "tradeideas"
+    ],
+    "created_at": "Thu Jun 11 10:36:05 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 519
+  },
+  {
+    "text": [
+      "shell",
+      "no",
+      "i",
+      "won",
+      "t",
+      "go",
+      "back",
+      "to",
+      "rule-changing",
+      "oil",
+      "giant",
+      "$",
+      "ava",
+      "$",
+      "cvx",
+      "$",
+      "kmi",
+      "$",
+      "t",
+      "$",
+      "vz",
+      "$",
+      "xom",
+      "$",
+      "rds",
+      "a"
+    ],
+    "created_at": "Thu Jun 11 17:35:49 +0000 2015",
+    "user_id_str": "2804870168",
+    "followers_count": 97
+  },
+  {
+    "text": [
+      "$",
+      "vz",
+      "verizon",
+      "communications",
+      "inc",
+      "analyst",
+      "rating",
+      "update"
+    ],
+    "created_at": "Thu Jun 11 21:50:04 +0000 2015",
+    "user_id_str": "3214274823",
+    "followers_count": 9
+  }
+]

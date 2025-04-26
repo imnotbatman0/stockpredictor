@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "$",
+      "akam",
+      "stock",
+      "price",
+      "updated",
+      "tuesday",
+      "march",
+      "24",
+      "2015",
+      "2",
+      "03",
+      "16",
+      "pm",
+      "$",
+      "jbl",
+      "$",
+      "asti",
+      "$",
+      "uvxy",
+      "$",
+      "wfc"
+    ],
+    "created_at": "Tue Mar 24 18:31:41 +0000 2015",
+    "user_id_str": "1854900966",
+    "followers_count": 316
+  },
+  {
+    "text": [
+      "$",
+      "wfc",
+      "eps",
+      "increasing"
+    ],
+    "created_at": "Tue Mar 24 00:02:41 +0000 2015",
+    "user_id_str": "2796938558",
+    "followers_count": 371
+  }
+]

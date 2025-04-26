@@ -1,0 +1,63 @@
+[
+  {
+    "text": [
+      "check",
+      "this",
+      "budgettwit",
+      "$",
+      "csco"
+    ],
+    "created_at": "Tue Mar 31 16:29:12 +0000 2015",
+    "user_id_str": "3089097716",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "day",
+      "in",
+      "review",
+      "in",
+      "$",
+      "csco",
+      "at",
+      "27",
+      "35",
+      "time",
+      "interval",
+      "1-3",
+      "month",
+      "hold"
+    ],
+    "created_at": "Tue Mar 31 05:42:57 +0000 2015",
+    "user_id_str": "2836818110",
+    "followers_count": 66
+  },
+  {
+    "text": [
+      "$",
+      "pvsp",
+      "short",
+      "sales",
+      "updated",
+      "monday",
+      "march",
+      "30",
+      "2015",
+      "9",
+      "09",
+      "10",
+      "pm",
+      "$",
+      "xle",
+      "$",
+      "csco",
+      "$",
+      "pbr",
+      "$",
+      "nflx"
+    ],
+    "created_at": "Tue Mar 31 04:32:58 +0000 2015",
+    "user_id_str": "635580208",
+    "followers_count": 13721
+  }
+]

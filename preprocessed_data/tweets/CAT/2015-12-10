@@ -1,0 +1,46 @@
+[
+  {
+    "text": [
+      "caterpillar",
+      "inc",
+      "$",
+      "cat",
+      "declares",
+      "dividend",
+      "increase",
+      "$0",
+      "77",
+      "per",
+      "share"
+    ],
+    "created_at": "Thu Dec 10 06:47:44 +0000 2015",
+    "user_id_str": "2743641378",
+    "followers_count": 698
+  },
+  {
+    "text": [
+      "loco",
+      "el",
+      "pollo",
+      "loco",
+      "holdings",
+      "inc",
+      "market",
+      "cap",
+      "$",
+      "loco",
+      "$",
+      "eltp",
+      "$",
+      "aal",
+      "$",
+      "cat",
+      "loco",
+      "tradeideas",
+      "pennystocks"
+    ],
+    "created_at": "Thu Dec 10 04:43:04 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 687
+  }
+]

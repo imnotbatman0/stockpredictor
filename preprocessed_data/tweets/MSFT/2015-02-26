@@ -1,0 +1,103 @@
+[
+  {
+    "text": [
+      "how",
+      "about",
+      "taking",
+      "one",
+      "for",
+      "the",
+      "team",
+      "buy",
+      "$",
+      "msft",
+      "$",
+      "intc",
+      "or",
+      "$",
+      "yhoo",
+      "so",
+      "we",
+      "can",
+      "get",
+      "nasdaq",
+      "5k",
+      "tomorrow"
+    ],
+    "created_at": "Thu Feb 26 21:33:14 +0000 2015",
+    "user_id_str": "244677736",
+    "followers_count": 519
+  },
+  {
+    "text": [
+      "$",
+      "msft",
+      "microsoft",
+      "and",
+      "docker",
+      "announce",
+      "beta",
+      "releases",
+      "of",
+      "docker",
+      "machine",
+      "docker",
+      "swarm",
+      "and",
+      "docker",
+      "compose"
+    ],
+    "created_at": "Thu Feb 26 18:47:45 +0000 2015",
+    "user_id_str": "2397975692",
+    "followers_count": 100
+  },
+  {
+    "text": [
+      "this",
+      "week",
+      "s",
+      "sizemore",
+      "insights",
+      "the",
+      "apple",
+      "watch",
+      "could",
+      "flop",
+      "and",
+      "apple",
+      "would",
+      "still",
+      "be",
+      "a",
+      "buy",
+      "$",
+      "aapl",
+      "$",
+      "msft"
+    ],
+    "created_at": "Thu Feb 26 18:51:27 +0000 2015",
+    "user_id_str": "20525971",
+    "followers_count": 1685
+  },
+  {
+    "text": [
+      "microsoft",
+      "corporation",
+      "working",
+      "on",
+      "pebble",
+      "support",
+      "for",
+      "windows",
+      "phone",
+      "$",
+      "msft",
+      "microsoft",
+      "windowsphone",
+      "pebble"
+    ],
+    "created_at": "Thu Feb 26 13:32:59 +0000 2015",
+    "user_id_str": "1579371308",
+    "followers_count": 116
+  }
+]

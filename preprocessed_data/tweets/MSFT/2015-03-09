@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "this",
+      "valuation",
+      "chart",
+      "is",
+      "astounding",
+      "$",
+      "aapl",
+      "$",
+      "msft",
+      "$",
+      "googl",
+      "$",
+      "nflx",
+      "check",
+      "out",
+      "google"
+    ],
+    "created_at": "Mon Mar 09 16:41:20 +0000 2015",
+    "user_id_str": "100024370",
+    "followers_count": 7190
+  },
+  {
+    "text": [
+      "$",
+      "msft",
+      "up",
+      "on",
+      "news",
+      "of",
+      "$",
+      "aapl",
+      "watch"
+    ],
+    "created_at": "Mon Mar 09 19:50:07 +0000 2015",
+    "user_id_str": "224825685",
+    "followers_count": 482
+  }
+]

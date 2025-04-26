@@ -1,0 +1,120 @@
+[
+  {
+    "text": [
+      "unh",
+      "unitedhealth",
+      "group",
+      "inc",
+      "ex-div",
+      "date",
+      "$",
+      "unh",
+      "$",
+      "c",
+      "$",
+      "amat",
+      "$",
+      "xrt",
+      "unh",
+      "stockmarket",
+      "tradeideas"
+    ],
+    "created_at": "Sun Jul 12 07:44:33 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 675
+  },
+  {
+    "text": [
+      "mck",
+      "mckesson",
+      "corp",
+      "day",
+      "high",
+      "$",
+      "mck",
+      "$",
+      "vltc",
+      "$",
+      "unh",
+      "$",
+      "kre",
+      "mck",
+      "stocks",
+      "pennystocks"
+    ],
+    "created_at": "Sun Jul 12 01:41:38 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 492
+  },
+  {
+    "text": [
+      "gpro",
+      "gopro",
+      "inc",
+      "financials",
+      "$",
+      "gpro",
+      "$",
+      "jpm",
+      "$",
+      "myec",
+      "$",
+      "unh",
+      "gpro",
+      "nasdaq",
+      "finance"
+    ],
+    "created_at": "Sun Jul 12 19:38:02 +0000 2015",
+    "user_id_str": "2181403417",
+    "followers_count": 418
+  },
+  {
+    "text": [
+      "pfe",
+      "pfizer",
+      "inc",
+      "day",
+      "low",
+      "$",
+      "pfe",
+      "$",
+      "sasr",
+      "$",
+      "unh",
+      "$",
+      "cnr",
+      "to",
+      "pfe",
+      "tradeideas",
+      "invest"
+    ],
+    "created_at": "Sun Jul 12 19:42:08 +0000 2015",
+    "user_id_str": "386787305",
+    "followers_count": 3071
+  },
+  {
+    "text": [
+      "lscc",
+      "lattice",
+      "semiconductor",
+      "corp",
+      "e",
+      "p",
+      "s",
+      "$",
+      "lscc",
+      "$",
+      "unh",
+      "$",
+      "alk",
+      "$",
+      "feye",
+      "lscc",
+      "stock",
+      "invest"
+    ],
+    "created_at": "Sun Jul 12 07:38:12 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 675
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "$",
+      "hd",
+      "the",
+      "home",
+      "depot",
+      "inc",
+      "nyse",
+      "hd",
+      "home",
+      "depot",
+      "s",
+      "management",
+      "presents",
+      "at"
+    ],
+    "created_at": "Mon Mar 03 19:42:14 +0000 2014",
+    "user_id_str": "2332142180",
+    "followers_count": 4
+  },
+  {
+    "text": [
+      "$",
+      "hd",
+      "dow",
+      "today",
+      "home",
+      "depot",
+      "hd",
+      "lower"
+    ],
+    "created_at": "Mon Mar 03 17:28:05 +0000 2014",
+    "user_id_str": "1729133804",
+    "followers_count": 146
+  }
+]

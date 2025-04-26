@@ -1,0 +1,74 @@
+[
+  {
+    "text": [
+      "goog",
+      "google",
+      "inc",
+      "-",
+      "class",
+      "c",
+      "company",
+      "info",
+      "$",
+      "goog",
+      "$",
+      "ko",
+      "$",
+      "acwv",
+      "$",
+      "myec",
+      "goog",
+      "pennystocks",
+      "finance"
+    ],
+    "created_at": "Fri Jun 12 07:39:19 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 494
+  },
+  {
+    "text": [
+      "$",
+      "big",
+      "$",
+      "ngcg",
+      "things",
+      "coming",
+      "mma",
+      "ufc",
+      "fighting",
+      "energydrinks",
+      "market",
+      "ngcg",
+      "news",
+      "$",
+      "ko",
+      "invest",
+      "$",
+      "next",
+      "$",
+      "thcz",
+      "stock",
+      "$",
+      "hemp"
+    ],
+    "created_at": "Fri Jun 12 16:16:07 +0000 2015",
+    "user_id_str": "3319615635",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "coca",
+      "cola",
+      "$",
+      "ko",
+      "showing",
+      "support",
+      "near",
+      "$39",
+      "91"
+    ],
+    "created_at": "Fri Jun 12 13:44:38 +0000 2015",
+    "user_id_str": "36102165",
+    "followers_count": 1894
+  }
+]

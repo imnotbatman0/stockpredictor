@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "$",
+      "msft",
+      "us",
+      "microsoft",
+      "developing",
+      "app",
+      "that",
+      "can",
+      "read",
+      "out",
+      "news",
+      "microsoft",
+      "corp",
+      "sp500"
+    ],
+    "created_at": "Sun Aug 16 22:10:52 +0000 2015",
+    "user_id_str": "2643714854",
+    "followers_count": 2247
+  },
+  {
+    "text": [
+      "rt",
+      "microsoft",
+      "under",
+      "fire",
+      "for",
+      "windows10",
+      "update",
+      "fail",
+      "itbw",
+      "$",
+      "msft"
+    ],
+    "created_at": "Mon Aug 17 12:47:35 +0000 2015",
+    "user_id_str": "166625505",
+    "followers_count": 5249
+  }
+]

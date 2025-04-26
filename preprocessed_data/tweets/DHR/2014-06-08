@@ -1,0 +1,89 @@
+[
+  {
+    "text": [
+      "$",
+      "csco",
+      "awesome",
+      "stock",
+      "research",
+      "$",
+      "ppg",
+      "$",
+      "dhr",
+      "$",
+      "df",
+      "visit"
+    ],
+    "created_at": "Sun Jun 08 11:57:40 +0000 2014",
+    "user_id_str": "2540790335",
+    "followers_count": 5
+  },
+  {
+    "text": [
+      "$",
+      "joe",
+      "get",
+      "more",
+      "info",
+      "on",
+      "$",
+      "rrc",
+      "$",
+      "dhr",
+      "$",
+      "cag",
+      "must",
+      "have"
+    ],
+    "created_at": "Sun Jun 08 02:30:49 +0000 2014",
+    "user_id_str": "2467449710",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "are",
+      "you",
+      "thinking",
+      "of",
+      "investing",
+      "in",
+      "$",
+      "ma",
+      "$",
+      "dhr",
+      "$",
+      "met",
+      "$",
+      "cadx",
+      "give",
+      "it",
+      "a",
+      "try"
+    ],
+    "created_at": "Sun Jun 08 13:58:26 +0000 2014",
+    "user_id_str": "2493737029",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "barron",
+      "s",
+      "recap",
+      "the",
+      "new",
+      "face",
+      "of",
+      "wallstreet",
+      "$",
+      "dhr",
+      "$",
+      "eog",
+      "$",
+      "ms",
+      "premarket"
+    ],
+    "created_at": "Sun Jun 08 18:40:11 +0000 2014",
+    "user_id_str": "44060322",
+    "followers_count": 36345
+  }
+]

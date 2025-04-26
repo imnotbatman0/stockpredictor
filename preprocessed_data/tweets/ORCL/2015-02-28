@@ -1,0 +1,35 @@
+[
+  {
+    "text": [
+      "$",
+      "dd",
+      "$",
+      "orcl",
+      "$",
+      "mon",
+      "bonds",
+      "boomer",
+      "new",
+      "info"
+    ],
+    "created_at": "Sat Feb 28 21:46:05 +0000 2015",
+    "user_id_str": "2810017692",
+    "followers_count": 9
+  },
+  {
+    "text": [
+      "what",
+      "do",
+      "you",
+      "think",
+      "about",
+      "mortgage",
+      "taxes",
+      "$",
+      "orcl"
+    ],
+    "created_at": "Sat Feb 28 21:50:37 +0000 2015",
+    "user_id_str": "2810017692",
+    "followers_count": 9
+  }
+]

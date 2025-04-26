@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "googl",
+      "alphabet",
+      "inc",
+      "volume",
+      "$",
+      "googl",
+      "$",
+      "xrt",
+      "$",
+      "jnj",
+      "$",
+      "mu",
+      "googl",
+      "stockmarket",
+      "share"
+    ],
+    "created_at": "Sat Oct 17 01:38:04 +0000 2015",
+    "user_id_str": "2285996066",
+    "followers_count": 802
+  },
+  {
+    "text": [
+      "xlb",
+      "materials",
+      "select",
+      "sector",
+      "spdr",
+      "ask",
+      "$",
+      "xlb",
+      "$",
+      "jnj",
+      "$",
+      "nfx",
+      "$",
+      "mux",
+      "xlb",
+      "stockmarket",
+      "stocks"
+    ],
+    "created_at": "Sat Oct 17 15:00:45 +0000 2015",
+    "user_id_str": "3279085989",
+    "followers_count": 44
+  }
+]

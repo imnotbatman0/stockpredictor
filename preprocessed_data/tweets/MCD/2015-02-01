@@ -1,0 +1,94 @@
+[
+  {
+    "text": [
+      "$",
+      "cim",
+      "company",
+      "info",
+      "updated",
+      "sunday",
+      "february",
+      "1",
+      "2015",
+      "3",
+      "03",
+      "15",
+      "pm",
+      "$",
+      "mcd",
+      "$",
+      "csco",
+      "$",
+      "midu",
+      "$",
+      "act"
+    ],
+    "created_at": "Sun Feb 01 20:17:39 +0000 2015",
+    "user_id_str": "1854900966",
+    "followers_count": 261
+  },
+  {
+    "text": [
+      "new",
+      "mcdonald",
+      "s",
+      "ceo",
+      "please",
+      "offer",
+      "a",
+      "mcveggie",
+      "cc",
+      "$",
+      "mcd"
+    ],
+    "created_at": "Sun Feb 01 17:32:12 +0000 2015",
+    "user_id_str": "25907799",
+    "followers_count": 31
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "a",
+      "historic",
+      "home",
+      "for",
+      "a",
+      "mcdonald",
+      "s",
+      "in",
+      "china"
+    ],
+    "created_at": "Sun Feb 01 22:51:03 +0000 2015",
+    "user_id_str": "2341281566",
+    "followers_count": 119
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "last",
+      "price",
+      "updated",
+      "sunday",
+      "february",
+      "1",
+      "2015",
+      "11",
+      "07",
+      "03",
+      "am",
+      "$",
+      "vox",
+      "$",
+      "gpro",
+      "$",
+      "mt",
+      "$",
+      "ctix"
+    ],
+    "created_at": "Sun Feb 01 16:28:22 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 417
+  }
+]

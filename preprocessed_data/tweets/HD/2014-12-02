@@ -1,0 +1,45 @@
+[
+  {
+    "text": [
+      "stock",
+      "watchlist",
+      "you",
+      "should",
+      "be",
+      "looking",
+      "at",
+      "$",
+      "goog",
+      "$",
+      "hd",
+      "$",
+      "splk",
+      "$",
+      "blox",
+      "click"
+    ],
+    "created_at": "Tue Dec 02 11:00:39 +0000 2014",
+    "user_id_str": "2749758342",
+    "followers_count": 191
+  },
+  {
+    "text": [
+      "$",
+      "hd",
+      "unraveling",
+      "home",
+      "depot",
+      "amp",
+      "39",
+      "s",
+      "increasing",
+      "return",
+      "on",
+      "equity",
+      "hd"
+    ],
+    "created_at": "Tue Dec 02 14:31:44 +0000 2014",
+    "user_id_str": "1915625082",
+    "followers_count": 0
+  }
+]

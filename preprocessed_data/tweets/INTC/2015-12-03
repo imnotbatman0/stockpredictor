@@ -1,0 +1,93 @@
+[
+  {
+    "text": [
+      "$",
+      "intc",
+      "new",
+      "sec",
+      "document",
+      "s",
+      "for",
+      "intel",
+      "corp",
+      "from",
+      "our",
+      "stock",
+      "news",
+      "alerts",
+      "app"
+    ],
+    "created_at": "Thu Dec 03 11:16:31 +0000 2015",
+    "user_id_str": "2356524462",
+    "followers_count": 905
+  },
+  {
+    "text": [
+      "dow",
+      "stocks",
+      "$",
+      "intc",
+      "intel",
+      "daily",
+      "-0",
+      "71",
+      "weekly",
+      "1",
+      "13",
+      "ytd",
+      "-3",
+      "3",
+      "trend",
+      "85",
+      "100"
+    ],
+    "created_at": "Thu Dec 03 08:22:19 +0000 2015",
+    "user_id_str": "2455761204",
+    "followers_count": 40
+  },
+  {
+    "text": [
+      "$",
+      "mu",
+      "news",
+      "micron",
+      "it",
+      "really",
+      "will",
+      "be",
+      "different",
+      "this",
+      "time",
+      "$",
+      "intc",
+      "briankrzanich",
+      "analyze"
+    ],
+    "created_at": "Thu Dec 03 15:46:37 +0000 2015",
+    "user_id_str": "1861837392",
+    "followers_count": 43
+  },
+  {
+    "text": [
+      "intc",
+      "intel",
+      "corp",
+      "day",
+      "high",
+      "$",
+      "intc",
+      "$",
+      "smn",
+      "$",
+      "nflx",
+      "$",
+      "aem",
+      "intc",
+      "investing",
+      "stockmarket"
+    ],
+    "created_at": "Thu Dec 03 03:39:33 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 684
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "text": [
+      "v",
+      "visa",
+      "inc",
+      "change",
+      "$",
+      "v",
+      "$",
+      "kite",
+      "$",
+      "googl",
+      "$",
+      "plug",
+      "v",
+      "invest",
+      "investing"
+    ],
+    "created_at": "Thu Aug 06 04:49:33 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 514
+  },
+  {
+    "text": [
+      "wmt",
+      "wal-mart",
+      "stores",
+      "inc",
+      "filings",
+      "$",
+      "wmt",
+      "$",
+      "cmcsa",
+      "$",
+      "v",
+      "$",
+      "rsx",
+      "wmt",
+      "share",
+      "pennystocks"
+    ],
+    "created_at": "Thu Aug 06 04:50:03 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 957
+  },
+  {
+    "text": [
+      "v",
+      "top",
+      "news",
+      "-",
+      "aug",
+      "6th",
+      "2015",
+      "$",
+      "v"
+    ],
+    "created_at": "Thu Aug 06 13:44:34 +0000 2015",
+    "user_id_str": "3121098012",
+    "followers_count": 531
+  },
+  {
+    "text": [
+      "v",
+      "vanguard",
+      "total",
+      "stock",
+      "market",
+      "etf",
+      "volume",
+      "$",
+      "v",
+      "$",
+      "paas",
+      "$",
+      "pg",
+      "$",
+      "fit",
+      "v",
+      "stock",
+      "share"
+    ],
+    "created_at": "Thu Aug 06 14:49:01 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 545
+  }
+]

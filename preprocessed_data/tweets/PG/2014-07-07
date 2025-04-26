@@ -1,0 +1,125 @@
+[
+  {
+    "text": [
+      "get",
+      "more",
+      "info",
+      "on",
+      "$",
+      "ni",
+      "$",
+      "pg",
+      "$",
+      "apol",
+      "$",
+      "aapl",
+      "nasdaq"
+    ],
+    "created_at": "Mon Jul 07 19:10:32 +0000 2014",
+    "user_id_str": "2478879012",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "todays",
+      "movers",
+      "to",
+      "research",
+      "$",
+      "jdsu",
+      "$",
+      "pg",
+      "$",
+      "rsg",
+      "$",
+      "slw",
+      "wallstreet"
+    ],
+    "created_at": "Mon Jul 07 09:18:47 +0000 2014",
+    "user_id_str": "2539618192",
+    "followers_count": 4
+  },
+  {
+    "text": [
+      "$",
+      "pg",
+      "earnings",
+      "news",
+      "on",
+      "$",
+      "lgf",
+      "$",
+      "dfs",
+      "$",
+      "csiq",
+      "nasdaq"
+    ],
+    "created_at": "Mon Jul 07 21:52:56 +0000 2014",
+    "user_id_str": "2484840823",
+    "followers_count": 8
+  },
+  {
+    "text": [
+      "$",
+      "pg",
+      "earnings",
+      "news",
+      "on",
+      "$",
+      "gas",
+      "$",
+      "big",
+      "$",
+      "vfc",
+      "i",
+      "suggest"
+    ],
+    "created_at": "Mon Jul 07 10:29:17 +0000 2014",
+    "user_id_str": "2479515342",
+    "followers_count": 223
+  },
+  {
+    "text": [
+      "$",
+      "cbl",
+      "small-cap",
+      "stocks",
+      "making",
+      "52-wk",
+      "highs",
+      "$",
+      "ci",
+      "$",
+      "pg",
+      "$",
+      "ign",
+      "financialnews",
+      "rate",
+      "limit",
+      "exceeded"
+    ],
+    "created_at": "Mon Jul 07 15:41:05 +0000 2014",
+    "user_id_str": "2539625188",
+    "followers_count": 8
+  },
+  {
+    "text": [
+      "$",
+      "newl",
+      "change",
+      "also",
+      "see",
+      "$",
+      "cag",
+      "$",
+      "yhoo",
+      "$",
+      "pg",
+      "$",
+      "petv"
+    ],
+    "created_at": "Mon Jul 07 13:17:34 +0000 2014",
+    "user_id_str": "1850041968",
+    "followers_count": 245
+  }
+]

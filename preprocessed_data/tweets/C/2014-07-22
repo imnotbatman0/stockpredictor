@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "$",
+      "c",
+      "49",
+      "67",
+      "new",
+      "long"
+    ],
+    "created_at": "Tue Jul 22 17:34:40 +0000 2014",
+    "user_id_str": "110539278",
+    "followers_count": 3129
+  },
+  {
+    "text": [
+      "$",
+      "c",
+      "pivot",
+      "and",
+      "live",
+      "blog"
+    ],
+    "created_at": "Tue Jul 22 08:12:42 +0000 2014",
+    "user_id_str": "2473453207",
+    "followers_count": 128
+  },
+  {
+    "text": [
+      "$",
+      "vrsk",
+      "seeking",
+      "the",
+      "next",
+      "hot",
+      "pennystock",
+      "$",
+      "c",
+      "$",
+      "mu",
+      "$",
+      "tsla",
+      "economy"
+    ],
+    "created_at": "Tue Jul 22 03:56:15 +0000 2014",
+    "user_id_str": "2657031632",
+    "followers_count": 0
+  }
+]

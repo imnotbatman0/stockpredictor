@@ -1,0 +1,72 @@
+[
+  {
+    "text": [
+      "unh",
+      "unitedhealth",
+      "group",
+      "inc",
+      "ex-div",
+      "date",
+      "$",
+      "unh",
+      "$",
+      "c",
+      "$",
+      "amat",
+      "$",
+      "xrt",
+      "unh",
+      "stockmarket",
+      "tradeideas"
+    ],
+    "created_at": "Sun Jul 12 07:44:33 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 675
+  },
+  {
+    "text": [
+      "yum",
+      "yum",
+      "brands",
+      "inc",
+      "shares",
+      "$",
+      "yum",
+      "$",
+      "nwbo",
+      "$",
+      "c",
+      "$",
+      "xoma",
+      "yum",
+      "stocks",
+      "tradeideas"
+    ],
+    "created_at": "Sun Jul 12 18:50:04 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 528
+  },
+  {
+    "text": [
+      "c",
+      "citigroup",
+      "inc",
+      "stock",
+      "forum",
+      "$",
+      "c",
+      "$",
+      "fxi",
+      "$",
+      "sasr",
+      "$",
+      "aapl",
+      "c",
+      "finance",
+      "finance"
+    ],
+    "created_at": "Sun Jul 12 16:33:07 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 942
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "text": [
+      "hon",
+      "honeywell",
+      "intl",
+      "shares",
+      "$",
+      "hon",
+      "$",
+      "gbhd",
+      "$",
+      "sh",
+      "$",
+      "csco",
+      "hon",
+      "stock",
+      "nasdaq"
+    ],
+    "created_at": "Fri Jul 24 16:38:36 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 524
+  },
+  {
+    "text": [
+      "hyg",
+      "ishares",
+      "iboxx",
+      "high",
+      "yield",
+      "corporate",
+      "bond",
+      "fund",
+      "quotes",
+      "$",
+      "hyg",
+      "$",
+      "dust",
+      "$",
+      "hon",
+      "$",
+      "sh",
+      "hyg",
+      "share",
+      "stockibb",
+      "biotech"
+    ],
+    "created_at": "Fri Jul 24 16:41:40 +0000 2015",
+    "user_id_str": "386787305",
+    "followers_count": 3079
+  }
+]

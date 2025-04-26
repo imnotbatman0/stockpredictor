@@ -1,0 +1,72 @@
+[
+  {
+    "text": [
+      "pfizer",
+      "sees",
+      "significant",
+      "growth",
+      "in",
+      "short",
+      "interest",
+      "$",
+      "pfe"
+    ],
+    "created_at": "Mon Mar 02 09:31:41 +0000 2015",
+    "user_id_str": "2181281054",
+    "followers_count": 266
+  },
+  {
+    "text": [
+      "$",
+      "pfe",
+      "your",
+      "tweet",
+      "has",
+      "been",
+      "featured",
+      "on",
+      "market",
+      "parse",
+      "for",
+      "iphone"
+    ],
+    "created_at": "Mon Mar 02 19:00:24 +0000 2015",
+    "user_id_str": "3005559517",
+    "followers_count": 833
+  },
+  {
+    "text": [
+      "goldmansachs",
+      "contrasts",
+      "mutualfund",
+      "performance",
+      "$",
+      "spy",
+      "$",
+      "aapl",
+      "$",
+      "spls",
+      "$",
+      "jpm",
+      "$",
+      "emc",
+      "$",
+      "fb",
+      "$",
+      "intc",
+      "$",
+      "ge",
+      "$",
+      "pfe",
+      "$",
+      "biib",
+      "$",
+      "mmm",
+      "$",
+      "am"
+    ],
+    "created_at": "Mon Mar 02 01:36:09 +0000 2015",
+    "user_id_str": "1001192245",
+    "followers_count": 691
+  }
+]

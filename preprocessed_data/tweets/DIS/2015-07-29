@@ -1,0 +1,102 @@
+[
+  {
+    "text": [
+      "aa",
+      "alcoa",
+      "inc",
+      "ex-div",
+      "date",
+      "$",
+      "aa",
+      "$",
+      "dis",
+      "$",
+      "sune",
+      "$",
+      "sbh",
+      "aa",
+      "stockmarket",
+      "financeaapl",
+      "apple",
+      "inc",
+      "ask",
+      "size"
+    ],
+    "created_at": "Wed Jul 29 14:32:13 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13210
+  },
+  {
+    "text": [
+      "mrk",
+      "merck",
+      "amp",
+      "co",
+      "inc",
+      "last",
+      "price",
+      "$",
+      "mrk",
+      "$",
+      "jnug",
+      "$",
+      "dis",
+      "$",
+      "jblu",
+      "mrk",
+      "stockmarket",
+      "share"
+    ],
+    "created_at": "Wed Jul 29 16:48:07 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 494
+  },
+  {
+    "text": [
+      "bac",
+      "bank",
+      "of",
+      "america",
+      "corp",
+      "short",
+      "sales",
+      "$",
+      "bac",
+      "$",
+      "dis",
+      "$",
+      "nflx",
+      "$",
+      "sbux",
+      "bac",
+      "nasdaq",
+      "share"
+    ],
+    "created_at": "Wed Jul 29 10:32:10 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 521
+  },
+  {
+    "text": [
+      "agn",
+      "allergan",
+      "plc",
+      "day",
+      "low",
+      "$",
+      "agn",
+      "$",
+      "dis",
+      "$",
+      "hyg",
+      "$",
+      "amgn",
+      "agn",
+      "stocks",
+      "stocks"
+    ],
+    "created_at": "Wed Jul 29 16:32:15 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 506
+  }
+]

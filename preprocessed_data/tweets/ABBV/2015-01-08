@@ -1,0 +1,75 @@
+[
+  {
+    "text": [
+      "$",
+      "mcig",
+      "investor",
+      "opinions",
+      "updated",
+      "wednesday",
+      "january",
+      "7",
+      "2015",
+      "8",
+      "59",
+      "25",
+      "pm",
+      "$",
+      "abbv",
+      "$",
+      "cvx",
+      "$",
+      "mnst",
+      "$",
+      "myec"
+    ],
+    "created_at": "Thu Jan 08 06:32:40 +0000 2015",
+    "user_id_str": "578383794",
+    "followers_count": 619
+  },
+  {
+    "text": [
+      "infinity",
+      "pharma",
+      "to",
+      "stop",
+      "developing",
+      "drug",
+      "for",
+      "rheumatoid",
+      "arthritis",
+      "via",
+      "$",
+      "infi",
+      "$",
+      "abbv"
+    ],
+    "created_at": "Thu Jan 08 12:48:02 +0000 2015",
+    "user_id_str": "119475889",
+    "followers_count": 320
+  },
+  {
+    "text": [
+      "anthem",
+      "selects",
+      "$",
+      "gild",
+      "harvona",
+      "as",
+      "primary",
+      "hepc",
+      "therapy",
+      "with",
+      "favorable",
+      "pricing",
+      "over",
+      "$",
+      "abbv",
+      "reports",
+      "bberg"
+    ],
+    "created_at": "Thu Jan 08 21:27:59 +0000 2015",
+    "user_id_str": "270481972",
+    "followers_count": 595
+  }
+]

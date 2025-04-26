@@ -1,0 +1,88 @@
+[
+  {
+    "text": [
+      "$",
+      "aapl",
+      "$",
+      "googl",
+      "$",
+      "goog",
+      "$",
+      "fb",
+      "$",
+      "yhoo",
+      "options"
+    ],
+    "created_at": "Mon Dec 22 16:07:48 +0000 2014",
+    "user_id_str": "1659107078",
+    "followers_count": 48
+  },
+  {
+    "text": [
+      "here",
+      "s",
+      "why",
+      "ad-giants",
+      "will",
+      "be",
+      "watching",
+      "$",
+      "orcl",
+      "acquisition",
+      "of",
+      "datalogix",
+      "$",
+      "fb",
+      "$",
+      "goog",
+      "$",
+      "googl",
+      "$",
+      "twtr"
+    ],
+    "created_at": "Mon Dec 22 17:27:30 +0000 2014",
+    "user_id_str": "960834355",
+    "followers_count": 151
+  },
+  {
+    "text": [
+      "$",
+      "aapl",
+      "$",
+      "googl",
+      "$",
+      "goog",
+      "$",
+      "fb",
+      "$",
+      "yhoo",
+      "options"
+    ],
+    "created_at": "Mon Dec 22 20:53:22 +0000 2014",
+    "user_id_str": "2880886200",
+    "followers_count": 14
+  },
+  {
+    "text": [
+      "$",
+      "bbry",
+      "$",
+      "goog",
+      "blackberry",
+      "and",
+      "google",
+      "are",
+      "working",
+      "closely",
+      "together",
+      "to",
+      "set",
+      "new",
+      "mobile",
+      "security"
+    ],
+    "created_at": "Mon Dec 22 18:57:50 +0000 2014",
+    "user_id_str": "2520719083",
+    "followers_count": 766
+  }
+]

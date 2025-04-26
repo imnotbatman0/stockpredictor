@@ -1,0 +1,30 @@
+[
+  {
+    "text": [
+      "$",
+      "celg",
+      "why",
+      "celgene",
+      "stock",
+      "was",
+      "down",
+      "3",
+      "today"
+    ],
+    "created_at": "Sat Aug 16 07:10:12 +0000 2014",
+    "user_id_str": "2343900780",
+    "followers_count": 11
+  },
+  {
+    "text": [
+      "$",
+      "celg",
+      "on",
+      "breakout",
+      "watch"
+    ],
+    "created_at": "Sat Aug 16 04:27:39 +0000 2014",
+    "user_id_str": "2693763570",
+    "followers_count": 29
+  }
+]

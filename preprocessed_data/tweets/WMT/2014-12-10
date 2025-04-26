@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "amazon",
+      "s",
+      "moment",
+      "of",
+      "truth",
+      "may",
+      "have",
+      "arrived",
+      "$",
+      "amzn",
+      "$",
+      "aapl",
+      "$",
+      "wmt",
+      "$",
+      "shld",
+      "amazon"
+    ],
+    "created_at": "Wed Dec 10 21:48:20 +0000 2014",
+    "user_id_str": "514771996",
+    "followers_count": 41
+  },
+  {
+    "text": [
+      "sold",
+      "short",
+      "$",
+      "wmt",
+      "84",
+      "10"
+    ],
+    "created_at": "Wed Dec 10 15:09:00 +0000 2014",
+    "user_id_str": "40719732",
+    "followers_count": 153
+  },
+  {
+    "text": [
+      "walmart",
+      "u",
+      "s",
+      "faces",
+      "another",
+      "executive",
+      "departure",
+      "during",
+      "the",
+      "peak",
+      "holiday",
+      "season",
+      "$",
+      "wmt",
+      "via"
+    ],
+    "created_at": "Wed Dec 10 22:27:32 +0000 2014",
+    "user_id_str": "1173741662",
+    "followers_count": 608
+  }
+]

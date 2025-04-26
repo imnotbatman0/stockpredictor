@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "$",
+      "wmt",
+      "town",
+      "of",
+      "sheboygan",
+      "oks",
+      "sam",
+      "s",
+      "club"
+    ],
+    "created_at": "Wed Mar 26 18:08:35 +0000 2014",
+    "user_id_str": "2339447402",
+    "followers_count": 4
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "walmart",
+      "debuts",
+      "futuristic",
+      "truck",
+      "with",
+      "capstone",
+      "turbine",
+      "$",
+      "cpst",
+      "inside"
+    ],
+    "created_at": "Wed Mar 26 21:44:29 +0000 2014",
+    "user_id_str": "81715055",
+    "followers_count": 67
+  }
+]

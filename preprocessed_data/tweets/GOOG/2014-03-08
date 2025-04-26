@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "google",
+      "inc",
+      "google-owned",
+      "power",
+      "company",
+      "expands",
+      "into",
+      "127",
+      "000",
+      "square",
+      "feet",
+      "in",
+      "alameda",
+      "$",
+      "goog"
+    ],
+    "created_at": "Sat Mar 08 10:15:04 +0000 2014",
+    "user_id_str": "102325185",
+    "followers_count": 3933
+  },
+  {
+    "text": [
+      "what",
+      "do",
+      "facebook",
+      "twitter",
+      "google",
+      "and",
+      "apple",
+      "employees",
+      "have",
+      "in",
+      "common",
+      "$",
+      "goog",
+      "$",
+      "twtr",
+      "$",
+      "fb",
+      "$",
+      "aapl",
+      "rt"
+    ],
+    "created_at": "Sat Mar 08 11:18:56 +0000 2014",
+    "user_id_str": "340327325",
+    "followers_count": 569
+  }
+]

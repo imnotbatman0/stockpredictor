@@ -1,0 +1,70 @@
+[
+  {
+    "text": [
+      "walt",
+      "disney",
+      "co",
+      "$",
+      "dis",
+      "shares",
+      "bought",
+      "by",
+      "saturna",
+      "capital"
+    ],
+    "created_at": "Sun Dec 20 16:53:03 +0000 2015",
+    "user_id_str": "2920258887",
+    "followers_count": 1065
+  },
+  {
+    "text": [
+      "breaking",
+      "disney",
+      "says",
+      "star",
+      "wars",
+      "the",
+      "force",
+      "awakens",
+      "has",
+      "now",
+      "made",
+      "an",
+      "estimated",
+      "$517m",
+      "globally",
+      "in",
+      "its",
+      "debut",
+      "weekend",
+      "$",
+      "dis"
+    ],
+    "created_at": "Sun Dec 20 16:31:29 +0000 2015",
+    "user_id_str": "31368620",
+    "followers_count": 492
+  },
+  {
+    "text": [
+      "i",
+      "meant",
+      "$",
+      "dis",
+      "y",
+      "$",
+      "nok"
+    ],
+    "created_at": "Sun Dec 20 14:26:04 +0000 2015",
+    "user_id_str": "3400141759",
+    "followers_count": 20
+  },
+  {
+    "text": [
+      "$",
+      "dis"
+    ],
+    "created_at": "Sun Dec 20 07:13:47 +0000 2015",
+    "user_id_str": "2818243225",
+    "followers_count": 464
+  }
+]

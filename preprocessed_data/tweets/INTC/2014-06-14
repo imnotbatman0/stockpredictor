@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "$",
+      "intc",
+      "apple",
+      "inc",
+      "intel",
+      "corporation",
+      "wal-mart",
+      "top",
+      "financial",
+      "stories"
+    ],
+    "created_at": "Sat Jun 14 13:46:11 +0000 2014",
+    "user_id_str": "2342215530",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "the",
+      "$",
+      "sox",
+      "has",
+      "finished",
+      "higher",
+      "in",
+      "16",
+      "out",
+      "of",
+      "the",
+      "last",
+      "17",
+      "sessions",
+      "thanks",
+      "$",
+      "intc"
+    ],
+    "created_at": "Sat Jun 14 18:18:40 +0000 2014",
+    "user_id_str": "21232827",
+    "followers_count": 7899
+  }
+]

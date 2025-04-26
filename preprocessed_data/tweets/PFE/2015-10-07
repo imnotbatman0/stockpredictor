@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "goog",
+      "alphabet",
+      "inc",
+      "-",
+      "class",
+      "c",
+      "news",
+      "$",
+      "goog",
+      "$",
+      "swks",
+      "$",
+      "iyt",
+      "$",
+      "pfe",
+      "goog",
+      "stocks",
+      "pennystocks"
+    ],
+    "created_at": "Wed Oct 07 04:38:08 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 584
+  },
+  {
+    "text": [
+      "tna",
+      "proshares",
+      "ultrapro",
+      "qqq",
+      "news",
+      "$",
+      "tna",
+      "$",
+      "smn",
+      "$",
+      "itb",
+      "$",
+      "pfe",
+      "tna",
+      "tradeideas",
+      "finance"
+    ],
+    "created_at": "Wed Oct 07 06:46:09 +0000 2015",
+    "user_id_str": "2181403417",
+    "followers_count": 466
+  }
+]

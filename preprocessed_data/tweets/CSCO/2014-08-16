@@ -1,0 +1,101 @@
+[
+  {
+    "text": [
+      "my",
+      "dividend",
+      "portfolio",
+      "cisco",
+      "update",
+      "csco",
+      "$",
+      "csco"
+    ],
+    "created_at": "Sat Aug 16 03:18:17 +0000 2014",
+    "user_id_str": "704897486",
+    "followers_count": 1063
+  },
+  {
+    "text": [
+      "cisco",
+      "systems",
+      "price",
+      "target",
+      "increased",
+      "to",
+      "$29",
+      "00",
+      "by",
+      "analysts",
+      "at",
+      "nomura",
+      "$",
+      "csco"
+    ],
+    "created_at": "Sat Aug 16 12:52:27 +0000 2014",
+    "user_id_str": "2181281054",
+    "followers_count": 124
+  },
+  {
+    "text": [
+      "$",
+      "tfx",
+      "get",
+      "more",
+      "info",
+      "on",
+      "$",
+      "seic",
+      "$",
+      "csco",
+      "$",
+      "pcln",
+      "financialnews"
+    ],
+    "created_at": "Sat Aug 16 12:56:49 +0000 2014",
+    "user_id_str": "2730070021",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "dennyt",
+      "ews",
+      "company",
+      "profile",
+      "$",
+      "ews",
+      "$",
+      "agg",
+      "$",
+      "rsp",
+      "$",
+      "a",
+      "$",
+      "csco"
+    ],
+    "created_at": "Sat Aug 16 15:08:40 +0000 2014",
+    "user_id_str": "2579477766",
+    "followers_count": 12632
+  },
+  {
+    "text": [
+      "todays",
+      "stocks",
+      "you",
+      "should",
+      "watch",
+      "$",
+      "ocr",
+      "$",
+      "csco",
+      "$",
+      "pcyc",
+      "$",
+      "aapl",
+      "must",
+      "see"
+    ],
+    "created_at": "Fri Aug 15 22:45:52 +0000 2014",
+    "user_id_str": "2730006342",
+    "followers_count": 2
+  }
+]

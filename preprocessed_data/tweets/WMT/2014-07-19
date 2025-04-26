@@ -1,0 +1,36 @@
+[
+  {
+    "text": [
+      "$",
+      "wmt",
+      "us",
+      "19jul",
+      "positive",
+      "news",
+      "sentiment",
+      "dj30"
+    ],
+    "created_at": "Sat Jul 19 11:18:53 +0000 2014",
+    "user_id_str": "1503276012",
+    "followers_count": 2105
+  },
+  {
+    "text": [
+      "$",
+      "mdt",
+      "get",
+      "research",
+      "on",
+      "$",
+      "wmt",
+      "$",
+      "anat",
+      "$",
+      "vfc",
+      "stockmarket"
+    ],
+    "created_at": "Sat Jul 19 08:01:25 +0000 2014",
+    "user_id_str": "2488962062",
+    "followers_count": 0
+  }
+]

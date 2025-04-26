@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "pfizer",
+      "given",
+      "consensus",
+      "rating",
+      "of",
+      "buy",
+      "by",
+      "brokerages",
+      "$",
+      "pfe"
+    ],
+    "created_at": "Wed Sep 23 16:27:49 +0000 2015",
+    "user_id_str": "1979190776",
+    "followers_count": 718
+  },
+  {
+    "text": [
+      "$",
+      "pfe",
+      "giddy",
+      "up"
+    ],
+    "created_at": "Wed Sep 23 14:20:27 +0000 2015",
+    "user_id_str": "1724241036",
+    "followers_count": 58
+  },
+  {
+    "text": [
+      "$",
+      "unis",
+      "-",
+      "getting",
+      "the",
+      "bum",
+      "s",
+      "rush",
+      "$",
+      "amgn",
+      "$",
+      "bdx",
+      "$",
+      "biib",
+      "$",
+      "biod",
+      "$",
+      "cov",
+      "$",
+      "dskx",
+      "$",
+      "goog",
+      "$",
+      "bmy",
+      "$",
+      "jnj",
+      "$",
+      "pg",
+      "$",
+      "imnp",
+      "$",
+      "mrk",
+      "$",
+      "rtrx",
+      "$",
+      "rvp",
+      "$",
+      "sny",
+      "$",
+      "pfe"
+    ],
+    "created_at": "Wed Sep 23 15:23:44 +0000 2015",
+    "user_id_str": "18308026",
+    "followers_count": 56873
+  }
+]

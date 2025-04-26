@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "since",
+      "your",
+      "tweet",
+      "was",
+      "sent",
+      "$",
+      "xom",
+      "has",
+      "risen",
+      "1",
+      "470",
+      "see",
+      "your",
+      "featured",
+      "tweet",
+      "on",
+      "market",
+      "parse"
+    ],
+    "created_at": "Tue May 05 05:01:29 +0000 2015",
+    "user_id_str": "3182322139",
+    "followers_count": 1
+  },
+  {
+    "text": [
+      "exxon",
+      "mobil",
+      "is",
+      "primed",
+      "for",
+      "more",
+      "upside",
+      "$",
+      "xom"
+    ],
+    "created_at": "Tue May 05 19:17:31 +0000 2015",
+    "user_id_str": "215320122",
+    "followers_count": 6774
+  }
+]

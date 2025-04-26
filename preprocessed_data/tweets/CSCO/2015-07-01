@@ -1,0 +1,53 @@
+[
+  {
+    "text": [
+      "sds",
+      "proshares",
+      "ultra",
+      "short",
+      "s",
+      "amp",
+      "p",
+      "500",
+      "volume",
+      "$",
+      "sds",
+      "$",
+      "bac",
+      "$",
+      "rdsh",
+      "$",
+      "csco",
+      "sds",
+      "finance",
+      "nasdaq"
+    ],
+    "created_at": "Wed Jul 01 13:45:14 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 554
+  },
+  {
+    "text": [
+      "csco",
+      "cisco",
+      "systems",
+      "inc",
+      "day",
+      "low",
+      "$",
+      "csco",
+      "$",
+      "baa",
+      "$",
+      "xlb",
+      "$",
+      "amda",
+      "csco",
+      "stock",
+      "stocks"
+    ],
+    "created_at": "Wed Jul 01 14:34:10 +0000 2015",
+    "user_id_str": "2181403417",
+    "followers_count": 401
+  }
+]

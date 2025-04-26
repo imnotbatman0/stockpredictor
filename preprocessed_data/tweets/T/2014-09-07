@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "b",
+      "0f",
+      "$",
+      "t",
+      "l",
+      "u",
+      "p",
+      "d"
+    ],
+    "created_at": "Sat Sep 06 22:30:45 +0000 2014",
+    "user_id_str": "2654689728",
+    "followers_count": 37
+  },
+  {
+    "text": [
+      "$",
+      "t",
+      "al",
+      "mler",
+      "$",
+      "heql"
+    ],
+    "created_at": "Sun Sep 07 09:25:09 +0000 2014",
+    "user_id_str": "2330506363",
+    "followers_count": 900
+  },
+  {
+    "text": [
+      "a",
+      "new",
+      "favorite",
+      "crave",
+      "by",
+      "drvnk",
+      "ho$",
+      "t",
+      "on",
+      "soundcloud"
+    ],
+    "created_at": "Sun Sep 07 15:59:14 +0000 2014",
+    "user_id_str": "265370988",
+    "followers_count": 641
+  }
+]

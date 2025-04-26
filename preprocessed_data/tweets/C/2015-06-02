@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "$",
+      "c",
+      "your",
+      "tweet",
+      "has",
+      "been",
+      "featured",
+      "on",
+      "market",
+      "parse",
+      "for",
+      "iphone"
+    ],
+    "created_at": "Tue Jun 02 01:30:19 +0000 2015",
+    "user_id_str": "3182322139",
+    "followers_count": 21
+  },
+  {
+    "text": [
+      "c",
+      "citigroup",
+      "inc",
+      "exchange",
+      "$",
+      "c",
+      "$",
+      "tmv",
+      "$",
+      "tbt",
+      "$",
+      "ma",
+      "c",
+      "share",
+      "pennystocks"
+    ],
+    "created_at": "Tue Jun 02 04:34:21 +0000 2015",
+    "user_id_str": "2181326676",
+    "followers_count": 533
+  }
+]

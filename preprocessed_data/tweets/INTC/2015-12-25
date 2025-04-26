@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "apple",
+      "is",
+      "ill-equipped",
+      "in",
+      "the",
+      "tablet",
+      "space",
+      "$",
+      "intc",
+      "$",
+      "msft",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Thu Dec 24 23:30:35 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 599
+  },
+  {
+    "text": [
+      "$",
+      "all",
+      "stock",
+      "price",
+      "updated",
+      "friday",
+      "december",
+      "25",
+      "2015",
+      "10",
+      "06",
+      "35",
+      "am",
+      "$",
+      "gig",
+      "$",
+      "bmrn",
+      "$",
+      "fslr",
+      "$",
+      "intc"
+    ],
+    "created_at": "Fri Dec 25 15:59:34 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 1018
+  }
+]

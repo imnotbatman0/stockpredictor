@@ -1,0 +1,53 @@
+[
+  {
+    "text": [
+      "having",
+      "10",
+      "different",
+      "news",
+      "tabs",
+      "open",
+      "for",
+      "$",
+      "aapl",
+      "$",
+      "db",
+      "$",
+      "bp",
+      "we",
+      "give",
+      "you",
+      "1"
+    ],
+    "created_at": "Tue Dec 01 12:09:15 +0000 2015",
+    "user_id_str": "3170121190",
+    "followers_count": 708
+  },
+  {
+    "text": [
+      "analysts",
+      "recent",
+      "ratings",
+      "updates",
+      "for",
+      "bp",
+      "plc",
+      "$",
+      "bp"
+    ],
+    "created_at": "Tue Dec 01 18:05:55 +0000 2015",
+    "user_id_str": "3213629798",
+    "followers_count": 104
+  },
+  {
+    "text": [
+      "$",
+      "apc",
+      "$",
+      "bp"
+    ],
+    "created_at": "Tue Dec 01 15:32:37 +0000 2015",
+    "user_id_str": "561742581",
+    "followers_count": 1915
+  }
+]

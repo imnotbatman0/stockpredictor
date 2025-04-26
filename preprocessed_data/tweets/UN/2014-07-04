@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "$",
+      "un",
+      "unilever",
+      "agrees",
+      "to",
+      "sell",
+      "meat",
+      "snacks",
+      "business",
+      "to",
+      "jack",
+      "link",
+      "s"
+    ],
+    "created_at": "Fri Jul 04 03:52:28 +0000 2014",
+    "user_id_str": "2343013825",
+    "followers_count": 27
+  },
+  {
+    "text": [
+      "$",
+      "un",
+      "high",
+      "yielding",
+      "consumer",
+      "goods",
+      "stocks",
+      "still",
+      "reasonably",
+      "priced"
+    ],
+    "created_at": "Fri Jul 04 01:52:25 +0000 2014",
+    "user_id_str": "2343013825",
+    "followers_count": 29
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "text": [
+      "your",
+      "tweet",
+      "about",
+      "$",
+      "mcd",
+      "had",
+      "a",
+      "sentiment",
+      "of",
+      "1",
+      "and",
+      "was",
+      "featured",
+      "on",
+      "market",
+      "parse"
+    ],
+    "created_at": "Fri Feb 27 14:00:20 +0000 2015",
+    "user_id_str": "3005559517",
+    "followers_count": 205
+  },
+  {
+    "text": [
+      "is",
+      "an",
+      "activist",
+      "investor",
+      "behind",
+      "mcdonald",
+      "s",
+      "rally",
+      "this",
+      "morningstar",
+      "analyst",
+      "thinks",
+      "so",
+      "$",
+      "mcd"
+    ],
+    "created_at": "Fri Feb 27 17:40:50 +0000 2015",
+    "user_id_str": "44060322",
+    "followers_count": 40919
+  },
+  {
+    "text": [
+      "mcdonald",
+      "s",
+      "accused",
+      "of",
+      "avoiding",
+      "more",
+      "than",
+      "$1",
+      "billion",
+      "in",
+      "taxes",
+      "$",
+      "mcd",
+      "via"
+    ],
+    "created_at": "Fri Feb 27 04:04:42 +0000 2015",
+    "user_id_str": "530822717",
+    "followers_count": 1501
+  },
+  {
+    "text": [
+      "wage",
+      "inflation",
+      "is",
+      "the",
+      "missing",
+      "ingredient",
+      "right",
+      "now",
+      "in",
+      "our",
+      "economic",
+      "recovery",
+      "thats",
+      "why",
+      "you",
+      "want",
+      "your",
+      "$",
+      "mcd",
+      "employee",
+      "to",
+      "ge"
+    ],
+    "created_at": "Fri Feb 27 05:54:25 +0000 2015",
+    "user_id_str": "2992436699",
+    "followers_count": 0
+  }
+]

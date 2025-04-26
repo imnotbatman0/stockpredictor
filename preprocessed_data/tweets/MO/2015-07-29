@@ -1,0 +1,99 @@
+[
+  {
+    "text": [
+      "sector",
+      "update",
+      "consumer",
+      "$",
+      "f",
+      "$",
+      "gm",
+      "$",
+      "aapl",
+      "$",
+      "mo",
+      "$",
+      "abev"
+    ],
+    "created_at": "Wed Jul 29 13:56:29 +0000 2015",
+    "user_id_str": "2927534360",
+    "followers_count": 27
+  },
+  {
+    "text": [
+      "adbe",
+      "adobe",
+      "systems",
+      "inc",
+      "last",
+      "trade",
+      "$",
+      "adbe",
+      "$",
+      "cfw",
+      "to",
+      "$",
+      "gld",
+      "$",
+      "mo",
+      "adbe",
+      "share",
+      "stocks"
+    ],
+    "created_at": "Wed Jul 29 16:32:16 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 506
+  },
+  {
+    "text": [
+      "$",
+      "ocls",
+      "break",
+      "out",
+      "up",
+      "10",
+      "today",
+      "price",
+      "target",
+      "of",
+      "$5",
+      "$",
+      "amzn",
+      "$",
+      "twx",
+      "$",
+      "mo",
+      "$",
+      "lng",
+      "$",
+      "amt",
+      "$",
+      "mnst",
+      "investors",
+      "read"
+    ],
+    "created_at": "Wed Jul 29 16:09:53 +0000 2015",
+    "user_id_str": "287966215",
+    "followers_count": 452
+  },
+  {
+    "text": [
+      "altria",
+      "group",
+      "$",
+      "mo",
+      "is",
+      "today",
+      "s",
+      "unusual",
+      "social",
+      "activity",
+      "stock",
+      "$",
+      "mo"
+    ],
+    "created_at": "Wed Jul 29 17:42:34 +0000 2015",
+    "user_id_str": "6968182",
+    "followers_count": 1959
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "text": [
+      "aapl",
+      "apple",
+      "inc",
+      "tick",
+      "$",
+      "aapl",
+      "$",
+      "ashr",
+      "$",
+      "fnma",
+      "$",
+      "csco",
+      "aapl",
+      "pennystocks",
+      "invest"
+    ],
+    "created_at": "Mon Jun 01 01:31:14 +0000 2015",
+    "user_id_str": "2233924628",
+    "followers_count": 358
+  },
+  {
+    "text": [
+      "btu",
+      "peabody",
+      "energy",
+      "corp",
+      "day",
+      "high",
+      "$",
+      "btu",
+      "$",
+      "jns",
+      "$",
+      "vc",
+      "$",
+      "csco",
+      "btu",
+      "invest",
+      "stockmarket"
+    ],
+    "created_at": "Mon Jun 01 01:33:05 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4230
+  },
+  {
+    "text": [
+      "mu",
+      "micron",
+      "technology",
+      "inc",
+      "prev",
+      "close",
+      "$",
+      "mu",
+      "$",
+      "csco",
+      "$",
+      "gld",
+      "$",
+      "hal",
+      "mu",
+      "investing",
+      "finance"
+    ],
+    "created_at": "Mon Jun 01 15:42:06 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 647
+  },
+  {
+    "text": [
+      "rt",
+      "rt",
+      "rt",
+      "rt",
+      "$",
+      "csco",
+      "active",
+      "relative",
+      "volume",
+      "5",
+      "67",
+      "1h",
+      "7",
+      "00",
+      "pm",
+      "nasdaq",
+      "$",
+      "dji",
+      "$",
+      "ndx",
+      "$",
+      "spy"
+    ],
+    "created_at": "Mon Jun 01 00:00:08 +0000 2015",
+    "user_id_str": "3171824689",
+    "followers_count": 233
+  }
+]

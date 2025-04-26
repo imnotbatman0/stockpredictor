@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "lng",
+      "cheniere",
+      "energy",
+      "inc",
+      "last",
+      "trade",
+      "$",
+      "lng",
+      "$",
+      "tbev",
+      "$",
+      "uwti",
+      "$",
+      "cat",
+      "lng",
+      "share",
+      "stocks"
+    ],
+    "created_at": "Wed Sep 09 22:42:22 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 531
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "weekly",
+      "$",
+      "cat",
+      "via"
+    ],
+    "created_at": "Thu Sep 10 03:27:39 +0000 2015",
+    "user_id_str": "15977038",
+    "followers_count": 8758
+  }
+]

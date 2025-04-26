@@ -1,0 +1,56 @@
+[
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "american",
+      "idol",
+      "the",
+      "voice",
+      "finale",
+      "ratings",
+      "drop"
+    ],
+    "created_at": "Fri May 23 12:06:51 +0000 2014",
+    "user_id_str": "1849605206",
+    "followers_count": 175
+  },
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "nbc",
+      "runs",
+      "the",
+      "gauntlet",
+      "with",
+      "summer",
+      "programming",
+      "crossbones",
+      "taxi",
+      "brooklyn",
+      "and",
+      "reality",
+      "fare"
+    ],
+    "created_at": "Fri May 23 01:30:27 +0000 2014",
+    "user_id_str": "499261624",
+    "followers_count": 166
+  },
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "comcast",
+      "could",
+      "bid",
+      "for",
+      "t-mobile",
+      "says",
+      "ubs"
+    ],
+    "created_at": "Fri May 23 03:04:36 +0000 2014",
+    "user_id_str": "499261624",
+    "followers_count": 166
+  }
+]

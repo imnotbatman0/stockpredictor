@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "stock",
+      "watchlist",
+      "you",
+      "should",
+      "be",
+      "looking",
+      "at",
+      "$",
+      "hun",
+      "$",
+      "sre",
+      "$",
+      "all",
+      "$",
+      "abx",
+      "give",
+      "it",
+      "a",
+      "try"
+    ],
+    "created_at": "Sun Dec 07 09:06:23 +0000 2014",
+    "user_id_str": "2749770194",
+    "followers_count": 200
+  },
+  {
+    "text": [
+      "are",
+      "you",
+      "bullish",
+      "on",
+      "these",
+      "stocks",
+      "$",
+      "slm",
+      "$",
+      "sre",
+      "$",
+      "all",
+      "$",
+      "rt",
+      "money"
+    ],
+    "created_at": "Sun Dec 07 14:32:58 +0000 2014",
+    "user_id_str": "2723796056",
+    "followers_count": 191
+  }
+]

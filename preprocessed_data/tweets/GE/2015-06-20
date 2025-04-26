@@ -1,0 +1,143 @@
+[
+  {
+    "text": [
+      "nvax",
+      "novavax",
+      "inc",
+      "stock",
+      "message",
+      "board",
+      "$",
+      "nvax",
+      "$",
+      "acwi",
+      "$",
+      "ge",
+      "$",
+      "jnk",
+      "nvax",
+      "stock",
+      "investing"
+    ],
+    "created_at": "Sat Jun 20 07:45:13 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 483
+  },
+  {
+    "text": [
+      "rt",
+      "mackeykyddandr1",
+      "xlp",
+      "consumer",
+      "staples",
+      "select",
+      "sector",
+      "spdr",
+      "financials",
+      "$",
+      "xlp",
+      "$",
+      "ge",
+      "$",
+      "qcom",
+      "$",
+      "amzn",
+      "xlp",
+      "pennystocks",
+      "na"
+    ],
+    "created_at": "Sat Jun 20 21:05:52 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 411
+  },
+  {
+    "text": [
+      "sbux",
+      "starbucks",
+      "corp",
+      "short",
+      "sales",
+      "$",
+      "sbux",
+      "$",
+      "axas",
+      "$",
+      "ge",
+      "$",
+      "tbt",
+      "sbux",
+      "stock",
+      "invest"
+    ],
+    "created_at": "Sat Jun 20 19:45:33 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 655
+  },
+  {
+    "text": [
+      "aapl",
+      "apple",
+      "inc",
+      "quotes",
+      "$",
+      "aapl",
+      "$",
+      "ge",
+      "$",
+      "ziop",
+      "$",
+      "avgo",
+      "aapl",
+      "stocks",
+      "tradeideas"
+    ],
+    "created_at": "Sat Jun 20 09:24:12 +0000 2015",
+    "user_id_str": "2801334731",
+    "followers_count": 582
+  },
+  {
+    "text": [
+      "ge",
+      "general",
+      "electric",
+      "co",
+      "dividend",
+      "$",
+      "ge",
+      "$",
+      "fxa",
+      "$",
+      "nbg",
+      "$",
+      "tqqq",
+      "ge",
+      "finance",
+      "stocks"
+    ],
+    "created_at": "Sat Jun 20 16:39:34 +0000 2015",
+    "user_id_str": "2181326676",
+    "followers_count": 546
+  },
+  {
+    "text": [
+      "aet",
+      "aetna",
+      "inc",
+      "financials",
+      "$",
+      "aet",
+      "$",
+      "ge",
+      "$",
+      "btu",
+      "$",
+      "any",
+      "aet",
+      "pennystocks",
+      "finance"
+    ],
+    "created_at": "Sat Jun 20 06:32:03 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 510
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "ko",
+      "-0",
+      "44",
+      "stock",
+      "charts",
+      "$",
+      "ko",
+      "coca-cola",
+      "co",
+      "nyse",
+      "last",
+      "updated",
+      "12",
+      "16",
+      "2014",
+      "16",
+      "50",
+      "00",
+      "ko",
+      "stock",
+      "chart",
+      "-",
+      "1",
+      "month",
+      "htt"
+    ],
+    "created_at": "Tue Dec 16 22:49:55 +0000 2014",
+    "user_id_str": "2243075472",
+    "followers_count": 898
+  },
+  {
+    "text": [
+      "$",
+      "ko",
+      "-",
+      "statement",
+      "of",
+      "changes",
+      "in",
+      "beneficial",
+      "ownership",
+      "4"
+    ],
+    "created_at": "Wed Dec 17 21:10:15 +0000 2014",
+    "user_id_str": "2273335669",
+    "followers_count": 392
+  },
+  {
+    "text": [
+      "no",
+      "$",
+      "ko"
+    ],
+    "created_at": "Wed Dec 17 14:28:10 +0000 2014",
+    "user_id_str": "986780072",
+    "followers_count": 617
+  }
+]

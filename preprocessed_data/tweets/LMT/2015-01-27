@@ -1,0 +1,54 @@
+[
+  {
+    "text": [
+      "$",
+      "aapl",
+      "news",
+      "10",
+      "stocks",
+      "you",
+      "should",
+      "be",
+      "watching",
+      "today",
+      "$",
+      "aapl",
+      "$",
+      "cat",
+      "$",
+      "lmt",
+      "premarket",
+      "board",
+      "view"
+    ],
+    "created_at": "Tue Jan 27 11:40:28 +0000 2015",
+    "user_id_str": "1923879936",
+    "followers_count": 182
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "news",
+      "10",
+      "stocks",
+      "you",
+      "should",
+      "be",
+      "watching",
+      "today",
+      "$",
+      "aapl",
+      "$",
+      "cat",
+      "$",
+      "lmt",
+      "premarket",
+      "board",
+      "view"
+    ],
+    "created_at": "Tue Jan 27 11:40:28 +0000 2015",
+    "user_id_str": "1923890856",
+    "followers_count": 125
+  }
+]

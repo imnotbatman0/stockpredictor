@@ -1,0 +1,36 @@
+[
+  {
+    "text": [
+      "$",
+      "sny",
+      "sanofi",
+      "price",
+      "target",
+      "update"
+    ],
+    "created_at": "Wed Mar 04 21:16:04 +0000 2015",
+    "user_id_str": "2344619544",
+    "followers_count": 77
+  },
+  {
+    "text": [
+      "$",
+      "mnkd",
+      "$",
+      "sny",
+      "mannkind",
+      "corp",
+      "nasdaq",
+      "mnkd",
+      "may",
+      "lose",
+      "half",
+      "of",
+      "value",
+      "as"
+    ],
+    "created_at": "Wed Mar 04 15:51:06 +0000 2015",
+    "user_id_str": "2342215530",
+    "followers_count": 84
+  }
+]

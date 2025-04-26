@@ -1,0 +1,66 @@
+[
+  {
+    "text": [
+      "lt",
+      "lt",
+      "--",
+      "this",
+      "guy",
+      "has",
+      "some",
+      "great",
+      "free",
+      "info",
+      "on",
+      "some",
+      "hot",
+      "stocks",
+      "and",
+      "he",
+      "has",
+      "a",
+      "stellar",
+      "track",
+      "record",
+      "$",
+      "intc",
+      "$",
+      "ohrp",
+      "$",
+      "altr"
+    ],
+    "created_at": "Wed Apr 08 16:04:34 +0000 2015",
+    "user_id_str": "2941709920",
+    "followers_count": 1
+  },
+  {
+    "text": [
+      "dollarsonpennies",
+      "$",
+      "intc",
+      "weekly"
+    ],
+    "created_at": "Wed Apr 08 08:59:31 +0000 2015",
+    "user_id_str": "2400562693",
+    "followers_count": 180
+  },
+  {
+    "text": [
+      "technology",
+      "sector",
+      "movers",
+      "intel",
+      "corporation",
+      "intc",
+      "nokia",
+      "corporation",
+      "nok",
+      "yahoo",
+      "$",
+      "intc"
+    ],
+    "created_at": "Wed Apr 08 19:31:44 +0000 2015",
+    "user_id_str": "3079164148",
+    "followers_count": 13
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "text": [
+      "$",
+      "goog",
+      "online",
+      "stock",
+      "traders",
+      "get",
+      "their",
+      "trading",
+      "information",
+      "here",
+      "-",
+      "no",
+      "login",
+      "required",
+      "-"
+    ],
+    "created_at": "Thu Oct 02 18:21:22 +0000 2014",
+    "user_id_str": "587563290",
+    "followers_count": 374
+  },
+  {
+    "text": [
+      "eric",
+      "schmidt",
+      "to",
+      "tim",
+      "cook",
+      "we",
+      "re",
+      "rubber",
+      "you",
+      "re",
+      "glue",
+      "$",
+      "aapl",
+      "$",
+      "goog"
+    ],
+    "created_at": "Thu Oct 02 16:26:34 +0000 2014",
+    "user_id_str": "1473431",
+    "followers_count": 11293
+  },
+  {
+    "text": [
+      "traders",
+      "do",
+      "not",
+      "forget",
+      "$",
+      "vstr",
+      "-",
+      "google",
+      "$",
+      "goog",
+      "finance",
+      "50k",
+      "every",
+      "month",
+      "to",
+      "vstr",
+      "trading"
+    ],
+    "created_at": "Thu Oct 02 16:58:50 +0000 2014",
+    "user_id_str": "1369614386",
+    "followers_count": 393
+  }
+]

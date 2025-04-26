@@ -1,0 +1,66 @@
+[
+  {
+    "text": [
+      "$",
+      "bp",
+      "ln",
+      "volkswagen",
+      "stock",
+      "chart",
+      "starting",
+      "to",
+      "look",
+      "like",
+      "bp",
+      "after",
+      "oil",
+      "spill",
+      "bp",
+      "plc",
+      "ldn100"
+    ],
+    "created_at": "Wed Oct 07 14:20:44 +0000 2015",
+    "user_id_str": "2689156694",
+    "followers_count": 450
+  },
+  {
+    "text": [
+      "sanford",
+      "c",
+      "bernstein",
+      "reaffirms",
+      "outperform",
+      "rating",
+      "for",
+      "bp",
+      "plc",
+      "$",
+      "bp"
+    ],
+    "created_at": "Wed Oct 07 01:52:25 +0000 2015",
+    "user_id_str": "1979190776",
+    "followers_count": 728
+  },
+  {
+    "text": [
+      "aa",
+      "alcoa",
+      "inc",
+      "quotes",
+      "$",
+      "aa",
+      "$",
+      "bp",
+      "$",
+      "rig",
+      "$",
+      "qld",
+      "aa",
+      "stockmarket",
+      "nasdaq"
+    ],
+    "created_at": "Wed Oct 07 17:45:28 +0000 2015",
+    "user_id_str": "19221345",
+    "followers_count": 2906
+  }
+]

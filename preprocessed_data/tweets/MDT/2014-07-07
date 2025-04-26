@@ -1,0 +1,69 @@
+[
+  {
+    "text": [
+      "$",
+      "qcom",
+      "should",
+      "you",
+      "buy",
+      "$",
+      "fds",
+      "$",
+      "mdt",
+      "$",
+      "clf",
+      "singedinvestor",
+      "rate",
+      "limit",
+      "exceeded"
+    ],
+    "created_at": "Mon Jul 07 01:36:56 +0000 2014",
+    "user_id_str": "2535220030",
+    "followers_count": 6
+  },
+  {
+    "text": [
+      "stock",
+      "watchlist",
+      "you",
+      "should",
+      "be",
+      "looking",
+      "at",
+      "$",
+      "stt",
+      "$",
+      "ilmn",
+      "$",
+      "mdt",
+      "$",
+      "slw",
+      "stockmarket"
+    ],
+    "created_at": "Mon Jul 07 02:16:12 +0000 2014",
+    "user_id_str": "2494031730",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "pennystock",
+      "research",
+      "on",
+      "$",
+      "vlo",
+      "$",
+      "mdt",
+      "$",
+      "intc",
+      "$",
+      "ir",
+      "give",
+      "it",
+      "a",
+      "try"
+    ],
+    "created_at": "Mon Jul 07 17:08:06 +0000 2014",
+    "user_id_str": "2539199914",
+    "followers_count": 7
+  }
+]

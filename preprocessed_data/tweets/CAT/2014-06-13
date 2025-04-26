@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "big",
+      "retail",
+      "big",
+      "construction",
+      "lead",
+      "9",
+      "dividend",
+      "stocks",
+      "increasing",
+      "payouts",
+      "$",
+      "cat",
+      "$",
+      "bby",
+      "$",
+      "tgt"
+    ],
+    "created_at": "Fri Jun 13 18:42:41 +0000 2014",
+    "user_id_str": "14933262",
+    "followers_count": 4361
+  },
+  {
+    "text": [
+      "uranium-pinto-beans",
+      "$",
+      "cat",
+      "caterpillar",
+      "faces",
+      "at",
+      "least",
+      "15",
+      "engine",
+      "lawsuits",
+      "wsj",
+      "reports"
+    ],
+    "created_at": "Fri Jun 13 11:42:16 +0000 2014",
+    "user_id_str": "137955452",
+    "followers_count": 1200
+  }
+]

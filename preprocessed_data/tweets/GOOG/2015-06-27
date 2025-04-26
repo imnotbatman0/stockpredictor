@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "a",
+      "must",
+      "read",
+      "document",
+      "click",
+      "thanks",
+      "$",
+      "goog",
+      "$",
+      "fb",
+      "$",
+      "ibm",
+      "$",
+      "lyb"
+    ],
+    "created_at": "Sat Jun 27 20:11:03 +0000 2015",
+    "user_id_str": "2810017692",
+    "followers_count": 29
+  },
+  {
+    "text": [
+      "insider",
+      "selling",
+      "google",
+      "major",
+      "shareholder",
+      "sells",
+      "$18304601",
+      "12",
+      "in",
+      "stock",
+      "goog",
+      "$",
+      "goog"
+    ],
+    "created_at": "Sat Jun 27 13:46:47 +0000 2015",
+    "user_id_str": "3079050417",
+    "followers_count": 10
+  }
+]

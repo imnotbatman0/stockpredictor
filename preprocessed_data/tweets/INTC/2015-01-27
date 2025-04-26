@@ -1,0 +1,115 @@
+[
+  {
+    "text": [
+      "investors",
+      "buy",
+      "shares",
+      "of",
+      "intel",
+      "on",
+      "weakness",
+      "following",
+      "insider",
+      "selling",
+      "$",
+      "intc"
+    ],
+    "created_at": "Tue Jan 27 03:56:24 +0000 2015",
+    "user_id_str": "2348716116",
+    "followers_count": 1818
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "traders",
+      "buy",
+      "intel",
+      "on",
+      "weakness",
+      "on",
+      "insider",
+      "selling",
+      "intc"
+    ],
+    "created_at": "Tue Jan 27 04:16:04 +0000 2015",
+    "user_id_str": "2341281566",
+    "followers_count": 102
+  },
+  {
+    "text": [
+      "$",
+      "sil",
+      "investor",
+      "opinions",
+      "updated",
+      "monday",
+      "january",
+      "26",
+      "2015",
+      "9",
+      "11",
+      "24",
+      "pm",
+      "$",
+      "luv",
+      "$",
+      "wfc",
+      "$",
+      "intc",
+      "$",
+      "uso"
+    ],
+    "created_at": "Tue Jan 27 03:32:13 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 369
+  },
+  {
+    "text": [
+      "$",
+      "tsla",
+      "any",
+      "other",
+      "opinions",
+      "on",
+      "this",
+      "$",
+      "kss",
+      "$",
+      "gld",
+      "$",
+      "intc",
+      "$",
+      "erf",
+      "$",
+      "tvix"
+    ],
+    "created_at": "Tue Jan 27 15:05:47 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 506
+  },
+  {
+    "text": [
+      "new",
+      "post",
+      "the",
+      "next",
+      "battle",
+      "setting",
+      "up",
+      "$",
+      "intc",
+      "$",
+      "qqq",
+      "$",
+      "smh",
+      "$",
+      "soxs",
+      "$",
+      "tsm"
+    ],
+    "created_at": "Tue Jan 27 16:34:40 +0000 2015",
+    "user_id_str": "242954869",
+    "followers_count": 234
+  }
+]

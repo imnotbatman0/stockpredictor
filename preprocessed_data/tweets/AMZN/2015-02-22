@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "$",
+      "amzn",
+      "your",
+      "tweet",
+      "has",
+      "been",
+      "featured",
+      "on",
+      "the",
+      "newest",
+      "market",
+      "trending",
+      "app",
+      "market",
+      "parse",
+      "for",
+      "iphone"
+    ],
+    "created_at": "Sun Feb 22 15:01:05 +0000 2015",
+    "user_id_str": "3005559517",
+    "followers_count": 72
+  },
+  {
+    "text": [
+      "nasdaq",
+      "--",
+      "then",
+      "and",
+      "now",
+      "notice",
+      "big",
+      "differences",
+      "in",
+      "p",
+      "es",
+      "and",
+      "the",
+      "composition",
+      "$",
+      "aapl",
+      "$",
+      "fb",
+      "$",
+      "amzn",
+      "$",
+      "gild",
+      "$",
+      "amgn",
+      "$",
+      "googl",
+      "$",
+      "msft"
+    ],
+    "created_at": "Sun Feb 22 21:00:01 +0000 2015",
+    "user_id_str": "524732173",
+    "followers_count": 263
+  }
+]

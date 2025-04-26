@@ -1,0 +1,76 @@
+[
+  {
+    "text": [
+      "$",
+      "wmt",
+      "wal-mart",
+      "creating",
+      "a",
+      "seamless",
+      "retail",
+      "ecosystem"
+    ],
+    "created_at": "Wed Jan 15 13:48:23 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 94
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "-",
+      "wal-mart",
+      "creating",
+      "a",
+      "seamless",
+      "retail",
+      "ecosystem",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Wed Jan 15 13:38:30 +0000 2014",
+    "user_id_str": "404613701",
+    "followers_count": 183
+  },
+  {
+    "text": [
+      "ha",
+      "ha",
+      "luvs",
+      "me",
+      "luvs",
+      "me",
+      "not",
+      "loves",
+      "me",
+      "not",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Wed Jan 15 15:45:07 +0000 2014",
+    "user_id_str": "353676175",
+    "followers_count": 535
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "-",
+      "sapientnitro",
+      "buys",
+      "hispanic-focused",
+      "agency",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Wed Jan 15 18:38:30 +0000 2014",
+    "user_id_str": "404613701",
+    "followers_count": 184
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "text": [
+      "$",
+      "vix",
+      "$",
+      "usd",
+      "major",
+      "indices",
+      "$",
+      "goog",
+      "$",
+      "pcln",
+      "$",
+      "twtr",
+      "$",
+      "fb",
+      "$",
+      "aapl",
+      "$",
+      "ebay",
+      "$",
+      "gm",
+      "$",
+      "dust",
+      "$",
+      "baba"
+    ],
+    "created_at": "Sat Mar 14 12:11:04 +0000 2015",
+    "user_id_str": "19220698",
+    "followers_count": 1438
+  }
+]

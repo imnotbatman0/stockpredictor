@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "will",
+      "pepsi",
+      "sizzle",
+      "on",
+      "earnings",
+      "day",
+      "via",
+      "$",
+      "pep"
+    ],
+    "created_at": "Wed Apr 22 17:02:11 +0000 2015",
+    "user_id_str": "26585826",
+    "followers_count": 416
+  },
+  {
+    "text": [
+      "pepsi",
+      "sizzles",
+      "on",
+      "earnings",
+      "day",
+      "$",
+      "pep"
+    ],
+    "created_at": "Wed Apr 22 20:21:39 +0000 2015",
+    "user_id_str": "23059499",
+    "followers_count": 73398
+  },
+  {
+    "text": [
+      "will",
+      "pepsi",
+      "sizzle",
+      "on",
+      "earnings",
+      "day",
+      "via",
+      "$",
+      "pep"
+    ],
+    "created_at": "Wed Apr 22 14:57:25 +0000 2015",
+    "user_id_str": "40029609",
+    "followers_count": 549
+  }
+]

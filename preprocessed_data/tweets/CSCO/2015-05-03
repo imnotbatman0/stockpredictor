@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "$",
+      "rio",
+      "$",
+      "csco",
+      "$",
+      "dd",
+      "boomer",
+      "equity",
+      "i",
+      "am",
+      "peter",
+      "new",
+      "researcher",
+      "please",
+      "review",
+      "my",
+      "work",
+      "under"
+    ],
+    "created_at": "Sun May 03 15:46:09 +0000 2015",
+    "user_id_str": "3088827405",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "what",
+      "do",
+      "you",
+      "think",
+      "about",
+      "$",
+      "twou",
+      "$",
+      "csco",
+      "finra",
+      "taxes",
+      "bonds",
+      "equity"
+    ],
+    "created_at": "Sun May 03 13:01:24 +0000 2015",
+    "user_id_str": "3089097716",
+    "followers_count": 2
+  }
+]

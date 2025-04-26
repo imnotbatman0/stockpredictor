@@ -1,0 +1,93 @@
+[
+  {
+    "text": [
+      "$",
+      "baba",
+      "$",
+      "bidu",
+      "$",
+      "goog",
+      "$",
+      "aapl",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Sat Sep 20 01:37:46 +0000 2014",
+    "user_id_str": "50932982",
+    "followers_count": 3401
+  },
+  {
+    "text": [
+      "important",
+      "victory",
+      "for",
+      "google",
+      "inc",
+      "$",
+      "goog"
+    ],
+    "created_at": "Fri Sep 19 23:35:21 +0000 2014",
+    "user_id_str": "704897486",
+    "followers_count": 1114
+  },
+  {
+    "text": [
+      "$",
+      "elra",
+      "closed",
+      "up",
+      "288",
+      "89",
+      "on",
+      "over",
+      "315",
+      "million",
+      "volume",
+      "get",
+      "our",
+      "new",
+      "penny",
+      "stock",
+      "picks",
+      "$",
+      "cbl",
+      "$",
+      "goog",
+      "$",
+      "bll"
+    ],
+    "created_at": "Sat Sep 20 15:36:20 +0000 2014",
+    "user_id_str": "2447967798",
+    "followers_count": 15994
+  },
+  {
+    "text": [
+      "$",
+      "elra",
+      "closed",
+      "up",
+      "288",
+      "89",
+      "on",
+      "over",
+      "315",
+      "million",
+      "volume",
+      "get",
+      "our",
+      "new",
+      "penny",
+      "stock",
+      "picks",
+      "$",
+      "trx",
+      "$",
+      "aapl",
+      "$",
+      "goog"
+    ],
+    "created_at": "Sat Sep 20 07:42:50 +0000 2014",
+    "user_id_str": "2447967798",
+    "followers_count": 15994
+  }
+]

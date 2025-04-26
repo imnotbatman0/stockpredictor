@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "should",
+      "you",
+      "buy",
+      "sell",
+      "or",
+      "hold",
+      "$",
+      "pep",
+      "$",
+      "mdvn",
+      "$",
+      "wwav",
+      "$",
+      "usd",
+      "wallstreet"
+    ],
+    "created_at": "Tue Nov 25 10:22:48 +0000 2014",
+    "user_id_str": "2749783490",
+    "followers_count": 246
+  },
+  {
+    "text": [
+      "shoud",
+      "you",
+      "sell",
+      "or",
+      "hold",
+      "stocks",
+      "like",
+      "$",
+      "rost",
+      "$",
+      "wcrx",
+      "$",
+      "pep",
+      "$",
+      "abx",
+      "liquidity"
+    ],
+    "created_at": "Tue Nov 25 04:51:20 +0000 2014",
+    "user_id_str": "2717692063",
+    "followers_count": 6
+  }
+]

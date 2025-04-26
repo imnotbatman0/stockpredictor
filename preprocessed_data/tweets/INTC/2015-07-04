@@ -1,0 +1,69 @@
+[
+  {
+    "text": [
+      "intc",
+      "intel",
+      "corp",
+      "52wk",
+      "high",
+      "$",
+      "intc",
+      "$",
+      "xlv",
+      "$",
+      "fit",
+      "$",
+      "duk",
+      "intc",
+      "stock",
+      "nasdaq"
+    ],
+    "created_at": "Sat Jul 04 19:40:04 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1401
+  },
+  {
+    "text": [
+      "intc",
+      "intel",
+      "corp",
+      "open",
+      "$",
+      "intc",
+      "$",
+      "xlu",
+      "$",
+      "iye",
+      "$",
+      "ewj",
+      "intc",
+      "investing",
+      "finance"
+    ],
+    "created_at": "Sat Jul 04 08:40:09 +0000 2015",
+    "user_id_str": "2285996066",
+    "followers_count": 752
+  },
+  {
+    "text": [
+      "fit",
+      "fitbit",
+      "inc",
+      "filings",
+      "$",
+      "fit",
+      "$",
+      "intc",
+      "$",
+      "dia",
+      "$",
+      "nem",
+      "fit",
+      "nasdaq",
+      "finance"
+    ],
+    "created_at": "Sat Jul 04 13:37:43 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13160
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "text": [
+      "oracle",
+      "s",
+      "$",
+      "orcl",
+      "buy",
+      "rating",
+      "reaffirmed",
+      "at",
+      "barclays"
+    ],
+    "created_at": "Sun Dec 20 19:32:36 +0000 2015",
+    "user_id_str": "61661638",
+    "followers_count": 5686
+  },
+  {
+    "text": [
+      "aapl",
+      "apple",
+      "inc",
+      "bid",
+      "size",
+      "$",
+      "aapl",
+      "$",
+      "orcl",
+      "$",
+      "blta",
+      "$",
+      "twtr",
+      "aapl",
+      "invest",
+      "investing"
+    ],
+    "created_at": "Sun Dec 20 19:34:03 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 669
+  },
+  {
+    "text": [
+      "mbly",
+      "mobileye",
+      "nv",
+      "ask",
+      "$",
+      "mbly",
+      "$",
+      "orcl",
+      "$",
+      "fb",
+      "$",
+      "avxl",
+      "mbly",
+      "invest",
+      "investing"
+    ],
+    "created_at": "Sun Dec 20 20:42:11 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 610
+  }
+]

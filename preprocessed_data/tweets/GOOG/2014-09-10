@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "google",
+      "invests",
+      "in",
+      "california",
+      "solar",
+      "power",
+      "plant",
+      "$",
+      "goog"
+    ],
+    "created_at": "Wed Sep 10 14:18:11 +0000 2014",
+    "user_id_str": "30450124",
+    "followers_count": 450
+  },
+  {
+    "text": [
+      "is",
+      "now",
+      "recognized",
+      "as",
+      "a",
+      "google",
+      "trusted",
+      "store",
+      "$",
+      "tumi",
+      "$1910",
+      "$",
+      "goog"
+    ],
+    "created_at": "Wed Sep 10 11:05:15 +0000 2014",
+    "user_id_str": "102325185",
+    "followers_count": 4786
+  }
+]

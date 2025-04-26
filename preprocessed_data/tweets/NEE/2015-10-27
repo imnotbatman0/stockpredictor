@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "the",
+      "most",
+      "accurate",
+      "stock",
+      "alert",
+      "service",
+      "made",
+      "$240",
+      "000",
+      "yesterday",
+      "$",
+      "nee",
+      "$",
+      "nee-c",
+      "$",
+      "nee-g"
+    ],
+    "created_at": "Mon Oct 26 23:33:18 +0000 2015",
+    "user_id_str": "3260993737",
+    "followers_count": 6089
+  },
+  {
+    "text": [
+      "zacks",
+      "analysts",
+      "anticipate",
+      "nextera",
+      "energy",
+      "to",
+      "post",
+      "$1",
+      "65",
+      "eps",
+      "$",
+      "nee"
+    ],
+    "created_at": "Tue Oct 27 14:51:24 +0000 2015",
+    "user_id_str": "2920258887",
+    "followers_count": 997
+  }
+]

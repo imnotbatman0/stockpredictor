@@ -1,0 +1,57 @@
+[
+  {
+    "text": [
+      "$",
+      "v",
+      "dow",
+      "s",
+      "amp",
+      "p",
+      "close",
+      "a",
+      "memorable",
+      "week",
+      "in",
+      "positive",
+      "territory"
+    ],
+    "created_at": "Fri Mar 07 22:30:28 +0000 2014",
+    "user_id_str": "2340701312",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "$",
+      "v",
+      "mastercard",
+      "visa",
+      "plan",
+      "group",
+      "focused",
+      "on",
+      "security"
+    ],
+    "created_at": "Fri Mar 07 22:07:04 +0000 2014",
+    "user_id_str": "1839878976",
+    "followers_count": 78
+  },
+  {
+    "text": [
+      "$",
+      "v",
+      "visa",
+      "inc",
+      "v",
+      "us",
+      "payment",
+      "volume",
+      "trends",
+      "a",
+      "pleasant",
+      "surprise"
+    ],
+    "created_at": "Thu Mar 06 23:10:04 +0000 2014",
+    "user_id_str": "1839878976",
+    "followers_count": 81
+  }
+]

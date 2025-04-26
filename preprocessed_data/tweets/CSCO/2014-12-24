@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "1990",
+      "cisco",
+      "joins",
+      "trading",
+      "under",
+      "ticker",
+      "symbol",
+      "$",
+      "csco",
+      "cisco30",
+      "wearecisco"
+    ],
+    "created_at": "Tue Dec 23 23:00:55 +0000 2014",
+    "user_id_str": "14819061",
+    "followers_count": 8217
+  },
+  {
+    "text": [
+      "chartguy89",
+      "csco",
+      "0",
+      "11",
+      "stock",
+      "charts",
+      "$",
+      "csco",
+      "cisco",
+      "systems",
+      "inc"
+    ],
+    "created_at": "Wed Dec 24 00:13:19 +0000 2014",
+    "user_id_str": "386787305",
+    "followers_count": 2547
+  }
+]

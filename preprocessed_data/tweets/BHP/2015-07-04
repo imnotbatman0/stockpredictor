@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "hello",
+      "it",
+      "is",
+      "emily",
+      "i",
+      "just",
+      "finished",
+      "401k",
+      "variableannuity",
+      "$",
+      "vnet",
+      "$",
+      "csco",
+      "$",
+      "twou",
+      "$",
+      "bhp"
+    ],
+    "created_at": "Sat Jul 04 19:36:04 +0000 2015",
+    "user_id_str": "2810017692",
+    "followers_count": 29
+  },
+  {
+    "text": [
+      "cost",
+      "costco",
+      "wholesale",
+      "corp",
+      "change",
+      "$",
+      "cost",
+      "$",
+      "aapl",
+      "$",
+      "bhp",
+      "$",
+      "burl",
+      "cost",
+      "stock",
+      "nasdaq"
+    ],
+    "created_at": "Sat Jul 04 10:37:19 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13162
+  }
+]

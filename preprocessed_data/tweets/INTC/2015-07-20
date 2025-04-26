@@ -1,0 +1,121 @@
+[
+  {
+    "text": [
+      "posts",
+      "a",
+      "q2",
+      "revenue",
+      "of",
+      "$942m",
+      "compared",
+      "to",
+      "s",
+      "$13",
+      "2b",
+      "$",
+      "amd",
+      "$",
+      "intc"
+    ],
+    "created_at": "Mon Jul 20 13:39:11 +0000 2015",
+    "user_id_str": "2330570023",
+    "followers_count": 44
+  },
+  {
+    "text": [
+      "gld",
+      "spdr",
+      "gold",
+      "trust",
+      "shares",
+      "ask",
+      "size",
+      "$",
+      "gld",
+      "$",
+      "intc",
+      "$",
+      "cmgo",
+      "$",
+      "tlt",
+      "gld",
+      "share",
+      "tradeideas"
+    ],
+    "created_at": "Mon Jul 20 07:40:33 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 500
+  },
+  {
+    "text": [
+      "xlb",
+      "materials",
+      "select",
+      "sector",
+      "spdr",
+      "change",
+      "$",
+      "xlb",
+      "$",
+      "fnma",
+      "$",
+      "iwm",
+      "$",
+      "intc",
+      "xlb",
+      "share",
+      "tradeideas"
+    ],
+    "created_at": "Mon Jul 20 04:50:34 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 675
+  },
+  {
+    "text": [
+      "intc",
+      "intel",
+      "corp",
+      "bid",
+      "$",
+      "intc",
+      "$",
+      "anac",
+      "$",
+      "upl",
+      "in",
+      "$",
+      "xiu",
+      "to",
+      "intc",
+      "finance",
+      "nasdaqiwm",
+      "russell",
+      "2000",
+      "ishares",
+      "message",
+      "board"
+    ],
+    "created_at": "Mon Jul 20 06:43:03 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 668
+  },
+  {
+    "text": [
+      "$",
+      "aa",
+      "$",
+      "intc",
+      "$",
+      "tsla",
+      "when",
+      "gaap",
+      "not",
+      "enough",
+      "unleash",
+      "nongaap"
+    ],
+    "created_at": "Sun Jul 19 23:48:50 +0000 2015",
+    "user_id_str": "33211061",
+    "followers_count": 127
+  }
+]

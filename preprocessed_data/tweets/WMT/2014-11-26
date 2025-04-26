@@ -1,0 +1,70 @@
+[
+  {
+    "text": [
+      "insider",
+      "selling",
+      "david",
+      "cheesewright",
+      "sells",
+      "12",
+      "000",
+      "shares",
+      "of",
+      "wal-mart",
+      "stores",
+      "stock",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Wed Nov 26 01:25:09 +0000 2014",
+    "user_id_str": "2525892205",
+    "followers_count": 653
+  },
+  {
+    "text": [
+      "stocks",
+      "i",
+      "m",
+      "keeping",
+      "my",
+      "eye",
+      "on",
+      "should",
+      "you",
+      "$",
+      "luv",
+      "$",
+      "wmt",
+      "$",
+      "htz",
+      "$",
+      "bwp",
+      "nse"
+    ],
+    "created_at": "Wed Nov 26 02:17:03 +0000 2014",
+    "user_id_str": "2749804375",
+    "followers_count": 190
+  },
+  {
+    "text": [
+      "should",
+      "you",
+      "buy",
+      "sell",
+      "or",
+      "hold",
+      "$",
+      "lamr",
+      "$",
+      "xls",
+      "$",
+      "wmt",
+      "$",
+      "qlys",
+      "wealthmanagement"
+    ],
+    "created_at": "Tue Nov 25 23:02:09 +0000 2014",
+    "user_id_str": "2748258052",
+    "followers_count": 195
+  }
+]

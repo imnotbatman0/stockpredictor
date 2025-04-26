@@ -1,0 +1,81 @@
+[
+  {
+    "text": [
+      "$",
+      "wmt",
+      "-",
+      "wal-mart",
+      "fights",
+      "bid",
+      "to",
+      "curb",
+      "gun",
+      "sales"
+    ],
+    "created_at": "Mon Mar 23 00:20:14 +0000 2015",
+    "user_id_str": "2554107798",
+    "followers_count": 194
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "walmart",
+      "financial",
+      "services",
+      "hampered",
+      "by",
+      "regulation"
+    ],
+    "created_at": "Mon Mar 23 19:55:12 +0000 2015",
+    "user_id_str": "3017654325",
+    "followers_count": 397
+  },
+  {
+    "text": [
+      "your",
+      "down",
+      "prediction",
+      "for",
+      "$",
+      "wmt",
+      "on",
+      "2",
+      "17",
+      "2015",
+      "was",
+      "correct",
+      "the",
+      "price",
+      "change",
+      "was",
+      "-2",
+      "99",
+      "a"
+    ],
+    "created_at": "Mon Mar 23 20:30:07 +0000 2015",
+    "user_id_str": "2294968513",
+    "followers_count": 54
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "-",
+      "the",
+      "philosopher",
+      "series",
+      "part",
+      "xi",
+      "what",
+      "would",
+      "darwin",
+      "invest",
+      "in",
+      "today"
+    ],
+    "created_at": "Mon Mar 23 08:16:11 +0000 2015",
+    "user_id_str": "2554107798",
+    "followers_count": 190
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "text": [
+      "a",
+      "agilent",
+      "technologies",
+      "inc",
+      "last",
+      "price",
+      "$",
+      "a",
+      "$",
+      "googl",
+      "$",
+      "uso",
+      "$",
+      "cat",
+      "a",
+      "pennystocks",
+      "share"
+    ],
+    "created_at": "Wed Aug 26 07:40:18 +0000 2015",
+    "user_id_str": "237251225",
+    "followers_count": 16
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "news",
+      "updated",
+      "wednesday",
+      "august",
+      "26",
+      "2015",
+      "12",
+      "07",
+      "41",
+      "pm",
+      "$",
+      "swks",
+      "$",
+      "cf",
+      "$",
+      "tcel",
+      "$",
+      "mrk"
+    ],
+    "created_at": "Wed Aug 26 16:27:05 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 790
+  }
+]

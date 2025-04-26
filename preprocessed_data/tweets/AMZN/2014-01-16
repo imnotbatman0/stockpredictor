@@ -1,0 +1,101 @@
+[
+  {
+    "text": [
+      "facebook",
+      "makes",
+      "amazon",
+      "look",
+      "cheap",
+      "$",
+      "amzn",
+      "$",
+      "fb"
+    ],
+    "created_at": "Thu Jan 16 19:42:50 +0000 2014",
+    "user_id_str": "479757960",
+    "followers_count": 146
+  },
+  {
+    "text": [
+      "a",
+      "vote",
+      "to",
+      "unionize",
+      "warehouse",
+      "workers",
+      "in",
+      "the",
+      "us",
+      "failed",
+      "last",
+      "night",
+      "our",
+      "poll",
+      "says",
+      "its",
+      "a",
+      "wake-up",
+      "call",
+      "for",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Thu Jan 16 13:52:12 +0000 2014",
+    "user_id_str": "15069354",
+    "followers_count": 1359
+  },
+  {
+    "text": [
+      "$",
+      "bby",
+      "goes",
+      "from",
+      "$13",
+      "bln",
+      "company",
+      "to",
+      "$9b",
+      "co",
+      "as",
+      "reality",
+      "hits",
+      "margin",
+      "compression",
+      "price",
+      "war",
+      "is",
+      "here",
+      "to",
+      "stay",
+      "amid",
+      "secular",
+      "shift",
+      "online",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Thu Jan 16 13:55:39 +0000 2014",
+    "user_id_str": "286338499",
+    "followers_count": 93
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "bango",
+      "selects",
+      "interxion",
+      "to",
+      "support",
+      "the",
+      "global",
+      "expansion",
+      "of",
+      "its",
+      "mobile"
+    ],
+    "created_at": "Thu Jan 16 09:08:21 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 100
+  }
+]

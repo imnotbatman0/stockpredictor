@@ -1,0 +1,60 @@
+[
+  {
+    "text": [
+      "1of3",
+      "madmoneyespresso",
+      "12",
+      "20",
+      "15",
+      "$",
+      "googl$",
+      "fb$",
+      "expe$",
+      "ge$",
+      "hd",
+      "$",
+      "nke$",
+      "kr$",
+      "mcd$",
+      "dri$",
+      "nflx",
+      "$",
+      "dis$",
+      "crm$",
+      "atvi$",
+      "ea$",
+      "ttwo",
+      "$",
+      "yhoo$",
+      "twtr$",
+      "yelp$"
+    ],
+    "created_at": "Tue Dec 22 06:38:07 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 612
+  },
+  {
+    "text": [
+      "ge",
+      "general",
+      "electric",
+      "co",
+      "investor",
+      "opinions",
+      "$",
+      "ge",
+      "$",
+      "kbio",
+      "$",
+      "xbi",
+      "$",
+      "atvi",
+      "ge",
+      "tradeideas",
+      "invest"
+    ],
+    "created_at": "Tue Dec 22 07:39:32 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 688
+  }
+]

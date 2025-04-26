@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "aapl",
+      "apple",
+      "inc",
+      "ideas",
+      "$",
+      "aapl",
+      "$",
+      "dish",
+      "$",
+      "ma",
+      "$",
+      "cmt",
+      "aapl",
+      "investing",
+      "nasdaq"
+    ],
+    "created_at": "Sat Jun 27 22:46:02 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 433
+  },
+  {
+    "text": [
+      "kbe",
+      "spdr",
+      "kbw",
+      "bank",
+      "index",
+      "etf",
+      "bid",
+      "$",
+      "kbe",
+      "$",
+      "amgn",
+      "$",
+      "rusl",
+      "$",
+      "ma",
+      "kbe",
+      "investing",
+      "pennystocks"
+    ],
+    "created_at": "Sun Jun 28 19:41:09 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13145
+  }
+]

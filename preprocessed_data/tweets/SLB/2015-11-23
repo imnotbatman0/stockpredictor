@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "$",
+      "slb",
+      "news",
+      "updated",
+      "monday",
+      "november",
+      "23",
+      "2015",
+      "02",
+      "59",
+      "22",
+      "am",
+      "$",
+      "smn",
+      "$",
+      "ddd",
+      "$",
+      "nati",
+      "$",
+      "fxi"
+    ],
+    "created_at": "Mon Nov 23 08:39:48 +0000 2015",
+    "user_id_str": "1833020461",
+    "followers_count": 1128
+  },
+  {
+    "text": [
+      "large",
+      "cap",
+      "stocks",
+      "investor",
+      "s",
+      "watch",
+      "list",
+      "$",
+      "slb",
+      "$",
+      "sbux",
+      "$",
+      "atvi",
+      "$",
+      "hd"
+    ],
+    "created_at": "Mon Nov 23 14:14:00 +0000 2015",
+    "user_id_str": "3736630933",
+    "followers_count": 39
+  }
+]

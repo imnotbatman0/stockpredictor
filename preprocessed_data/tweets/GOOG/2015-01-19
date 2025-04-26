@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "$",
+      "goog",
+      "is",
+      "bearish",
+      "$508",
+      "08",
+      "1",
+      "25",
+      "latest",
+      "mw",
+      "story"
+    ],
+    "created_at": "Sun Jan 18 23:54:59 +0000 2015",
+    "user_id_str": "2806245060",
+    "followers_count": 21
+  },
+  {
+    "text": [
+      "$",
+      "goog",
+      "-",
+      "calendrier",
+      "des",
+      "soci",
+      "t",
+      "s",
+      "sur",
+      "15",
+      "jours"
+    ],
+    "created_at": "Mon Jan 19 08:52:47 +0000 2015",
+    "user_id_str": "22078711",
+    "followers_count": 2350
+  }
+]

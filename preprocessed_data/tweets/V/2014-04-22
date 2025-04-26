@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "account",
+      "doubling",
+      "system",
+      "must",
+      "attend",
+      "webinar",
+      "$",
+      "v",
+      "$",
+      "ma"
+    ],
+    "created_at": "Tue Apr 22 19:34:44 +0000 2014",
+    "user_id_str": "305518813",
+    "followers_count": 605
+  },
+  {
+    "text": [
+      "news",
+      "alert",
+      "$",
+      "v",
+      "tlt",
+      "$",
+      "tltff",
+      "theralase",
+      "research",
+      "accepted",
+      "at",
+      "international",
+      "conference"
+    ],
+    "created_at": "Tue Apr 22 14:58:36 +0000 2014",
+    "user_id_str": "1112901727",
+    "followers_count": 304
+  }
+]

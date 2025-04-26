@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "mdco",
+      "medicines",
+      "co",
+      "day",
+      "high",
+      "$",
+      "mdco",
+      "$",
+      "mco",
+      "$",
+      "mrk",
+      "$",
+      "swks",
+      "mdco",
+      "stockmarket",
+      "stocks"
+    ],
+    "created_at": "Wed Jun 17 10:42:36 +0000 2015",
+    "user_id_str": "386787305",
+    "followers_count": 3001
+  },
+  {
+    "text": [
+      "amd",
+      "advanced",
+      "micro",
+      "devices",
+      "inc",
+      "prev",
+      "close",
+      "$",
+      "amd",
+      "$",
+      "blue",
+      "$",
+      "iwm",
+      "$",
+      "mrk",
+      "amd",
+      "share",
+      "share"
+    ],
+    "created_at": "Wed Jun 17 01:32:06 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 932
+  }
+]
