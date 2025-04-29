@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "$",
+      "tm",
+      "-",
+      "toyota",
+      "keeps",
+      "title",
+      "of",
+      "best-selling",
+      "car",
+      "maker",
+      "in",
+      "1q",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Wed Apr 23 18:42:25 +0000 2014",
+    "user_id_str": "403276334",
+    "followers_count": 497
+  },
+  {
+    "text": [
+      "$",
+      "tm",
+      "toyota",
+      "sells",
+      "2",
+      "58",
+      "million",
+      "vehicles",
+      "outselling",
+      "gm"
+    ],
+    "created_at": "Wed Apr 23 06:57:16 +0000 2014",
+    "user_id_str": "1729115834",
+    "followers_count": 190
+  }
+]

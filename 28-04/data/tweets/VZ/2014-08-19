@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "$",
+      "vz",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Tue Aug 19 13:32:03 +0000 2014",
+    "user_id_str": "1924312855",
+    "followers_count": 137
+  },
+  {
+    "text": [
+      "commented",
+      "on",
+      "the",
+      "war",
+      "sprint",
+      "can",
+      "t",
+      "afford",
+      "$",
+      "s",
+      "$",
+      "tmus",
+      "$",
+      "t",
+      "$",
+      "vz"
+    ],
+    "created_at": "Tue Aug 19 15:52:51 +0000 2014",
+    "user_id_str": "349723344",
+    "followers_count": 435
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "intel",
+      "s",
+      "buy",
+      "rating",
+      "reiterated",
+      "at",
+      "wells",
+      "fargo",
+      "$",
+      "intc",
+      "intc"
+    ],
+    "created_at": "Sun Nov 22 19:17:30 +0000 2015",
+    "user_id_str": "2321168600",
+    "followers_count": 669
+  },
+  {
+    "text": [
+      "ita",
+      "ishares",
+      "dow",
+      "jones",
+      "u",
+      "s",
+      "aerospace",
+      "amp",
+      "defense",
+      "investor",
+      "opinions",
+      "$",
+      "ita",
+      "$",
+      "pzza",
+      "$",
+      "bac",
+      "$",
+      "intc",
+      "ita",
+      "pennystocks",
+      "stock"
+    ],
+    "created_at": "Sun Nov 22 00:42:33 +0000 2015",
+    "user_id_str": "386787305",
+    "followers_count": 3285
+  }
+]

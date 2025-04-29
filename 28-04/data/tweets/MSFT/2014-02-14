@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "should",
+      "you",
+      "buy",
+      "$",
+      "msft",
+      "$",
+      "penn",
+      "$",
+      "ndsn",
+      "$",
+      "amzn",
+      "worth",
+      "a",
+      "look"
+    ],
+    "created_at": "Fri Feb 14 05:06:44 +0000 2014",
+    "user_id_str": "2307216890",
+    "followers_count": 96
+  },
+  {
+    "text": [
+      "its",
+      "breaktout",
+      "time",
+      "on",
+      "$",
+      "msft",
+      "$",
+      "alb",
+      "$",
+      "mygn",
+      "$",
+      "cag",
+      "financialnews"
+    ],
+    "created_at": "Fri Feb 14 14:01:45 +0000 2014",
+    "user_id_str": "2296312050",
+    "followers_count": 192
+  }
+]

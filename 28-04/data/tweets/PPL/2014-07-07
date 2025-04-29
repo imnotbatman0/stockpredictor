@@ -1,0 +1,45 @@
+[
+  {
+    "text": [
+      "should",
+      "you",
+      "buy",
+      "$",
+      "ftr",
+      "$",
+      "ppl",
+      "$",
+      "abbv",
+      "$",
+      "pcln",
+      "must",
+      "have"
+    ],
+    "created_at": "Mon Jul 07 16:01:13 +0000 2014",
+    "user_id_str": "2539181243",
+    "followers_count": 6
+  },
+  {
+    "text": [
+      "$",
+      "ppl",
+      "do",
+      "you",
+      "think",
+      "you",
+      "should",
+      "hold",
+      "$",
+      "cli",
+      "$",
+      "hrc",
+      "$",
+      "pcln",
+      "try",
+      "this"
+    ],
+    "created_at": "Mon Jul 07 08:27:51 +0000 2014",
+    "user_id_str": "2484936042",
+    "followers_count": 8
+  }
+]

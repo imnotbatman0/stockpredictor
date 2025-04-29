@@ -1,0 +1,76 @@
+[
+  {
+    "text": [
+      "rt",
+      "starbucks",
+      "popular",
+      "with",
+      "millennials",
+      "mcdonald",
+      "s",
+      "not",
+      "so",
+      "much",
+      "according",
+      "to",
+      "goldman",
+      "$",
+      "mcd",
+      "$",
+      "sbux"
+    ],
+    "created_at": "Tue Jan 28 14:05:29 +0000 2014",
+    "user_id_str": "35136406",
+    "followers_count": 179
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "didn",
+      "t",
+      "give",
+      "me",
+      "a",
+      "straw",
+      "for",
+      "my",
+      "milkshake",
+      "kind",
+      "of",
+      "defeats",
+      "the",
+      "purpose",
+      "of",
+      "drinking",
+      "a",
+      "milkshake"
+    ],
+    "created_at": "Tue Jan 28 02:47:59 +0000 2014",
+    "user_id_str": "189948864",
+    "followers_count": 552
+  },
+  {
+    "text": [
+      "jim50",
+      "alerts",
+      "hot",
+      "stocks",
+      "amp",
+      "charts",
+      "$",
+      "mcd",
+      "volume",
+      "datejan",
+      "28",
+      "2014",
+      "open94",
+      "33",
+      "high94",
+      "64"
+    ],
+    "created_at": "Tue Jan 28 15:55:03 +0000 2014",
+    "user_id_str": "2197132710",
+    "followers_count": 172
+  }
+]

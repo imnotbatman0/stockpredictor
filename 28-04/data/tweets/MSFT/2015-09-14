@@ -1,0 +1,100 @@
+[
+  {
+    "text": [
+      "microsoft",
+      "corporation",
+      "promotes",
+      "brad",
+      "smith",
+      "to",
+      "president",
+      "-",
+      "tickerlens",
+      "$",
+      "msft",
+      "msft"
+    ],
+    "created_at": "Mon Sep 14 16:21:20 +0000 2015",
+    "user_id_str": "3044159284",
+    "followers_count": 1485
+  },
+  {
+    "text": [
+      "one",
+      "more",
+      "sign",
+      "microsoft",
+      "cloud",
+      "services",
+      "are",
+      "on",
+      "the",
+      "right",
+      "track",
+      "$",
+      "msft",
+      "also",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Sun Sep 13 23:09:04 +0000 2015",
+    "user_id_str": "2795789015",
+    "followers_count": 175
+  },
+  {
+    "text": [
+      "market",
+      "cap",
+      "in",
+      "billions",
+      "dec",
+      "2000",
+      "jun",
+      "2012",
+      "$",
+      "msft",
+      "$510",
+      "$249",
+      "$",
+      "aapl",
+      "$4",
+      "8",
+      "$541",
+      "technology",
+      "moves",
+      "on",
+      "as",
+      "do",
+      "fortunes"
+    ],
+    "created_at": "Mon Sep 14 14:23:50 +0000 2015",
+    "user_id_str": "277613279",
+    "followers_count": 157
+  },
+  {
+    "text": [
+      "why",
+      "another",
+      "amd",
+      "buyout",
+      "makes",
+      "sense",
+      "but",
+      "is",
+      "unlikely",
+      "$",
+      "intc",
+      "briankrzanich",
+      "intel",
+      "$",
+      "nvda",
+      "$",
+      "amd",
+      "$",
+      "msft"
+    ],
+    "created_at": "Mon Sep 14 03:30:15 +0000 2015",
+    "user_id_str": "201296379",
+    "followers_count": 2824
+  }
+]

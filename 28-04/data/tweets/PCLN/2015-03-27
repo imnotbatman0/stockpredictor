@@ -1,0 +1,64 @@
+[
+  {
+    "text": [
+      "got",
+      "1",
+      "$",
+      "pcln",
+      "put",
+      "at",
+      "1",
+      "20",
+      "fill",
+      "them",
+      "all"
+    ],
+    "created_at": "Fri Mar 27 15:08:45 +0000 2015",
+    "user_id_str": "894442988",
+    "followers_count": 190
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "$",
+      "pcln",
+      "$",
+      "ebay",
+      "$",
+      "jd",
+      "$",
+      "nflx",
+      "revenue",
+      "trend",
+      "comparison",
+      "chart"
+    ],
+    "created_at": "Fri Mar 27 06:13:32 +0000 2015",
+    "user_id_str": "2796938558",
+    "followers_count": 657
+  },
+  {
+    "text": [
+      "$",
+      "pcln",
+      "$",
+      "trla",
+      "a",
+      "very",
+      "interesting",
+      "stores",
+      "we",
+      "described",
+      "in",
+      "our",
+      "newsletter",
+      "check",
+      "out",
+      "here"
+    ],
+    "created_at": "Fri Mar 27 15:47:12 +0000 2015",
+    "user_id_str": "2825270328",
+    "followers_count": 2894
+  }
+]

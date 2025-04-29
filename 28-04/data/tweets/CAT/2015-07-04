@@ -1,0 +1,102 @@
+[
+  {
+    "text": [
+      "fb",
+      "facebook",
+      "inc",
+      "shares",
+      "$",
+      "fb",
+      "$",
+      "cat",
+      "$",
+      "xle",
+      "$",
+      "bcrx",
+      "fb",
+      "stocks",
+      "share"
+    ],
+    "created_at": "Sat Jul 04 07:40:03 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 731
+  },
+  {
+    "text": [
+      "cat",
+      "caterpillar",
+      "inc",
+      "exchange",
+      "$",
+      "cat",
+      "$",
+      "xly",
+      "$",
+      "mhys",
+      "$",
+      "bp",
+      "cat",
+      "stocks",
+      "stockscb",
+      "chubb",
+      "corp",
+      "eod",
+      "data"
+    ],
+    "created_at": "Sat Jul 04 02:34:22 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 957
+  },
+  {
+    "text": [
+      "tlt",
+      "total",
+      "fina",
+      "elf",
+      "sa",
+      "last",
+      "trade",
+      "$",
+      "tlt",
+      "$",
+      "nem",
+      "$",
+      "cat",
+      "$",
+      "sh",
+      "tlt",
+      "stock",
+      "nasdaqtot",
+      "tesla",
+      "motors",
+      "inc",
+      "open"
+    ],
+    "created_at": "Sat Jul 04 13:47:04 +0000 2015",
+    "user_id_str": "2181403417",
+    "followers_count": 407
+  },
+  {
+    "text": [
+      "cat",
+      "caterpillar",
+      "inc",
+      "day",
+      "high",
+      "$",
+      "cat",
+      "$",
+      "blta",
+      "$",
+      "hack",
+      "$",
+      "gd",
+      "cat",
+      "finance",
+      "stock"
+    ],
+    "created_at": "Sat Jul 04 16:34:07 +0000 2015",
+    "user_id_str": "2233924628",
+    "followers_count": 400
+  }
+]

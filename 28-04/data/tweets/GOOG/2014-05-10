@@ -1,0 +1,66 @@
+[
+  {
+    "text": [
+      "$",
+      "goog",
+      "this",
+      "google",
+      "glass",
+      "commercial",
+      "isn",
+      "t",
+      "creepy",
+      "but",
+      "it",
+      "will",
+      "make",
+      "you",
+      "cry"
+    ],
+    "created_at": "Fri May 09 22:11:24 +0000 2014",
+    "user_id_str": "2325191647",
+    "followers_count": 1497
+  },
+  {
+    "text": [
+      "$",
+      "goog",
+      "apple",
+      "buying",
+      "beats",
+      "for",
+      "$3",
+      "2",
+      "billion",
+      "smart",
+      "move"
+    ],
+    "created_at": "Sat May 10 07:13:09 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 311
+  },
+  {
+    "text": [
+      "whoops",
+      "drone",
+      "almost",
+      "hit",
+      "airliner",
+      "in",
+      "recent",
+      "weeks",
+      "says",
+      "faa",
+      "take",
+      "note",
+      "bezos",
+      "$",
+      "fb",
+      "$",
+      "goog"
+    ],
+    "created_at": "Fri May 09 22:45:18 +0000 2014",
+    "user_id_str": "1634629316",
+    "followers_count": 1249
+  }
+]

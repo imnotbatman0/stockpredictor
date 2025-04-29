@@ -1,0 +1,64 @@
+[
+  {
+    "text": [
+      "apple",
+      "is",
+      "ill-equipped",
+      "in",
+      "the",
+      "tablet",
+      "space",
+      "$",
+      "aapl",
+      "$",
+      "intc",
+      "$",
+      "msft"
+    ],
+    "created_at": "Tue Dec 08 16:53:02 +0000 2015",
+    "user_id_str": "185850034",
+    "followers_count": 81
+  },
+  {
+    "text": [
+      "$",
+      "msft",
+      "news",
+      "apple",
+      "is",
+      "ill-equipped",
+      "in",
+      "the",
+      "tablet",
+      "space",
+      "$",
+      "intc",
+      "briankrzanich",
+      "analyze"
+    ],
+    "created_at": "Tue Dec 08 16:42:29 +0000 2015",
+    "user_id_str": "1861866625",
+    "followers_count": 151
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "news",
+      "apple",
+      "is",
+      "ill-equipped",
+      "in",
+      "the",
+      "tablet",
+      "space",
+      "$",
+      "intc",
+      "briankrzanich",
+      "analyze"
+    ],
+    "created_at": "Tue Dec 08 16:42:29 +0000 2015",
+    "user_id_str": "1861918291",
+    "followers_count": 110
+  }
+]

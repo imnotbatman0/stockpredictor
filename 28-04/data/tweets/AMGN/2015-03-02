@@ -1,0 +1,97 @@
+[
+  {
+    "text": [
+      "$",
+      "amgn",
+      "in",
+      "abc",
+      "bullish",
+      "pattern",
+      "targets"
+    ],
+    "created_at": "Mon Mar 02 18:22:20 +0000 2015",
+    "user_id_str": "10381282",
+    "followers_count": 1063
+  },
+  {
+    "text": [
+      "view",
+      "today",
+      "s",
+      "pharma",
+      "news",
+      "covering",
+      "$",
+      "nvs",
+      "$",
+      "gsk",
+      "$",
+      "amgn",
+      "kyprolis",
+      "$",
+      "jnj",
+      "takeda",
+      "velcade",
+      "gilead",
+      "sciences",
+      "natco",
+      "pharma"
+    ],
+    "created_at": "Mon Mar 02 20:21:01 +0000 2015",
+    "user_id_str": "920051202",
+    "followers_count": 3083
+  },
+  {
+    "text": [
+      "$",
+      "amgn",
+      "-",
+      "phase",
+      "3",
+      "head-to-head",
+      "endeavor",
+      "study",
+      "demonstrates",
+      "superiority",
+      "of",
+      "kyprolis",
+      "carfilzomib",
+      "over",
+      "velcade"
+    ],
+    "created_at": "Mon Mar 02 00:02:04 +0000 2015",
+    "user_id_str": "2440753004",
+    "followers_count": 2683
+  },
+  {
+    "text": [
+      "$",
+      "amgn",
+      "says",
+      "its",
+      "study",
+      "found",
+      "kyprolis",
+      "had",
+      "double",
+      "pfs",
+      "vs",
+      "velcade",
+      "in",
+      "relapsed",
+      "multiplemyeloma",
+      "patients",
+      "18",
+      "7",
+      "months",
+      "vs",
+      "9",
+      "4",
+      "$",
+      "jnj"
+    ],
+    "created_at": "Mon Mar 02 04:19:06 +0000 2015",
+    "user_id_str": "2203013905",
+    "followers_count": 25
+  }
+]

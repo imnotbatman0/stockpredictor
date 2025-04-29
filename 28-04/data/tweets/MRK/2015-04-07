@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "your",
+      "tweet",
+      "about",
+      "$",
+      "mrk",
+      "had",
+      "a",
+      "sentiment",
+      "of",
+      "2",
+      "and",
+      "was",
+      "featured",
+      "on",
+      "market",
+      "parse"
+    ],
+    "created_at": "Tue Apr 07 17:10:44 +0000 2015",
+    "user_id_str": "3005559517",
+    "followers_count": 1069
+  },
+  {
+    "text": [
+      "$",
+      "mrk",
+      "your",
+      "tweet",
+      "has",
+      "been",
+      "featured",
+      "on",
+      "market",
+      "parse",
+      "for",
+      "iphone"
+    ],
+    "created_at": "Tue Apr 07 17:10:44 +0000 2015",
+    "user_id_str": "3005559517",
+    "followers_count": 1069
+  },
+  {
+    "text": [
+      "arvinas",
+      "lands",
+      "$",
+      "mrk",
+      "partnership",
+      "to",
+      "develop",
+      "protein",
+      "degraders",
+      "via"
+    ],
+    "created_at": "Tue Apr 07 15:37:28 +0000 2015",
+    "user_id_str": "53192631",
+    "followers_count": 637
+  }
+]

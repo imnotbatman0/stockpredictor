@@ -1,0 +1,55 @@
+[
+  {
+    "text": [
+      "what",
+      "consumer",
+      "stock",
+      "did",
+      "lanny",
+      "purchase",
+      "recently",
+      "$",
+      "pg",
+      "$",
+      "jnj",
+      "$",
+      "cl",
+      "investing",
+      "dividend"
+    ],
+    "created_at": "Mon Apr 27 14:05:23 +0000 2015",
+    "user_id_str": "2499229069",
+    "followers_count": 1324
+  },
+  {
+    "text": [
+      "analyst",
+      "downgrades",
+      "and",
+      "price",
+      "target",
+      "decreases",
+      "$",
+      "axp",
+      "$",
+      "cldn",
+      "$",
+      "mrvl",
+      "$",
+      "oii",
+      "$",
+      "pg",
+      "$",
+      "ssys",
+      "$",
+      "ddd",
+      "$",
+      "ti",
+      "$",
+      "twtr"
+    ],
+    "created_at": "Mon Apr 27 13:13:28 +0000 2015",
+    "user_id_str": "528770977",
+    "followers_count": 847
+  }
+]

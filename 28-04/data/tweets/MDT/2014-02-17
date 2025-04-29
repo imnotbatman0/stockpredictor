@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "$",
+      "tmo",
+      "get",
+      "great",
+      "research",
+      "on",
+      "stocks",
+      "$",
+      "eqix",
+      "$",
+      "mdt",
+      "$",
+      "s",
+      "liquidity"
+    ],
+    "created_at": "Sun Feb 16 23:23:43 +0000 2014",
+    "user_id_str": "2270576917",
+    "followers_count": 196
+  },
+  {
+    "text": [
+      "$",
+      "mdt",
+      "uptrend",
+      "stocks",
+      "-",
+      "galena",
+      "biopharma",
+      "nasdaq",
+      "gale",
+      "medtronic",
+      "nyse",
+      "mdt"
+    ],
+    "created_at": "Mon Feb 17 12:45:26 +0000 2014",
+    "user_id_str": "2176462802",
+    "followers_count": 5
+  }
+]

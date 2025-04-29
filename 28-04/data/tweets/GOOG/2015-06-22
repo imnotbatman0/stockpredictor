@@ -1,0 +1,75 @@
+[
+  {
+    "text": [
+      "rt",
+      "penny",
+      "stocks1",
+      "$",
+      "goog",
+      "google",
+      "inc",
+      "pennystocks",
+      "pennystock",
+      "$",
+      "qden",
+      "$",
+      "bstk",
+      "$",
+      "vgtl",
+      "$",
+      "dirv",
+      "$",
+      "di"
+    ],
+    "created_at": "Sun Jun 21 22:10:25 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 419
+  },
+  {
+    "text": [
+      "unh",
+      "unitedhealth",
+      "group",
+      "inc",
+      "eod",
+      "data",
+      "$",
+      "unh",
+      "$",
+      "goog",
+      "$",
+      "adp",
+      "$",
+      "fnma",
+      "unh",
+      "share",
+      "pennystocks"
+    ],
+    "created_at": "Sun Jun 21 22:48:33 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 672
+  },
+  {
+    "text": [
+      "feye",
+      "fireeye",
+      "inc",
+      "ex-div",
+      "date",
+      "$",
+      "feye",
+      "$",
+      "goog",
+      "$",
+      "mu",
+      "$",
+      "rig",
+      "feye",
+      "finance",
+      "stockmarket"
+    ],
+    "created_at": "Mon Jun 22 03:36:36 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 673
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "text": [
+      "$",
+      "aapl",
+      "$",
+      "msft",
+      "$",
+      "ebay",
+      "$",
+      "c",
+      "$",
+      "pfe",
+      "five",
+      "undervalued",
+      "stocks",
+      "billionaire",
+      "investors",
+      "like"
+    ],
+    "created_at": "Wed Dec 30 17:56:31 +0000 2015",
+    "user_id_str": "932806561",
+    "followers_count": 962
+  },
+  {
+    "text": [
+      "$",
+      "twtr",
+      "stock",
+      "message",
+      "board",
+      "updated",
+      "wednesday",
+      "december",
+      "30",
+      "2015",
+      "2",
+      "07",
+      "13",
+      "pm",
+      "$",
+      "nugt",
+      "$",
+      "pfe",
+      "$",
+      "sse",
+      "$",
+      "sbux"
+    ],
+    "created_at": "Wed Dec 30 19:27:37 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 1035
+  }
+]

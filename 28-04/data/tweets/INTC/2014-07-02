@@ -1,0 +1,46 @@
+[
+  {
+    "text": [
+      "intel",
+      "hits",
+      "10-year",
+      "high",
+      "re-enters",
+      "smart",
+      "tv",
+      "market",
+      "$",
+      "aapl",
+      "apple",
+      "$",
+      "goog",
+      "$",
+      "googl",
+      "$",
+      "intc"
+    ],
+    "created_at": "Wed Jul 02 03:26:53 +0000 2014",
+    "user_id_str": "500893614",
+    "followers_count": 185
+  },
+  {
+    "text": [
+      "$",
+      "t",
+      "ideas",
+      "also",
+      "see",
+      "$",
+      "ntek",
+      "$",
+      "nybd",
+      "$",
+      "aeo",
+      "$",
+      "intc"
+    ],
+    "created_at": "Wed Jul 02 11:55:08 +0000 2014",
+    "user_id_str": "1850041968",
+    "followers_count": 244
+  }
+]

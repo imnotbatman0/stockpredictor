@@ -1,0 +1,83 @@
+[
+  {
+    "text": [
+      "true",
+      "balls",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "intc",
+      "$",
+      "mtw",
+      "$",
+      "cat",
+      "$",
+      "x",
+      "$",
+      "c",
+      "$",
+      "csco",
+      "$",
+      "t",
+      "$",
+      "se",
+      "$",
+      "wu",
+      "$",
+      "mu",
+      "$",
+      "wba"
+    ],
+    "created_at": "Sat Apr 04 08:28:05 +0000 2015",
+    "user_id_str": "3125027189",
+    "followers_count": 66
+  },
+  {
+    "text": [
+      "our",
+      "penny",
+      "stock",
+      "pick",
+      "on",
+      "$",
+      "thcz",
+      "ran",
+      "up",
+      "801",
+      "in",
+      "6",
+      "weeks",
+      "big",
+      "news",
+      "$",
+      "dpm",
+      "$",
+      "frak",
+      "$",
+      "goog"
+    ],
+    "created_at": "Sat Apr 04 03:20:11 +0000 2015",
+    "user_id_str": "3091880403",
+    "followers_count": 16120
+  },
+  {
+    "text": [
+      "$",
+      "goog",
+      "-",
+      "facebook",
+      "inc",
+      "may",
+      "be",
+      "television",
+      "networks",
+      "biggest",
+      "competition"
+    ],
+    "created_at": "Sat Apr 04 18:56:18 +0000 2015",
+    "user_id_str": "502837856",
+    "followers_count": 6
+  }
+]

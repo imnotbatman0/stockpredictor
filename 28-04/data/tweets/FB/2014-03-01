@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "facebook",
+      "is",
+      "playing",
+      "the",
+      "world",
+      "s",
+      "most",
+      "expensive",
+      "game",
+      "of",
+      "whac-a-mole",
+      "$",
+      "fb"
+    ],
+    "created_at": "Sat Mar 01 02:14:35 +0000 2014",
+    "user_id_str": "364920127",
+    "followers_count": 506
+  },
+  {
+    "text": [
+      "are",
+      "illegal",
+      "gun",
+      "sales",
+      "being",
+      "conducted",
+      "on",
+      "and",
+      "petition",
+      "--",
+      "gt",
+      "$",
+      "fb"
+    ],
+    "created_at": "Sat Mar 01 00:01:23 +0000 2014",
+    "user_id_str": "15947602",
+    "followers_count": 768886
+  }
+]

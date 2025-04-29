@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "lookn4wins",
+      "csco",
+      "1",
+      "53",
+      "stock",
+      "charts",
+      "$",
+      "csco",
+      "cisco",
+      "systems",
+      "inc"
+    ],
+    "created_at": "Fri Feb 27 01:23:41 +0000 2015",
+    "user_id_str": "1286058860",
+    "followers_count": 1832
+  },
+  {
+    "text": [
+      "$",
+      "csco",
+      "won",
+      "t",
+      "break",
+      "$30",
+      "at",
+      "least",
+      "not",
+      "today",
+      "$",
+      "googl",
+      "$560"
+    ],
+    "created_at": "Fri Feb 27 13:57:32 +0000 2015",
+    "user_id_str": "2368238768",
+    "followers_count": 187
+  },
+  {
+    "text": [
+      "$",
+      "ddd",
+      "$",
+      "csco",
+      "3d",
+      "systems",
+      "pay",
+      "more",
+      "attention",
+      "to",
+      "this",
+      "rather",
+      "than",
+      "earnings"
+    ],
+    "created_at": "Fri Feb 27 21:51:01 +0000 2015",
+    "user_id_str": "2342763212",
+    "followers_count": 96
+  }
+]

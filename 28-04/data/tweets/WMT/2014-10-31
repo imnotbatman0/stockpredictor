@@ -1,0 +1,73 @@
+[
+  {
+    "text": [
+      "wal-mart",
+      "to",
+      "close",
+      "30",
+      "stores",
+      "in",
+      "japan",
+      "$",
+      "wmt",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Thu Oct 30 23:46:36 +0000 2014",
+    "user_id_str": "45447655",
+    "followers_count": 676
+  },
+  {
+    "text": [
+      "fee",
+      "cuts",
+      "coming",
+      "in",
+      "retail",
+      "banks",
+      "credit",
+      "card",
+      "firms",
+      "reach",
+      "deal",
+      "with",
+      "ottawa",
+      "over",
+      "fees",
+      "sources",
+      "$",
+      "wmt",
+      "$",
+      "hbc",
+      "ca"
+    ],
+    "created_at": "Fri Oct 31 11:42:53 +0000 2014",
+    "user_id_str": "28807892",
+    "followers_count": 3640
+  },
+  {
+    "text": [
+      "sam",
+      "s",
+      "club",
+      "plus",
+      "membership",
+      "gift",
+      "card",
+      "amp",
+      "food",
+      "sam",
+      "s",
+      "club",
+      "via",
+      "i",
+      "work",
+      "for",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Fri Oct 31 13:54:40 +0000 2014",
+    "user_id_str": "15091755",
+    "followers_count": 303
+  }
+]

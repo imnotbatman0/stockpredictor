@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "dow",
+      "stocks",
+      "$",
+      "cat",
+      "caterpillar",
+      "daily",
+      "0",
+      "30",
+      "weekly",
+      "2",
+      "85",
+      "ytd",
+      "19",
+      "63",
+      "trend",
+      "100",
+      "100"
+    ],
+    "created_at": "Wed Aug 20 07:21:07 +0000 2014",
+    "user_id_str": "2455761204",
+    "followers_count": 4
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Wed Aug 20 16:16:19 +0000 2014",
+    "user_id_str": "1923890856",
+    "followers_count": 86
+  }
+]

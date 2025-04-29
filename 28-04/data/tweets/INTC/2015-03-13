@@ -1,0 +1,96 @@
+[
+  {
+    "text": [
+      "$",
+      "intc",
+      "fbr",
+      "capital",
+      "markets",
+      "trims",
+      "intel",
+      "target",
+      "price",
+      "to",
+      "$40",
+      "00",
+      "intc"
+    ],
+    "created_at": "Fri Mar 13 12:05:03 +0000 2015",
+    "user_id_str": "2342763212",
+    "followers_count": 123
+  },
+  {
+    "text": [
+      "intel",
+      "s",
+      "pt",
+      "cut",
+      "by",
+      "jefferies",
+      "group",
+      "to",
+      "$48",
+      "00",
+      "buy",
+      "rating",
+      "$",
+      "intc",
+      "intc"
+    ],
+    "created_at": "Fri Mar 13 12:47:01 +0000 2015",
+    "user_id_str": "68559732",
+    "followers_count": 4185
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "intel",
+      "sees",
+      "large",
+      "increase",
+      "in",
+      "short",
+      "interest",
+      "intc"
+    ],
+    "created_at": "Fri Mar 13 07:40:03 +0000 2015",
+    "user_id_str": "2341281566",
+    "followers_count": 202
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "news",
+      "$",
+      "intc",
+      "has",
+      "quietly",
+      "lost",
+      "20",
+      "in",
+      "the",
+      "last",
+      "month",
+      "and",
+      "a",
+      "half",
+      "board",
+      "view"
+    ],
+    "created_at": "Fri Mar 13 12:39:28 +0000 2015",
+    "user_id_str": "1924312855",
+    "followers_count": 299
+  },
+  {
+    "text": [
+      "bearish",
+      "$",
+      "intc"
+    ],
+    "created_at": "Fri Mar 13 15:42:46 +0000 2015",
+    "user_id_str": "2798565461",
+    "followers_count": 210
+  }
+]

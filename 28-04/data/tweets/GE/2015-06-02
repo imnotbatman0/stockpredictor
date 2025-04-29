@@ -1,0 +1,101 @@
+[
+  {
+    "text": [
+      "xlp",
+      "consumer",
+      "staples",
+      "select",
+      "sector",
+      "spdr",
+      "prev",
+      "close",
+      "$",
+      "xlp",
+      "$",
+      "brwc",
+      "$",
+      "ge",
+      "$",
+      "dxj",
+      "xlp",
+      "stock",
+      "invest"
+    ],
+    "created_at": "Mon Jun 01 22:53:43 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 650
+  },
+  {
+    "text": [
+      "pg",
+      "procter",
+      "amp",
+      "gamble",
+      "co",
+      "prev",
+      "close",
+      "$",
+      "pg",
+      "$",
+      "wfc",
+      "$",
+      "jnk",
+      "$",
+      "ge",
+      "pg",
+      "investing",
+      "stockmarket"
+    ],
+    "created_at": "Tue Jun 02 01:43:20 +0000 2015",
+    "user_id_str": "2285996066",
+    "followers_count": 724
+  },
+  {
+    "text": [
+      "goog",
+      "google",
+      "inc",
+      "-",
+      "class",
+      "c",
+      "open",
+      "$",
+      "goog",
+      "$",
+      "ge",
+      "$",
+      "uwti",
+      "$",
+      "xlf",
+      "goog",
+      "pennystocks",
+      "stockmarket"
+    ],
+    "created_at": "Tue Jun 02 04:37:36 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 475
+  },
+  {
+    "text": [
+      "lnkd",
+      "linkedin",
+      "corp",
+      "summary",
+      "$",
+      "lnkd",
+      "$",
+      "ge",
+      "$",
+      "xiv",
+      "$",
+      "pwt",
+      "to",
+      "lnkd",
+      "stockmarket",
+      "pennystocks"
+    ],
+    "created_at": "Mon Jun 01 22:41:41 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1357
+  }
+]

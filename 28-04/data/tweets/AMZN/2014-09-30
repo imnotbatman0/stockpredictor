@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "$",
+      "amzn",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Tue Sep 30 12:32:04 +0000 2014",
+    "user_id_str": "1924310023",
+    "followers_count": 111
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "weekly",
+      "view",
+      "at",
+      "this",
+      "tl",
+      "support",
+      "daily",
+      "view",
+      "looks",
+      "like",
+      "good",
+      "long",
+      "w",
+      "stop",
+      "320",
+      "50"
+    ],
+    "created_at": "Tue Sep 30 04:31:45 +0000 2014",
+    "user_id_str": "53215424",
+    "followers_count": 11960
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "text": [
+      "$",
+      "intc",
+      "intel",
+      "declares",
+      "quarterly",
+      "cash",
+      "dividend"
+    ],
+    "created_at": "Fri Sep 12 13:01:03 +0000 2014",
+    "user_id_str": "2772914821",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "rosner",
+      "intc",
+      "intel",
+      "corp",
+      "$",
+      "intc",
+      "company",
+      "overview",
+      "stock"
+    ],
+    "created_at": "Fri Sep 12 04:16:14 +0000 2014",
+    "user_id_str": "1833020461",
+    "followers_count": 433
+  },
+  {
+    "text": [
+      "achn",
+      "insider",
+      "transactions",
+      "$",
+      "achn",
+      "$",
+      "drio",
+      "$",
+      "jdst",
+      "$",
+      "morl",
+      "$",
+      "intc",
+      "barchart",
+      "opinion",
+      "current",
+      "price",
+      "high",
+      "headlines",
+      "keeping"
+    ],
+    "created_at": "Fri Sep 12 15:57:20 +0000 2014",
+    "user_id_str": "2285996066",
+    "followers_count": 441
+  },
+  {
+    "text": [
+      "x99s",
+      "gaming",
+      "9",
+      "ac",
+      "x99",
+      "motherboard",
+      "review",
+      "by",
+      "$",
+      "intc"
+    ],
+    "created_at": "Fri Sep 12 04:41:01 +0000 2014",
+    "user_id_str": "1234271641",
+    "followers_count": 138
+  },
+  {
+    "text": [
+      "$",
+      "ibb",
+      "getting",
+      "interesting",
+      "$",
+      "intc",
+      "$",
+      "tlt",
+      "$",
+      "ugaz",
+      "$",
+      "fxi",
+      "$",
+      "aks"
+    ],
+    "created_at": "Fri Sep 12 18:00:41 +0000 2014",
+    "user_id_str": "2181390564",
+    "followers_count": 394
+  }
+]

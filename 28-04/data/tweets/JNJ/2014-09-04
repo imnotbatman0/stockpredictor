@@ -1,0 +1,84 @@
+[
+  {
+    "text": [
+      "$",
+      "jnj",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Thu Sep 04 04:01:08 +0000 2014",
+    "user_id_str": "1923926642",
+    "followers_count": 83
+  },
+  {
+    "text": [
+      "ebola",
+      "outbreak",
+      "johnson",
+      "amp",
+      "johnson",
+      "get",
+      "ok",
+      "to",
+      "fast-track",
+      "vaccine",
+      "trials",
+      "$",
+      "jnj"
+    ],
+    "created_at": "Thu Sep 04 16:49:07 +0000 2014",
+    "user_id_str": "704897486",
+    "followers_count": 1097
+  },
+  {
+    "text": [
+      "johnson",
+      "amp",
+      "johnson",
+      "bavarian",
+      "nordic",
+      "target",
+      "early",
+      "2015",
+      "for",
+      "ebola",
+      "vaccine",
+      "clinical",
+      "study",
+      "$",
+      "jnj",
+      "pharma"
+    ],
+    "created_at": "Thu Sep 04 14:30:38 +0000 2014",
+    "user_id_str": "35789155",
+    "followers_count": 20716
+  },
+  {
+    "text": [
+      "fda",
+      "rushes",
+      "j",
+      "amp",
+      "j",
+      "newlink",
+      "ebola",
+      "vaccines",
+      "to",
+      "clinical",
+      "trials",
+      "$",
+      "jnj",
+      "$",
+      "nlnk"
+    ],
+    "created_at": "Thu Sep 04 16:56:03 +0000 2014",
+    "user_id_str": "168527359",
+    "followers_count": 87
+  }
+]

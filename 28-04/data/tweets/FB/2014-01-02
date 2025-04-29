@@ -1,0 +1,66 @@
+[
+  {
+    "text": [
+      "what",
+      "are",
+      "your",
+      "top",
+      "picks",
+      "for",
+      "q1",
+      "2014",
+      "here",
+      "are",
+      "mine",
+      "$",
+      "aapl",
+      "$",
+      "cree",
+      "$",
+      "fb",
+      "$",
+      "cldx",
+      "$",
+      "sne"
+    ],
+    "created_at": "Thu Jan 02 17:54:54 +0000 2014",
+    "user_id_str": "24312698",
+    "followers_count": 1563
+  },
+  {
+    "text": [
+      "teenagers",
+      "migrate",
+      "from",
+      "facebook",
+      "as",
+      "parents",
+      "send",
+      "them",
+      "friend",
+      "requests",
+      "the",
+      "guardian",
+      "$",
+      "fb",
+      "$",
+      "spy"
+    ],
+    "created_at": "Thu Jan 02 17:57:33 +0000 2014",
+    "user_id_str": "766003172",
+    "followers_count": 21
+  },
+  {
+    "text": [
+      "fb",
+      "54",
+      "78",
+      "$",
+      "fb",
+      "facebook"
+    ],
+    "created_at": "Thu Jan 02 21:40:26 +0000 2014",
+    "user_id_str": "759299599",
+    "followers_count": 50
+  }
+]

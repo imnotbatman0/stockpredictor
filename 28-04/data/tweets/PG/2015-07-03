@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "gild",
+      "gilead",
+      "sciences",
+      "inc",
+      "eod",
+      "data",
+      "$",
+      "gild",
+      "$",
+      "oil",
+      "$",
+      "amd",
+      "$",
+      "pg",
+      "gild",
+      "finance",
+      "stocks"
+    ],
+    "created_at": "Fri Jul 03 19:37:06 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 540
+  },
+  {
+    "text": [
+      "pg",
+      "procter",
+      "amp",
+      "gamble",
+      "co",
+      "market",
+      "cap",
+      "$",
+      "pg",
+      "$",
+      "fxb",
+      "$",
+      "c",
+      "$",
+      "googl",
+      "pg",
+      "invest",
+      "invest"
+    ],
+    "created_at": "Fri Jul 03 01:43:33 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 515
+  }
+]

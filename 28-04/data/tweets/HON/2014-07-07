@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "5",
+      "stocks",
+      "you",
+      "should",
+      "be",
+      "watching",
+      "$",
+      "slg",
+      "$",
+      "hon",
+      "$",
+      "i",
+      "$",
+      "aapl",
+      "liquidity"
+    ],
+    "created_at": "Sun Jul 06 22:18:58 +0000 2014",
+    "user_id_str": "2485114806",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "$",
+      "cam",
+      "are",
+      "you",
+      "investing",
+      "in",
+      "$",
+      "tech",
+      "$",
+      "hon",
+      "$",
+      "ir",
+      "economy",
+      "rate",
+      "limit",
+      "exceeded"
+    ],
+    "created_at": "Mon Jul 07 03:43:44 +0000 2014",
+    "user_id_str": "2485874334",
+    "followers_count": 3
+  }
+]

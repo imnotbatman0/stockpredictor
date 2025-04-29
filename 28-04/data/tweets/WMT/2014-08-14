@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "$",
+      "wmt",
+      "received",
+      "a",
+      "new",
+      "alert",
+      "see",
+      "why",
+      "at",
+      "stocks",
+      "markets",
+      "daytrading",
+      "3"
+    ],
+    "created_at": "Thu Aug 14 14:23:20 +0000 2014",
+    "user_id_str": "39546678",
+    "followers_count": 5049
+  },
+  {
+    "text": [
+      "wal-mart",
+      "cuts",
+      "outlook",
+      "as",
+      "store",
+      "traffic",
+      "slips",
+      "again",
+      "$",
+      "wmt",
+      "via"
+    ],
+    "created_at": "Thu Aug 14 16:35:35 +0000 2014",
+    "user_id_str": "920219473",
+    "followers_count": 208
+  },
+  {
+    "text": [
+      "wal-mart",
+      "posts",
+      "earnings",
+      "of",
+      "$1",
+      "21",
+      "a",
+      "share",
+      "in",
+      "line",
+      "with",
+      "estimates",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Thu Aug 14 11:32:56 +0000 2014",
+    "user_id_str": "37040459",
+    "followers_count": 1069
+  }
+]

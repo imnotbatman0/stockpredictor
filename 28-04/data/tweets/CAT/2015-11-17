@@ -1,0 +1,81 @@
+[
+  {
+    "text": [
+      "$",
+      "cat",
+      "investor",
+      "opinions",
+      "updated",
+      "tuesday",
+      "november",
+      "17",
+      "2015",
+      "03",
+      "07",
+      "13",
+      "am",
+      "$",
+      "qld",
+      "$",
+      "sbux",
+      "$",
+      "qld",
+      "$",
+      "gs"
+    ],
+    "created_at": "Tue Nov 17 08:18:18 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 947
+  },
+  {
+    "text": [
+      "ea",
+      "electronic",
+      "arts",
+      "inc",
+      "open",
+      "$",
+      "ea",
+      "$",
+      "ibb",
+      "$",
+      "expe",
+      "$",
+      "cat",
+      "ea",
+      "pennystocks",
+      "share"
+    ],
+    "created_at": "Tue Nov 17 15:37:03 +0000 2015",
+    "user_id_str": "2233924628",
+    "followers_count": 514
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "stocks",
+      "quiz",
+      "zone",
+      "$",
+      "cat",
+      "caterpillar"
+    ],
+    "created_at": "Tue Nov 17 17:25:28 +0000 2015",
+    "user_id_str": "2817468704",
+    "followers_count": 977
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "ask",
+      "about",
+      "project",
+      "financing"
+    ],
+    "created_at": "Tue Nov 17 20:37:06 +0000 2015",
+    "user_id_str": "761884866",
+    "followers_count": 2025
+  }
+]

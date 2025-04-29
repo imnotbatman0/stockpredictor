@@ -1,0 +1,70 @@
+[
+  {
+    "text": [
+      "ihnewsdesk",
+      "xlb",
+      "materials",
+      "select",
+      "sector",
+      "spdr",
+      "ex-div",
+      "date",
+      "$",
+      "xlb",
+      "$",
+      "blue",
+      "$",
+      "dis",
+      "$",
+      "cof",
+      "xlb",
+      "nasd"
+    ],
+    "created_at": "Sat May 23 07:59:35 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 299
+  },
+  {
+    "text": [
+      "xlb",
+      "materials",
+      "select",
+      "sector",
+      "spdr",
+      "ex-div",
+      "date",
+      "$",
+      "xlb",
+      "$",
+      "blue",
+      "$",
+      "dis",
+      "$",
+      "cof",
+      "xlb",
+      "nasdaq",
+      "stock"
+    ],
+    "created_at": "Sat May 23 07:51:34 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 576
+  },
+  {
+    "text": [
+      "walt",
+      "disney",
+      "s",
+      "hold",
+      "rating",
+      "reiterated",
+      "at",
+      "deutsche",
+      "bank",
+      "$",
+      "dis"
+    ],
+    "created_at": "Sat May 23 20:59:33 +0000 2015",
+    "user_id_str": "2181281054",
+    "followers_count": 365
+  }
+]

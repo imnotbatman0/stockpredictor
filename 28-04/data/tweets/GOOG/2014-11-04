@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "apple",
+      "and",
+      "google",
+      "agree",
+      "to",
+      "a",
+      "disney",
+      "video",
+      "deal",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "dis"
+    ],
+    "created_at": "Tue Nov 04 05:48:13 +0000 2014",
+    "user_id_str": "164511669",
+    "followers_count": 117
+  },
+  {
+    "text": [
+      "material",
+      "design",
+      "optimize",
+      "then",
+      "sell",
+      "to",
+      "china",
+      "smart",
+      "strategy",
+      "$",
+      "goog"
+    ],
+    "created_at": "Tue Nov 04 03:16:12 +0000 2014",
+    "user_id_str": "18095364",
+    "followers_count": 426
+  }
+]

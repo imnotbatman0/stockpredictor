@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "fri",
+      "earnings",
+      "call",
+      "watch",
+      "$",
+      "ge",
+      "$",
+      "ostk",
+      "$",
+      "ms"
+    ],
+    "created_at": "Thu Oct 16 03:57:34 +0000 2014",
+    "user_id_str": "2410182475",
+    "followers_count": 497
+  },
+  {
+    "text": [
+      "top",
+      "stock",
+      "lookups",
+      "on",
+      "ysty",
+      "$",
+      "aapl",
+      "$",
+      "nflx",
+      "$",
+      "bac",
+      "$",
+      "fb",
+      "$",
+      "spy",
+      "$",
+      "baba",
+      "$",
+      "intc",
+      "$",
+      "c",
+      "$",
+      "ge",
+      "$",
+      "tsla",
+      "$",
+      "vix",
+      "$",
+      "twtr",
+      "$",
+      "vxx",
+      "$",
+      "f",
+      "$",
+      "gild"
+    ],
+    "created_at": "Thu Oct 16 11:21:51 +0000 2014",
+    "user_id_str": "37718217",
+    "followers_count": 18802
+  }
+]

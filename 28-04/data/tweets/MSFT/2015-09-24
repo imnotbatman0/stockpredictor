@@ -1,0 +1,102 @@
+[
+  {
+    "text": [
+      "$",
+      "bidu",
+      "$",
+      "msft",
+      "microsoft",
+      "signs",
+      "search",
+      "pact",
+      "with",
+      "baidu",
+      "in",
+      "china"
+    ],
+    "created_at": "Wed Sep 23 22:07:03 +0000 2015",
+    "user_id_str": "2342215530",
+    "followers_count": 384
+  },
+  {
+    "text": [
+      "$",
+      "ntdoy",
+      "$",
+      "sne",
+      "$",
+      "msft",
+      "can",
+      "super",
+      "mario",
+      "save",
+      "nintendo",
+      "from",
+      "itself"
+    ],
+    "created_at": "Thu Sep 24 13:47:02 +0000 2015",
+    "user_id_str": "2344619544",
+    "followers_count": 427
+  },
+  {
+    "text": [
+      "$",
+      "msft",
+      "3",
+      "questions",
+      "microsoft",
+      "corporation",
+      "must",
+      "answer",
+      "on",
+      "oct",
+      "6"
+    ],
+    "created_at": "Wed Sep 23 22:20:21 +0000 2015",
+    "user_id_str": "1713340375",
+    "followers_count": 8
+  },
+  {
+    "text": [
+      "$",
+      "msft",
+      "-",
+      "microsoft",
+      "signs",
+      "search",
+      "pact",
+      "with",
+      "baidu",
+      "in",
+      "china"
+    ],
+    "created_at": "Wed Sep 23 22:26:02 +0000 2015",
+    "user_id_str": "69034277",
+    "followers_count": 65
+  },
+  {
+    "text": [
+      "$",
+      "ibm",
+      "provides",
+      "insight",
+      "at",
+      "its",
+      "business",
+      "analytics",
+      "conference",
+      "includes",
+      "$",
+      "orcl",
+      "$",
+      "msft",
+      "$",
+      "intc",
+      "$",
+      "amd"
+    ],
+    "created_at": "Wed Sep 23 22:30:13 +0000 2015",
+    "user_id_str": "1713417312",
+    "followers_count": 5226
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "text": [
+      "$",
+      "c",
+      "deutsche",
+      "bank",
+      "issues",
+      "citigroup",
+      "alert"
+    ],
+    "created_at": "Mon Apr 13 11:56:09 +0000 2015",
+    "user_id_str": "2342215530",
+    "followers_count": 148
+  },
+  {
+    "text": [
+      "$",
+      "wfc",
+      "news",
+      "barclays",
+      "previews",
+      "big",
+      "bank",
+      "earnings",
+      "$",
+      "jpm",
+      "$",
+      "c",
+      "$",
+      "bac",
+      "$",
+      "wfc",
+      "$",
+      "gs",
+      "analyze"
+    ],
+    "created_at": "Mon Apr 13 17:02:52 +0000 2015",
+    "user_id_str": "1884427945",
+    "followers_count": 8
+  },
+  {
+    "text": [
+      "upcoming",
+      "earnings",
+      "tues",
+      "-",
+      "$",
+      "intc",
+      "$",
+      "jpm",
+      "weds",
+      "-",
+      "$",
+      "nflx",
+      "$",
+      "bac",
+      "thurs",
+      "-",
+      "$",
+      "gs",
+      "$",
+      "c",
+      "fri",
+      "-",
+      "$",
+      "ge",
+      "$",
+      "hon",
+      "the",
+      "current",
+      "trend",
+      "-",
+      "gt"
+    ],
+    "created_at": "Mon Apr 13 04:08:38 +0000 2015",
+    "user_id_str": "289687877",
+    "followers_count": 55
+  }
+]

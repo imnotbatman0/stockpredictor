@@ -1,0 +1,55 @@
+[
+  {
+    "text": [
+      "$",
+      "ba",
+      "gogo",
+      "inks",
+      "in-flight",
+      "wireless",
+      "service",
+      "deal",
+      "with",
+      "aeromexico"
+    ],
+    "created_at": "Sat Aug 30 11:06:15 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 444
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "boeing",
+      "struggles",
+      "to",
+      "find",
+      "buyers",
+      "for",
+      "early",
+      "version",
+      "dreamliners",
+      "ba"
+    ],
+    "created_at": "Sat Aug 30 04:25:41 +0000 2014",
+    "user_id_str": "1839221414",
+    "followers_count": 194
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "boeing",
+      "vs",
+      "airbus",
+      "the",
+      "battle",
+      "for",
+      "air",
+      "supremacy"
+    ],
+    "created_at": "Sat Aug 30 08:06:27 +0000 2014",
+    "user_id_str": "1839221414",
+    "followers_count": 193
+  }
+]

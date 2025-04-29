@@ -1,0 +1,67 @@
+[
+  {
+    "text": [
+      "omnicom",
+      "divorce",
+      "remember",
+      "airbus",
+      "-",
+      "$",
+      "ge",
+      "headlines",
+      "stockmarket",
+      "stocks"
+    ],
+    "created_at": "Fri May 09 16:30:50 +0000 2014",
+    "user_id_str": "1059243763",
+    "followers_count": 439
+  },
+  {
+    "text": [
+      "does",
+      "ge",
+      "need",
+      "to",
+      "license",
+      "it",
+      "s",
+      "wind",
+      "patent",
+      "portfolio",
+      "$",
+      "ge",
+      "solar"
+    ],
+    "created_at": "Fri May 09 17:33:26 +0000 2014",
+    "user_id_str": "2427102348",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "general",
+      "electric",
+      "company",
+      "ge",
+      "26",
+      "44",
+      "$",
+      "ge",
+      "jim",
+      "cramer",
+      "s",
+      "mad",
+      "money",
+      "recap",
+      "bubbles",
+      "vs",
+      "valuation",
+      "at",
+      "the",
+      "street",
+      "-"
+    ],
+    "created_at": "Fri May 09 09:59:37 +0000 2014",
+    "user_id_str": "2181357950",
+    "followers_count": 527
+  }
+]

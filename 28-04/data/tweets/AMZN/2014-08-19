@@ -1,0 +1,52 @@
+[
+  {
+    "text": [
+      "$",
+      "amzn",
+      "chart",
+      "amzn"
+    ],
+    "created_at": "Tue Aug 19 16:56:41 +0000 2014",
+    "user_id_str": "82711419",
+    "followers_count": 4783
+  },
+  {
+    "text": [
+      "a",
+      "chinese",
+      "e-commerce",
+      "site",
+      "is",
+      "starting",
+      "to",
+      "look",
+      "a",
+      "lot",
+      "like",
+      "$",
+      "amzn",
+      "$",
+      "jd"
+    ],
+    "created_at": "Tue Aug 19 13:12:13 +0000 2014",
+    "user_id_str": "29310765",
+    "followers_count": 2429
+  },
+  {
+    "text": [
+      "investors",
+      "want",
+      "to",
+      "know--what",
+      "s",
+      "amazon",
+      "s",
+      "plan",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Tue Aug 19 20:46:16 +0000 2014",
+    "user_id_str": "35420682",
+    "followers_count": 10881
+  }
+]

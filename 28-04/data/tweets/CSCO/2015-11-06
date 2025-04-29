@@ -1,0 +1,67 @@
+[
+  {
+    "text": [
+      "$",
+      "csco",
+      "active",
+      "relative",
+      "volume",
+      "3",
+      "53",
+      "1h",
+      "5",
+      "00",
+      "pm",
+      "nasdaq",
+      "$",
+      "spy",
+      "$",
+      "ndx",
+      "$",
+      "dji"
+    ],
+    "created_at": "Fri Nov 06 22:27:54 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 550
+  },
+  {
+    "text": [
+      "$",
+      "aapl",
+      "$",
+      "csco",
+      "uae",
+      "s",
+      "apple",
+      "mania",
+      "recedes"
+    ],
+    "created_at": "Fri Nov 06 01:29:08 +0000 2015",
+    "user_id_str": "2341445778",
+    "followers_count": 651
+  },
+  {
+    "text": [
+      "csco",
+      "cisco",
+      "systems",
+      "inc",
+      "eod",
+      "data",
+      "$",
+      "csco",
+      "$",
+      "tvix",
+      "$",
+      "icon",
+      "$",
+      "jdst",
+      "csco",
+      "tradeideas",
+      "stocks"
+    ],
+    "created_at": "Fri Nov 06 14:30:10 +0000 2015",
+    "user_id_str": "2181403417",
+    "followers_count": 483
+  }
+]

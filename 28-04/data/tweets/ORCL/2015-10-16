@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "volume",
+      "alert",
+      "-",
+      "orcl",
+      "37",
+      "47",
+      "oracle",
+      "corp",
+      "$",
+      "orcl",
+      "hit",
+      "a",
+      "high",
+      "today",
+      "of",
+      "37",
+      "80",
+      "closing",
+      "the",
+      "day",
+      "10",
+      "30",
+      "at",
+      "37",
+      "47",
+      "-0",
+      "08",
+      "-0"
+    ],
+    "created_at": "Fri Oct 16 15:02:34 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 603
+  }
+]

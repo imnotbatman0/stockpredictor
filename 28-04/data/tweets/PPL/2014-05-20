@@ -1,0 +1,36 @@
+[
+  {
+    "text": [
+      "$",
+      "ppl",
+      "3",
+      "stocks",
+      "underperforming",
+      "today",
+      "in",
+      "the",
+      "utilities",
+      "sector"
+    ],
+    "created_at": "Tue May 20 20:22:04 +0000 2014",
+    "user_id_str": "1704137960",
+    "followers_count": 202
+  },
+  {
+    "text": [
+      "pembina",
+      "pipeline",
+      "corp",
+      "pt",
+      "raised",
+      "to",
+      "c$46",
+      "00",
+      "$",
+      "ppl"
+    ],
+    "created_at": "Tue May 20 17:36:05 +0000 2014",
+    "user_id_str": "2181281054",
+    "followers_count": 65
+  }
+]

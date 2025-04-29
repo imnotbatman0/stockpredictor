@@ -1,0 +1,48 @@
+[
+  {
+    "text": [
+      "xlv",
+      "consumer",
+      "discretionary",
+      "select",
+      "sector",
+      "spdr",
+      "investor",
+      "opinions",
+      "$",
+      "xlv",
+      "$",
+      "twtr",
+      "$",
+      "amzn",
+      "$",
+      "ddd",
+      "x"
+    ],
+    "created_at": "Mon Jun 22 01:52:33 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 417
+  },
+  {
+    "text": [
+      "mbly",
+      "mobileye",
+      "nv",
+      "shares",
+      "$",
+      "mbly",
+      "$",
+      "uso",
+      "$",
+      "slnn",
+      "$",
+      "amzn",
+      "mbly",
+      "pennystocks",
+      "stocks"
+    ],
+    "created_at": "Sun Jun 21 22:42:12 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 649
+  }
+]

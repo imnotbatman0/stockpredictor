@@ -1,0 +1,104 @@
+[
+  {
+    "text": [
+      "$",
+      "wfc",
+      "stocks",
+      "climb",
+      "on",
+      "retail",
+      "sales",
+      "dow",
+      "jumps",
+      "125",
+      "points"
+    ],
+    "created_at": "Mon Apr 14 16:00:40 +0000 2014",
+    "user_id_str": "2337803576",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "$",
+      "wfc",
+      "lumenis",
+      "stock",
+      "rating",
+      "reaffirmed",
+      "by",
+      "wells",
+      "fargo",
+      "amp",
+      "co",
+      "lmns"
+    ],
+    "created_at": "Mon Apr 14 17:40:08 +0000 2014",
+    "user_id_str": "2337803576",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "$",
+      "wfc",
+      "one",
+      "put",
+      "one",
+      "call",
+      "option",
+      "to",
+      "know",
+      "about",
+      "for",
+      "wells",
+      "fargo",
+      "amp",
+      "co"
+    ],
+    "created_at": "Mon Apr 14 17:03:33 +0000 2014",
+    "user_id_str": "1849605206",
+    "followers_count": 132
+  },
+  {
+    "text": [
+      "latest",
+      "information",
+      "on",
+      "stocks",
+      "like",
+      "$",
+      "ub",
+      "$",
+      "rost",
+      "$",
+      "wfc",
+      "$",
+      "do",
+      "wealthmanagement"
+    ],
+    "created_at": "Mon Apr 14 16:50:00 +0000 2014",
+    "user_id_str": "2460843375",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "todays",
+      "stocks",
+      "you",
+      "should",
+      "be",
+      "watching",
+      "$",
+      "wfc",
+      "$",
+      "gnc",
+      "$",
+      "atml",
+      "$",
+      "pcln",
+      "research"
+    ],
+    "created_at": "Mon Apr 14 10:15:13 +0000 2014",
+    "user_id_str": "2454752505",
+    "followers_count": 0
+  }
+]

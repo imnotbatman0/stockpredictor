@@ -1,0 +1,71 @@
+[
+  {
+    "text": [
+      "stocks",
+      "to",
+      "watch",
+      "this",
+      "week",
+      "$",
+      "txn",
+      "$",
+      "lnc",
+      "$",
+      "amzn",
+      "$",
+      "amzn",
+      "financialnews"
+    ],
+    "created_at": "Sat Apr 19 03:34:20 +0000 2014",
+    "user_id_str": "2486337593",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "earnings",
+      "news",
+      "on",
+      "$",
+      "dnr",
+      "$",
+      "alle",
+      "$",
+      "pf",
+      "$",
+      "amzn",
+      "money"
+    ],
+    "created_at": "Sat Apr 19 21:12:35 +0000 2014",
+    "user_id_str": "2473758099",
+    "followers_count": 28
+  },
+  {
+    "text": [
+      "tech",
+      "blogger",
+      "says",
+      "amazon",
+      "s",
+      "3-d",
+      "phone",
+      "is",
+      "a",
+      "gimmick",
+      "that",
+      "won",
+      "t",
+      "compete",
+      "with",
+      "apple",
+      "or",
+      "samsung",
+      "$",
+      "aapl",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Sat Apr 19 17:26:42 +0000 2014",
+    "user_id_str": "17089980",
+    "followers_count": 35
+  }
+]

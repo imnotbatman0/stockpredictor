@@ -1,0 +1,119 @@
+[
+  {
+    "text": [
+      "dear",
+      "tim",
+      "cook",
+      "amazon",
+      "just",
+      "banned",
+      "your",
+      "apple",
+      "tv",
+      "4",
+      "$",
+      "goog",
+      "$",
+      "googl",
+      "$",
+      "msft",
+      "$",
+      "sne",
+      "$",
+      "aapl",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Tue Oct 13 20:00:03 +0000 2015",
+    "user_id_str": "2173999435",
+    "followers_count": 1921
+  },
+  {
+    "text": [
+      "apple",
+      "mac",
+      "increases",
+      "market",
+      "share",
+      "amidst",
+      "pc",
+      "downdraft",
+      "$",
+      "intc",
+      "$",
+      "msft",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Tue Oct 13 12:30:01 +0000 2015",
+    "user_id_str": "2173999435",
+    "followers_count": 1923
+  },
+  {
+    "text": [
+      "morning",
+      "beat",
+      "microsoft",
+      "blackberry",
+      "ltd",
+      "and",
+      "salesforce",
+      "$",
+      "msft",
+      "$",
+      "bbry",
+      "$",
+      "bb",
+      "ca",
+      "$",
+      "crm"
+    ],
+    "created_at": "Tue Oct 13 12:35:31 +0000 2015",
+    "user_id_str": "1579371308",
+    "followers_count": 172
+  },
+  {
+    "text": [
+      "amazon",
+      "web",
+      "services",
+      "adds",
+      "upside",
+      "despite",
+      "stretched",
+      "valuations",
+      "$",
+      "hpq",
+      "$",
+      "ibm",
+      "$",
+      "msft",
+      "$",
+      "orcl",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Tue Oct 13 14:56:11 +0000 2015",
+    "user_id_str": "2999752275",
+    "followers_count": 976
+  },
+  {
+    "text": [
+      "how",
+      "do",
+      "analysts",
+      "view",
+      "microsoft",
+      "corporation",
+      "nasdaq",
+      "msft",
+      "s",
+      "stock",
+      "$",
+      "msft"
+    ],
+    "created_at": "Tue Oct 13 18:31:39 +0000 2015",
+    "user_id_str": "3054010251",
+    "followers_count": 46
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "$",
+      "chtr",
+      "$",
+      "twc",
+      "nothing",
+      "points",
+      "to",
+      "comcast",
+      "joining",
+      "charter",
+      "for",
+      "twc",
+      "bid",
+      "cnbc",
+      "reports",
+      "full",
+      "story"
+    ],
+    "created_at": "Thu Jan 16 14:49:52 +0000 2014",
+    "user_id_str": "166597717",
+    "followers_count": 3924
+  },
+  {
+    "text": [
+      "$",
+      "chtr",
+      "richard",
+      "schultz",
+      "joins",
+      "charter",
+      "as",
+      "senior",
+      "vice",
+      "president",
+      "inbound",
+      "sales",
+      "amp",
+      "retention"
+    ],
+    "created_at": "Thu Jan 16 19:34:19 +0000 2014",
+    "user_id_str": "1727328390",
+    "followers_count": 112
+  }
+]

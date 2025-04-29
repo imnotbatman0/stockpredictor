@@ -1,0 +1,32 @@
+[
+  {
+    "text": [
+      "$",
+      "abbv",
+      "abbvie",
+      "coverage",
+      "initiated",
+      "at",
+      "citigroup",
+      "inc",
+      "abbv"
+    ],
+    "created_at": "Tue Feb 10 14:41:07 +0000 2015",
+    "user_id_str": "2881595931",
+    "followers_count": 163
+  },
+  {
+    "text": [
+      "whats",
+      "your",
+      "opinion",
+      "on",
+      "$",
+      "abbv",
+      "madweets"
+    ],
+    "created_at": "Mon Feb 09 23:13:54 +0000 2015",
+    "user_id_str": "362517087",
+    "followers_count": 24
+  }
+]

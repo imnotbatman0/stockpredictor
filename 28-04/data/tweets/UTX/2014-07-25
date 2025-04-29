@@ -1,0 +1,85 @@
+[
+  {
+    "text": [
+      "here",
+      "are",
+      "some",
+      "stocks",
+      "to",
+      "watch",
+      "$",
+      "dlph",
+      "$",
+      "utx",
+      "$",
+      "ben",
+      "$",
+      "qlys",
+      "visit"
+    ],
+    "created_at": "Fri Jul 25 02:59:33 +0000 2014",
+    "user_id_str": "2663644495",
+    "followers_count": 3
+  },
+  {
+    "text": [
+      "$",
+      "utx",
+      "awesome",
+      "stock",
+      "research",
+      "$",
+      "hig",
+      "$",
+      "dei",
+      "$",
+      "fb",
+      "equity"
+    ],
+    "created_at": "Fri Jul 25 02:49:55 +0000 2014",
+    "user_id_str": "2654313770",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "$",
+      "utx",
+      "wells",
+      "fargo",
+      "amp",
+      "co",
+      "downgrades",
+      "united",
+      "technologies",
+      "to",
+      "market",
+      "perform",
+      "utx"
+    ],
+    "created_at": "Fri Jul 25 16:35:44 +0000 2014",
+    "user_id_str": "1836984799",
+    "followers_count": 215
+  },
+  {
+    "text": [
+      "$",
+      "bre",
+      "pennystock",
+      "research",
+      "on",
+      "$",
+      "symc",
+      "$",
+      "utx",
+      "$",
+      "ibm",
+      "goto",
+      "rate",
+      "limit",
+      "exceeded"
+    ],
+    "created_at": "Thu Jul 24 23:31:12 +0000 2014",
+    "user_id_str": "2718911729",
+    "followers_count": 3
+  }
+]

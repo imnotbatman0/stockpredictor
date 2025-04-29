@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "$",
+      "enh",
+      "stocks",
+      "you",
+      "might",
+      "want",
+      "to",
+      "buy",
+      "$",
+      "slb",
+      "$",
+      "csco",
+      "$",
+      "spy",
+      "wallstreet"
+    ],
+    "created_at": "Mon Jun 09 18:07:59 +0000 2014",
+    "user_id_str": "2468523914",
+    "followers_count": 4
+  },
+  {
+    "text": [
+      "$",
+      "csco",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Mon Jun 09 16:04:14 +0000 2014",
+    "user_id_str": "1924312855",
+    "followers_count": 139
+  }
+]

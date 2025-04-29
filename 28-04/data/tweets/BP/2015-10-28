@@ -1,0 +1,63 @@
+[
+  {
+    "text": [
+      "ge",
+      "general",
+      "electric",
+      "co",
+      "ideas",
+      "$",
+      "ge",
+      "$",
+      "bp",
+      "$",
+      "scty",
+      "$",
+      "luv",
+      "ge",
+      "share",
+      "nasdaq"
+    ],
+    "created_at": "Wed Oct 28 00:40:10 +0000 2015",
+    "user_id_str": "2233924628",
+    "followers_count": 485
+  },
+  {
+    "text": [
+      "hl",
+      "hecla",
+      "mining",
+      "co",
+      "ideas",
+      "$",
+      "hl",
+      "$",
+      "dia",
+      "$",
+      "twtr",
+      "$",
+      "bp",
+      "hl",
+      "pennystocks",
+      "stockmarket"
+    ],
+    "created_at": "Wed Oct 28 05:43:00 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 993
+  },
+  {
+    "text": [
+      "bp",
+      "plc",
+      "$",
+      "bp",
+      "l",
+      "issues",
+      "earnings",
+      "results"
+    ],
+    "created_at": "Wed Oct 28 12:51:16 +0000 2015",
+    "user_id_str": "1979190776",
+    "followers_count": 768
+  }
+]

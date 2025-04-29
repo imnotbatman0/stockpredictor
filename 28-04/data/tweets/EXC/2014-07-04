@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "exelon",
+      "peco",
+      "working",
+      "to",
+      "restore",
+      "service",
+      "following",
+      "holiday",
+      "storms",
+      "$",
+      "exc"
+    ],
+    "created_at": "Fri Jul 04 05:55:02 +0000 2014",
+    "user_id_str": "102325185",
+    "followers_count": 4486
+  },
+  {
+    "text": [
+      "top",
+      "performing",
+      "stocks",
+      "today",
+      "$",
+      "hcc",
+      "$",
+      "hal",
+      "$",
+      "exc",
+      "$",
+      "abx",
+      "research"
+    ],
+    "created_at": "Fri Jul 04 11:29:08 +0000 2014",
+    "user_id_str": "2486211817",
+    "followers_count": 4
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "$",
+      "msft",
+      "sony",
+      "gives",
+      "powers",
+      "to",
+      "playstation",
+      "tv"
+    ],
+    "created_at": "Sat Mar 22 03:37:08 +0000 2014",
+    "user_id_str": "1849605206",
+    "followers_count": 72
+  },
+  {
+    "text": [
+      "$",
+      "msft",
+      "a",
+      "conversation",
+      "with",
+      "danah",
+      "boyd",
+      "author",
+      "of",
+      "it",
+      "s",
+      "complicated",
+      "about",
+      "teenagers",
+      "online"
+    ],
+    "created_at": "Sat Mar 22 11:43:33 +0000 2014",
+    "user_id_str": "1827495824",
+    "followers_count": 49
+  }
+]

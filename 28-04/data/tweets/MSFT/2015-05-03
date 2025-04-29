@@ -1,0 +1,105 @@
+[
+  {
+    "text": [
+      "how",
+      "big",
+      "are",
+      "the",
+      "u",
+      "s",
+      "s",
+      "largest",
+      "companies",
+      "this",
+      "big",
+      "-",
+      "gt",
+      "$",
+      "aapl",
+      "$",
+      "msft",
+      "$",
+      "sbux"
+    ],
+    "created_at": "Sun May 03 14:30:58 +0000 2015",
+    "user_id_str": "11772692",
+    "followers_count": 32
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "$",
+      "msft",
+      "intel",
+      "inside",
+      "microsoft",
+      "hololens",
+      "and",
+      "windows",
+      "phone"
+    ],
+    "created_at": "Sun May 03 08:17:02 +0000 2015",
+    "user_id_str": "2341281566",
+    "followers_count": 301
+  },
+  {
+    "text": [
+      "what",
+      "is",
+      "the",
+      "vix",
+      "index",
+      "$",
+      "ibm",
+      "$",
+      "msft",
+      "$",
+      "hpq"
+    ],
+    "created_at": "Sun May 03 15:21:12 +0000 2015",
+    "user_id_str": "305518813",
+    "followers_count": 766
+  },
+  {
+    "text": [
+      "personalfinance",
+      "$",
+      "vnet",
+      "$",
+      "dow",
+      "$",
+      "msft",
+      "new",
+      "info"
+    ],
+    "created_at": "Sun May 03 15:40:24 +0000 2015",
+    "user_id_str": "3089097716",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "since",
+      "your",
+      "tweet",
+      "was",
+      "sent",
+      "$",
+      "msft",
+      "has",
+      "risen",
+      "1",
+      "285",
+      "see",
+      "your",
+      "featured",
+      "tweet",
+      "on",
+      "market",
+      "parse"
+    ],
+    "created_at": "Sun May 03 17:01:44 +0000 2015",
+    "user_id_str": "3182322139",
+    "followers_count": 3
+  }
+]

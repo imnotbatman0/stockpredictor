@@ -1,0 +1,72 @@
+[
+  {
+    "text": [
+      "aapl",
+      "apple",
+      "inc",
+      "filings",
+      "$",
+      "aapl",
+      "$",
+      "amzn",
+      "$",
+      "dis",
+      "$",
+      "fxb",
+      "aapl",
+      "finance",
+      "invest"
+    ],
+    "created_at": "Sat Aug 29 13:32:08 +0000 2015",
+    "user_id_str": "2233924628",
+    "followers_count": 440
+  },
+  {
+    "text": [
+      "panw",
+      "palo",
+      "alto",
+      "networks",
+      "inc",
+      "52wk",
+      "low",
+      "$",
+      "panw",
+      "$",
+      "zumz",
+      "$",
+      "dis",
+      "$",
+      "btu",
+      "panw",
+      "invest",
+      "stockmarket"
+    ],
+    "created_at": "Sat Aug 29 19:44:36 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 567
+  },
+  {
+    "text": [
+      "tso",
+      "tesoro",
+      "petroleum",
+      "corp",
+      "shares",
+      "$",
+      "tso",
+      "$",
+      "v",
+      "$",
+      "fv",
+      "$",
+      "dis",
+      "tso",
+      "investing",
+      "stockmarket"
+    ],
+    "created_at": "Sat Aug 29 16:47:14 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1462
+  }
+]

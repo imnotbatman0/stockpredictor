@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "$",
+      "sbux",
+      "short",
+      "sales",
+      "updated",
+      "saturday",
+      "january",
+      "24",
+      "2015",
+      "02",
+      "11",
+      "10",
+      "am",
+      "$",
+      "fxi",
+      "$",
+      "fxe",
+      "$",
+      "jnj",
+      "$",
+      "sso"
+    ],
+    "created_at": "Sat Jan 24 07:26:09 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 361
+  },
+  {
+    "text": [
+      "johnson",
+      "amp",
+      "johnson",
+      "announces",
+      "formation",
+      "of",
+      "ebola",
+      "vaccine",
+      "development",
+      "consorti",
+      "$",
+      "jnj"
+    ],
+    "created_at": "Sat Jan 24 01:07:39 +0000 2015",
+    "user_id_str": "102325185",
+    "followers_count": 5623
+  },
+  {
+    "text": [
+      "$",
+      "sco",
+      "stock",
+      "price",
+      "updated",
+      "friday",
+      "january",
+      "23",
+      "2015",
+      "8",
+      "11",
+      "10",
+      "pm",
+      "$",
+      "tqqq",
+      "$",
+      "eem",
+      "$",
+      "jnj",
+      "$",
+      "mo"
+    ],
+    "created_at": "Sat Jan 24 01:20:36 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 362
+  }
+]

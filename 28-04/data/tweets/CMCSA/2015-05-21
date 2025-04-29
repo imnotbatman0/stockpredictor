@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "us",
+      "comcast",
+      "level",
+      "3",
+      "communications",
+      "reach",
+      "long-term",
+      "interconnection",
+      "agreement",
+      "comcast",
+      "corp",
+      "nasdaq"
+    ],
+    "created_at": "Thu May 21 14:33:49 +0000 2015",
+    "user_id_str": "2649921242",
+    "followers_count": 302
+  },
+  {
+    "text": [
+      "$",
+      "googl",
+      "$",
+      "twtr",
+      "$",
+      "cmcsa",
+      "sports",
+      "debate",
+      "are",
+      "streaming",
+      "fans",
+      "stealing",
+      "rights"
+    ],
+    "created_at": "Thu May 21 15:42:02 +0000 2015",
+    "user_id_str": "2881595931",
+    "followers_count": 316
+  }
+]

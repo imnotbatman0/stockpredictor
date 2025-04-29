@@ -1,0 +1,82 @@
+[
+  {
+    "text": [
+      "c",
+      "citigroup",
+      "inc",
+      "ask",
+      "size",
+      "$",
+      "c",
+      "$",
+      "fizz",
+      "$",
+      "avid",
+      "$",
+      "mcd",
+      "c",
+      "share",
+      "pennystocks"
+    ],
+    "created_at": "Sun Dec 27 00:05:27 +0000 2015",
+    "user_id_str": "18574762",
+    "followers_count": 1054
+  },
+  {
+    "text": [
+      "check",
+      "which",
+      "story",
+      "for",
+      "dowjones",
+      "has",
+      "the",
+      "highest",
+      "score",
+      "$",
+      "v",
+      "$",
+      "mmm",
+      "$",
+      "mcd"
+    ],
+    "created_at": "Sun Dec 27 06:11:23 +0000 2015",
+    "user_id_str": "2373813025",
+    "followers_count": 826
+  },
+  {
+    "text": [
+      "atvi",
+      "activision",
+      "blizzard",
+      "inc",
+      "volume",
+      "$",
+      "atvi",
+      "$",
+      "bac",
+      "$",
+      "mcd",
+      "$",
+      "sri",
+      "atvi",
+      "tradeideas",
+      "invest"
+    ],
+    "created_at": "Sun Dec 27 15:34:07 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 670
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "reaches",
+      "inflation",
+      "target"
+    ],
+    "created_at": "Sun Dec 27 01:45:41 +0000 2015",
+    "user_id_str": "2849670044",
+    "followers_count": 267
+  }
+]

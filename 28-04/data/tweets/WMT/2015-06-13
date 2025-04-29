@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "bank",
+      "of",
+      "america",
+      "reiterates",
+      "buy",
+      "rating",
+      "for",
+      "wal-mart",
+      "stores",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Sat Jun 13 17:30:05 +0000 2015",
+    "user_id_str": "3214218148",
+    "followers_count": 14
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "news",
+      "wal-mart",
+      "digging",
+      "for",
+      "clues",
+      "behind",
+      "the",
+      "june",
+      "5th",
+      "shareholders",
+      "meeting",
+      "analyze"
+    ],
+    "created_at": "Sat Jun 13 21:15:07 +0000 2015",
+    "user_id_str": "1924310023",
+    "followers_count": 315
+  }
+]

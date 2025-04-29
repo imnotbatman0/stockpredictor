@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "trending",
+      "on",
+      "longrundata",
+      "$",
+      "mo",
+      "$",
+      "jnj",
+      "$",
+      "ko",
+      "$",
+      "t",
+      "$",
+      "o",
+      "$",
+      "mcd",
+      "$",
+      "aapl",
+      "$",
+      "vfinx",
+      "$",
+      "spy",
+      "$",
+      "pg",
+      "dividends"
+    ],
+    "created_at": "Tue Mar 24 14:53:24 +0000 2015",
+    "user_id_str": "2801334731",
+    "followers_count": 493
+  },
+  {
+    "text": [
+      "is",
+      "altria",
+      "still",
+      "a",
+      "buy",
+      "for",
+      "income-seeking",
+      "investors",
+      "$",
+      "mo"
+    ],
+    "created_at": "Tue Mar 24 16:54:38 +0000 2015",
+    "user_id_str": "207435193",
+    "followers_count": 247
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "text": [
+      "sentiment",
+      "is",
+      "pointing",
+      "toward",
+      "the",
+      "dominance",
+      "of",
+      "facebook",
+      "$",
+      "fb",
+      "amp",
+      "google",
+      "$",
+      "goog",
+      "away",
+      "from",
+      "twitter",
+      "$",
+      "twtr",
+      "$",
+      "twtr",
+      "$",
+      "fb"
+    ],
+    "created_at": "Wed Jan 08 00:33:43 +0000 2014",
+    "user_id_str": "161829557",
+    "followers_count": 391
+  },
+  {
+    "text": [
+      "great",
+      "stuff",
+      "guys",
+      "morning",
+      "call",
+      "express",
+      "$",
+      "goog",
+      "$",
+      "aapl",
+      "$",
+      "twtr",
+      "$",
+      "fb",
+      "$",
+      "bac",
+      "$",
+      "c",
+      "$",
+      "tsla"
+    ],
+    "created_at": "Wed Jan 08 13:24:34 +0000 2014",
+    "user_id_str": "353941868",
+    "followers_count": 75
+  },
+  {
+    "text": [
+      "facebook",
+      "to",
+      "buy",
+      "android",
+      "app",
+      "monitoring",
+      "tool",
+      "maker",
+      "$",
+      "fb",
+      "$",
+      "goog"
+    ],
+    "created_at": "Wed Jan 08 12:17:27 +0000 2014",
+    "user_id_str": "263333330",
+    "followers_count": 92
+  },
+  {
+    "text": [
+      "$",
+      "fb",
+      "good",
+      "support",
+      "here",
+      "long",
+      "$",
+      "fb",
+      "jan",
+      "60",
+      "calls",
+      "65"
+    ],
+    "created_at": "Wed Jan 08 15:30:52 +0000 2014",
+    "user_id_str": "33944370",
+    "followers_count": 69
+  }
+]

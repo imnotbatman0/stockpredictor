@@ -1,0 +1,32 @@
+[
+  {
+    "text": [
+      "$",
+      "jpm",
+      "can",
+      "citigroup",
+      "s",
+      "stock",
+      "rebound"
+    ],
+    "created_at": "Sun Jun 15 19:18:07 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 338
+  },
+  {
+    "text": [
+      "$",
+      "jpm",
+      "pay",
+      "raises",
+      "going",
+      "mostly",
+      "to",
+      "select",
+      "industries"
+    ],
+    "created_at": "Sun Jun 15 21:20:30 +0000 2014",
+    "user_id_str": "2341687424",
+    "followers_count": 23
+  }
+]

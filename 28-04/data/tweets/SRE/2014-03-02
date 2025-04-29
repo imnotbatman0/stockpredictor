@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "$",
+      "sre",
+      "insider",
+      "trading",
+      "news",
+      "on",
+      "$",
+      "trza",
+      "$",
+      "trw",
+      "$",
+      "amzn",
+      "visit"
+    ],
+    "created_at": "Sun Mar 02 11:11:22 +0000 2014",
+    "user_id_str": "2252564720",
+    "followers_count": 398
+  },
+  {
+    "text": [
+      "$",
+      "sre",
+      "get",
+      "the",
+      "latest",
+      "on",
+      "$",
+      "eqt",
+      "$",
+      "ne",
+      "$",
+      "usd",
+      "view",
+      "now"
+    ],
+    "created_at": "Sun Mar 02 09:10:57 +0000 2014",
+    "user_id_str": "2243241430",
+    "followers_count": 390
+  }
+]

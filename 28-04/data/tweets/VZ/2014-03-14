@@ -1,0 +1,56 @@
+[
+  {
+    "text": [
+      "active",
+      "puts",
+      "cboe",
+      "$",
+      "vz",
+      "3",
+      "28",
+      "14",
+      "46",
+      "$",
+      "crm",
+      "3",
+      "28",
+      "14",
+      "57",
+      "5",
+      "amp",
+      "march",
+      "57",
+      "5",
+      "$",
+      "hpq",
+      "apr",
+      "26"
+    ],
+    "created_at": "Fri Mar 14 05:06:39 +0000 2014",
+    "user_id_str": "475399962",
+    "followers_count": 27
+  },
+  {
+    "text": [
+      "$",
+      "vz",
+      "double",
+      "up",
+      "on",
+      "savings",
+      "on",
+      "verizon",
+      "s",
+      "industry-leading",
+      "4g",
+      "lte",
+      "wireless",
+      "and",
+      "fios",
+      "networks"
+    ],
+    "created_at": "Fri Mar 14 15:33:13 +0000 2014",
+    "user_id_str": "2337219222",
+    "followers_count": 5
+  }
+]

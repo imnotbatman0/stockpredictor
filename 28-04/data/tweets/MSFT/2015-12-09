@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "sees",
+      "up",
+      "tick",
+      "in",
+      "sales",
+      "ipad",
+      "sales",
+      "plummet",
+      "$",
+      "msft",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Wed Dec 09 03:31:18 +0000 2015",
+    "user_id_str": "24820841",
+    "followers_count": 21724
+  },
+  {
+    "text": [
+      "has",
+      "finally",
+      "executed",
+      "s",
+      "big",
+      "vision",
+      "for",
+      "the",
+      "first",
+      "time",
+      "$",
+      "msft",
+      "via"
+    ],
+    "created_at": "Wed Dec 09 15:34:52 +0000 2015",
+    "user_id_str": "18082739",
+    "followers_count": 2056
+  }
+]

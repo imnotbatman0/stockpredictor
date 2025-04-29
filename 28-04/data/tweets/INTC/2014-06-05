@@ -1,0 +1,58 @@
+[
+  {
+    "text": [
+      "asia",
+      "s",
+      "biggest",
+      "tech",
+      "show",
+      "is",
+      "asus",
+      "show",
+      "$",
+      "intc",
+      "tech",
+      "stocks"
+    ],
+    "created_at": "Thu Jun 05 17:41:54 +0000 2014",
+    "user_id_str": "2418820776",
+    "followers_count": 1166
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "asia",
+      "s",
+      "biggest",
+      "tech",
+      "show",
+      "is",
+      "asus",
+      "show"
+    ],
+    "created_at": "Thu Jun 05 17:58:09 +0000 2014",
+    "user_id_str": "1696445958",
+    "followers_count": 235
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "intel",
+      "corporation",
+      "s",
+      "merrifield",
+      "finds",
+      "a",
+      "happy",
+      "home",
+      "in",
+      "dell",
+      "tablets"
+    ],
+    "created_at": "Thu Jun 05 19:28:05 +0000 2014",
+    "user_id_str": "1696445958",
+    "followers_count": 235
+  }
+]

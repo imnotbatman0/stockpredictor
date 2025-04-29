@@ -1,0 +1,74 @@
+[
+  {
+    "text": [
+      "$",
+      "intc",
+      "$",
+      "baba",
+      "the",
+      "52-week",
+      "low",
+      "club",
+      "for",
+      "friday"
+    ],
+    "created_at": "Fri Aug 21 20:13:05 +0000 2015",
+    "user_id_str": "2341281566",
+    "followers_count": 550
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "-",
+      "intc",
+      "at",
+      "critical",
+      "level",
+      "on",
+      "weekly",
+      "-"
+    ],
+    "created_at": "Fri Aug 21 00:20:57 +0000 2015",
+    "user_id_str": "549273923",
+    "followers_count": 130
+  },
+  {
+    "text": [
+      "closing",
+      "these",
+      "$",
+      "intc",
+      "puts",
+      "out",
+      "for",
+      "$0",
+      "50",
+      "sh",
+      "78",
+      "profit"
+    ],
+    "created_at": "Fri Aug 21 13:41:28 +0000 2015",
+    "user_id_str": "3007704313",
+    "followers_count": 227
+  },
+  {
+    "text": [
+      "$",
+      "mu",
+      "$",
+      "intc",
+      "a",
+      "value",
+      "play",
+      "or",
+      "value",
+      "trap",
+      "from",
+      "here"
+    ],
+    "created_at": "Fri Aug 21 01:37:44 +0000 2015",
+    "user_id_str": "1389895872",
+    "followers_count": 65
+  }
+]

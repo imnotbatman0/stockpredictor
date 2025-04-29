@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "amgn",
+      "amgen",
+      "inc",
+      "news",
+      "$",
+      "amgn",
+      "$",
+      "amzn",
+      "$",
+      "vxx",
+      "$",
+      "goro",
+      "amgn",
+      "finance",
+      "tradeideas"
+    ],
+    "created_at": "Sat Dec 05 21:33:34 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13323
+  },
+  {
+    "text": [
+      "amgen",
+      "inc",
+      "$",
+      "amgn",
+      "shares",
+      "up",
+      "3",
+      "7"
+    ],
+    "created_at": "Sat Dec 05 01:03:30 +0000 2015",
+    "user_id_str": "2348716116",
+    "followers_count": 2032
+  }
+]

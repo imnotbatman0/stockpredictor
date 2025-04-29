@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "should",
+      "you",
+      "buy",
+      "sell",
+      "or",
+      "hold",
+      "$",
+      "esv",
+      "$",
+      "wcn",
+      "$",
+      "pcg",
+      "$",
+      "amzn",
+      "overvalued"
+    ],
+    "created_at": "Fri May 30 03:01:14 +0000 2014",
+    "user_id_str": "2472496592",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "whats",
+      "going",
+      "on",
+      "with",
+      "$",
+      "lrcx",
+      "$",
+      "aap",
+      "$",
+      "pcg",
+      "$",
+      "grpn",
+      "investing"
+    ],
+    "created_at": "Fri May 30 21:35:14 +0000 2014",
+    "user_id_str": "2539177869",
+    "followers_count": 8
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "text": [
+      "apple",
+      "cisco",
+      "systems",
+      "join",
+      "to",
+      "bring",
+      "more",
+      "iphones",
+      "and",
+      "ipads",
+      "to",
+      "businesses",
+      "$",
+      "appl",
+      "$",
+      "csco",
+      "via"
+    ],
+    "created_at": "Mon Aug 31 18:22:32 +0000 2015",
+    "user_id_str": "107262502",
+    "followers_count": 101
+  },
+  {
+    "text": [
+      "apple",
+      "cisco",
+      "systems",
+      "join",
+      "to",
+      "bring",
+      "more",
+      "iphones",
+      "and",
+      "ipads",
+      "to",
+      "businesses",
+      "$",
+      "appl",
+      "$",
+      "csco",
+      "via"
+    ],
+    "created_at": "Mon Aug 31 18:22:50 +0000 2015",
+    "user_id_str": "448356555",
+    "followers_count": 567
+  },
+  {
+    "text": [
+      "fdx",
+      "fedex",
+      "corp",
+      "prev",
+      "close",
+      "$",
+      "fdx",
+      "$",
+      "csco",
+      "$",
+      "knl",
+      "$",
+      "expe",
+      "fdx",
+      "finance",
+      "stockmarket"
+    ],
+    "created_at": "Sun Aug 30 22:38:04 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1467
+  },
+  {
+    "text": [
+      "gdar",
+      "golden",
+      "age",
+      "resources",
+      "ask",
+      "size",
+      "$",
+      "gdar",
+      "$",
+      "amzn",
+      "$",
+      "csco",
+      "$",
+      "labd",
+      "gdar",
+      "stocks",
+      "stockmarket"
+    ],
+    "created_at": "Sun Aug 30 22:38:04 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 815
+  }
+]

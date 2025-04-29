@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "stocks",
+      "to",
+      "sell",
+      "$",
+      "quad",
+      "$",
+      "msft",
+      "$",
+      "nktr",
+      "$",
+      "data",
+      "click"
+    ],
+    "created_at": "Sat Jan 25 12:34:10 +0000 2014",
+    "user_id_str": "2233184034",
+    "followers_count": 398
+  },
+  {
+    "text": [
+      "microsoft",
+      "s",
+      "great",
+      "quarter",
+      "wasn",
+      "t",
+      "really",
+      "so",
+      "great",
+      "by",
+      "$",
+      "msft"
+    ],
+    "created_at": "Sat Jan 25 07:58:07 +0000 2014",
+    "user_id_str": "325368302",
+    "followers_count": 139
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": [
+      "$",
+      "ba",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Mon Jan 27 13:52:55 +0000 2014",
+    "user_id_str": "1923890856",
+    "followers_count": 74
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "$$",
+      "boeing",
+      "767",
+      "safety",
+      "checks",
+      "ordered",
+      "by",
+      "faa"
+    ],
+    "created_at": "Mon Jan 27 03:14:19 +0000 2014",
+    "user_id_str": "2166963414",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "hot",
+      "stocks",
+      "-",
+      "renren",
+      "inc",
+      "renn",
+      "baidu",
+      "inc",
+      "bidu",
+      "the9",
+      "limited",
+      "ncty",
+      "boeing"
+    ],
+    "created_at": "Mon Jan 27 12:24:40 +0000 2014",
+    "user_id_str": "1691494189",
+    "followers_count": 173
+  }
+]

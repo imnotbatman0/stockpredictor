@@ -1,0 +1,42 @@
+[
+  {
+    "text": [
+      "$",
+      "wfc",
+      "$",
+      "jpm",
+      "$",
+      "bac",
+      "$",
+      "c",
+      "$",
+      "usb",
+      "non-performing",
+      "loans",
+      "trend",
+      "comparison",
+      "cml"
+    ],
+    "created_at": "Sun Mar 15 07:56:15 +0000 2015",
+    "user_id_str": "2796938558",
+    "followers_count": 348
+  },
+  {
+    "text": [
+      "$",
+      "c"
+    ],
+    "created_at": "Sun Mar 15 08:01:24 +0000 2015",
+    "user_id_str": "3034899101",
+    "followers_count": 7
+  },
+  {
+    "text": [
+      "$",
+      "c"
+    ],
+    "created_at": "Sun Mar 15 08:04:48 +0000 2015",
+    "user_id_str": "3034899101",
+    "followers_count": 7
+  }
+]

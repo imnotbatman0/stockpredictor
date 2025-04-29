@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "fb",
+      "facebook",
+      "inc",
+      "last",
+      "trade",
+      "$",
+      "fb",
+      "$",
+      "iau",
+      "$",
+      "abbv",
+      "$",
+      "xlu",
+      "fb",
+      "pennystocks",
+      "stockmarket"
+    ],
+    "created_at": "Sun May 31 01:37:33 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4221
+  },
+  {
+    "text": [
+      "nrf",
+      "northstar",
+      "realty",
+      "finance",
+      "corp",
+      "filings",
+      "$",
+      "nrf",
+      "$",
+      "dust",
+      "$",
+      "aet",
+      "$",
+      "abbv",
+      "nrf",
+      "stocks",
+      "stockmarket"
+    ],
+    "created_at": "Sat May 30 22:43:35 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 625
+  }
+]

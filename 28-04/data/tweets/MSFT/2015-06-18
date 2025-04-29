@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "interesting",
+      "investors",
+      "holding",
+      "$",
+      "msft",
+      "on",
+      "market",
+      "guru"
+    ],
+    "created_at": "Thu Jun 18 16:09:17 +0000 2015",
+    "user_id_str": "3310475979",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "don",
+      "t",
+      "hold",
+      "your",
+      "breath",
+      "for",
+      "4",
+      "backward",
+      "compatibility",
+      "gaming",
+      "$",
+      "sne",
+      "$",
+      "msft"
+    ],
+    "created_at": "Thu Jun 18 06:51:41 +0000 2015",
+    "user_id_str": "24820841",
+    "followers_count": 20546
+  }
+]

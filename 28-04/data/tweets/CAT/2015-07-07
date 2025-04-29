@@ -1,0 +1,72 @@
+[
+  {
+    "text": [
+      "oas",
+      "oasis",
+      "petroleum",
+      "inc",
+      "message",
+      "board",
+      "posts",
+      "$",
+      "oas",
+      "$",
+      "mcrb",
+      "$",
+      "bmrn",
+      "$",
+      "cat",
+      "oas",
+      "nasdaq",
+      "pennyst"
+    ],
+    "created_at": "Tue Jul 07 04:48:50 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 465
+  },
+  {
+    "text": [
+      "abbv",
+      "abbvie",
+      "inc",
+      "company",
+      "info",
+      "$",
+      "abbv",
+      "$",
+      "fxe",
+      "$",
+      "cat",
+      "$",
+      "hd",
+      "abbv",
+      "stocks",
+      "stockmarket"
+    ],
+    "created_at": "Tue Jul 07 01:31:04 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 662
+  },
+  {
+    "text": [
+      "cat",
+      "caterpillar",
+      "inc",
+      "dividend",
+      "$",
+      "cat",
+      "$",
+      "slb",
+      "$",
+      "euo",
+      "$",
+      "csco",
+      "cat",
+      "stocks",
+      "tradeideas"
+    ],
+    "created_at": "Tue Jul 07 01:35:39 +0000 2015",
+    "user_id_str": "2181403417",
+    "followers_count": 391
+  }
+]

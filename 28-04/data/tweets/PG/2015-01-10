@@ -1,0 +1,54 @@
+[
+  {
+    "text": [
+      "$",
+      "dis",
+      "stock",
+      "message",
+      "board",
+      "updated",
+      "saturday",
+      "january",
+      "10",
+      "2015",
+      "05",
+      "59",
+      "24",
+      "am",
+      "$",
+      "pg",
+      "$",
+      "aem",
+      "$",
+      "xlb",
+      "$",
+      "pcln"
+    ],
+    "created_at": "Sat Jan 10 11:19:40 +0000 2015",
+    "user_id_str": "1833020461",
+    "followers_count": 545
+  },
+  {
+    "text": [
+      "$",
+      "pg",
+      "us",
+      "p",
+      "amp",
+      "g",
+      "recognizes",
+      "top",
+      "performing",
+      "global",
+      "partners",
+      "procter",
+      "amp",
+      "gamble",
+      "co",
+      "sp500"
+    ],
+    "created_at": "Fri Jan 09 23:05:07 +0000 2015",
+    "user_id_str": "2643714854",
+    "followers_count": 826
+  }
+]

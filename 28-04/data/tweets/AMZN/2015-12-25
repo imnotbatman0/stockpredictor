@@ -1,0 +1,88 @@
+[
+  {
+    "text": [
+      "amzn",
+      "inc",
+      "message",
+      "board",
+      "posts",
+      "$",
+      "amzn",
+      "$",
+      "biib",
+      "$",
+      "pcln",
+      "$",
+      "nwsa",
+      "amzn",
+      "pennystocks",
+      "pennystocks"
+    ],
+    "created_at": "Fri Dec 25 13:35:24 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4256
+  },
+  {
+    "text": [
+      "amzn",
+      "inc",
+      "change",
+      "$",
+      "amzn",
+      "$",
+      "regn",
+      "$",
+      "slw",
+      "$",
+      "cie",
+      "amzn",
+      "stockmarket",
+      "stock"
+    ],
+    "created_at": "Fri Dec 25 20:33:04 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4257
+  },
+  {
+    "text": [
+      "analysts",
+      "expect",
+      "2188",
+      "earnings",
+      "growth",
+      "in",
+      "3",
+      "years",
+      "from",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Fri Dec 25 21:37:27 +0000 2015",
+    "user_id_str": "3068966814",
+    "followers_count": 224
+  },
+  {
+    "text": [
+      "more",
+      "evidence",
+      "that",
+      "amazon",
+      "is",
+      "testing",
+      "european",
+      "logistics",
+      "network",
+      "-",
+      "air",
+      "cargo",
+      "world",
+      "registration",
+      "amazon",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Fri Dec 25 01:34:32 +0000 2015",
+    "user_id_str": "28918980",
+    "followers_count": 269931
+  }
+]

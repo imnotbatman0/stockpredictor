@@ -1,0 +1,68 @@
+[
+  {
+    "text": [
+      "stock",
+      "rises",
+      "tomorrow",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Mon Jan 12 01:44:52 +0000 2015",
+    "user_id_str": "244964328",
+    "followers_count": 792
+  },
+  {
+    "text": [
+      "transparent",
+      "of",
+      "$",
+      "amzn",
+      "won",
+      "best",
+      "comedy",
+      "tv",
+      "series",
+      "golden",
+      "globe",
+      "bezos",
+      "prime",
+      "just",
+      "starting",
+      "reed",
+      "should",
+      "exert",
+      "more",
+      "effort",
+      "$",
+      "nflx"
+    ],
+    "created_at": "Mon Jan 12 01:51:48 +0000 2015",
+    "user_id_str": "411786151",
+    "followers_count": 132
+  },
+  {
+    "text": [
+      "commented",
+      "on",
+      "innovative",
+      "food",
+      "holdings",
+      "the",
+      "cheapest",
+      "company",
+      "in",
+      "foodtech",
+      "$",
+      "ivfh",
+      "$",
+      "amzn",
+      "$",
+      "chef",
+      "$",
+      "syy"
+    ],
+    "created_at": "Mon Jan 12 21:23:30 +0000 2015",
+    "user_id_str": "82114345",
+    "followers_count": 1534
+  }
+]

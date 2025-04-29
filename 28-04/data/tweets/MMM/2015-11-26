@@ -1,0 +1,54 @@
+[
+  {
+    "text": [
+      "$",
+      "fslr",
+      "last",
+      "price",
+      "updated",
+      "thursday",
+      "november",
+      "26",
+      "2015",
+      "01",
+      "10",
+      "20",
+      "am",
+      "$",
+      "jblu",
+      "$",
+      "sbux",
+      "$",
+      "mmm",
+      "$",
+      "dis"
+    ],
+    "created_at": "Thu Nov 26 07:03:07 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 858
+  },
+  {
+    "text": [
+      "gld",
+      "spdr",
+      "gold",
+      "trust",
+      "shares",
+      "news",
+      "$",
+      "gld",
+      "$",
+      "mmm",
+      "$",
+      "gs",
+      "$",
+      "sltd",
+      "gld",
+      "stock",
+      "share"
+    ],
+    "created_at": "Thu Nov 26 13:41:04 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 679
+  }
+]

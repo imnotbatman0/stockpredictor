@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "xlf",
+      "financials",
+      "select",
+      "sector",
+      "spdr",
+      "yield",
+      "$",
+      "xlf",
+      "$",
+      "vz",
+      "$",
+      "hele",
+      "$",
+      "pcln",
+      "xlf",
+      "investing",
+      "invest"
+    ],
+    "created_at": "Sat Jun 27 22:58:26 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 702
+  },
+  {
+    "text": [
+      "ewz",
+      "brazil",
+      "ishares",
+      "yield",
+      "$",
+      "ewz",
+      "$",
+      "xiv",
+      "$",
+      "nq",
+      "$",
+      "vz",
+      "ewz",
+      "stockmarket",
+      "investf",
+      "ford",
+      "motor",
+      "co",
+      "eod",
+      "data"
+    ],
+    "created_at": "Sun Jun 28 16:38:16 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 525
+  },
+  {
+    "text": [
+      "xlb",
+      "materials",
+      "select",
+      "sector",
+      "spdr",
+      "yield",
+      "$",
+      "xlb",
+      "$",
+      "vz",
+      "$",
+      "fslr",
+      "$",
+      "rdsh",
+      "xlb",
+      "nasdaq",
+      "stockmarket"
+    ],
+    "created_at": "Sun Jun 28 16:50:12 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1400
+  }
+]

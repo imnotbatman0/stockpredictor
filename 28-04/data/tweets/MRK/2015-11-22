@@ -1,0 +1,35 @@
+[
+  {
+    "text": [
+      "merck",
+      "amp",
+      "co",
+      "valuation",
+      "-",
+      "november",
+      "2015",
+      "update",
+      "$",
+      "mrk"
+    ],
+    "created_at": "Sun Nov 22 17:04:04 +0000 2015",
+    "user_id_str": "57715740",
+    "followers_count": 1936
+  },
+  {
+    "text": [
+      "investors",
+      "buy",
+      "merck",
+      "amp",
+      "co",
+      "on",
+      "weakness",
+      "$",
+      "mrk"
+    ],
+    "created_at": "Sun Nov 22 12:01:37 +0000 2015",
+    "user_id_str": "61661638",
+    "followers_count": 5575
+  }
+]

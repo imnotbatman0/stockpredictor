@@ -1,0 +1,45 @@
+[
+  {
+    "text": [
+      "$",
+      "pep",
+      "$",
+      "twc",
+      "$",
+      "cake",
+      "$",
+      "pnra",
+      "$",
+      "csco",
+      "$",
+      "tsla",
+      "eyes",
+      "on",
+      "greece",
+      "as",
+      "stocks",
+      "shake",
+      "off",
+      "oil",
+      "drop"
+    ],
+    "created_at": "Tue Feb 10 22:46:05 +0000 2015",
+    "user_id_str": "2881595931",
+    "followers_count": 163
+  },
+  {
+    "text": [
+      "cisco",
+      "set",
+      "to",
+      "report",
+      "on",
+      "wednesday",
+      "$",
+      "csco"
+    ],
+    "created_at": "Tue Feb 10 15:30:04 +0000 2015",
+    "user_id_str": "201296379",
+    "followers_count": 2038
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "dow",
+      "movers",
+      "ba",
+      "nke",
+      "$",
+      "ba",
+      "$",
+      "nke",
+      "$",
+      "unh",
+      "$",
+      "cat"
+    ],
+    "created_at": "Tue Apr 08 16:35:04 +0000 2014",
+    "user_id_str": "102325185",
+    "followers_count": 4080
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "industrials",
+      "sector",
+      "stocks",
+      "roundup",
+      "--",
+      "research",
+      "on",
+      "honeywell",
+      "intl",
+      "3m",
+      "co"
+    ],
+    "created_at": "Tue Apr 08 19:44:09 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 300
+  }
+]

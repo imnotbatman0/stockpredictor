@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "$",
+      "msft",
+      "bing",
+      "maps",
+      "preview",
+      "now",
+      "lets",
+      "you",
+      "explore",
+      "more",
+      "cities",
+      "in",
+      "3d"
+    ],
+    "created_at": "Tue Feb 25 01:46:05 +0000 2014",
+    "user_id_str": "1827495824",
+    "followers_count": 38
+  },
+  {
+    "text": [
+      "$",
+      "msft",
+      "video",
+      "seahawks",
+      "qb",
+      "russell",
+      "wilson",
+      "on",
+      "super",
+      "bowl",
+      "win"
+    ],
+    "created_at": "Tue Feb 25 17:51:11 +0000 2014",
+    "user_id_str": "1827495824",
+    "followers_count": 39
+  }
+]

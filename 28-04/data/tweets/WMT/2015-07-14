@@ -1,0 +1,70 @@
+[
+  {
+    "text": [
+      "$",
+      "amzn",
+      "up",
+      "$13",
+      "$",
+      "wmt",
+      "down",
+      "13",
+      "cents",
+      "liberalism",
+      "has",
+      "taken",
+      "over",
+      "the",
+      "market",
+      "too"
+    ],
+    "created_at": "Tue Jul 14 19:23:26 +0000 2015",
+    "user_id_str": "2652836498",
+    "followers_count": 124
+  },
+  {
+    "text": [
+      "$",
+      "goog",
+      "$",
+      "wmt",
+      "facebook",
+      "close",
+      "sets",
+      "speed",
+      "record",
+      "for",
+      "$250",
+      "billion",
+      "market",
+      "cap"
+    ],
+    "created_at": "Mon Jul 13 21:54:03 +0000 2015",
+    "user_id_str": "2881595931",
+    "followers_count": 378
+  },
+  {
+    "text": [
+      "$",
+      "wmt",
+      "wal-mart",
+      "stores",
+      "inc",
+      "wmt",
+      "set",
+      "to",
+      "hold",
+      "sales",
+      "event",
+      "to",
+      "rival",
+      "amazon",
+      "s",
+      "prime",
+      "day"
+    ],
+    "created_at": "Tue Jul 14 18:35:42 +0000 2015",
+    "user_id_str": "2567518027",
+    "followers_count": 729
+  }
+]

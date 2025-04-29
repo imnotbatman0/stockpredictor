@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "stocks",
+      "you",
+      "migh",
+      "want",
+      "to",
+      "sell",
+      "$",
+      "ulta",
+      "$",
+      "cpb",
+      "$",
+      "mo",
+      "$",
+      "do",
+      "must",
+      "have"
+    ],
+    "created_at": "Wed May 28 03:55:08 +0000 2014",
+    "user_id_str": "2496238922",
+    "followers_count": 11
+  },
+  {
+    "text": [
+      "stocks",
+      "to",
+      "watch",
+      "for",
+      "may",
+      "28",
+      "2014",
+      "$",
+      "car",
+      "$",
+      "mela",
+      "$",
+      "mo",
+      "$",
+      "yelp",
+      "$",
+      "znga"
+    ],
+    "created_at": "Tue May 27 23:12:39 +0000 2014",
+    "user_id_str": "1370066508",
+    "followers_count": 139
+  }
+]

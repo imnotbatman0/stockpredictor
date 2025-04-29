@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "abbv",
+      "abbvie",
+      "inc",
+      "bid",
+      "click",
+      "here",
+      "-",
+      "gt",
+      "trending",
+      "$",
+      "abbv",
+      "$",
+      "v",
+      "$",
+      "tza",
+      "$",
+      "flws",
+      "abbv",
+      "stocks",
+      "investing"
+    ],
+    "created_at": "Wed May 06 01:45:06 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1321
+  },
+  {
+    "text": [
+      "abbvie",
+      "inc",
+      "makes",
+      "mega",
+      "bond",
+      "offering",
+      "to",
+      "fund",
+      "pharmacyclics",
+      "deal",
+      "-",
+      "$",
+      "abbv",
+      "$",
+      "pcyc"
+    ],
+    "created_at": "Wed May 06 11:39:02 +0000 2015",
+    "user_id_str": "2527494464",
+    "followers_count": 713
+  }
+]

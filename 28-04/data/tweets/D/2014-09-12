@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "$",
+      "btc",
+      "u$",
+      "d",
+      "471",
+      "98",
+      "bid",
+      "471",
+      "03",
+      "ask",
+      "471",
+      "12",
+      "avg",
+      "470",
+      "00"
+    ],
+    "created_at": "Fri Sep 12 12:05:03 +0000 2014",
+    "user_id_str": "1445020002",
+    "followers_count": 100
+  },
+  {
+    "text": [
+      "coloniaexpress",
+      "invierte",
+      "u$",
+      "d",
+      "42",
+      "millones",
+      "en",
+      "su",
+      "terminal",
+      "fluvial",
+      "y",
+      "en",
+      "la",
+      "construcci",
+      "n",
+      "del",
+      "argentina",
+      "express"
+    ],
+    "created_at": "Fri Sep 12 13:39:15 +0000 2014",
+    "user_id_str": "68222645",
+    "followers_count": 1704
+  },
+  {
+    "text": [
+      "jackelin",
+      "farias",
+      "deberias",
+      "explicar",
+      "donde",
+      "estan",
+      "los",
+      "u$",
+      "d",
+      "14",
+      "millardos",
+      "que",
+      "le",
+      "dieron",
+      "para",
+      "la",
+      "limpieza",
+      "del",
+      "rio",
+      "guaire",
+      "cecaf"
+    ],
+    "created_at": "Fri Sep 12 15:54:30 +0000 2014",
+    "user_id_str": "67765552",
+    "followers_count": 237
+  }
+]

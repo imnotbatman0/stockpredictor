@@ -1,0 +1,39 @@
+[
+  {
+    "text": [
+      "stocks",
+      "from",
+      "the",
+      "smb",
+      "scanner",
+      "$",
+      "srpt",
+      "$",
+      "lnkd",
+      "$",
+      "aegr",
+      "$",
+      "bud",
+      "$",
+      "bbsi"
+    ],
+    "created_at": "Fri Oct 31 13:37:51 +0000 2014",
+    "user_id_str": "240078196",
+    "followers_count": 484
+  },
+  {
+    "text": [
+      "$",
+      "bud",
+      "-",
+      "brazil",
+      "s",
+      "ambev",
+      "profit",
+      "rises"
+    ],
+    "created_at": "Fri Oct 31 11:41:06 +0000 2014",
+    "user_id_str": "2554107798",
+    "followers_count": 49
+  }
+]

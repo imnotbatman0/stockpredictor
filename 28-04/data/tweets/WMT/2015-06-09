@@ -1,0 +1,109 @@
+[
+  {
+    "text": [
+      "sam",
+      "s",
+      "club",
+      "dreams",
+      "of",
+      "drones",
+      "for",
+      "christmas",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Tue Jun 09 02:55:38 +0000 2015",
+    "user_id_str": "206185651",
+    "followers_count": 225
+  },
+  {
+    "text": [
+      "your",
+      "tweet",
+      "about",
+      "$",
+      "wmt",
+      "had",
+      "a",
+      "sentiment",
+      "of",
+      "1",
+      "and",
+      "was",
+      "featured",
+      "on",
+      "market",
+      "parse"
+    ],
+    "created_at": "Tue Jun 09 10:30:04 +0000 2015",
+    "user_id_str": "3182322139",
+    "followers_count": 35
+  },
+  {
+    "text": [
+      "wmt",
+      "wal-mart",
+      "stores",
+      "inc",
+      "open",
+      "$",
+      "wmt",
+      "$",
+      "ibb",
+      "$",
+      "gdx",
+      "$",
+      "vti",
+      "wmt",
+      "stock",
+      "tradeideas"
+    ],
+    "created_at": "Tue Jun 09 16:49:07 +0000 2015",
+    "user_id_str": "1833020461",
+    "followers_count": 832
+  },
+  {
+    "text": [
+      "nov",
+      "national",
+      "oilwell",
+      "varco",
+      "inc",
+      "52wk",
+      "low",
+      "$",
+      "nov",
+      "$",
+      "rusl",
+      "$",
+      "wmt",
+      "$",
+      "ibm",
+      "nov",
+      "stock",
+      "tradeideas"
+    ],
+    "created_at": "Tue Jun 09 19:42:09 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 441
+  },
+  {
+    "text": [
+      "emylers",
+      "wmt",
+      "stock",
+      "72",
+      "47",
+      "wal-mart",
+      "stores",
+      "$",
+      "wmt",
+      "hit",
+      "a",
+      "52"
+    ],
+    "created_at": "Tue Jun 09 16:06:36 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13084
+  }
+]

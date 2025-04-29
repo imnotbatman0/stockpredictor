@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "stocks",
+      "to",
+      "hold",
+      "onto",
+      "$",
+      "txt",
+      "$",
+      "plcm",
+      "$",
+      "nee",
+      "$",
+      "usd",
+      "stock"
+    ],
+    "created_at": "Mon Jul 21 18:33:55 +0000 2014",
+    "user_id_str": "2663631566",
+    "followers_count": 5
+  },
+  {
+    "text": [
+      "$",
+      "tdg",
+      "get",
+      "the",
+      "latest",
+      "on",
+      "$",
+      "nee",
+      "$",
+      "cern",
+      "$",
+      "cbm",
+      "money"
+    ],
+    "created_at": "Mon Jul 21 13:05:03 +0000 2014",
+    "user_id_str": "2657037890",
+    "followers_count": 6
+  },
+  {
+    "text": [
+      "buying",
+      "or",
+      "selling",
+      "$",
+      "nee",
+      "$",
+      "wlp",
+      "$",
+      "nav",
+      "$",
+      "chtp",
+      "economy"
+    ],
+    "created_at": "Mon Jul 21 16:50:41 +0000 2014",
+    "user_id_str": "2663638892",
+    "followers_count": 0
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Tue Apr 08 12:35:24 +0000 2014",
+    "user_id_str": "1924310023",
+    "followers_count": 113
+  },
+  {
+    "text": [
+      "cnbc",
+      "direct",
+      "tv",
+      "close",
+      "to",
+      "agreement",
+      "to",
+      "bring",
+      "back",
+      "$",
+      "dtv",
+      "tv",
+      "$",
+      "cmcsa"
+    ],
+    "created_at": "Tue Apr 08 18:32:27 +0000 2014",
+    "user_id_str": "18455693",
+    "followers_count": 1883
+  },
+  {
+    "text": [
+      "$",
+      "cmcsa",
+      "-",
+      "$$",
+      "comcast",
+      "files",
+      "paperwork",
+      "on",
+      "time",
+      "warner",
+      "cable",
+      "buy",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Tue Apr 08 14:12:09 +0000 2014",
+    "user_id_str": "403276334",
+    "followers_count": 484
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "comcast",
+      "time",
+      "warner",
+      "invest",
+      "in",
+      "virtual",
+      "reality",
+      "$",
+      "cmcsa",
+      "$",
+      "twx"
+    ],
+    "created_at": "Wed Nov 11 21:11:03 +0000 2015",
+    "user_id_str": "3044159284",
+    "followers_count": 1615
+  },
+  {
+    "text": [
+      "$",
+      "vz",
+      "$",
+      "cmcsa",
+      "$",
+      "googl",
+      "the",
+      "ad-blocking",
+      "threat",
+      "is",
+      "real",
+      "linkedin",
+      "exec"
+    ],
+    "created_at": "Wed Nov 11 12:59:32 +0000 2015",
+    "user_id_str": "237251225",
+    "followers_count": 47
+  }
+]

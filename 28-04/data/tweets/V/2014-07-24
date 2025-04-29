@@ -1,0 +1,129 @@
+[
+  {
+    "text": [
+      "$",
+      "cvc",
+      "should",
+      "you",
+      "buy",
+      "$",
+      "ecl",
+      "$",
+      "v",
+      "$",
+      "pcln",
+      "financialnews",
+      "rate",
+      "limit",
+      "exceeded"
+    ],
+    "created_at": "Thu Jul 24 19:33:01 +0000 2014",
+    "user_id_str": "2719696894",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "visa",
+      "reports",
+      "third-quarter",
+      "earnings",
+      "of",
+      "$3",
+      "2",
+      "billion",
+      "$",
+      "v"
+    ],
+    "created_at": "Thu Jul 24 21:20:31 +0000 2014",
+    "user_id_str": "107122887",
+    "followers_count": 70
+  },
+  {
+    "text": [
+      "$",
+      "utx",
+      "stocks",
+      "you",
+      "might",
+      "want",
+      "to",
+      "buy",
+      "$",
+      "mnst",
+      "$",
+      "v",
+      "$",
+      "do",
+      "must",
+      "have"
+    ],
+    "created_at": "Thu Jul 24 12:55:12 +0000 2014",
+    "user_id_str": "2665825555",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "$",
+      "hum",
+      "get",
+      "great",
+      "research",
+      "on",
+      "stocks",
+      "$",
+      "boh",
+      "$",
+      "v",
+      "$",
+      "wtw",
+      "nasdaq"
+    ],
+    "created_at": "Thu Jul 24 10:13:40 +0000 2014",
+    "user_id_str": "2666039875",
+    "followers_count": 8
+  },
+  {
+    "text": [
+      "$",
+      "p",
+      "$",
+      "amzn",
+      "$",
+      "v",
+      "$",
+      "sbux",
+      "-",
+      "catalyst",
+      "for",
+      "a",
+      "down",
+      "day",
+      "tomorrow"
+    ],
+    "created_at": "Thu Jul 24 20:38:38 +0000 2014",
+    "user_id_str": "2566527685",
+    "followers_count": 111
+  },
+  {
+    "text": [
+      "this",
+      "weeks",
+      "stocks",
+      "you",
+      "should",
+      "watch",
+      "$",
+      "el",
+      "$",
+      "v",
+      "$",
+      "txn",
+      "$",
+      "amzn",
+      "overvalued"
+    ],
+    "created_at": "Thu Jul 24 20:24:10 +0000 2014",
+    "user_id_str": "2491519982",
+    "followers_count": 7
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "text": [
+      "blta",
+      "baltia",
+      "airlines",
+      "inc",
+      "exchange",
+      "$",
+      "blta",
+      "$",
+      "qcom",
+      "$",
+      "avop",
+      "$",
+      "v",
+      "blta",
+      "stocks",
+      "pennystocks"
+    ],
+    "created_at": "Sat Jun 20 19:34:33 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 654
+  },
+  {
+    "text": [
+      "amzn",
+      "inc",
+      "ex-div",
+      "date",
+      "$",
+      "amzn",
+      "$",
+      "pcln",
+      "$",
+      "v",
+      "$",
+      "exmt",
+      "amzn",
+      "nasdaq",
+      "nasdaq"
+    ],
+    "created_at": "Sat Jun 20 04:33:09 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 468
+  },
+  {
+    "text": [
+      "dd",
+      "dupont",
+      "co",
+      "financials",
+      "$",
+      "dd",
+      "$",
+      "ilf",
+      "$",
+      "v",
+      "$",
+      "akrx",
+      "dd",
+      "share",
+      "stock"
+    ],
+    "created_at": "Sat Jun 20 16:36:05 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 947
+  }
+]

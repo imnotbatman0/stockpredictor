@@ -1,0 +1,34 @@
+[
+  {
+    "text": [
+      "$",
+      "ko",
+      "coca-cola",
+      "pours",
+      "itself",
+      "some",
+      "more",
+      "keurig"
+    ],
+    "created_at": "Wed May 14 07:28:43 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 309
+  },
+  {
+    "text": [
+      "$",
+      "ko",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Wed May 14 19:25:38 +0000 2014",
+    "user_id_str": "1923879936",
+    "followers_count": 103
+  }
+]
