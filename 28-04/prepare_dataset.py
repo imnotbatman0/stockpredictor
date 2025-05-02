@@ -4,7 +4,7 @@ import os
 import numpy as np
 from preprocess_prices import preprocess_prices
 
-price_folder = 'data/stocks/'
+price_folder = 'preprocessed_data/stocks/'
 tweet_embed_folder = 'tweet_embeds_768/'
 
 os.makedirs('price', exist_ok=True)
