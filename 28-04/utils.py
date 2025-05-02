@@ -13,7 +13,7 @@ def encode_onehot(labels):
 
 def load_data():
     # print('Loading dummy dataset...')
-    stock_num = 4  # or however many stocks you want to simulate
+    stock_num = 85  # or however many stocks you want to simulate
     adj = torch.ones(stock_num, stock_num)  # Matrix with all ones as dummy adjacency
     return adj
     print('Loading dataset...')
