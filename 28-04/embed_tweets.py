@@ -16,11 +16,18 @@ model.eval()
 
 def embed_tweet(text):
     with torch.no_grad():
+        # Tokenize and convert to tensor
         inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=128)
         inputs = {k: v.to(device) for k, v in inputs.items()}
+        
+        # Forward pass to get model output
         outputs = model(**inputs)
-        pooled = outputs.last_hidden_state.mean(dim=1)
-        return pooled.squeeze(0).cpu().numpy()
+        
+        # Extract the embedding of the [CLS] token (first token)
+        cls_embedding = outputs.last_hidden_state[:, 0, :]  # shape: [batch_size, hidden_size]
+        
+        # Convert to CPU and numpy
+        return cls_embedding.squeeze(0).cpu().numpy()
 
 def embed_all_tweets(tweet_root, output_root):
     os.makedirs(output_root, exist_ok=True)
