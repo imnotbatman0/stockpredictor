@@ -66,4 +66,4 @@ def embed_all_tweets(tweet_root, output_root):
             np.save(os.path.join(out_path, fname + ".npy"), tweet_array)
 
 if __name__ == '__main__':
-    embed_all_tweets("data/tweets", "tweet_embeds_768")
+    embed_all_tweets("preprocessed_data/tweets", "tweet_embeds_768")
