@@ -34,9 +34,8 @@ def preprocess_prices(stock_folder):
             dates = []
             for i in range(WINDOW_SIZE, len(df)-1):
                 window = df.loc[i-WINDOW_SIZE:i-1, ['open', 'high', 'low', 'close']].values
-                today_close = df.loc[i-1, 'close']
-                next_close = df.loc[i, 'close']
-                pct_change = (next_close - today_close) / today_close
+                next_close_norm = df.loc[i, 'close']
+                pct_change = next_close_norm - 1
                 if pct_change > MARGIN:
                     label = 1
                 elif pct_change < -MARGIN:
