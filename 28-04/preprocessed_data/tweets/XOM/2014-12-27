@@ -1,0 +1,51 @@
+[
+  {
+    "text": [
+      "$",
+      "nflx",
+      "percent",
+      "change",
+      "updated",
+      "saturday",
+      "december",
+      "27",
+      "2014",
+      "2",
+      "07",
+      "16",
+      "pm",
+      "$",
+      "xom",
+      "$",
+      "ree",
+      "$",
+      "aks",
+      "$",
+      "wmih"
+    ],
+    "created_at": "Sat Dec 27 19:21:35 +0000 2014",
+    "user_id_str": "1850041968",
+    "followers_count": 347
+  },
+  {
+    "text": [
+      "$",
+      "ko",
+      "$",
+      "jnj",
+      "$",
+      "mcd",
+      "$",
+      "xom",
+      "can",
+      "dgi",
+      "aristocrats",
+      "beat",
+      "the",
+      "market"
+    ],
+    "created_at": "Sat Dec 27 01:13:02 +0000 2014",
+    "user_id_str": "2341445778",
+    "followers_count": 88
+  }
+]

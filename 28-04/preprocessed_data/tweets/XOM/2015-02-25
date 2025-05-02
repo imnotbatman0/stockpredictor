@@ -1,0 +1,81 @@
+[
+  {
+    "text": [
+      "leahanne",
+      "$",
+      "xom",
+      "exxon",
+      "mobil",
+      "corp",
+      "volume",
+      "alert",
+      "-",
+      "xom",
+      "stock",
+      "89",
+      "11",
+      "exxon",
+      "mobil",
+      "corp"
+    ],
+    "created_at": "Wed Feb 25 17:27:55 +0000 2015",
+    "user_id_str": "2197132710",
+    "followers_count": 507
+  },
+  {
+    "text": [
+      "$",
+      "qqq",
+      "$",
+      "sbux",
+      "$",
+      "scty",
+      "$",
+      "slb",
+      "$",
+      "spy",
+      "$",
+      "tlt",
+      "$",
+      "tsla",
+      "$",
+      "twtr",
+      "$",
+      "uso",
+      "$",
+      "vxx",
+      "$",
+      "wba",
+      "$",
+      "xom",
+      "$",
+      "yhoo"
+    ],
+    "created_at": "Wed Feb 25 14:03:45 +0000 2015",
+    "user_id_str": "2275658568",
+    "followers_count": 182
+  },
+  {
+    "text": [
+      "your",
+      "tweet",
+      "about",
+      "$",
+      "xom",
+      "had",
+      "a",
+      "sentiment",
+      "of",
+      "5",
+      "and",
+      "was",
+      "featured",
+      "on",
+      "market",
+      "parse"
+    ],
+    "created_at": "Wed Feb 25 10:30:13 +0000 2015",
+    "user_id_str": "3005559517",
+    "followers_count": 104
+  }
+]

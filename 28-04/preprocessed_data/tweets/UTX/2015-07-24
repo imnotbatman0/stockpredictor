@@ -1,0 +1,67 @@
+[
+  {
+    "text": [
+      "price",
+      "target",
+      "alert",
+      "trading",
+      "the",
+      "zacks",
+      "price",
+      "target",
+      "change",
+      "for",
+      "united",
+      "technologies",
+      "$",
+      "utx"
+    ],
+    "created_at": "Fri Jul 24 15:09:27 +0000 2015",
+    "user_id_str": "2448859862",
+    "followers_count": 3493
+  },
+  {
+    "text": [
+      "pcln",
+      "inc",
+      "shares",
+      "$",
+      "pcln",
+      "$",
+      "utx",
+      "$",
+      "dbc",
+      "$",
+      "gg",
+      "pcln",
+      "nasdaq",
+      "stockmarket"
+    ],
+    "created_at": "Fri Jul 24 01:44:44 +0000 2015",
+    "user_id_str": "2285996066",
+    "followers_count": 760
+  },
+  {
+    "text": [
+      "fcx",
+      "freeport-mcmoran",
+      "inc",
+      "eod",
+      "data",
+      "$",
+      "fcx",
+      "$",
+      "utx",
+      "$",
+      "cog",
+      "$",
+      "oil",
+      "fcx",
+      "stockmarket",
+      "tradeideas"
+    ],
+    "created_at": "Fri Jul 24 07:36:39 +0000 2015",
+    "user_id_str": "2181326676",
+    "followers_count": 566
+  }
+]

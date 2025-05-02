@@ -1,0 +1,78 @@
+[
+  {
+    "text": [
+      "itb",
+      "ishares",
+      "dow",
+      "jones",
+      "u",
+      "s",
+      "home",
+      "construction",
+      "shares",
+      "$",
+      "itb",
+      "$",
+      "sh",
+      "$",
+      "mrk",
+      "$",
+      "mo",
+      "itb",
+      "stocks",
+      "pennystocks"
+    ],
+    "created_at": "Mon Jun 29 02:39:03 +0000 2015",
+    "user_id_str": "2233924628",
+    "followers_count": 390
+  },
+  {
+    "text": [
+      "huge",
+      "variation",
+      "altria",
+      "group",
+      "inc",
+      "$",
+      "mo",
+      "49",
+      "48",
+      "down",
+      "4",
+      "00pm",
+      "stocks"
+    ],
+    "created_at": "Mon Jun 29 13:30:10 +0000 2015",
+    "user_id_str": "2481776288",
+    "followers_count": 204
+  },
+  {
+    "text": [
+      "mo",
+      "merck",
+      "amp",
+      "co",
+      "inc",
+      "bid",
+      "size",
+      "$",
+      "mo",
+      "$",
+      "acol",
+      "$",
+      "amco",
+      "$",
+      "actg",
+      "mo",
+      "invest",
+      "stockmrk",
+      "micron",
+      "technology",
+      "inc",
+      "sum"
+    ],
+    "created_at": "Mon Jun 29 11:01:51 +0000 2015",
+    "user_id_str": "3138326769",
+    "followers_count": 10727
+  }
+]

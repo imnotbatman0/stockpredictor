@@ -1,4 +1,4 @@
-# Updated model.py with hierarchical tweet encoding
+# Updated model.py with trainable projection from 768 → 64 for tweet embeddings
 
 import torch
 import torch.nn as nn
@@ -14,6 +14,9 @@ class GAT(nn.Module):
         # Price encoder
         self.price_transformers = nn.ModuleList([TransformerEncoderLayer(d_model=4, nhead=1) for _ in range(stock_num)])
         self.price_projectors = nn.ModuleList([nn.Linear(4, 64) for _ in range(stock_num)])
+
+        # Tweet projection layer: 768 → 64 (now trainable)
+        self.tweet_projector = nn.Linear(768, 64)
 
         # Intra-day tweet encoder (GRU + attention)
         self.intra_day_encoders = nn.ModuleList([GRUWithAttention(input_dim=64, hidden_dim=64) for _ in range(stock_num)])
@@ -45,9 +48,9 @@ class GAT(nn.Module):
             # Intra-day tweet encoding (per day)
             daily_vecs = []
             for d in range(5):
-                tweets = text_input[i, d]  # [10, 64]
-                tweets = tweets.unsqueeze(0)  # [1, 10, 64]
-                daily_vec = self.intra_day_encoders[i](tweets)  # [1, 64]
+                tweets = text_input[i, d]  # [10, 768]
+                projected = self.tweet_projector(tweets)  # [10, 64]
+                daily_vec = self.intra_day_encoders[i](projected.unsqueeze(0))  # [1, 64]
                 daily_vecs.append(daily_vec)
             tweet_sequence = torch.stack(daily_vecs, dim=1).squeeze(0)  # [5, 64]
 
@@ -62,7 +65,7 @@ class GAT(nn.Module):
 
             li.append(fused.unsqueeze(0))
 
-        ft_vec = torch.cat(li, dim=0).view(num_stocks, -1)  # [num_stocks, 64]
+        ft_vec = torch.cat(li, dim=0).view(num_stocks, -1)
 
         # Individual classifiers
         out_1 = torch.stack([self.output_projectors[i](ft_vec[i]) for i in range(num_stocks)], dim=0)

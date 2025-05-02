@@ -1,0 +1,79 @@
+[
+  {
+    "text": [
+      "wal-mart",
+      "pay",
+      "respects",
+      "customers",
+      "and",
+      "breaks",
+      "from",
+      "merchant",
+      "customer",
+      "exchange",
+      "$",
+      "ma",
+      "$",
+      "v",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Sun Dec 13 12:13:10 +0000 2015",
+    "user_id_str": "2155397520",
+    "followers_count": 5217
+  },
+  {
+    "text": [
+      "v",
+      "visa",
+      "inc",
+      "current",
+      "price",
+      "$",
+      "v",
+      "$",
+      "ewj",
+      "$",
+      "amzn",
+      "$",
+      "dd",
+      "v",
+      "nasdaq",
+      "stock"
+    ],
+    "created_at": "Sat Dec 12 23:50:04 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 710
+  },
+  {
+    "text": [
+      "xme",
+      "ishares",
+      "cdn",
+      "s",
+      "amp",
+      "p",
+      "tsx",
+      "capped",
+      "reit",
+      "index",
+      "fund",
+      "day",
+      "high",
+      "$",
+      "xme",
+      "$",
+      "v",
+      "$",
+      "gld",
+      "$",
+      "vxx",
+      "xme",
+      "stocks",
+      "share"
+    ],
+    "created_at": "Sun Dec 13 06:51:03 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 701
+  }
+]

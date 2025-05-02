@@ -1,0 +1,74 @@
+[
+  {
+    "text": [
+      "aa",
+      "alcoa",
+      "inc",
+      "message",
+      "board",
+      "posts",
+      "$",
+      "aa",
+      "$",
+      "dnrg",
+      "$",
+      "hd",
+      "$",
+      "arwr",
+      "aa",
+      "stockmarket",
+      "stockmarket"
+    ],
+    "created_at": "Fri Aug 07 19:32:07 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 693
+  },
+  {
+    "text": [
+      "amzn",
+      "inc",
+      "company",
+      "info",
+      "$",
+      "amzn",
+      "$",
+      "gg",
+      "$",
+      "ge",
+      "$",
+      "hd",
+      "amzn",
+      "pennystocks",
+      "stocks"
+    ],
+    "created_at": "Thu Aug 06 22:32:12 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 958
+  },
+  {
+    "text": [
+      "mux",
+      "mcewen",
+      "mining",
+      "inc",
+      "summary",
+      "$",
+      "mux",
+      "$",
+      "hd",
+      "$",
+      "gld",
+      "$",
+      "rad",
+      "mux",
+      "finance",
+      "investmyec",
+      "myecheck",
+      "inc",
+      "exchange"
+    ],
+    "created_at": "Thu Aug 06 22:50:13 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4334
+  }
+]

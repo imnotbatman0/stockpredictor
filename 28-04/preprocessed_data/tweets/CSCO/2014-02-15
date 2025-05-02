@@ -1,0 +1,46 @@
+[
+  {
+    "text": [
+      "$",
+      "csco",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Sat Feb 15 16:19:54 +0000 2014",
+    "user_id_str": "1924312855",
+    "followers_count": 124
+  },
+  {
+    "text": [
+      "growth",
+      "in",
+      "cyber",
+      "security",
+      "spending",
+      "looks",
+      "positive",
+      "for",
+      "security",
+      "stocks",
+      "$",
+      "chkp",
+      "$",
+      "csco",
+      "$",
+      "feye",
+      "$",
+      "panw",
+      "$",
+      "tgt"
+    ],
+    "created_at": "Sat Feb 15 12:22:30 +0000 2014",
+    "user_id_str": "411777058",
+    "followers_count": 59
+  }
+]

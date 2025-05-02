@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "$",
+      "aapl",
+      "seeking",
+      "the",
+      "next",
+      "hot",
+      "pennystock",
+      "$",
+      "cat",
+      "$",
+      "pc",
+      "$",
+      "gld",
+      "research"
+    ],
+    "created_at": "Wed Apr 23 09:42:40 +0000 2014",
+    "user_id_str": "2435281706",
+    "followers_count": 7
+  },
+  {
+    "text": [
+      "$",
+      "bbt",
+      "are",
+      "you",
+      "investing",
+      "in",
+      "$",
+      "cat",
+      "$",
+      "acn",
+      "$",
+      "hit",
+      "must",
+      "have"
+    ],
+    "created_at": "Wed Apr 23 08:52:18 +0000 2014",
+    "user_id_str": "2447104249",
+    "followers_count": 2
+  }
+]

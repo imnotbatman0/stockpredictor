@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "$",
+      "ge",
+      "u",
+      "s",
+      "republican",
+      "tax",
+      "writers",
+      "criticize",
+      "global",
+      "corporate",
+      "tax",
+      "project"
+    ],
+    "created_at": "Tue Jun 03 01:39:34 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 339
+  },
+  {
+    "text": [
+      "$",
+      "ge",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Tue Jun 03 15:59:04 +0000 2014",
+    "user_id_str": "1923890856",
+    "followers_count": 83
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "text": [
+      "c",
+      "citigroup",
+      "inc",
+      "last",
+      "trade",
+      "$",
+      "c",
+      "$",
+      "nxpi",
+      "$",
+      "mo",
+      "$",
+      "eem",
+      "c",
+      "share",
+      "stockmarketcat",
+      "caterpillar",
+      "inc",
+      "chart"
+    ],
+    "created_at": "Fri Jul 31 01:34:20 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 685
+  },
+  {
+    "text": [
+      "vale",
+      "companhia",
+      "vale",
+      "do",
+      "rio",
+      "doce",
+      "sa",
+      "stock",
+      "forum",
+      "$",
+      "vale",
+      "$",
+      "kbe",
+      "$",
+      "ifus",
+      "$",
+      "mo",
+      "vale",
+      "stocks",
+      "tradeideas"
+    ],
+    "created_at": "Fri Jul 31 10:48:34 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4324
+  }
+]

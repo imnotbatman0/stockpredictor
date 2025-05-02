@@ -1,0 +1,137 @@
+[
+  {
+    "text": [
+      "toptickertweets",
+      "$",
+      "spy",
+      "$",
+      "aapl",
+      "$",
+      "fb",
+      "$",
+      "ko",
+      "$",
+      "mcd",
+      "$",
+      "usd",
+      "$",
+      "tsla",
+      "$",
+      "ba",
+      "$",
+      "enzn",
+      "$",
+      "yhoo",
+      "sentiquant",
+      "20150422",
+      "09",
+      "25",
+      "15",
+      "578"
+    ],
+    "created_at": "Wed Apr 22 13:25:12 +0000 2015",
+    "user_id_str": "2440894303",
+    "followers_count": 236
+  },
+  {
+    "text": [
+      "stocks",
+      "to",
+      "watch",
+      "$",
+      "ko",
+      "$",
+      "mcd",
+      "$",
+      "ba"
+    ],
+    "created_at": "Wed Apr 22 14:26:08 +0000 2015",
+    "user_id_str": "414600500",
+    "followers_count": 52774
+  },
+  {
+    "text": [
+      "setups",
+      "for",
+      "wednesday",
+      "other",
+      "stocks",
+      "to",
+      "watch",
+      "$",
+      "aapl",
+      "$",
+      "sons",
+      "$",
+      "yhoo",
+      "$",
+      "baba",
+      "$",
+      "vltc",
+      "$",
+      "ko",
+      "$",
+      "ba",
+      "$",
+      "amgn",
+      "$",
+      "prgo",
+      "$",
+      "myl",
+      "$",
+      "teva",
+      "$",
+      "now",
+      "$",
+      "tsla"
+    ],
+    "created_at": "Wed Apr 22 12:48:49 +0000 2015",
+    "user_id_str": "2801334731",
+    "followers_count": 556
+  },
+  {
+    "text": [
+      "$",
+      "ko",
+      "eps",
+      "is",
+      "shrinking",
+      "here",
+      "s",
+      "the",
+      "chart"
+    ],
+    "created_at": "Wed Apr 22 06:59:36 +0000 2015",
+    "user_id_str": "100024370",
+    "followers_count": 8378
+  },
+  {
+    "text": [
+      "coke",
+      "stock",
+      "$",
+      "ko",
+      "jumps",
+      "2",
+      "4",
+      "premarket",
+      "on",
+      "positive",
+      "earnings",
+      "results"
+    ],
+    "created_at": "Wed Apr 22 12:40:57 +0000 2015",
+    "user_id_str": "3101350470",
+    "followers_count": 614
+  },
+  {
+    "text": [
+      "ko",
+      "$",
+      "ko"
+    ],
+    "created_at": "Wed Apr 22 11:50:24 +0000 2015",
+    "user_id_str": "2461556142",
+    "followers_count": 1745
+  }
+]

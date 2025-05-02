@@ -1,0 +1,33 @@
+[
+  {
+    "text": [
+      "$",
+      "csco",
+      "should",
+      "buy",
+      "$",
+      "feye",
+      "before",
+      "someone",
+      "else",
+      "does"
+    ],
+    "created_at": "Tue Sep 15 12:35:03 +0000 2015",
+    "user_id_str": "16313534",
+    "followers_count": 1475
+  },
+  {
+    "text": [
+      "$",
+      "csco",
+      "cisco",
+      "declares",
+      "$0",
+      "21",
+      "dividend"
+    ],
+    "created_at": "Tue Sep 15 21:02:05 +0000 2015",
+    "user_id_str": "3017654325",
+    "followers_count": 2027
+  }
+]

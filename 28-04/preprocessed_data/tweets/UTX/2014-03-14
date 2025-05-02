@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "3",
+      "reasons",
+      "why",
+      "$",
+      "utx",
+      "shares",
+      "dropped",
+      "yesterday"
+    ],
+    "created_at": "Fri Mar 14 17:49:49 +0000 2014",
+    "user_id_str": "1569929455",
+    "followers_count": 347
+  },
+  {
+    "text": [
+      "$",
+      "utx",
+      "blue",
+      "light",
+      "specials",
+      "in",
+      "the",
+      "market",
+      "healthcare",
+      "johnson",
+      "amp",
+      "johnson",
+      "medtronic"
+    ],
+    "created_at": "Fri Mar 14 19:13:35 +0000 2014",
+    "user_id_str": "1839878976",
+    "followers_count": 78
+  }
+]

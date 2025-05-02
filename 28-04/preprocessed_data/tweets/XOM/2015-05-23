@@ -1,0 +1,98 @@
+[
+  {
+    "text": [
+      "xom",
+      "exxon",
+      "mobil",
+      "corp",
+      "investor",
+      "opinions",
+      "$",
+      "xom",
+      "$",
+      "eem",
+      "$",
+      "ci",
+      "$",
+      "cck",
+      "xom",
+      "share",
+      "stocks"
+    ],
+    "created_at": "Sat May 23 07:51:34 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 916
+  },
+  {
+    "text": [
+      "gdxj",
+      "gilead",
+      "sciences",
+      "inc",
+      "ask",
+      "$",
+      "gdxj",
+      "$",
+      "qld",
+      "$",
+      "xom",
+      "$",
+      "abat",
+      "gdxj",
+      "stockmarket",
+      "nasdaq"
+    ],
+    "created_at": "Sat May 23 10:39:38 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 916
+  },
+  {
+    "text": [
+      "ua",
+      "under",
+      "armour",
+      "inc",
+      "tick",
+      "$",
+      "ua",
+      "$",
+      "xom",
+      "$",
+      "ren",
+      "$",
+      "gme",
+      "ua",
+      "stocks",
+      "tradeideas"
+    ],
+    "created_at": "Sat May 23 13:48:10 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 467
+  },
+  {
+    "text": [
+      "brk",
+      "b",
+      "berkshire",
+      "hathaway",
+      "inc",
+      "yield",
+      "$",
+      "brk",
+      "b",
+      "$",
+      "hsbc",
+      "$",
+      "tsla",
+      "$",
+      "xom",
+      "brk",
+      "b",
+      "invest",
+      "tradeideas"
+    ],
+    "created_at": "Sat May 23 11:33:26 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 613
+  }
+]

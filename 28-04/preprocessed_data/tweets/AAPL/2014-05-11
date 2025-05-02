@@ -1,0 +1,105 @@
+[
+  {
+    "text": [
+      "$",
+      "aapl",
+      "apple",
+      "crushes",
+      "samsung",
+      "in",
+      "korean",
+      "customer",
+      "satisfaction",
+      "survey"
+    ],
+    "created_at": "Sun May 11 05:12:07 +0000 2014",
+    "user_id_str": "2342531144",
+    "followers_count": 62
+  },
+  {
+    "text": [
+      "apple",
+      "beats",
+      "cutting",
+      "through",
+      "the",
+      "hype",
+      "and",
+      "negativity",
+      "$",
+      "aapl",
+      "apple"
+    ],
+    "created_at": "Sun May 11 17:31:41 +0000 2014",
+    "user_id_str": "2469669336",
+    "followers_count": 12
+  },
+  {
+    "text": [
+      "why",
+      "apple",
+      "s",
+      "reported",
+      "acquisition",
+      "of",
+      "beats",
+      "is",
+      "an",
+      "incredibly",
+      "big",
+      "deal",
+      "that",
+      "everyone",
+      "very",
+      "excited",
+      "$",
+      "aapl",
+      "tech",
+      "stocks"
+    ],
+    "created_at": "Sun May 11 13:38:58 +0000 2014",
+    "user_id_str": "2459430642",
+    "followers_count": 4
+  },
+  {
+    "text": [
+      "$",
+      "aapl",
+      "heres",
+      "why",
+      "apple",
+      "should",
+      "launch",
+      "iphone",
+      "6",
+      "early"
+    ],
+    "created_at": "Sun May 11 06:11:06 +0000 2014",
+    "user_id_str": "1849605206",
+    "followers_count": 157
+  },
+  {
+    "text": [
+      "$",
+      "aapl"
+    ],
+    "created_at": "Sun May 11 15:12:58 +0000 2014",
+    "user_id_str": "1640681918",
+    "followers_count": 855
+  },
+  {
+    "text": [
+      "$",
+      "aapl",
+      "pursuing",
+      "beats",
+      "seen",
+      "presaging",
+      "more",
+      "takeovers"
+    ],
+    "created_at": "Sun May 11 14:12:41 +0000 2014",
+    "user_id_str": "390399332",
+    "followers_count": 73
+  }
+]

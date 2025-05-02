@@ -1,0 +1,67 @@
+[
+  {
+    "text": [
+      "penny",
+      "stock",
+      "basics",
+      "learn",
+      "the",
+      "basics",
+      "$",
+      "fb",
+      "$",
+      "twtr",
+      "$",
+      "lnkd",
+      "peeps"
+    ],
+    "created_at": "Sun Jan 11 03:00:32 +0000 2015",
+    "user_id_str": "11247222",
+    "followers_count": 71128
+  },
+  {
+    "text": [
+      "the",
+      "most",
+      "popular",
+      "social",
+      "media",
+      "apps",
+      "among",
+      "millennials",
+      "facebook",
+      "75",
+      "instagram",
+      "43",
+      "snapchat",
+      "32",
+      "twitter",
+      "23",
+      "$",
+      "fb"
+    ],
+    "created_at": "Sun Jan 11 22:06:10 +0000 2015",
+    "user_id_str": "381220463",
+    "followers_count": 1805
+  },
+  {
+    "text": [
+      "$",
+      "fb",
+      "us",
+      "video",
+      "is",
+      "bullish",
+      "for",
+      "twitter",
+      "and",
+      "facebook",
+      "facebook",
+      "inc",
+      "nasdaq"
+    ],
+    "created_at": "Sun Jan 11 15:27:14 +0000 2015",
+    "user_id_str": "2649921242",
+    "followers_count": 44
+  }
+]

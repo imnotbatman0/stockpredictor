@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "$",
+      "cat",
+      "news",
+      "alert",
+      "updated",
+      "options",
+      "view",
+      "all",
+      "options",
+      "views"
+    ],
+    "created_at": "Fri Feb 07 23:40:55 +0000 2014",
+    "user_id_str": "1923890856",
+    "followers_count": 83
+  },
+  {
+    "text": [
+      "average",
+      "50",
+      "on",
+      "every",
+      "daytrade",
+      "check",
+      "out",
+      "trade",
+      "$",
+      "ibm",
+      "$",
+      "cat"
+    ],
+    "created_at": "Sat Feb 08 03:01:23 +0000 2014",
+    "user_id_str": "2273815110",
+    "followers_count": 12
+  },
+  {
+    "text": [
+      "40",
+      "to",
+      "100",
+      "with",
+      "options",
+      "on",
+      "a",
+      "daily",
+      "basis",
+      "must",
+      "attend",
+      "webinar",
+      "$",
+      "ibm",
+      "$",
+      "cat"
+    ],
+    "created_at": "Sat Feb 08 12:36:34 +0000 2014",
+    "user_id_str": "2277888818",
+    "followers_count": 12
+  }
+]

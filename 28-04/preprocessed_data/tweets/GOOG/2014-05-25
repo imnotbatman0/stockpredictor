@@ -1,0 +1,59 @@
+[
+  {
+    "text": [
+      "$",
+      "goog",
+      "an",
+      "interview",
+      "with",
+      "walt",
+      "mossberg",
+      "and",
+      "kara",
+      "swisher",
+      "the",
+      "most",
+      "powerful",
+      "me"
+    ],
+    "created_at": "Sun May 25 20:20:07 +0000 2014",
+    "user_id_str": "2329478684",
+    "followers_count": 64
+  },
+  {
+    "text": [
+      "$",
+      "goog",
+      "google",
+      "deal",
+      "highlights",
+      "risk",
+      "of",
+      "leaving",
+      "staff",
+      "to",
+      "their",
+      "own",
+      "devices"
+    ],
+    "created_at": "Sun May 25 20:01:07 +0000 2014",
+    "user_id_str": "2329478684",
+    "followers_count": 64
+  },
+  {
+    "text": [
+      "google",
+      "developing",
+      "tablet",
+      "with",
+      "advanced",
+      "vision",
+      "capabilities",
+      "$",
+      "goog"
+    ],
+    "created_at": "Sun May 25 06:07:45 +0000 2014",
+    "user_id_str": "256484231",
+    "followers_count": 520
+  }
+]

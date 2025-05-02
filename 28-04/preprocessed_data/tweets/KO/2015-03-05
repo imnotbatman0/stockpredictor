@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "$",
+      "ko",
+      "your",
+      "tweet",
+      "has",
+      "been",
+      "featured",
+      "on",
+      "market",
+      "parse",
+      "for",
+      "iphone"
+    ],
+    "created_at": "Thu Mar 05 22:00:40 +0000 2015",
+    "user_id_str": "3005559517",
+    "followers_count": 928
+  },
+  {
+    "text": [
+      "coca-cola",
+      "is",
+      "redesigning",
+      "its",
+      "european",
+      "packaging",
+      "so",
+      "all",
+      "of",
+      "its",
+      "flavors",
+      "look",
+      "the",
+      "same",
+      "$",
+      "ko"
+    ],
+    "created_at": "Thu Mar 05 00:08:31 +0000 2015",
+    "user_id_str": "45870401",
+    "followers_count": 838
+  }
+]

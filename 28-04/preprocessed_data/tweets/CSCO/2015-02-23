@@ -1,0 +1,40 @@
+[
+  {
+    "text": [
+      "$",
+      "csco",
+      "-",
+      "cisco",
+      "systems",
+      "a",
+      "5-star",
+      "very",
+      "strong",
+      "stock"
+    ],
+    "created_at": "Mon Feb 23 20:01:07 +0000 2015",
+    "user_id_str": "2554107798",
+    "followers_count": 135
+  },
+  {
+    "text": [
+      "$",
+      "csco",
+      "$",
+      "axta",
+      "cisco",
+      "systems",
+      "inc",
+      "nasdaq",
+      "csco",
+      "on",
+      "active",
+      "notes",
+      "with",
+      "axalta"
+    ],
+    "created_at": "Mon Feb 23 17:06:03 +0000 2015",
+    "user_id_str": "2881595931",
+    "followers_count": 183
+  }
+]

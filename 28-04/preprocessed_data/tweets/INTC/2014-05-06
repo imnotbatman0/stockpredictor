@@ -1,0 +1,111 @@
+[
+  {
+    "text": [
+      "klic",
+      "stock",
+      "chart",
+      "$",
+      "klic",
+      "$",
+      "intc",
+      "$",
+      "fxi",
+      "$",
+      "fslr"
+    ],
+    "created_at": "Tue May 06 14:19:11 +0000 2014",
+    "user_id_str": "2243075472",
+    "followers_count": 394
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "intel",
+      "to",
+      "launch",
+      "20",
+      "chromebooks",
+      "by",
+      "end",
+      "of",
+      "2014"
+    ],
+    "created_at": "Tue May 06 20:01:37 +0000 2014",
+    "user_id_str": "2329478684",
+    "followers_count": 53
+  },
+  {
+    "text": [
+      "hanging",
+      "man",
+      "may",
+      "signal",
+      "caution",
+      "$",
+      "aapl",
+      "$",
+      "amzn",
+      "$",
+      "fb",
+      "$",
+      "lnkd",
+      "$",
+      "twtr",
+      "$",
+      "goog",
+      "$",
+      "msft",
+      "$",
+      "wmt",
+      "$",
+      "unh",
+      "$",
+      "gs",
+      "$",
+      "intc",
+      "$",
+      "jnj",
+      "$",
+      "jpm",
+      "$",
+      "mmm",
+      "$",
+      "mrk"
+    ],
+    "created_at": "Tue May 06 03:21:47 +0000 2014",
+    "user_id_str": "206338797",
+    "followers_count": 21
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "intels",
+      "push",
+      "to",
+      "be",
+      "the",
+      "internet",
+      "of",
+      "things"
+    ],
+    "created_at": "Tue May 06 10:36:42 +0000 2014",
+    "user_id_str": "1728756842",
+    "followers_count": 220
+  },
+  {
+    "text": [
+      "and",
+      "$",
+      "intc",
+      "is",
+      "still",
+      "green",
+      "hysterical"
+    ],
+    "created_at": "Tue May 06 18:01:48 +0000 2014",
+    "user_id_str": "61501509",
+    "followers_count": 101
+  }
+]

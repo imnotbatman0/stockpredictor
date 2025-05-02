@@ -1,0 +1,60 @@
+[
+  {
+    "text": [
+      "moore",
+      "s",
+      "law",
+      "amplifies",
+      "your",
+      "investment",
+      "return",
+      "$",
+      "intc",
+      "$",
+      "swks",
+      "via",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Sun Jun 01 10:50:06 +0000 2014",
+    "user_id_str": "72258382",
+    "followers_count": 263
+  },
+  {
+    "text": [
+      "intel",
+      "s",
+      "3-d",
+      "printed",
+      "robot",
+      "will",
+      "come",
+      "this",
+      "year",
+      "via",
+      "$",
+      "intc"
+    ],
+    "created_at": "Sun Jun 01 03:04:34 +0000 2014",
+    "user_id_str": "2311534602",
+    "followers_count": 123
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "head",
+      "of",
+      "intels",
+      "former",
+      "internet",
+      "tv",
+      "project",
+      "abandons",
+      "ship"
+    ],
+    "created_at": "Sun Jun 01 01:12:34 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 337
+  }
+]

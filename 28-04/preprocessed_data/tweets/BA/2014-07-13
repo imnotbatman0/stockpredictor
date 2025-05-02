@@ -1,0 +1,102 @@
+[
+  {
+    "text": [
+      "boeing",
+      "makes",
+      "a",
+      "36",
+      "770-airplane",
+      "promise",
+      "$",
+      "ba",
+      "$",
+      "eadsy",
+      "via"
+    ],
+    "created_at": "Sat Jul 12 22:48:06 +0000 2014",
+    "user_id_str": "235648313",
+    "followers_count": 534
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "airshow-engine",
+      "maker",
+      "cfm",
+      "eyes",
+      "record",
+      "orders",
+      "in",
+      "2014"
+    ],
+    "created_at": "Sun Jul 13 11:10:40 +0000 2014",
+    "user_id_str": "1836984799",
+    "followers_count": 175
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "-",
+      "airshow-boeing",
+      "sees",
+      "f",
+      "a-18",
+      "fighter",
+      "line",
+      "continuing",
+      "through",
+      "2017",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Sun Jul 13 16:06:28 +0000 2014",
+    "user_id_str": "300706809",
+    "followers_count": 18647
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "-",
+      "government",
+      "spending",
+      "cuts",
+      "take",
+      "toll",
+      "on",
+      "boeings",
+      "defence",
+      "business",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Sun Jul 13 18:06:33 +0000 2014",
+    "user_id_str": "300706809",
+    "followers_count": 18647
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "boeing",
+      "looks",
+      "cheaper",
+      "than",
+      "usual",
+      "barron",
+      "s",
+      "says"
+    ],
+    "created_at": "Sun Jul 13 21:44:42 +0000 2014",
+    "user_id_str": "403855355",
+    "followers_count": 1978
+  }
+]

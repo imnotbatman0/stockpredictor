@@ -1,0 +1,65 @@
+[
+  {
+    "text": [
+      "investor",
+      "s",
+      "alert",
+      "intel",
+      "corporation",
+      "intc",
+      "acacia",
+      "research",
+      "corp",
+      "actg",
+      "$",
+      "intc"
+    ],
+    "created_at": "Fri Apr 04 03:42:49 +0000 2014",
+    "user_id_str": "704897486",
+    "followers_count": 1008
+  },
+  {
+    "text": [
+      "stocks",
+      "you",
+      "might",
+      "want",
+      "to",
+      "hold",
+      "onto",
+      "$",
+      "bll",
+      "$",
+      "pl",
+      "$",
+      "intc",
+      "$",
+      "pcln",
+      "wallstreet"
+    ],
+    "created_at": "Fri Apr 04 17:45:10 +0000 2014",
+    "user_id_str": "2459777998",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "$",
+      "intc",
+      "-",
+      "prosecutors",
+      "accept",
+      "sac",
+      "capital",
+      "guilty",
+      "plea",
+      "-",
+      "gt",
+      "stock",
+      "stocks",
+      "stockaction"
+    ],
+    "created_at": "Fri Apr 04 01:47:15 +0000 2014",
+    "user_id_str": "2180886595",
+    "followers_count": 731
+  }
+]

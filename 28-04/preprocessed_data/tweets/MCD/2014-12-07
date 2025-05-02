@@ -1,0 +1,59 @@
+[
+  {
+    "text": [
+      "2014",
+      "restaurant",
+      "stock",
+      "review",
+      "the",
+      "good",
+      "the",
+      "bad",
+      "the",
+      "lessons",
+      "$",
+      "mcd",
+      "$",
+      "sonc",
+      "$",
+      "zoes",
+      "$",
+      "frsh",
+      "$",
+      "bwld",
+      "$",
+      "bkw"
+    ],
+    "created_at": "Sun Dec 07 22:02:48 +0000 2014",
+    "user_id_str": "2878048029",
+    "followers_count": 400
+  },
+  {
+    "text": [
+      "second",
+      "day",
+      "in",
+      "a",
+      "row",
+      "at",
+      "bdubs",
+      "for",
+      "the",
+      "boys",
+      "and",
+      "to",
+      "think",
+      "it",
+      "used",
+      "to",
+      "be",
+      "$",
+      "mcd",
+      "$",
+      "bwld"
+    ],
+    "created_at": "Sun Dec 07 19:53:56 +0000 2014",
+    "user_id_str": "17289029",
+    "followers_count": 781
+  }
+]

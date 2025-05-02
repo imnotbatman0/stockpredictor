@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "$",
+      "cri",
+      "should",
+      "you",
+      "buy",
+      "$",
+      "wag",
+      "$",
+      "dis",
+      "$",
+      "usd",
+      "try",
+      "this"
+    ],
+    "created_at": "Sat Apr 26 03:40:06 +0000 2014",
+    "user_id_str": "2486332307",
+    "followers_count": 10
+  },
+  {
+    "text": [
+      "captainamerica",
+      "the",
+      "winter",
+      "soldier",
+      "2014",
+      "cinema",
+      "movie",
+      "review",
+      "by",
+      "$",
+      "dis"
+    ],
+    "created_at": "Sat Apr 26 14:27:05 +0000 2014",
+    "user_id_str": "24820841",
+    "followers_count": 14482
+  },
+  {
+    "text": [
+      "chartguy89",
+      "stock",
+      "charts",
+      "amp",
+      "stock",
+      "chart",
+      "$",
+      "amp",
+      "$",
+      "tan",
+      "$",
+      "fcx",
+      "$",
+      "dis"
+    ],
+    "created_at": "Sat Apr 26 14:15:14 +0000 2014",
+    "user_id_str": "2197132710",
+    "followers_count": 264
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "text": [
+      "fxe",
+      "currency",
+      "shares",
+      "euro",
+      "trust",
+      "current",
+      "price",
+      "$",
+      "fxe",
+      "$",
+      "celg",
+      "$",
+      "abx",
+      "$",
+      "trv",
+      "fxe",
+      "stockmarket",
+      "nasdaq"
+    ],
+    "created_at": "Sun Jun 21 04:38:03 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 653
+  },
+  {
+    "text": [
+      "ibb",
+      "biotech",
+      "ishares",
+      "ideas",
+      "$",
+      "ibb",
+      "$",
+      "ino",
+      "$",
+      "celg",
+      "$",
+      "brwc",
+      "ibb",
+      "nasdaq",
+      "nasdaq"
+    ],
+    "created_at": "Sat Jun 20 22:41:05 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 701
+  },
+  {
+    "text": [
+      "celg",
+      "celgene",
+      "corp",
+      "ex-div",
+      "date",
+      "$",
+      "celg",
+      "$",
+      "gild",
+      "$",
+      "sby",
+      "$",
+      "ctic",
+      "celg",
+      "pennystocks",
+      "tradeideas"
+    ],
+    "created_at": "Sun Jun 21 07:34:34 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 515
+  },
+  {
+    "text": [
+      "dskx",
+      "ds",
+      "healthcare",
+      "group",
+      "inc",
+      "summary",
+      "$",
+      "dskx",
+      "$",
+      "cnk",
+      "$",
+      "celg",
+      "$",
+      "cag",
+      "dskx",
+      "invest",
+      "pennystocks"
+    ],
+    "created_at": "Sun Jun 21 00:39:14 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 646
+  },
+  {
+    "text": [
+      "celg",
+      "celgene",
+      "corp",
+      "day",
+      "high",
+      "$",
+      "celg",
+      "$",
+      "wmih",
+      "$",
+      "ge",
+      "$",
+      "ibm",
+      "celg",
+      "tradeideas",
+      "pennystocks"
+    ],
+    "created_at": "Sun Jun 21 16:35:07 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4256
+  }
+]

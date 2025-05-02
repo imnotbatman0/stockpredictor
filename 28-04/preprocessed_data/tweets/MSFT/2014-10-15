@@ -1,0 +1,38 @@
+[
+  {
+    "text": [
+      "course",
+      "on",
+      "options",
+      "simulation",
+      "$",
+      "ibm",
+      "$",
+      "msft",
+      "$",
+      "hpq"
+    ],
+    "created_at": "Wed Oct 15 17:07:14 +0000 2014",
+    "user_id_str": "305518813",
+    "followers_count": 668
+  },
+  {
+    "text": [
+      "$",
+      "msft",
+      "-",
+      "google",
+      "unveils",
+      "nexus",
+      "6",
+      "phone",
+      "to",
+      "rival",
+      "iphone",
+      "6"
+    ],
+    "created_at": "Wed Oct 15 16:32:45 +0000 2014",
+    "user_id_str": "1291034732",
+    "followers_count": 19
+  }
+]

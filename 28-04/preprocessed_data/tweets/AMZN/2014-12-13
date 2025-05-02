@@ -1,0 +1,56 @@
+[
+  {
+    "text": [
+      "nyse",
+      "dow",
+      "jones",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "fb",
+      "$",
+      "amzn",
+      "$",
+      "pcln",
+      "$",
+      "lulu",
+      "55",
+      "call",
+      "op",
+      "58",
+      "cent"
+    ],
+    "created_at": "Sat Dec 13 17:42:54 +0000 2014",
+    "user_id_str": "633605097",
+    "followers_count": 293833
+  },
+  {
+    "text": [
+      "nyse",
+      "dow",
+      "jones",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "fb",
+      "$",
+      "amzn",
+      "$",
+      "pcln",
+      "$",
+      "lulu",
+      "55",
+      "call",
+      "op",
+      "58",
+      "cent"
+    ],
+    "created_at": "Sat Dec 13 19:26:23 +0000 2014",
+    "user_id_str": "143476164",
+    "followers_count": 318581
+  }
+]

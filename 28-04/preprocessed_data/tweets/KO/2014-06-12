@@ -1,0 +1,32 @@
+[
+  {
+    "text": [
+      "$",
+      "ko",
+      "vitaminwater",
+      "fans",
+      "upset",
+      "over",
+      "new",
+      "sweetener"
+    ],
+    "created_at": "Thu Jun 12 04:07:07 +0000 2014",
+    "user_id_str": "2341687424",
+    "followers_count": 7
+  },
+  {
+    "text": [
+      "vitaminwater",
+      "fans",
+      "upset",
+      "over",
+      "new",
+      "sweetener",
+      "$",
+      "ko"
+    ],
+    "created_at": "Thu Jun 12 07:17:56 +0000 2014",
+    "user_id_str": "704897486",
+    "followers_count": 1031
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "text": [
+      "cat",
+      "caterpillar",
+      "inc",
+      "quotes",
+      "$",
+      "cat",
+      "$",
+      "bib",
+      "$",
+      "schd",
+      "$",
+      "eem",
+      "cat",
+      "nasdaq",
+      "investing"
+    ],
+    "created_at": "Sun May 31 07:32:35 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 635
+  },
+  {
+    "text": [
+      "fix",
+      "comfort",
+      "systems",
+      "u",
+      "s",
+      "a",
+      "inc",
+      "financials",
+      "$",
+      "fix",
+      "$",
+      "fxi",
+      "$",
+      "ibb",
+      "$",
+      "cat",
+      "fix",
+      "nasdaq",
+      "invest"
+    ],
+    "created_at": "Sat May 30 22:38:34 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 633
+  },
+  {
+    "text": [
+      "hd",
+      "home",
+      "depot",
+      "inc",
+      "ask",
+      "size",
+      "$",
+      "hd",
+      "$",
+      "fv",
+      "$",
+      "wfc",
+      "$",
+      "cat",
+      "hd",
+      "invest",
+      "stocks"
+    ],
+    "created_at": "Sun May 31 04:38:37 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 633
+  },
+  {
+    "text": [
+      "jo",
+      "ipath",
+      "bloomberg",
+      "coffee",
+      "subindex",
+      "total",
+      "return",
+      "etn",
+      "summary",
+      "$",
+      "jo",
+      "$",
+      "trov",
+      "$",
+      "cat",
+      "$",
+      "cbs",
+      "jo",
+      "finance",
+      "stocks"
+    ],
+    "created_at": "Sun May 31 19:39:05 +0000 2015",
+    "user_id_str": "386787305",
+    "followers_count": 2970
+  }
+]

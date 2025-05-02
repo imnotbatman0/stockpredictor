@@ -1,0 +1,122 @@
+[
+  {
+    "text": [
+      "cat",
+      "caterpillar",
+      "inc",
+      "52wk",
+      "high",
+      "$",
+      "cat",
+      "$",
+      "celg",
+      "$",
+      "ewy",
+      "$",
+      "tna",
+      "cat",
+      "stock",
+      "nasdaq"
+    ],
+    "created_at": "Mon Jun 29 23:34:07 +0000 2015",
+    "user_id_str": "2196900553",
+    "followers_count": 480
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "news",
+      "adding",
+      "to",
+      "the",
+      "dividend",
+      "machine",
+      "caterpillar",
+      "$",
+      "cat",
+      "analyze"
+    ],
+    "created_at": "Tue Jun 30 03:09:32 +0000 2015",
+    "user_id_str": "1923890856",
+    "followers_count": 492
+  },
+  {
+    "text": [
+      "cat",
+      "caterpillar",
+      "inc",
+      "ex-div",
+      "date",
+      "$",
+      "cat",
+      "$",
+      "jpm",
+      "$",
+      "vxx",
+      "$",
+      "alk",
+      "cat",
+      "tradeideas",
+      "share"
+    ],
+    "created_at": "Tue Jun 30 01:34:16 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1397
+  },
+  {
+    "text": [
+      "gimo",
+      "gigamon",
+      "inc",
+      "bid",
+      "$",
+      "gimo",
+      "$",
+      "edz",
+      "$",
+      "bac",
+      "$",
+      "cat",
+      "gimo",
+      "invest",
+      "tradeideasgld",
+      "spdr",
+      "gold",
+      "trust",
+      "shares",
+      "company",
+      "info"
+    ],
+    "created_at": "Tue Jun 30 01:41:33 +0000 2015",
+    "user_id_str": "2181314366",
+    "followers_count": 668
+  },
+  {
+    "text": [
+      "lnkd",
+      "linkedin",
+      "corp",
+      "eod",
+      "data",
+      "$",
+      "lnkd",
+      "$",
+      "cat",
+      "$",
+      "ung",
+      "$",
+      "wmih",
+      "lnkd",
+      "nasdaq",
+      "stockmarketlqd",
+      "ishares",
+      "iboxx",
+      "investment",
+      "grade"
+    ],
+    "created_at": "Tue Jun 30 01:44:40 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 679
+  }
+]

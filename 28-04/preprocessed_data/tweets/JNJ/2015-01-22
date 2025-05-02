@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "tickers",
+      "trending",
+      "on",
+      "twtr",
+      "in",
+      "last",
+      "1",
+      "hour",
+      "$",
+      "jnj",
+      "$",
+      "sbux",
+      "$",
+      "gpro",
+      "$",
+      "avp",
+      "$",
+      "bbry"
+    ],
+    "created_at": "Thu Jan 22 20:41:33 +0000 2015",
+    "user_id_str": "2373813025",
+    "followers_count": 263
+  },
+  {
+    "text": [
+      "traders",
+      "sell",
+      "johnson",
+      "amp",
+      "johnson",
+      "on",
+      "strength",
+      "$",
+      "jnj"
+    ],
+    "created_at": "Thu Jan 22 12:44:20 +0000 2015",
+    "user_id_str": "2181281054",
+    "followers_count": 234
+  }
+]

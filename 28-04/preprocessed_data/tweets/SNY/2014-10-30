@@ -1,0 +1,75 @@
+[
+  {
+    "text": [
+      "3-star",
+      "analyst",
+      "mark",
+      "clark",
+      "from",
+      "deutsche",
+      "bank",
+      "rated",
+      "$",
+      "sny",
+      "w",
+      "a",
+      "hold",
+      "mark",
+      "has",
+      "a",
+      "75",
+      "0",
+      "success",
+      "rate",
+      "nyse"
+    ],
+    "created_at": "Thu Oct 30 05:59:25 +0000 2014",
+    "user_id_str": "725577499",
+    "followers_count": 1291
+  },
+  {
+    "text": [
+      "ex-sanofi",
+      "ceo",
+      "viehbacher",
+      "in",
+      "line",
+      "for",
+      "up",
+      "to",
+      "$7",
+      "8m",
+      "cash",
+      "payoff",
+      "$",
+      "sny",
+      "pharma",
+      "by"
+    ],
+    "created_at": "Thu Oct 30 13:41:22 +0000 2014",
+    "user_id_str": "28616383",
+    "followers_count": 291
+  },
+  {
+    "text": [
+      "sanofi",
+      "fires",
+      "ceo",
+      "as",
+      "tensions",
+      "boil",
+      "over",
+      "-",
+      "wsj",
+      "-",
+      "wsj",
+      "stocks",
+      "biotech",
+      "$",
+      "sny"
+    ],
+    "created_at": "Thu Oct 30 17:45:07 +0000 2014",
+    "user_id_str": "2479150057",
+    "followers_count": 893
+  }
+]

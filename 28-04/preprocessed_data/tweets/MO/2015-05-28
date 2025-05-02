@@ -1,0 +1,50 @@
+[
+  {
+    "text": [
+      "mo",
+      "altria",
+      "group",
+      "inc",
+      "quotes",
+      "$",
+      "mo",
+      "$",
+      "fv",
+      "$",
+      "amgn",
+      "$",
+      "clb",
+      "mo",
+      "nasdaq",
+      "tradeideas"
+    ],
+    "created_at": "Thu May 28 16:42:10 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4207
+  },
+  {
+    "text": [
+      "ppch",
+      "propanc",
+      "health",
+      "group",
+      "corp",
+      "market",
+      "cap",
+      "$",
+      "ppch",
+      "$",
+      "mo",
+      "$",
+      "gg",
+      "$",
+      "lnkd",
+      "ppch",
+      "share",
+      "nasdaq"
+    ],
+    "created_at": "Thu May 28 16:43:37 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 633
+  }
+]

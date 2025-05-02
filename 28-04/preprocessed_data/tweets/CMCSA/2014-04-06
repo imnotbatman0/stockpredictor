@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "2",
+      "reasons",
+      "apple",
+      "will",
+      "buy",
+      "netflix",
+      "via",
+      "$",
+      "aapl",
+      "$",
+      "cmcsa",
+      "$",
+      "twc",
+      "$",
+      "nflx"
+    ],
+    "created_at": "Sun Apr 06 15:45:30 +0000 2014",
+    "user_id_str": "123136593",
+    "followers_count": 699
+  },
+  {
+    "text": [
+      "netflix",
+      "be",
+      "damned",
+      "cable",
+      "told",
+      "to",
+      "pass",
+      "on",
+      "higher",
+      "costs",
+      "ibdnews",
+      "via",
+      "$",
+      "nflx",
+      "$",
+      "cmcsa",
+      "$",
+      "dis",
+      "$",
+      "amzn",
+      "$",
+      "goog",
+      "$",
+      "tw"
+    ],
+    "created_at": "Sun Apr 06 11:21:58 +0000 2014",
+    "user_id_str": "1026613897",
+    "followers_count": 463
+  },
+  {
+    "text": [
+      "are",
+      "you",
+      "thinking",
+      "of",
+      "investing",
+      "in",
+      "$",
+      "an",
+      "$",
+      "cmcsa",
+      "$",
+      "dri",
+      "$",
+      "ir",
+      "money"
+    ],
+    "created_at": "Sun Apr 06 06:53:34 +0000 2014",
+    "user_id_str": "2447656079",
+    "followers_count": 2
+  }
+]

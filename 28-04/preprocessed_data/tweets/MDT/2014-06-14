@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "medtronic",
+      "join",
+      "on",
+      "diabetes",
+      "drugs",
+      "devices",
+      "sanofi",
+      "$",
+      "mdt",
+      "$",
+      "san"
+    ],
+    "created_at": "Sat Jun 14 16:25:02 +0000 2014",
+    "user_id_str": "102325185",
+    "followers_count": 4400
+  },
+  {
+    "text": [
+      "first",
+      "$",
+      "snn",
+      "rumor",
+      "now",
+      "this",
+      "gt",
+      "gt",
+      "rt",
+      "medtronic",
+      "$",
+      "mdt",
+      "in",
+      "advanced",
+      "talks",
+      "to",
+      "acquire",
+      "covidien",
+      "$",
+      "cov",
+      "-",
+      "wsj"
+    ],
+    "created_at": "Sat Jun 14 16:42:37 +0000 2014",
+    "user_id_str": "166396386",
+    "followers_count": 2216
+  }
+]

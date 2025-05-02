@@ -1,0 +1,123 @@
+[
+  {
+    "text": [
+      "should",
+      "you",
+      "buy",
+      "sell",
+      "or",
+      "hold",
+      "$",
+      "orcl",
+      "$",
+      "teg",
+      "$",
+      "fmc",
+      "$",
+      "lgnd",
+      "research"
+    ],
+    "created_at": "Thu Dec 18 19:05:08 +0000 2014",
+    "user_id_str": "2739836471",
+    "followers_count": 13
+  },
+  {
+    "text": [
+      "avoid",
+      "mistakes",
+      "like",
+      "$",
+      "ne",
+      "$",
+      "orcl",
+      "$",
+      "dte",
+      "$",
+      "lgnd",
+      "overvalued"
+    ],
+    "created_at": "Thu Dec 18 17:04:50 +0000 2014",
+    "user_id_str": "2723785356",
+    "followers_count": 199
+  },
+  {
+    "text": [
+      "$",
+      "sne",
+      "up",
+      "post",
+      "the",
+      "interview",
+      "flop",
+      "$",
+      "orcl",
+      "oh-yeah",
+      "downbeat",
+      "outlook",
+      "$",
+      "dnkn"
+    ],
+    "created_at": "Thu Dec 18 18:00:21 +0000 2014",
+    "user_id_str": "274730101",
+    "followers_count": 1244
+  },
+  {
+    "text": [
+      "everyone",
+      "s",
+      "talking",
+      "about",
+      "$",
+      "orcl",
+      "today"
+    ],
+    "created_at": "Thu Dec 18 16:53:19 +0000 2014",
+    "user_id_str": "2827513827",
+    "followers_count": 16
+  },
+  {
+    "text": [
+      "focus",
+      "list",
+      "for",
+      "today",
+      "$",
+      "dnkn",
+      "$",
+      "rad",
+      "$",
+      "pwe",
+      "$",
+      "glng",
+      "$",
+      "bhi",
+      "$",
+      "tasr",
+      "$",
+      "swks",
+      "$",
+      "lnkd",
+      "$",
+      "opk",
+      "$",
+      "swir",
+      "$",
+      "goog",
+      "$",
+      "wfm",
+      "$",
+      "yhoo",
+      "$",
+      "baba",
+      "$",
+      "gpro",
+      "$",
+      "orcl",
+      "$",
+      "dgly"
+    ],
+    "created_at": "Thu Dec 18 14:26:52 +0000 2014",
+    "user_id_str": "2335651058",
+    "followers_count": 546
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "text": [
+      "$",
+      "amzn",
+      "reviews",
+      "updated",
+      "sunday",
+      "january",
+      "4",
+      "2015",
+      "09",
+      "02",
+      "55",
+      "am",
+      "$",
+      "jaso",
+      "$",
+      "crm",
+      "$",
+      "iwm",
+      "$",
+      "dd"
+    ],
+    "created_at": "Sun Jan 04 14:12:03 +0000 2015",
+    "user_id_str": "1854900966",
+    "followers_count": 208
+  },
+  {
+    "text": [
+      "fedex",
+      "ups",
+      "recalculate",
+      "raise",
+      "rates",
+      "via",
+      "$",
+      "ups",
+      "$",
+      "fdx",
+      "$",
+      "amzn"
+    ],
+    "created_at": "Sun Jan 04 22:18:23 +0000 2015",
+    "user_id_str": "20881788",
+    "followers_count": 42
+  },
+  {
+    "text": [
+      "$",
+      "amzn",
+      "$",
+      "wmt",
+      "$",
+      "tgt",
+      "$",
+      "bby",
+      "news",
+      "the",
+      "free",
+      "delivery",
+      "gambit",
+      "in",
+      "retail",
+      "$",
+      "amzn",
+      "$",
+      "wmt",
+      "$",
+      "tgt",
+      "board",
+      "view"
+    ],
+    "created_at": "Sun Jan 04 00:52:02 +0000 2015",
+    "user_id_str": "1924310023",
+    "followers_count": 170
+  },
+  {
+    "text": [
+      "amazon",
+      "chief",
+      "jeffbezos",
+      "lost",
+      "$7",
+      "4b",
+      "in",
+      "company",
+      "s",
+      "worst",
+      "year",
+      "$",
+      "amzn",
+      "ecommerce",
+      "nasdaq",
+      "sp500"
+    ],
+    "created_at": "Sun Jan 04 08:31:35 +0000 2015",
+    "user_id_str": "2570479190",
+    "followers_count": 1172
+  }
+]

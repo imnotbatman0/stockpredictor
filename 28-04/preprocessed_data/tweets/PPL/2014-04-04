@@ -1,0 +1,36 @@
+[
+  {
+    "text": [
+      "$",
+      "ppl",
+      "index",
+      "hits",
+      "all-time",
+      "high",
+      "again"
+    ],
+    "created_at": "Fri Apr 04 00:48:05 +0000 2014",
+    "user_id_str": "1835525678",
+    "followers_count": 162
+  },
+  {
+    "text": [
+      "whats",
+      "going",
+      "on",
+      "with",
+      "$",
+      "aes",
+      "$",
+      "tap",
+      "$",
+      "ppl",
+      "$",
+      "lgnd",
+      "singedinvestor"
+    ],
+    "created_at": "Fri Apr 04 04:36:32 +0000 2014",
+    "user_id_str": "2449631543",
+    "followers_count": 0
+  }
+]

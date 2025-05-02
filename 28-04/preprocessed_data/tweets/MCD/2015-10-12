@@ -1,0 +1,65 @@
+[
+  {
+    "text": [
+      "mcd",
+      "mcdonalds",
+      "corp",
+      "bid",
+      "$",
+      "mcd",
+      "$",
+      "rdsh",
+      "$",
+      "tna",
+      "$",
+      "aa",
+      "mcd",
+      "stocks",
+      "tradeideas"
+    ],
+    "created_at": "Mon Oct 12 10:43:36 +0000 2015",
+    "user_id_str": "2181346825",
+    "followers_count": 569
+  },
+  {
+    "text": [
+      "eog",
+      "eog",
+      "resources",
+      "inc",
+      "open",
+      "$",
+      "eog",
+      "$",
+      "qld",
+      "$",
+      "mcd",
+      "$",
+      "slv",
+      "eog",
+      "invest",
+      "finance"
+    ],
+    "created_at": "Mon Oct 12 15:35:37 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 609
+  },
+  {
+    "text": [
+      "$",
+      "mcd",
+      "mcdonald",
+      "s",
+      "corporation",
+      "nyse",
+      "mcd",
+      "given",
+      "a",
+      "crowd",
+      "sourced"
+    ],
+    "created_at": "Mon Oct 12 18:05:02 +0000 2015",
+    "user_id_str": "2342763212",
+    "followers_count": 359
+  }
+]

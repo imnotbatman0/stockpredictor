@@ -1,0 +1,54 @@
+[
+  {
+    "text": [
+      "stock",
+      "scan",
+      "lt",
+      "nyse",
+      "starts",
+      "trading",
+      "21sep2014",
+      "$",
+      "ko",
+      "$",
+      "stt",
+      "$",
+      "kndi",
+      "$",
+      "cma",
+      "$",
+      "ctrx",
+      "$",
+      "ocr",
+      "$",
+      "kbh"
+    ],
+    "created_at": "Sun Sep 21 19:13:01 +0000 2014",
+    "user_id_str": "2201402059",
+    "followers_count": 571
+  },
+  {
+    "text": [
+      "wall",
+      "street",
+      "drinks",
+      "which",
+      "is",
+      "best",
+      "$",
+      "dps",
+      "$",
+      "gmcr",
+      "$",
+      "ko",
+      "$",
+      "pep",
+      "$",
+      "sbux",
+      "thecoachsroster"
+    ],
+    "created_at": "Sun Sep 21 20:00:00 +0000 2014",
+    "user_id_str": "1634354948",
+    "followers_count": 3824
+  }
+]

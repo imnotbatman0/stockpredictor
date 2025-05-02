@@ -1,0 +1,86 @@
+[
+  {
+    "text": [
+      "$",
+      "aapl",
+      "machinists",
+      "vote",
+      "helps",
+      "boeing",
+      "avoid",
+      "hiring",
+      "crunch"
+    ],
+    "created_at": "Sun Jan 05 00:23:09 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 61
+  },
+  {
+    "text": [
+      "jim",
+      "the",
+      "great",
+      "ghostine",
+      "has",
+      "predicted",
+      "$425",
+      "for",
+      "$",
+      "aapl",
+      "what",
+      "says",
+      "u",
+      "target",
+      "$425"
+    ],
+    "created_at": "Sun Jan 05 18:38:15 +0000 2014",
+    "user_id_str": "95424523",
+    "followers_count": 70
+  },
+  {
+    "text": [
+      "$",
+      "aapl",
+      "forecasting",
+      "apple",
+      "using",
+      "evidence-driven",
+      "technical",
+      "analysis",
+      "subscribers",
+      "only",
+      "target",
+      "$425"
+    ],
+    "created_at": "Sun Jan 05 18:06:24 +0000 2014",
+    "user_id_str": "224466293",
+    "followers_count": 6066
+  },
+  {
+    "text": [
+      "here",
+      "are",
+      "the",
+      "100",
+      "most",
+      "popular",
+      "and",
+      "most",
+      "trending",
+      "stocks",
+      "of",
+      "the",
+      "last",
+      "year",
+      "$",
+      "spy",
+      "$",
+      "fb",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Sun Jan 05 19:13:07 +0000 2014",
+    "user_id_str": "1600312634",
+    "followers_count": 23
+  }
+]

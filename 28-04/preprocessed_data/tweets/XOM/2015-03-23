@@ -1,0 +1,56 @@
+[
+  {
+    "text": [
+      "short",
+      "xom",
+      "$",
+      "xom"
+    ],
+    "created_at": "Mon Mar 23 14:28:13 +0000 2015",
+    "user_id_str": "2461556142",
+    "followers_count": 1603
+  },
+  {
+    "text": [
+      "exxon",
+      "mobil",
+      "corp",
+      "xom",
+      "closes",
+      "1",
+      "05",
+      "up",
+      "on",
+      "the",
+      "day",
+      "for",
+      "march",
+      "23",
+      "dow",
+      "jones",
+      "component",
+      "exxon",
+      "mobil",
+      "corp",
+      "$",
+      "xom"
+    ],
+    "created_at": "Mon Mar 23 22:02:40 +0000 2015",
+    "user_id_str": "24778432",
+    "followers_count": 614
+  },
+  {
+    "text": [
+      "$",
+      "xom",
+      "-",
+      "current",
+      "report",
+      "filing",
+      "8-k"
+    ],
+    "created_at": "Mon Mar 23 16:29:08 +0000 2015",
+    "user_id_str": "981236256",
+    "followers_count": 1587
+  }
+]

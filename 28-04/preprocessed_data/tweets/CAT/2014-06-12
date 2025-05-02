@@ -1,0 +1,52 @@
+[
+  {
+    "text": [
+      "$",
+      "cat",
+      "about",
+      "to",
+      "fall",
+      "in",
+      "106",
+      "s",
+      "yay"
+    ],
+    "created_at": "Thu Jun 12 14:52:06 +0000 2014",
+    "user_id_str": "186136458",
+    "followers_count": 3827
+  },
+  {
+    "text": [
+      "$",
+      "vmw",
+      "are",
+      "you",
+      "bullish",
+      "on",
+      "these",
+      "stocks",
+      "$",
+      "cat",
+      "$",
+      "crl",
+      "$",
+      "cag",
+      "financial"
+    ],
+    "created_at": "Thu Jun 12 06:53:54 +0000 2014",
+    "user_id_str": "2489285552",
+    "followers_count": 7
+  },
+  {
+    "text": [
+      "$",
+      "cat",
+      "raised",
+      "its",
+      "dividend"
+    ],
+    "created_at": "Wed Jun 11 22:11:07 +0000 2014",
+    "user_id_str": "1191488784",
+    "followers_count": 102
+  }
+]

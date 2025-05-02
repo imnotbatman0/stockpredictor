@@ -1,0 +1,65 @@
+[
+  {
+    "text": [
+      "$",
+      "wmt",
+      "obama",
+      "says",
+      "wal-mart",
+      "joins",
+      "apple",
+      "in",
+      "pledge",
+      "for",
+      "jobless"
+    ],
+    "created_at": "Fri Jan 31 03:17:48 +0000 2014",
+    "user_id_str": "1923869994",
+    "followers_count": 141
+  },
+  {
+    "text": [
+      "food-stamp",
+      "cut",
+      "bad",
+      "weather",
+      "blamed",
+      "by",
+      "wal-mart",
+      "$",
+      "wmt",
+      "for",
+      "profit",
+      "warning"
+    ],
+    "created_at": "Fri Jan 31 15:43:55 +0000 2014",
+    "user_id_str": "162125375",
+    "followers_count": 62
+  },
+  {
+    "text": [
+      "another",
+      "day",
+      "another",
+      "blue",
+      "christmas",
+      "report",
+      "walmart",
+      "is",
+      "the",
+      "latest",
+      "retailer",
+      "to",
+      "cut",
+      "its",
+      "holiday",
+      "earnings",
+      "view",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Fri Jan 31 16:28:42 +0000 2014",
+    "user_id_str": "17640056",
+    "followers_count": 697
+  }
+]

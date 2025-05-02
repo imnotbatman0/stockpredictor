@@ -1,0 +1,61 @@
+[
+  {
+    "text": [
+      "jason",
+      "bond",
+      "stock",
+      "picks",
+      "penny",
+      "stock",
+      "trading",
+      "alerts",
+      "$",
+      "fb",
+      "$",
+      "twtr",
+      "stocks"
+    ],
+    "created_at": "Sat Dec 05 05:05:39 +0000 2015",
+    "user_id_str": "2569229846",
+    "followers_count": 467
+  },
+  {
+    "text": [
+      "see",
+      "why",
+      "these",
+      "assets",
+      "are",
+      "trending",
+      "in",
+      "1",
+      "watchlist",
+      "$",
+      "aapl",
+      "$",
+      "eurusd",
+      "$",
+      "fb",
+      "$",
+      "gluu"
+    ],
+    "created_at": "Sat Dec 05 07:00:58 +0000 2015",
+    "user_id_str": "3170121190",
+    "followers_count": 735
+  },
+  {
+    "text": [
+      "$",
+      "fb",
+      "technical",
+      "analysis",
+      "video",
+      "12",
+      "4",
+      "2015"
+    ],
+    "created_at": "Fri Dec 04 23:52:19 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 628
+  }
+]

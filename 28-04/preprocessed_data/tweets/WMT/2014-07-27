@@ -1,0 +1,56 @@
+[
+  {
+    "text": [
+      "a",
+      "starbucks",
+      "store",
+      "manager",
+      "makes",
+      "an",
+      "average",
+      "$44",
+      "632",
+      "salary",
+      "compared",
+      "with",
+      "$92",
+      "462",
+      "at",
+      "wal-mart",
+      "$",
+      "sbux",
+      "$",
+      "wmt"
+    ],
+    "created_at": "Sun Jul 27 13:29:20 +0000 2014",
+    "user_id_str": "199936938",
+    "followers_count": 327
+  },
+  {
+    "text": [
+      "new",
+      "wal-mart",
+      "u",
+      "s",
+      "ceo",
+      "faces",
+      "a",
+      "long",
+      "list",
+      "of",
+      "pressing",
+      "problems",
+      "$",
+      "wmt",
+      "$",
+      "amzn",
+      "$",
+      "fdo",
+      "$",
+      "dg"
+    ],
+    "created_at": "Sun Jul 27 09:57:30 +0000 2014",
+    "user_id_str": "2683951260",
+    "followers_count": 41
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "text": [
+      "gld",
+      "spdr",
+      "gold",
+      "trust",
+      "shares",
+      "bid",
+      "size",
+      "$",
+      "gld",
+      "$",
+      "acts",
+      "$",
+      "unh",
+      "$",
+      "lc",
+      "gld",
+      "stocks",
+      "pennystocks"
+    ],
+    "created_at": "Sun Jun 14 10:40:56 +0000 2015",
+    "user_id_str": "386787305",
+    "followers_count": 2992
+  },
+  {
+    "text": [
+      "aa",
+      "alcoa",
+      "inc",
+      "tick",
+      "$",
+      "aa",
+      "$",
+      "unh",
+      "$",
+      "csco",
+      "$",
+      "ashr",
+      "aa",
+      "stocks",
+      "investingaaon",
+      "aaon",
+      "inc",
+      "news"
+    ],
+    "created_at": "Sun Jun 14 19:32:43 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 939
+  },
+  {
+    "text": [
+      "unh",
+      "unitedhealth",
+      "group",
+      "inc",
+      "last",
+      "price",
+      "$",
+      "unh",
+      "$",
+      "brwc",
+      "$",
+      "xlv",
+      "$",
+      "ogen",
+      "unh",
+      "pennystocks",
+      "stockmarket"
+    ],
+    "created_at": "Sun Jun 14 10:50:12 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 507
+  }
+]

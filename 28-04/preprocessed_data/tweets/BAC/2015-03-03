@@ -1,0 +1,86 @@
+[
+  {
+    "text": [
+      "block",
+      "trade",
+      "$",
+      "bac",
+      "2",
+      "500",
+      "000",
+      "shares",
+      "$16",
+      "05",
+      "14",
+      "07",
+      "42"
+    ],
+    "created_at": "Tue Mar 03 19:09:51 +0000 2015",
+    "user_id_str": "123125462",
+    "followers_count": 224
+  },
+  {
+    "text": [
+      "bank",
+      "of",
+      "america",
+      "corp",
+      "s",
+      "trust",
+      "preferred",
+      "securities",
+      "shares",
+      "cross",
+      "7",
+      "yield",
+      "mark",
+      "-",
+      "$",
+      "bac",
+      "mkt",
+      "trading",
+      "markets"
+    ],
+    "created_at": "Tue Mar 03 20:06:14 +0000 2015",
+    "user_id_str": "61127928",
+    "followers_count": 4219
+  },
+  {
+    "text": [
+      "2",
+      "5",
+      "warren",
+      "buffett",
+      "has",
+      "a",
+      "giant",
+      "position",
+      "in",
+      "bank",
+      "of",
+      "america",
+      "it",
+      "s",
+      "just",
+      "not",
+      "listed",
+      "-",
+      "gt",
+      "$",
+      "bac"
+    ],
+    "created_at": "Tue Mar 03 03:29:23 +0000 2015",
+    "user_id_str": "61366128",
+    "followers_count": 595
+  },
+  {
+    "text": [
+      "$",
+      "bac",
+      "hod"
+    ],
+    "created_at": "Tue Mar 03 15:35:16 +0000 2015",
+    "user_id_str": "28769199",
+    "followers_count": 1224
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "text": [
+      "$",
+      "pcp",
+      "$",
+      "dis",
+      "$",
+      "aapl",
+      "$",
+      "bac",
+      "cramer",
+      "buffett",
+      "magic",
+      "10",
+      "reasons",
+      "why",
+      "we",
+      "rallied"
+    ],
+    "created_at": "Mon Aug 10 22:17:02 +0000 2015",
+    "user_id_str": "2341445778",
+    "followers_count": 523
+  },
+  {
+    "text": [
+      "what",
+      "investors",
+      "bought",
+      "and",
+      "sold",
+      "last",
+      "month",
+      "$",
+      "aapl",
+      "$",
+      "baba",
+      "$",
+      "bac",
+      "$",
+      "dis",
+      "$",
+      "xom",
+      "$",
+      "cop"
+    ],
+    "created_at": "Tue Aug 11 15:35:10 +0000 2015",
+    "user_id_str": "13471032",
+    "followers_count": 9744
+  },
+  {
+    "text": [
+      "will",
+      "disney",
+      "and",
+      "espn",
+      "be",
+      "ok",
+      "in",
+      "a",
+      "direct-to-consumer",
+      "world",
+      "aka",
+      "if",
+      "you",
+      "smell",
+      "something",
+      "say",
+      "something",
+      "$",
+      "dis"
+    ],
+    "created_at": "Tue Aug 11 11:25:53 +0000 2015",
+    "user_id_str": "14992263",
+    "followers_count": 8139
+  }
+]

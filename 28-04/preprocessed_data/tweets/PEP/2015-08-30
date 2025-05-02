@@ -1,0 +1,55 @@
+[
+  {
+    "text": [
+      "analysts",
+      "set",
+      "pepsico",
+      "pt",
+      "at",
+      "$105",
+      "59",
+      "$",
+      "pep"
+    ],
+    "created_at": "Sun Aug 30 14:38:57 +0000 2015",
+    "user_id_str": "2743641378",
+    "followers_count": 576
+  },
+  {
+    "text": [
+      "similar",
+      "s",
+      "with",
+      "pepsi",
+      "$",
+      "pep"
+    ],
+    "created_at": "Sun Aug 30 06:31:34 +0000 2015",
+    "user_id_str": "2558172444",
+    "followers_count": 280
+  },
+  {
+    "text": [
+      "pran",
+      "prana",
+      "biotechnology",
+      "ltd",
+      "investor",
+      "opinions",
+      "$",
+      "pran",
+      "$",
+      "iwo",
+      "$",
+      "slv",
+      "$",
+      "pep",
+      "pran",
+      "stockmarket",
+      "stock"
+    ],
+    "created_at": "Sun Aug 30 04:44:06 +0000 2015",
+    "user_id_str": "2181357950",
+    "followers_count": 1465
+  }
+]

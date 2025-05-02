@@ -1,0 +1,60 @@
+[
+  {
+    "text": [
+      "intel",
+      "corporation",
+      "is",
+      "doing",
+      "something",
+      "strange",
+      "with",
+      "skylake",
+      "$",
+      "intc",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Wed Dec 10 14:17:23 +0000 2014",
+    "user_id_str": "1354252658",
+    "followers_count": 1938
+  },
+  {
+    "text": [
+      "whats",
+      "going",
+      "on",
+      "with",
+      "$",
+      "intc",
+      "$",
+      "schw",
+      "$",
+      "ntrs",
+      "$",
+      "rt",
+      "personalfinance"
+    ],
+    "created_at": "Wed Dec 10 00:00:32 +0000 2014",
+    "user_id_str": "2746323408",
+    "followers_count": 301
+  },
+  {
+    "text": [
+      "pennystock",
+      "research",
+      "on",
+      "$",
+      "cbi",
+      "$",
+      "cop",
+      "$",
+      "intc",
+      "$",
+      "amzn",
+      "research"
+    ],
+    "created_at": "Wed Dec 10 15:20:10 +0000 2014",
+    "user_id_str": "2730006924",
+    "followers_count": 189
+  }
+]

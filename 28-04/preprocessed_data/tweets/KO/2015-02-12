@@ -1,0 +1,83 @@
+[
+  {
+    "text": [
+      "$",
+      "ge",
+      "stock",
+      "price",
+      "updated",
+      "wednesday",
+      "february",
+      "11",
+      "2015",
+      "9",
+      "11",
+      "12",
+      "pm",
+      "$",
+      "fnma",
+      "$",
+      "grcu",
+      "$",
+      "cste",
+      "$",
+      "ko"
+    ],
+    "created_at": "Thu Feb 12 02:56:35 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 396
+  },
+  {
+    "text": [
+      "the",
+      "coca-cola",
+      "co",
+      "earnings",
+      "coke",
+      "revenue",
+      "stabilizes",
+      "now",
+      "for",
+      "the",
+      "hard",
+      "part",
+      "-",
+      "$",
+      "ko",
+      "stockmarket",
+      "stocks",
+      "headlines"
+    ],
+    "created_at": "Thu Feb 12 03:02:29 +0000 2015",
+    "user_id_str": "1059243763",
+    "followers_count": 693
+  },
+  {
+    "text": [
+      "$",
+      "sltd",
+      "stock",
+      "price",
+      "updated",
+      "thursday",
+      "february",
+      "12",
+      "2015",
+      "06",
+      "07",
+      "16",
+      "am",
+      "$",
+      "hsp",
+      "$",
+      "ko",
+      "$",
+      "ewg",
+      "$",
+      "celg"
+    ],
+    "created_at": "Thu Feb 12 12:10:43 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 434
+  }
+]

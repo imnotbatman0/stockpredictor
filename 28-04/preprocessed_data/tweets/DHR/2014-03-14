@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "stock",
+      "watchlist",
+      "find",
+      "out",
+      "why",
+      "$",
+      "dhr",
+      "$",
+      "amtd",
+      "$",
+      "gm",
+      "$",
+      "cbm",
+      "moneymanagement"
+    ],
+    "created_at": "Fri Mar 14 02:14:31 +0000 2014",
+    "user_id_str": "2357106286",
+    "followers_count": 22
+  },
+  {
+    "text": [
+      "thinking",
+      "of",
+      "investing",
+      "in",
+      "$",
+      "wtr",
+      "$",
+      "dhr",
+      "$",
+      "noc",
+      "$",
+      "lgnd",
+      "i",
+      "suggest"
+    ],
+    "created_at": "Fri Mar 14 21:25:00 +0000 2014",
+    "user_id_str": "2315374352",
+    "followers_count": 400
+  }
+]

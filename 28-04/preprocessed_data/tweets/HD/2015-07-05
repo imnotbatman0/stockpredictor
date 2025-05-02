@@ -1,0 +1,43 @@
+[
+  {
+    "text": [
+      "interactive",
+      "chart",
+      "-",
+      "gt",
+      "$",
+      "hd",
+      "revenue",
+      "and",
+      "earnings",
+      "are",
+      "rising"
+    ],
+    "created_at": "Sun Jul 05 08:27:51 +0000 2015",
+    "user_id_str": "100024370",
+    "followers_count": 8568
+  },
+  {
+    "text": [
+      "acur",
+      "acura",
+      "pharmaceuticals",
+      "inc",
+      "yield",
+      "$",
+      "acur",
+      "$",
+      "ci",
+      "$",
+      "feye",
+      "$",
+      "hd",
+      "acur",
+      "stock",
+      "nasdaq"
+    ],
+    "created_at": "Sun Jul 05 02:42:07 +0000 2015",
+    "user_id_str": "153876973",
+    "followers_count": 5943
+  }
+]

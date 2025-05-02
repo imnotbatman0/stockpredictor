@@ -1,0 +1,47 @@
+[
+  {
+    "text": [
+      "tgt",
+      "target",
+      "corp",
+      "chart",
+      "$",
+      "tgt",
+      "$",
+      "omn",
+      "$",
+      "v",
+      "$",
+      "tsla",
+      "tgt",
+      "pennystocks",
+      "invest"
+    ],
+    "created_at": "Sat Sep 19 19:48:14 +0000 2015",
+    "user_id_str": "2579477766",
+    "followers_count": 13171
+  },
+  {
+    "text": [
+      "v",
+      "visa",
+      "inc",
+      "last",
+      "price",
+      "$",
+      "v",
+      "$",
+      "myec",
+      "$",
+      "srpt",
+      "$",
+      "gg",
+      "v",
+      "investing",
+      "nasdaq"
+    ],
+    "created_at": "Sat Sep 19 19:49:17 +0000 2015",
+    "user_id_str": "2197078218",
+    "followers_count": 587
+  }
+]

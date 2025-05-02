@@ -1,0 +1,41 @@
+[
+  {
+    "text": [
+      "$",
+      "rex",
+      "-",
+      "credit",
+      "suisse",
+      "securities",
+      "eur",
+      "ltd",
+      "form",
+      "8",
+      "5",
+      "ept",
+      "non-ri",
+      "rexam",
+      "plc"
+    ],
+    "created_at": "Wed Feb 18 11:11:01 +0000 2015",
+    "user_id_str": "1627066812",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "rexam",
+      "plc",
+      "receives",
+      "bb",
+      "credit",
+      "rating",
+      "from",
+      "morningstar",
+      "$",
+      "rex"
+    ],
+    "created_at": "Wed Feb 18 13:57:26 +0000 2015",
+    "user_id_str": "2348716116",
+    "followers_count": 1845
+  }
+]

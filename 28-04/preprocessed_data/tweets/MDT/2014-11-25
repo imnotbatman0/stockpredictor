@@ -1,0 +1,46 @@
+[
+  {
+    "text": [
+      "find",
+      "the",
+      "next",
+      "hot",
+      "pennystock",
+      "$",
+      "flir",
+      "$",
+      "mdt",
+      "$",
+      "ulta",
+      "$",
+      "csiq",
+      "must",
+      "see"
+    ],
+    "created_at": "Tue Nov 25 06:27:52 +0000 2014",
+    "user_id_str": "2739859012",
+    "followers_count": 6
+  },
+  {
+    "text": [
+      "$",
+      "mdt",
+      "are",
+      "you",
+      "looking",
+      "for",
+      "winners",
+      "like",
+      "$",
+      "tecd",
+      "$",
+      "uthr",
+      "$",
+      "tur",
+      "wallstreet"
+    ],
+    "created_at": "Tue Nov 25 04:12:20 +0000 2014",
+    "user_id_str": "2746348310",
+    "followers_count": 330
+  }
+]

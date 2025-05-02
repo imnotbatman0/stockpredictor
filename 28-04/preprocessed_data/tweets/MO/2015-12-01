@@ -1,0 +1,81 @@
+[
+  {
+    "text": [
+      "$",
+      "baba",
+      "stock",
+      "price",
+      "updated",
+      "tuesday",
+      "december",
+      "1",
+      "2015",
+      "2",
+      "07",
+      "22",
+      "pm",
+      "$",
+      "hjoe",
+      "$",
+      "xrt",
+      "$",
+      "box",
+      "$",
+      "mo"
+    ],
+    "created_at": "Tue Dec 01 19:51:09 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 981
+  },
+  {
+    "text": [
+      "$",
+      "qld",
+      "stock",
+      "message",
+      "board",
+      "updated",
+      "tuesday",
+      "december",
+      "1",
+      "2015",
+      "1",
+      "07",
+      "23",
+      "pm",
+      "$",
+      "qld",
+      "$",
+      "hyg",
+      "$",
+      "fb",
+      "$",
+      "mo"
+    ],
+    "created_at": "Tue Dec 01 18:50:07 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 981
+  },
+  {
+    "text": [
+      "mo",
+      "morgan",
+      "stanley",
+      "ask",
+      "$",
+      "mo",
+      "$",
+      "gbsn",
+      "$",
+      "fb",
+      "$",
+      "fnv",
+      "mo",
+      "stock",
+      "stock"
+    ],
+    "created_at": "Tue Dec 01 21:53:39 +0000 2015",
+    "user_id_str": "2863026998",
+    "followers_count": 634
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "text": [
+      "$",
+      "sltd",
+      "filings",
+      "updated",
+      "sunday",
+      "february",
+      "15",
+      "2015",
+      "3",
+      "07",
+      "02",
+      "pm",
+      "$",
+      "sync",
+      "$",
+      "wti",
+      "$",
+      "xom",
+      "$",
+      "fnma"
+    ],
+    "created_at": "Sun Feb 15 21:02:11 +0000 2015",
+    "user_id_str": "1850041968",
+    "followers_count": 441
+  },
+  {
+    "text": [
+      "$",
+      "xom",
+      "last",
+      "price",
+      "updated",
+      "sunday",
+      "february",
+      "15",
+      "2015",
+      "08",
+      "10",
+      "51",
+      "am",
+      "$",
+      "gene",
+      "$",
+      "hp",
+      "$",
+      "c",
+      "$",
+      "xlv"
+    ],
+    "created_at": "Sun Feb 15 13:55:46 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 403
+  }
+]

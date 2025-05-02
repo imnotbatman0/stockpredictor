@@ -1,0 +1,49 @@
+[
+  {
+    "text": [
+      "today",
+      "s",
+      "action",
+      "leaders",
+      "$",
+      "fb",
+      "$",
+      "bac",
+      "$",
+      "aapl",
+      "$",
+      "ge",
+      "$",
+      "vrx",
+      "$",
+      "baba"
+    ],
+    "created_at": "Sat Nov 07 03:17:07 +0000 2015",
+    "user_id_str": "14902429",
+    "followers_count": 1271
+  },
+  {
+    "text": [
+      "amgn",
+      "amgen",
+      "inc",
+      "last",
+      "price",
+      "$",
+      "amgn",
+      "$",
+      "mcd",
+      "$",
+      "jd",
+      "$",
+      "bac",
+      "amgn",
+      "investing",
+      "stockamzn",
+      "inc"
+    ],
+    "created_at": "Sat Nov 07 02:34:14 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 1010
+  }
+]

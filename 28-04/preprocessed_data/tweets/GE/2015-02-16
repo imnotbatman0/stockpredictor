@@ -1,0 +1,44 @@
+[
+  {
+    "text": [
+      "$",
+      "slb",
+      "news",
+      "updated",
+      "monday",
+      "february",
+      "16",
+      "2015",
+      "05",
+      "11",
+      "18",
+      "am",
+      "$",
+      "vxx",
+      "$",
+      "qld",
+      "$",
+      "ge",
+      "$",
+      "iyr"
+    ],
+    "created_at": "Mon Feb 16 10:16:24 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 397
+  },
+  {
+    "text": [
+      "love",
+      "the",
+      "new",
+      "$",
+      "ge",
+      "commercial",
+      "ideas",
+      "supersweet"
+    ],
+    "created_at": "Mon Feb 16 00:26:18 +0000 2015",
+    "user_id_str": "71567200",
+    "followers_count": 671
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "text": [
+      "some",
+      "employees",
+      "really",
+      "do",
+      "deserve",
+      "that",
+      "raise",
+      "sundayfunday",
+      "$",
+      "goog",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Sun Mar 15 16:09:44 +0000 2015",
+    "user_id_str": "44060322",
+    "followers_count": 41261
+  },
+  {
+    "text": [
+      "buy",
+      "google",
+      "stock",
+      "invest",
+      "in",
+      "$",
+      "goog",
+      "on",
+      "etoro",
+      "stocks"
+    ],
+    "created_at": "Sun Mar 15 11:53:47 +0000 2015",
+    "user_id_str": "3003300069",
+    "followers_count": 14
+  },
+  {
+    "text": [
+      "can",
+      "apple",
+      "disrupt",
+      "the",
+      "luxury",
+      "watch",
+      "market",
+      "depends",
+      "on",
+      "how",
+      "you",
+      "define",
+      "disrupt",
+      "$",
+      "aapl",
+      "$",
+      "goog",
+      "$",
+      "pcln",
+      "$",
+      "k"
+    ],
+    "created_at": "Sun Mar 15 19:34:51 +0000 2015",
+    "user_id_str": "2825810342",
+    "followers_count": 263
+  }
+]

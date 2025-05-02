@@ -1,0 +1,83 @@
+[
+  {
+    "text": [
+      "it",
+      "could",
+      "be",
+      "breaktout",
+      "time",
+      "on",
+      "$",
+      "etfc",
+      "$",
+      "ba",
+      "$",
+      "hcc",
+      "$",
+      "cag",
+      "financialnews"
+    ],
+    "created_at": "Mon Jul 21 21:37:06 +0000 2014",
+    "user_id_str": "2657057887",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "pennystock",
+      "research",
+      "on",
+      "$",
+      "gps",
+      "$",
+      "nfx",
+      "$",
+      "rax",
+      "research"
+    ],
+    "created_at": "Mon Jul 21 19:54:10 +0000 2014",
+    "user_id_str": "2657039870",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "the",
+      "boeing",
+      "company",
+      "announces",
+      "3",
+      "more",
+      "agreements",
+      "bringing",
+      "2-day",
+      "total"
+    ],
+    "created_at": "Mon Jul 21 18:06:08 +0000 2014",
+    "user_id_str": "1729271713",
+    "followers_count": 187
+  },
+  {
+    "text": [
+      "$",
+      "ba",
+      "spending",
+      "cuts",
+      "put",
+      "boeing",
+      "s",
+      "defense",
+      "space",
+      "amp",
+      "security",
+      "business",
+      "at",
+      "risk"
+    ],
+    "created_at": "Mon Jul 21 04:06:04 +0000 2014",
+    "user_id_str": "1729115834",
+    "followers_count": 270
+  }
+]

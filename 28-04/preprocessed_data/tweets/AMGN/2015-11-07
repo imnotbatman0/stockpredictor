@@ -1,0 +1,69 @@
+[
+  {
+    "text": [
+      "$",
+      "amgn",
+      "this",
+      "biotech",
+      "eyes",
+      "one",
+      "goal",
+      "cure",
+      "cancer",
+      "now"
+    ],
+    "created_at": "Fri Nov 06 23:49:37 +0000 2015",
+    "user_id_str": "798491287",
+    "followers_count": 826
+  },
+  {
+    "text": [
+      "goog",
+      "alphabet",
+      "inc",
+      "-",
+      "class",
+      "c",
+      "last",
+      "trade",
+      "$",
+      "goog",
+      "$",
+      "c",
+      "$",
+      "gdx",
+      "$",
+      "amgn",
+      "goog",
+      "invest",
+      "invest"
+    ],
+    "created_at": "Sat Nov 07 14:41:17 +0000 2015",
+    "user_id_str": "2197054086",
+    "followers_count": 820
+  },
+  {
+    "text": [
+      "amgn",
+      "amgen",
+      "inc",
+      "last",
+      "price",
+      "$",
+      "amgn",
+      "$",
+      "mcd",
+      "$",
+      "jd",
+      "$",
+      "bac",
+      "amgn",
+      "investing",
+      "stockamzn",
+      "inc"
+    ],
+    "created_at": "Sat Nov 07 02:34:14 +0000 2015",
+    "user_id_str": "2181334776",
+    "followers_count": 1010
+  }
+]

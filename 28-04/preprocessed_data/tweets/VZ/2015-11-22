@@ -1,0 +1,65 @@
+[
+  {
+    "text": [
+      "stop",
+      "stealing",
+      "my",
+      "iphone6",
+      "$",
+      "vz",
+      "$",
+      "aapl"
+    ],
+    "created_at": "Sun Nov 22 06:31:34 +0000 2015",
+    "user_id_str": "2478008502",
+    "followers_count": 181
+  },
+  {
+    "text": [
+      "at",
+      "amp",
+      "t",
+      "calling",
+      "for",
+      "a",
+      "2",
+      "dividend",
+      "hike",
+      "in",
+      "december",
+      "$",
+      "tmus",
+      "$",
+      "vz",
+      "$",
+      "t"
+    ],
+    "created_at": "Sun Nov 22 09:54:24 +0000 2015",
+    "user_id_str": "203859927",
+    "followers_count": 1605
+  },
+  {
+    "text": [
+      "at",
+      "amp",
+      "t",
+      "calling",
+      "for",
+      "a",
+      "2",
+      "dividend",
+      "hike",
+      "in",
+      "december",
+      "$",
+      "tmus",
+      "$",
+      "vz",
+      "$",
+      "t"
+    ],
+    "created_at": "Sun Nov 22 09:58:42 +0000 2015",
+    "user_id_str": "3687838635",
+    "followers_count": 409
+  }
+]

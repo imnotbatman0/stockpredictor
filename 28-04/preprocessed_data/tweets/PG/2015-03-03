@@ -1,0 +1,36 @@
+[
+  {
+    "text": [
+      "$",
+      "pg",
+      "-",
+      "statement",
+      "of",
+      "changes",
+      "in",
+      "beneficial",
+      "ownership",
+      "4"
+    ],
+    "created_at": "Tue Mar 03 20:22:10 +0000 2015",
+    "user_id_str": "22078711",
+    "followers_count": 2352
+  },
+  {
+    "text": [
+      "$",
+      "pg",
+      "-",
+      "statement",
+      "of",
+      "changes",
+      "in",
+      "beneficial",
+      "ownership",
+      "4"
+    ],
+    "created_at": "Tue Mar 03 20:37:16 +0000 2015",
+    "user_id_str": "2523375564",
+    "followers_count": 556
+  }
+]

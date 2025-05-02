@@ -1,0 +1,95 @@
+[
+  {
+    "text": [
+      "insider",
+      "selling",
+      "david",
+      "b",
+      "yoffie",
+      "unloads",
+      "20",
+      "000",
+      "shares",
+      "of",
+      "intel",
+      "stock",
+      "$",
+      "intc"
+    ],
+    "created_at": "Mon Jul 21 22:35:57 +0000 2014",
+    "user_id_str": "2525892205",
+    "followers_count": 503
+  },
+  {
+    "text": [
+      "$",
+      "aapl",
+      "$",
+      "spy",
+      "$",
+      "dia",
+      "$",
+      "iwm",
+      "$",
+      "qqq",
+      "kiss",
+      "bubble",
+      "bye",
+      "bye",
+      "$",
+      "intc",
+      "$",
+      "smh"
+    ],
+    "created_at": "Tue Jul 22 20:39:03 +0000 2014",
+    "user_id_str": "1447053318",
+    "followers_count": 172
+  },
+  {
+    "text": [
+      "intel",
+      "crushes",
+      "estimates",
+      "while",
+      "ford",
+      "plans",
+      "to",
+      "dominate",
+      "new",
+      "continents",
+      "$",
+      "intc",
+      "tech",
+      "stocks"
+    ],
+    "created_at": "Tue Jul 22 03:01:16 +0000 2014",
+    "user_id_str": "2459430642",
+    "followers_count": 86
+  },
+  {
+    "text": [
+      "$",
+      "amat",
+      "$",
+      "toely",
+      "$",
+      "intc",
+      "$",
+      "smi",
+      "applied",
+      "materials",
+      "drops",
+      "following",
+      "report",
+      "of",
+      "opposition",
+      "to",
+      "merger",
+      "full",
+      "story"
+    ],
+    "created_at": "Tue Jul 22 16:55:36 +0000 2014",
+    "user_id_str": "543821149",
+    "followers_count": 6643
+  }
+]

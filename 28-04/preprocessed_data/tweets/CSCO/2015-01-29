@@ -1,0 +1,62 @@
+[
+  {
+    "text": [
+      "$",
+      "amzn",
+      "buzz",
+      "$",
+      "xlf",
+      "$",
+      "ivv",
+      "$",
+      "itb",
+      "$",
+      "xli",
+      "$",
+      "csco"
+    ],
+    "created_at": "Thu Jan 29 17:59:50 +0000 2015",
+    "user_id_str": "2181390564",
+    "followers_count": 507
+  },
+  {
+    "text": [
+      "chartguy89",
+      "stock",
+      "charts",
+      "smh",
+      "stock",
+      "chart",
+      "$",
+      "smh",
+      "$",
+      "lvs",
+      "$",
+      "har",
+      "$",
+      "csco"
+    ],
+    "created_at": "Thu Jan 29 16:10:44 +0000 2015",
+    "user_id_str": "565059874",
+    "followers_count": 901
+  },
+  {
+    "text": [
+      "update",
+      "cisco",
+      "beats",
+      "on",
+      "revenue",
+      "and",
+      "earnings",
+      "looks",
+      "fairly",
+      "valued",
+      "$",
+      "csco"
+    ],
+    "created_at": "Thu Jan 29 20:30:04 +0000 2015",
+    "user_id_str": "2174057946",
+    "followers_count": 159
+  }
+]

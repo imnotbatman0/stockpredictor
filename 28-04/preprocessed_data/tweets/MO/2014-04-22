@@ -1,0 +1,92 @@
+[
+  {
+    "text": [
+      "awesome",
+      "stock",
+      "research",
+      "on",
+      "$",
+      "mo",
+      "$",
+      "dow",
+      "$",
+      "cwh",
+      "$",
+      "ibm",
+      "view",
+      "now"
+    ],
+    "created_at": "Tue Apr 22 20:55:05 +0000 2014",
+    "user_id_str": "2476000719",
+    "followers_count": 2
+  },
+  {
+    "text": [
+      "are",
+      "you",
+      "bearish",
+      "on",
+      "these",
+      "stocks",
+      "$",
+      "rax",
+      "$",
+      "mo",
+      "$",
+      "myl",
+      "$",
+      "nuan",
+      "financialnews"
+    ],
+    "created_at": "Tue Apr 22 09:19:13 +0000 2014",
+    "user_id_str": "2459796483",
+    "followers_count": 0
+  },
+  {
+    "text": [
+      "stocks",
+      "i",
+      "m",
+      "keeping",
+      "my",
+      "eye",
+      "on",
+      "should",
+      "you",
+      "$",
+      "lm",
+      "$",
+      "mo",
+      "$",
+      "syy",
+      "$",
+      "amzn",
+      "economy"
+    ],
+    "created_at": "Mon Apr 21 22:14:50 +0000 2014",
+    "user_id_str": "2438330808",
+    "followers_count": 1
+  },
+  {
+    "text": [
+      "stocks",
+      "you",
+      "might",
+      "want",
+      "to",
+      "buy",
+      "$",
+      "mo",
+      "$",
+      "h",
+      "$",
+      "tap",
+      "$",
+      "df",
+      "wealthmanagement"
+    ],
+    "created_at": "Tue Apr 22 06:39:20 +0000 2014",
+    "user_id_str": "2388728111",
+    "followers_count": 6
+  }
+]

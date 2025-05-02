@@ -1,0 +1,87 @@
+[
+  {
+    "text": [
+      "cat",
+      "caterpillar",
+      "inc",
+      "change",
+      "$",
+      "cat",
+      "$",
+      "rhi",
+      "$",
+      "utx",
+      "$",
+      "vltc",
+      "cat",
+      "finance",
+      "stocks"
+    ],
+    "created_at": "Wed Jul 22 07:33:32 +0000 2015",
+    "user_id_str": "2181373892",
+    "followers_count": 536
+  },
+  {
+    "text": [
+      "slv",
+      "ishares",
+      "silver",
+      "trust",
+      "yield",
+      "$",
+      "slv",
+      "$",
+      "utx",
+      "$",
+      "goog",
+      "$",
+      "xly",
+      "slv",
+      "stockmarket",
+      "finance"
+    ],
+    "created_at": "Wed Jul 22 10:46:15 +0000 2015",
+    "user_id_str": "2204135624",
+    "followers_count": 4300
+  },
+  {
+    "text": [
+      "united",
+      "technologies",
+      "cut",
+      "to",
+      "hold",
+      "at",
+      "deutsche",
+      "bank",
+      "$",
+      "utx"
+    ],
+    "created_at": "Wed Jul 22 11:27:02 +0000 2015",
+    "user_id_str": "1979190776",
+    "followers_count": 662
+  },
+  {
+    "text": [
+      "$",
+      "utx",
+      "active",
+      "relative",
+      "volume",
+      "11",
+      "65",
+      "1h",
+      "4",
+      "00",
+      "am",
+      "nyse",
+      "$",
+      "dji",
+      "$",
+      "spy"
+    ],
+    "created_at": "Wed Jul 22 08:00:10 +0000 2015",
+    "user_id_str": "2749335470",
+    "followers_count": 101
+  }
+]
