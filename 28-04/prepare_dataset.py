@@ -1,5 +1,3 @@
-# prepare_dataset.py — Updated for 768-dim tweet embeddings
-
 import os
 import numpy as np
 from preprocess_prices import preprocess_prices
@@ -14,8 +12,27 @@ os.makedirs('label', exist_ok=True)
 print("Processing prices...")
 price_data = preprocess_prices(price_folder)  # {ticker: {'samples', 'labels', 'dates'}}
 
+# for ticker in price_data:
+#     print(f"{ticker}: {len(list(set(price_data[ticker]['dates'])))} dates")
+
 # Build master list of aligned dates
 all_dates = sorted(list(set.intersection(*[set(price_data[t]['dates']) for t in price_data])))
+
+# print(len(all_dates))
+
+# Split into train, val, test
+total = len(all_dates)
+train_dates = all_dates[:int(0.7 * total)]
+val_dates = all_dates[int(0.7 * total):int(0.80 * total)]
+test_dates = all_dates[int(0.80 * total):]
+
+os.makedirs('splits', exist_ok=True)
+with open('splits/train.txt', 'w') as f:
+    f.write('\n'.join(train_dates))
+with open('splits/val.txt', 'w') as f:
+    f.write('\n'.join(val_dates))
+with open('splits/test.txt', 'w') as f:
+    f.write('\n'.join(test_dates))
 
 print("Preparing dataset...")
 for date_idx, date in enumerate(all_dates):
@@ -53,4 +70,4 @@ for date_idx, date in enumerate(all_dates):
     np.save(f'text/{date}.npy', tweet_tensor)
     np.save(f'label/{date}.npy', label_tensor)
 
-print("✅ Dataset prepared.")
+print("Dataset prepared")
